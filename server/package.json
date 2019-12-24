@@ -17,14 +17,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "ChanceYu",
+  "author": "Hzhuhao",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ChanceYu/front-end-rss.git"
+    "url": "https://github.com/hzhuhao/web-front-end-rss.git"
   },
   "bugs": {
-    "url": "https://github.com/ChanceYu/front-end-rss/issues"
+    "url": "https://github.com/hzhuhao/web-front-end-rss/issues"
   },
-  "homepage": "https://github.com/ChanceYu/front-end-rss#readme"
+  "homepage": "https://github.com/hzhuhao/web-front-end-rss#readme"
 }
