@@ -1,5 +1,5 @@
 {
-  "name": "front-end-rss",
+  "name": "web-front-end-rss",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
@@ -12,7 +12,7 @@
     "simple-git": "^1.102.0",
     "underscore": "^1.9.1"
   },
-  "description": "front-end-rss",
+  "description": "web-front-end-rss",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -21,7 +21,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/hzhuhao/web-front-end-rss.git"
+    "url": "git://github.com/hzhuhao/web-front-end-rss.git"
   },
   "bugs": {
     "url": "https://github.com/hzhuhao/web-front-end-rss/issues"
