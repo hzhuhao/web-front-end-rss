@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-23 18:00:19。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-12-24 23:10:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -150,6 +150,10 @@
 - [【前端大全】2019-12-02-关于前端埋点统计方案思考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557490&idx=2&sn=c64343361c5f499cf65e559adecfe48c&chksm=802559b3b752d0a5f1319f8524955a59e1e87b152a2dbf4ddcd65dbc13918d570a3cb094bb42&scene=27#wechat_redirect) 
 - [【前端大全】2019-12-01-TCP为啥要3次握手和4次挥手？握两次手不行吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557488&idx=1&sn=d69ffbaf1ae4f7d04425132f23881c67&chksm=802559b1b752d0a78f3fdaebf1b0abbd5d60c081de6a8dc53f8d56e619e62a57600551ca0b2e&scene=27#wechat_redirect) 
 - [【前端大全】2019-12-01-面向对象：拳打新东方脚踢米其林的厨艺天才](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557488&idx=2&sn=c56fc6e0c9438459c410b8eb1bd1ae5b&chksm=802559b1b752d0a7fa8f9e00c32fbe265be25f0af959a368e58ded601a06e2f0847b3fb8676f&scene=27#wechat_redirect) 
+- [【前端之巅】2019-12-24-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493450&idx=1&sn=9b41dcec8209de990321f1f87814bd26&chksm=f9525209ce25db1f8da2da7f00e65d979b02b8a907d5292a3161640c2b61fdf153d5754ba495&scene=27#wechat_redirect) 
+- [【前端之巅】2019-12-24-10-个好用的-Visual-Studio-Code-插件](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493450&idx=2&sn=7e277195553635b5cbb72e607e641ba0&chksm=f9525209ce25db1ffc9ffe2702535b8492a931fa13b7e0a3911dec22e70be93de20a9df59a49&scene=27#wechat_redirect) 
+- [【前端之巅】2019-12-23-倏忽一年：回顾点评前端-2019-重大事件、趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493443&idx=1&sn=32225c032ca7be990c1c02800c401d1d&chksm=f9525200ce25db16d1b61d1040464736b3ac23f1fc42af332569bdf0ba83b42cfa16329ef227&scene=27#wechat_redirect) 
+- [【前端之巅】2019-12-23-​如何使用-GraphQL-构建-TypeScript+React-应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493443&idx=2&sn=00ef89575ddbb3315a40c14ba903d758&chksm=f9525200ce25db16a58f5cd5edcbc7253720a6836a569e9c593fb8ab388820d08f0908d9fb2a&scene=27#wechat_redirect) 
 - [【前端之巅】2019-12-22-前端周报：JavaScript-引擎-V8-发布；JavaScript-2019-生态报告出炉；新版](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493433&idx=1&sn=0240fcad93dffb5e9b1922f223f6ae21&chksm=f952527ace25db6c25e51375ece3117b3bf95d656372c131e6ad9115cc0b1355612bf9e27ed4&scene=27#wechat_redirect) 
 - [【前端之巅】2019-12-20-冰与火之歌：JavaScript-的困境与挑战](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493428&idx=1&sn=2dba2006528dda1e01bc3630659c38fe&chksm=f9525277ce25db614867dbc3a286c857c1c94f56710fbafaf76abc3233f937d701779f226e2a&scene=27#wechat_redirect) 
 - [【前端之巅】2019-12-20-与-AI、AR-等技术融合，才是-5G-的发展趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493428&idx=2&sn=8fb7052287fbaeb762ea4a1d74c1fdb1&chksm=f9525277ce25db61acd4bfa19bc5c050eef6e41bc05776dd98340f98a3cf0d643691bae993ed&scene=27#wechat_redirect) 
@@ -178,6 +182,7 @@
 - [【Taobao-FED-|-淘宝前端团队】2019-12-02-GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution) 
 - [【张鑫旭-鑫空间-鑫生活】2019-12-22-CSS-flex属性深入理解](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-deep/) 
 - [【张鑫旭-鑫空间-鑫生活】2019-12-07-CSS-repeat函数详细介绍](https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/) 
+- [【阮一峰的网络日志】2019-12-24-如何撤销-Git-操作？](http://www.ruanyifeng.com/blog/2019/12/git-undo.html) 
 - [【阮一峰的网络日志】2019-12-22-GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html) 
 - [【阮一峰的网络日志】2019-12-20-科技爱好者周刊：第-87-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html) 
 - [【阮一峰的网络日志】2019-12-19-一个老程序员的30年生涯回顾（译文）](http://www.ruanyifeng.com/blog/2019/12/30-years-software-career.html) 
@@ -185,6 +190,8 @@
 - [【阮一峰的网络日志】2019-12-13-科技爱好者周刊：第-86-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html) 
 - [【阮一峰的网络日志】2019-12-10-H5-手机-App-开发入门：概念篇](http://www.ruanyifeng.com/blog/2019/12/hybrid-app-concepts.html) 
 - [【阮一峰的网络日志】2019-12-06-科技爱好者周刊：第-85-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-85.html) 
+- [【前端里】2019-12-24-第十四届-D2-前端技术论坛精彩回顾【附PPT】](http://www.yyyweb.com/5338.html) 
+- [【前端里】2019-12-24-React-Hooks-在蚂蚁金服的实践](http://www.yyyweb.com/5329.html) 
 - [【前端里】2019-12-08-Rax-PWA-–-快速升级-Web-体验](http://www.yyyweb.com/5327.html) 
 - [【前端里】2019-12-08-Node.js-在微医的应用场景及实践](http://www.yyyweb.com/5326.html) 
 - [【前端里】2019-12-07-双十一-79.34%-的代码是怎样智能生成的](http://www.yyyweb.com/5328.html) 
