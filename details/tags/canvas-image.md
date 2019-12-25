@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 21:27:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-25 22:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -27,7 +27,21 @@
 - [2018-10-03-搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/) 
 - [2018-12-20-再谈-SVG-vs-Image-vs-Iconfont](http://www.yyyweb.com/5228.html) 
 - [2018-07-19-WebGL入门与进阶3](https://jdc.jd.com/archives/212370) 
+- [2019-12-04-iceworks:-从-GUI-开发工具到集成研发工作台](https://fed.taobao.org/blog/taofed/do71ct/icework-v1-to-v2) 
+- [2019-12-02-GCanvas渲染引擎的演进](https://fed.taobao.org/blog/taofed/do71ct/gcanvs-engine-evolution) 
+- [2018-12-18-WebGL-纹理详解](https://fed.taobao.org/blog/taofed/do71ct/webgl-texture) 
 - [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/) 
+- [2017-05-25-canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/) 
+- [2017-01-16-聊聊-SVG-基本形状转换那些事](https://aotu.io/notes/2017/01/16/base-shapes-to-path/) 
+- [2016-11-22-三看-SVG-Web-动效](https://aotu.io/notes/2016/11/22/SVG_Web_Animation/) 
+- [2016-11-07-APNG-那些事](https://aotu.io/notes/2016/11/07/apng/) 
+- [2016-09-28-在网页上实现-3D-Touch-效果](https://aotu.io/notes/2016/09/28/3d-touch/) 
+- [2016-07-09-拥抱Web设计新趋势：SVG-Sprites实践应用](https://aotu.io/notes/2016/07/09/SVG-Symbol-component-practice/) 
+- [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
+- [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
+- [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2018-11-23-SVG-vs-Image,-SVG-vs-Iconfont](https://aotu.io/notes/2018/11/23/SVG_vs_Image_vs_iconfont/) 
+- [2018-10-18-十分钟打造-3D-物理世界](https://aotu.io/notes/2018/10/18/cannonjs/) 
 - [2017-05-25-canvas-图像旋转与翻转姿势解锁](https://aotu.io/notes/2017/05/25/canvas-img-rotate-and-flip/) 
 - [2017-01-16-聊聊-SVG-基本形状转换那些事](https://aotu.io/notes/2017/01/16/base-shapes-to-path/) 
 - [2016-11-22-三看-SVG-Web-动效](https://aotu.io/notes/2016/11/22/SVG_Web_Animation/) 
