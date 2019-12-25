@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-24 22:00:15，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-25 10:00:09，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,10 +20,11 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [前端里](#前端里)  
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [360奇舞团](#360奇舞团)  
 
 ## 文章链接
 
@@ -188,7 +189,7 @@
 </summary>
 
 
-- [2019-12-24-如何撤销-Git-操作？](http://www.ruanyifeng.com/blog/2019/12/git-undo.html) ![](assets/new.png)  
+- [2019-12-24-如何撤销-Git-操作？](http://www.ruanyifeng.com/blog/2019/12/git-undo.html)  
 - [2019-12-22-GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html)  
 - [2019-12-20-科技爱好者周刊：第-87-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)  
 - [2019-12-19-一个老程序员的30年生涯回顾（译文）](http://www.ruanyifeng.com/blog/2019/12/30-years-software-career.html)  
@@ -219,6 +220,8 @@
 </summary>
 
 
+- [2019-12-24-第十四届-D2-前端技术论坛精彩回顾【附PPT】](http://www.yyyweb.com/5338.html) ![](assets/new.png)  
+- [2019-12-24-React-Hooks-在蚂蚁金服的实践](http://www.yyyweb.com/5329.html) ![](assets/new.png)  
 - [2019-12-08-Rax-PWA-–-快速升级-Web-体验](http://www.yyyweb.com/5327.html)  
 - [2019-12-08-Node.js-在微医的应用场景及实践](http://www.yyyweb.com/5326.html)  
 - [2019-12-07-双十一-79.34%-的代码是怎样智能生成的](http://www.yyyweb.com/5328.html)  
@@ -237,8 +240,6 @@
 - [2019-06-09-Node-12-值得关注的新特性一览](http://www.yyyweb.com/5279.html)  
 - [2019-04-21-程序员到-CTO-再到-CEO-的进化之路](http://www.yyyweb.com/5276.html)  
 - [2019-04-21-V8-内存管理和垃圾回收机制总结](http://www.yyyweb.com/5275.html)  
-- [2019-03-01-快速定位线上-Node.js-内存泄漏问题](http://www.yyyweb.com/5274.html)  
-- [2019-02-27-高效秘籍：五个最佳的GTD应用软件](http://www.yyyweb.com/5271.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -302,6 +303,17 @@
 - [2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/)  
 - [2018-12-18-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
+
+<div align="right"><a href="#来源分类">⬆返回顶部</a></div>
+</details>
+
+<details open>
+<summary id="360奇舞团">
+ 360奇舞团
+</summary>
+
+
+- [......【查看更多】......](./details/360奇舞团.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
 </details>
