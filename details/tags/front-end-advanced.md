@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 21:27:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-25 22:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -51,8 +51,10 @@
 - [2019-05-26-WebAssembly在eBay的实践：速度提升50倍](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491323&idx=1&sn=6c5024d6c0f528a4afa2ae3ab03f1993#rd) 
 - [2019-04-12-我们用WebAssembly将Web-App速度提升了20倍！](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490951&idx=1&sn=76139005000b6ac1d3f0282e36abf8c6#rd) 
 - [2019-01-02-2019年，全栈开发者应该学些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490212&idx=1&sn=b9d8f51551baaeb9cdb3c7ebb02ccc9b#wechat_redirect) 
+- [2019-12-24-W3C官网宣布：第4种Web语言来了：WebAssembly！](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484367&idx=1&sn=237bd02d8f85417b041b7fc26ca49f93&chksm=eb1cc625dc6b4f332b8a289b89dc0079339c1b263bedc45b69588deddca0d63f488fd8606a50&scene=27#wechat_redirect) 
 - [2019-06-04-HTTP-Referer-教程](http://www.ruanyifeng.com/blog/2019/06/http-referer.html) 
 - [2018-09-16-Vim-配置入门](http://www.ruanyifeng.com/blog/2018/09/vimrc.html) 
+- [2019-12-20-W3C官网宣布：第4种Web语言来了：WebAssembly！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498088&idx=1&sn=0ee6198e272fb35453795dd32d037cac&chksm=80f1afa0b78626b62d4f8f5f8397efb32c8fb7bff6503833416473fffd46d632b5ea377e87ff&scene=27#wechat_redirect) 
 - [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 
 - [2017-04-11-GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/) 
 - [2016-12-08-vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/) 
@@ -61,3 +63,10 @@
 - [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
 - [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 
 - [2019-12-20-W3C官网宣布：第4种Web语言来了：WebAssembly！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498088&idx=1&sn=0ee6198e272fb35453795dd32d037cac&chksm=80f1afa0b78626b62d4f8f5f8397efb32c8fb7bff6503833416473fffd46d632b5ea377e87ff&scene=27#wechat_redirect) 
+- [2018-01-11-波动均分算法](https://aotu.io/notes/2018/01/11/waveaverage/) 
+- [2017-04-11-GPU加速是什么](https://aotu.io/notes/2017/04/11/GPU/) 
+- [2016-12-08-vim给代码行尾加分号的几种方法](https://aotu.io/notes/2016/12/08/vim-4/) 
+- [2016-08-16-Nginx-配置-HTTPS-服务器](https://aotu.io/notes/2016/08/16/nginx-https/) 
+- [2016-06-14-假如HTTP/2已经普及](https://aotu.io/notes/2016/06/14/http2/) 
+- [2016-03-17-前端开发与-HTTP/2-的羁绊——安利篇](https://aotu.io/notes/2016/03/17/http2-char/) 
+- [2015-10-16-我的vim二三事](https://aotu.io/notes/2015/10/16/vim-list/) 

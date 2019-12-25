@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 21:27:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-25 22:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -136,11 +136,15 @@
 - [2018-10-21-基于Vue+Electron构建桌面应用程序实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489719&idx=1&sn=6516234ad37e0e2716fa1f439827be53#wechat_redirect) 
 - [2018-10-15-Vue-CLI-2&3-下的项目优化实践：CDN-+-Gzip-+-Prerender](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489679&idx=1&sn=56aca8dac36f22b1f719c518311171f3#wechat_redirect) 
 - [2018-10-02-重磅！尤雨溪发布Vue-3.0开发路线](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489630&idx=1&sn=627ac2267136bff340ac5dbdc36a5666#wechat_redirect) 
+- [2019-12-23-『-Vue小Case-』--如何动态绑定多个事件（内附源码解析）](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=1&sn=d5944efeddc638f7096cb4bab8086fa7&chksm=8891de55bfe6574324c2bb0cbd4fc47f648cd35a8a4fbbbfe940184f4c3bcfab8427a79bb02c&scene=27#wechat_redirect) 
+- [2019-12-07-Vue-CLI-首屏优化技巧](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484348&idx=1&sn=5a01f3b9c2e843dba222a2032d8b61cc&chksm=eb1cc656dc6b4f40c93b69306ebebb6960bc5f604d586311f4ba9b5a11d358d1400a60b8087c&scene=27#wechat_redirect) 
 - [2019-10-06-Vue-3-源码开放，今天你学习了吗？](http://www.yyyweb.com/5310.html) 
 - [2019-01-05-传说这个是-35-个最好用-Vue-开源库](http://www.yyyweb.com/5231.html) 
 - [2018-11-17-Vue.js-3.0-PPT（附部分中文翻译）](http://www.yyyweb.com/5216.html) 
 - [2018-11-06-Vue.js-父子组件之间通信的十种方式](http://www.yyyweb.com/5189.html) 
 - [2018-08-13-Vue-项目中-axios-的封装和API接口的管理](http://www.yyyweb.com/5135.html) 
+- [2019-12-21-VS-Code成主宰、Vue备受热捧！2019前端开发趋势必读](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498090&idx=1&sn=725a4247b8d17c6fa34afc9200271eee&chksm=80f1afa2b78626b426a3da64664a8387e0c26b1808e52af17e4cb32eb3e9da297535dd9b5a0c&scene=27#wechat_redirect) 
+- [2019-12-18-从零实现Vue虚拟DOM和DOM-DIFF算法](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498084&idx=1&sn=b8fd0954d95e4efd1e0c804511d38913&chksm=80f1afacb78626ba5040c398a0a4d53e444b07ce6c4899dd3934a679dccd0444144fd5da6b57&scene=27#wechat_redirect) 
 - [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
 - [2018-07-24-再谈Vue组件库开发](https://jdc.jd.com/archives/212600) 
 - [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 
@@ -151,3 +155,10 @@
 - [2019-12-23-『-Vue小Case-』--如何动态绑定多个事件（内附源码解析）](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=1&sn=d5944efeddc638f7096cb4bab8086fa7&chksm=8891de55bfe6574324c2bb0cbd4fc47f648cd35a8a4fbbbfe940184f4c3bcfab8427a79bb02c&scene=27#wechat_redirect) 
 - [2019-12-21-VS-Code成主宰、Vue备受热捧！2019前端开发趋势必读](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498090&idx=1&sn=725a4247b8d17c6fa34afc9200271eee&chksm=80f1afa2b78626b426a3da64664a8387e0c26b1808e52af17e4cb32eb3e9da297535dd9b5a0c&scene=27#wechat_redirect) 
 - [2019-12-18-从零实现Vue虚拟DOM和DOM-DIFF算法](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498084&idx=1&sn=b8fd0954d95e4efd1e0c804511d38913&chksm=80f1afacb78626ba5040c398a0a4d53e444b07ce6c4899dd3934a679dccd0444144fd5da6b57&scene=27#wechat_redirect) 
+- [2019-10-06-Vue-3-源码开放，今天你学习了吗？](http://www.yyyweb.com/5310.html) 
+- [2019-03-15-京东风格的移动端Vue组件库NutUI2.0来啦](https://jdc.jd.com/archives/212979) 
+- [2017-07-17-Vue-探索与实践](https://aotu.io/notes/2017/07/17/The-Exploration-and-Practice-of-Vue/) 
+- [2016-12-28-一个栗子实践vue2.0与1.0的区别](https://aotu.io/notes/2016/12/28/vue-clock/) 
+- [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/) 
+- [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
+- [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 

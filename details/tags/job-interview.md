@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 21:27:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-25 22:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -131,4 +131,7 @@
 - [2019-02-20-大厂前端高频面试问题与答案精选](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490505&idx=1&sn=3efe2267b8bbfea86f2c13c9cc745414#wechat_redirect) 
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
+- [2019-12-09-2020年将至，大厂面试都喜欢考些什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484352&idx=1&sn=c780f09731fcc32823b287686562dcb4&chksm=eb1cc62adc6b4f3cc08902d4ee2e250dce5b5af06bed69de13c4ee9b4f38d841db376af74e51&scene=27#wechat_redirect) 
+- [2019-12-03-记一次腾讯社招前端面试（已拿到offer入职）](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484346&idx=1&sn=2a8dd02ba85e1e87d6d9ca87734fa16c&chksm=eb1cc650dc6b4f46763c21eab612794983a94149ceb2509a7bef31e7e430aeaef07038763eae&scene=27#wechat_redirect) 
+- [2019-12-25-美团面试题：JVM-堆内存溢出后，其他线程是否可继续工作？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489425&idx=4&sn=502097c8022a771bcc14d6d95baf0b41&chksm=ea5cdaf7dd2b53e1be4f57d70f48c6eb88cc4154d657c1966b587d1af82f27a684318c0c0232&scene=27#wechat_redirect) 
 - [2018-08-15-面试感悟：当经历所有大厂的实习面试后](http://www.yyyweb.com/5136.html) 
