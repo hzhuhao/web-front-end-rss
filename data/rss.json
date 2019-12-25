@@ -21,6 +21,26 @@
     ]
   },
   {
+    "title": "奇舞周刊",
+    "rss": "https://rsshub.app/wechat/ershicimi/6210"
+  },
+  {
+    "title": "前端日刊",
+    "rss": "https://rsshub.app/wechat/ershicimi/5762"
+  },
+  {
+    "title": "互联网架构师",
+    "rss": "https://rsshub.app/wechat/ershicimi/6304"
+  },
+  {
+    "title": "InfoQ",
+    "rss": "https://rsshub.app/wechat/ershicimi/89"
+  },
+  {
+    "title": "JavaScript",
+    "rss": "https://rsshub.app/wechat/ershicimi/893"
+  },
+  {
     "title": "Taobao-FED-|-淘宝前端团队",
     "rss": "https://fed.taobao.org/atom.xml"
   },
@@ -43,13 +63,5 @@
   {
     "title": "Aotu-|-凹凸实验室",
     "rss": "https://aotu.io/atom.xml"
-  },
-  {
-    "title": "奇舞周刊",
-    "rss": "https://rsshub.app/wechat/ershicimi/6210"
-  },
-  {
-    "title": "JavaScript",
-    "rss": "https://rsshub.app/wechat/ershicimi/893"
   }
 ]
