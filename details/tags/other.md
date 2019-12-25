@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 21:25:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-25 21:27:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -340,6 +340,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-12-25-20-个-2020-年软件开发趋势预测](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=1&sn=b10d4ac4fcb2f20e0b419b4e1a6fc143&chksm=f952521dce25db0b7bda946e2b70b8be51990bf702c5a392788a83a7361bd681d3acb23aade6&scene=27#wechat_redirect) 
+- [2019-12-25-马上-2020-了，送上一份儿特别的礼物给技术人](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=3&sn=5dc35d810b212376f67975f97d349bc0&chksm=f952521dce25db0bf73c150a2a9b595f2df7037ce927c2d0a78702311f23f5dbda4a4ef53cac&scene=27#wechat_redirect) 
 - [2019-12-24-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493450&idx=1&sn=9b41dcec8209de990321f1f87814bd26&chksm=f9525209ce25db1f8da2da7f00e65d979b02b8a907d5292a3161640c2b61fdf153d5754ba495&scene=27#wechat_redirect) 
 - [2019-12-24-10-个好用的-Visual-Studio-Code-插件](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493450&idx=2&sn=7e277195553635b5cbb72e607e641ba0&chksm=f9525209ce25db1ffc9ffe2702535b8492a931fa13b7e0a3911dec22e70be93de20a9df59a49&scene=27#wechat_redirect) 
 - [2019-12-20-与-AI、AR-等技术融合，才是-5G-的发展趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493428&idx=2&sn=8fb7052287fbaeb762ea4a1d74c1fdb1&chksm=f9525277ce25db61acd4bfa19bc5c050eef6e41bc05776dd98340f98a3cf0d643691bae993ed&scene=27#wechat_redirect) 

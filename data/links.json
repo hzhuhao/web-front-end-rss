@@ -6914,10 +6914,25 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+    "rss": "https://rsshub.app/wechat/ershicimi/154",
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "20 个 2020 年软件开发趋势预测",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=1&sn=b10d4ac4fcb2f20e0b419b4e1a6fc143&chksm=f952521dce25db0b7bda946e2b70b8be51990bf702c5a392788a83a7361bd681d3acb23aade6&scene=27#wechat_redirect",
+        "date": "2019-12-25"
+      },
+      {
+        "title": "​如果 ReasonML 没有 JavaScript 的那些怪癖，你该不该试试它？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=2&sn=7501a9cf096ff44be384d7798d9e0ab2&chksm=f952521dce25db0b50201ea1be596d52d2e0592d6523732f19bc4319049a8cca3e640697343a&scene=27#wechat_redirect",
+        "date": "2019-12-25"
+      },
+      {
+        "title": "马上 2020 了，送上一份儿特别的礼物给技术人",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=3&sn=5dc35d810b212376f67975f97d349bc0&chksm=f952521dce25db0bf73c150a2a9b595f2df7037ce927c2d0a78702311f23f5dbda4a4ef53cac&scene=27#wechat_redirect",
+        "date": "2019-12-25"
+      },
       {
         "title": "又是圣诞彩蛋惹的祸？微软在 VS Code 中添加圣诞图标惹争议",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493450&idx=1&sn=9b41dcec8209de990321f1f87814bd26&chksm=f9525209ce25db1f8da2da7f00e65d979b02b8a907d5292a3161640c2b61fdf153d5754ba495&scene=27#wechat_redirect",

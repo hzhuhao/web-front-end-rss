@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 21:25:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-25 21:27:15。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -218,6 +218,7 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2019-12-25-​如果-ReasonML-没有-JavaScript-的那些怪癖，你该不该试试它？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=2&sn=7501a9cf096ff44be384d7798d9e0ab2&chksm=f952521dce25db0b50201ea1be596d52d2e0592d6523732f19bc4319049a8cca3e640697343a&scene=27#wechat_redirect) 
 - [2019-12-23-倏忽一年：回顾点评前端-2019-重大事件、趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493443&idx=1&sn=32225c032ca7be990c1c02800c401d1d&chksm=f9525200ce25db16d1b61d1040464736b3ac23f1fc42af332569bdf0ba83b42cfa16329ef227&scene=27#wechat_redirect) 
 - [2019-12-20-冰与火之歌：JavaScript-的困境与挑战](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493428&idx=1&sn=2dba2006528dda1e01bc3630659c38fe&chksm=f9525277ce25db614867dbc3a286c857c1c94f56710fbafaf76abc3233f937d701779f226e2a&scene=27#wechat_redirect) 
 - [2019-12-05-Deno：一个安全高效的JS/TS运行时环境](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493300&idx=2&sn=69b0c788829476c47252c28e85a08ece&chksm=f95253f7ce25dae1f1d6a0e51c615afb47ce56d495e3fa21d9a45cba3fee64cbbd0ecb5b4617&scene=27#wechat_redirect) 
