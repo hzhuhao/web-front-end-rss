@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 22:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-25 23:34:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -51,12 +51,6 @@
 - [2019-01-31-一段音频](http://www.ruanyifeng.com/blog/2019/01/a-piece-of-audio.html) 
 - [2018-11-08-开发技巧：使用-ImageMagick-进行图像处理](http://www.yyyweb.com/5199.html) 
 - [2018-09-28-【译】预加载视频实现快速播放](https://jdc.jd.com/archives/212710) 
-- [2019-11-28-ALive：助力阿里经济体，开启直播新纪元](https://fed.taobao.org/blog/taofed/do71ct/taofed-alive-linwan) 
-- [2019-11-13-哇哦视频-❤️-FaaS---迁移前后的那些事儿](https://fed.taobao.org/blog/taofed/do71ct/wawo2faas) 
-- [2019-03-19-Web端H.265播放器研发解密](https://fed.taobao.org/blog/taofed/do71ct/web-player-h265) 
-- [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
-- [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
-- [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 

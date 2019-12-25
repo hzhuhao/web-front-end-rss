@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 22:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-25 23:34:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -87,14 +87,6 @@
 - [2019-03-01-快速定位线上-Node.js-内存泄漏问题](http://www.yyyweb.com/5274.html) 
 - [2018-12-20-深入理解Node.js垃圾回收与内存管理](http://www.yyyweb.com/5225.html) 
 - [2018-12-12-如何进行-GC-调优提升-Node-应用性能](http://www.yyyweb.com/5221.html) 
-- [2019-08-23-如何加快-Node.js-应用的启动速度](https://fed.taobao.org/blog/taofed/do71ct/speed-node-start-time) 
-- [2017-04-22-【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/) 
-- [2016-08-09-跟着老司机玩转Node命令行](https://aotu.io/notes/2016/08/09/command-line-development/) 
-- [2016-04-07-Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 
-- [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
-- [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
-- [2019-12-17-读-koa2-源码后的一些思考与实践](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590801&idx=1&sn=09ed437dcd0fc754b821d8b5bcbe0cfb&chksm=8891de75bfe657639b995673ac03e88110df0fc2baeb461bd54cfa6393c091961e963e9ba368&scene=27#wechat_redirect) 
-- [2019-12-08-Node.js-在微医的应用场景及实践](http://www.yyyweb.com/5326.html) 
 - [2017-04-22-【译】关于-Node.js-里-ES6-Modules-的一次更新说明](https://aotu.io/notes/2017/04/22/an-update-on-es6-modules-in-node-js/) 
 - [2016-08-09-跟着老司机玩转Node命令行](https://aotu.io/notes/2016/08/09/command-line-development/) 
 - [2016-04-07-Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 

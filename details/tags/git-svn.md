@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 22:10:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-25 23:34:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -22,9 +22,5 @@
 - [2019-04-21-GitHub-OAuth-示例教程](http://www.ruanyifeng.com/blog/2019/04/github-oauth.html) 
 - [2018-12-24-git-bisect-命令教程](http://www.ruanyifeng.com/blog/2018/12/git-bisect.html) 
 - [2018-10-10-Git-原理入门](http://www.ruanyifeng.com/blog/2018/10/git-internals.html) 
-- [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
-- [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
-- [2019-12-24-如何撤销-Git-操作？](http://www.ruanyifeng.com/blog/2019/12/git-undo.html) 
-- [2019-12-22-GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html) 
 - [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
 - [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
