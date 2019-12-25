@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 18:14:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-12-25 21:25:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -131,6 +131,10 @@
 - [【前端早读课】2019-12-07-【招聘】阿里飞猪用户技术-行业和平台团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235004&idx=2&sn=1e03cb04ffdf89d4b114ae9f35b39ce7&chksm=bd497b388a3ef22e8431d5e5a26d045557ede6ee29630ebbe534574a820805b6d3e2bd071181&scene=27#wechat_redirect) 
 - [【前端早读课】2019-12-06-【第1797期】京喜首页跨端开发与优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234988&idx=1&sn=6aa21b09bbb2740d18d789137df03554&chksm=bd497b288a3ef23efbb2b05aae7f4e01622d680a093a6c22b1e9f9b91aacf36633101248c98b&scene=27#wechat_redirect) 
 - [【前端早读课】2019-12-06-【译】前端开发技能是否足以胜任一份职业?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234988&idx=2&sn=5a96bd7eb4817a570a1795060473803f&chksm=bd497b288a3ef23e3fbcfdbe272e11591fb13e2160e373443e253ecc9980ee31c38e60f78724&scene=27#wechat_redirect) 
+- [【前端大全】2019-12-25-JS-引擎-V8-发布-v8-版](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557611&idx=1&sn=fbd143704bcb295fb0cf5c2da27c3d17&chksm=8025592ab752d03ca3a96d99b55406ad6fdf4969ab8053028f815c1c17df7e11752e287e84b4&scene=27#wechat_redirect) 
+- [【前端大全】2019-12-25-面向对象：没有早一秒，没有晚一秒，就是刚刚好，期待你的出现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557611&idx=2&sn=3a579879428d74f8a489609f5cdee62f&chksm=8025592ab752d03c5fb3f9449fe15a03324012bc060e27c2ec36325b7ca9ac6585e73e6eae1e&scene=27#wechat_redirect) 
+- [【前端大全】2019-12-24-7-个令人兴奋的-JavaScript-新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557603&idx=1&sn=5f8bbb90e3b2e707838d9d3c830047d6&chksm=80255922b752d034b3cfa9ff3ae1b61d4eea56c8a38b5cfadac09e72b810fbd09fb97ba76f33&scene=27#wechat_redirect) 
+- [【前端大全】2019-12-24-前端开发秒懂的一张图](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557603&idx=2&sn=d398567a5f19fef6e757e780f19201fc&chksm=80255922b752d0344dfa41376b9f7836400e461c60e48acbf9dcccef9a23ed47d64056e56919&scene=27#wechat_redirect) 
 - [【前端大全】2019-12-23-拿不到offer免费学，廖雪峰的“Web-全栈架构师”第16期招生了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557591&idx=1&sn=5615cda40fab4a42fb91cf7d89e71538&chksm=80255916b752d0003f6cba0cd26b927a4a36830e639a16eab384abb7fad38eb36203f5e74e93&scene=27#wechat_redirect) 
 - [【前端大全】2019-12-23-一步步从零开始用-webpack-搭建一个大型项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557591&idx=2&sn=a2e4fbd21dd6631371e3ad63dd695edd&chksm=80255916b752d000a5fec534cb0154818cd0362ca9022bad29379e1cd34869454489eddb74a6&scene=27#wechat_redirect) 
 - [【前端大全】2019-12-22-从-ES6-到-ES10-的新特性万字大总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557590&idx=1&sn=ba1e72941562fc810b417beaa43fd982&chksm=80255917b752d00100441a70ec7f63a4e6787594870863475bf4af68bf8009e3df673ee91148&scene=27#wechat_redirect) 
@@ -201,6 +205,10 @@
 - [【Aotu-|-凹凸实验室】2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/) 
 - [【Aotu-|-凹凸实验室】2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/) 
 - [【Aotu-|-凹凸实验室】2019-12-03-微信购物入口「京喜」首页跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/) 
+- [【奇舞周刊】2019-12-25-使用-React-为-Chimee-开发插件](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590847&idx=1&sn=19629fd5d68cf6ceeb5381453998bafe&chksm=8891de5bbfe6574d21b9580e1e237d269dfbc68df84ea47165d6eabbb8b53e562e90b53a64e8&scene=27#wechat_redirect) 
+- [【奇舞周刊】2019-12-25-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590847&idx=2&sn=6756c3866f10a65ae5c873148ea18560&chksm=8891de5bbfe6574d4efa7fefcf1a0cb4e047ca9e76358691405985b22674baf5c00263d79fe2&scene=27#wechat_redirect) 
+- [【奇舞周刊】2019-12-24-记一次webpack构建提速](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590840&idx=1&sn=a85b2098cf885f6e99c88888e5f11f91&chksm=8891de5cbfe6574a180d0e5fe17b7bc4413cee7adbe7ff98c92c8fce96a35920f0976626b08d&scene=27#wechat_redirect) 
+- [【奇舞周刊】2019-12-24-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590840&idx=2&sn=78e6061f3fca19aadb4d66eb1ab21aa4&chksm=8891de5cbfe6574adc248527d017d0ac8e01f80e6cef5bcef2699687b86bf99b60da57ca6304&scene=27#wechat_redirect) 
 - [【奇舞周刊】2019-12-23-『-Vue小Case-』--如何动态绑定多个事件（内附源码解析）](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=1&sn=d5944efeddc638f7096cb4bab8086fa7&chksm=8891de55bfe6574324c2bb0cbd4fc47f648cd35a8a4fbbbfe940184f4c3bcfab8427a79bb02c&scene=27#wechat_redirect) 
 - [【奇舞周刊】2019-12-23-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=2&sn=3cbc2d1abf107cb0c0505b17c72c352f&chksm=8891de55bfe65743171a14bfe0f1f627563d3c5c857b30964a5c89923e2a40c2f6d5957f5590&scene=27#wechat_redirect) 
 - [【奇舞周刊】2019-12-21-浏览器缓存策略与-webpack-持久化缓存](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590831&idx=1&sn=1bd1995b6b3cc7f02506ac84df0c1e70&chksm=8891de4bbfe6575d86192eea7ca3b4f3465c38f76cd0a22bfc6cbc13fe4a60f39620ff89acf4&scene=27#wechat_redirect) 
