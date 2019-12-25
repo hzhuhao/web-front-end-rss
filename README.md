@@ -1,4 +1,4 @@
-<div align="center"><img width="100" src="assets/rss.gif" /><h1>Front-End RSS</h1><p>点击右上角 <strong>Watch</strong> 订阅 <strong>最新前端技术文章</strong></p>
+<div align="center"><img width="100" src="assets/rss.gif" /><h1>Web-Front-End RSS</h1><p>点击右上角 <strong>Watch</strong> 订阅 <strong>最新前端技术文章</strong></p>
 <a href="https://web-front-end-rss.now.sh/">https://web-front-end-rss.now.sh/</a>
 </div>
 
@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-25 10:00:09，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-25 12:43:18，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -21,10 +21,10 @@
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)![](assets/dot.png)   
+- [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [360奇舞团](#360奇舞团)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -220,8 +220,8 @@
 </summary>
 
 
-- [2019-12-24-第十四届-D2-前端技术论坛精彩回顾【附PPT】](http://www.yyyweb.com/5338.html) ![](assets/new.png)  
-- [2019-12-24-React-Hooks-在蚂蚁金服的实践](http://www.yyyweb.com/5329.html) ![](assets/new.png)  
+- [2019-12-24-第十四届-D2-前端技术论坛精彩回顾【附PPT】](http://www.yyyweb.com/5338.html)  
+- [2019-12-24-React-Hooks-在蚂蚁金服的实践](http://www.yyyweb.com/5329.html)  
 - [2019-12-08-Rax-PWA-–-快速升级-Web-体验](http://www.yyyweb.com/5327.html)  
 - [2019-12-08-Node.js-在微医的应用场景及实践](http://www.yyyweb.com/5326.html)  
 - [2019-12-07-双十一-79.34%-的代码是怎样智能生成的](http://www.yyyweb.com/5328.html)  
@@ -308,12 +308,22 @@
 </details>
 
 <details open>
-<summary id="360奇舞团">
- 360奇舞团
+<summary id="奇舞周刊">
+ 奇舞周刊
 </summary>
 
 
-- [......【查看更多】......](./details/360奇舞团.md)
+- [2019-12-23-『-Vue小Case-』--如何动态绑定多个事件（内附源码解析）](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=1&sn=d5944efeddc638f7096cb4bab8086fa7&chksm=8891de55bfe6574324c2bb0cbd4fc47f648cd35a8a4fbbbfe940184f4c3bcfab8427a79bb02c&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-23-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=2&sn=3cbc2d1abf107cb0c0505b17c72c352f&chksm=8891de55bfe65743171a14bfe0f1f627563d3c5c857b30964a5c89923e2a40c2f6d5957f5590&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-21-浏览器缓存策略与-webpack-持久化缓存](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590831&idx=1&sn=1bd1995b6b3cc7f02506ac84df0c1e70&chksm=8891de4bbfe6575d86192eea7ca3b4f3465c38f76cd0a22bfc6cbc13fe4a60f39620ff89acf4&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-21-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590831&idx=2&sn=da29fa45f7ac52c7b27c248ef20349a5&chksm=8891de4bbfe6575d5defd69131153521f7ad93bb10c934ce339e6b917085ba1e7bc500efc176&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-20-奇舞周刊第-332-期：你绝对想不到柱形图背后有这么多故事](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590823&idx=1&sn=00cbbcc4df1d729eeaef921799e68954&chksm=8891de43bfe6575506d0997367b18a2acf29cdb0dd9e80958de11ee448aa56101dcb0f533303&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-19-国内首家！360加入-Ecma-参与-JavaScript-语言标准制定](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590818&idx=1&sn=77045b70b63641eda1b96d3de3cbe1d9&chksm=8891de46bfe657503d59800505c20a45db3846b86b60bb0b69c3b7037f368dea5592b7144339&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-18-W3Cx新推出的在线课程《Web无障碍》](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590807&idx=1&sn=ba99de5fcfdc71bec27de0e0549c0bd3&chksm=8891de73bfe65765752e0736d8400ea677616dfc6267753187d7d899f45b640a741ee05110af&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-18-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590807&idx=2&sn=006d719e46eb45941be405b4d4569204&chksm=8891de73bfe65765988cb50f47513dd78f6f7b41d3921faacafce28e0f3c49a060fb35041c69&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-17-读-koa2-源码后的一些思考与实践](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590801&idx=1&sn=09ed437dcd0fc754b821d8b5bcbe0cfb&chksm=8891de75bfe657639b995673ac03e88110df0fc2baeb461bd54cfa6393c091961e963e9ba368&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-17-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590801&idx=2&sn=b6ba5e7f3884b106a9df7cc689055e3d&chksm=8891de75bfe65763de5c9a70b3994f0651b56c7f53255a51ac7b6f89b8ee976685a425e58c96&scene=27#wechat_redirect) ![](assets/new.png)  
+- [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
 </details>
