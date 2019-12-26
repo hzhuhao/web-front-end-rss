@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-25 23:34:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-26 12:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -723,6 +723,11 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2019-12-26-计算机编程的历史演进：用-50-种编程语言写“Hello,World!”程序](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=1&sn=1060605ee57a5a3e4820a6ee9318daba&chksm=bdbe9fdb8ac916cd5401262507764ecb92f43e60c0292e49595be25154076c2151ebda6593de&scene=27#wechat_redirect) 
+- [2019-12-26-俄罗斯成功断开全球互联网](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=2&sn=310693f4fc2d6c7d2448f01d897e13bb&chksm=bdbe9fdb8ac916cd1d81af1e1746cdc3a206116d9eb86f1fb78d1f4738189077a4e14bdeb1b7&scene=27#wechat_redirect) 
+- [2019-12-26-都是程序员，凭什么他工资比我高，下班比我早？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=3&sn=7f2252cac80de72e38ff52bee4421453&chksm=bdbe9fdb8ac916cd6d8a657c13c8086ed489386decb55a90e3f8ddde53ca188c88137464a548&scene=27#wechat_redirect) 
+- [2019-12-26-划重点！英特尔AI开发者技术研讨会讲了哪些实战经验？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=4&sn=e230accc50022cfc35ba05c4b58b9aa7&chksm=bdbe9fdb8ac916cd84ce32bf998ea58d0aee1a7c3293292982910758fb04d2df6ba547d7b512&scene=27#wechat_redirect) 
+- [2019-12-26-也许实现真正的人工智能的唯一方法，是注入人工智障元素](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=5&sn=ee6bc5fe053f3cb617f1cb31f4009abb&chksm=bdbe9fdb8ac916cd5dadd82a136806f5c6ad115581456134fbb59c9970fd76b77a0fd8d4ede0&scene=27#wechat_redirect) 
 - [2019-12-25-20-个-2020-年软件开发趋势预测](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=1&sn=21c05800fa296f802322cda2419d73f9&chksm=bdbe9f2d8ac9163bf82b9ea8e6fd105d92edff5f5def32a012bbdee35182a08f3b1599d2989e&scene=27#wechat_redirect) 
 - [2019-12-25-单身的程序员如何过一个热闹的圣诞？-|-圣诞福利](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=2&sn=73b5b7f93c20df882d725fbcb2d3a7e9&chksm=bdbe9f2d8ac9163bbb0781b46b7661cdc6abd96f9a52cd1e28d28b54c95a342967d366d3e8ad&scene=27#wechat_redirect) 
 - [2019-12-25-从云计算到云原生信息高速公路，上万个-Kubernetes-的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=3&sn=7c65cfb1c2965498a0351256c06c2867&chksm=bdbe9f2d8ac9163baff1263ad129a70e7c2be3be490349ce7c0dbc62e1994a9fa60f2937b1ca&scene=27#wechat_redirect) 

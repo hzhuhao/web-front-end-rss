@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-25 23:34:30，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-26 12:00:23，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -24,11 +24,11 @@
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [InfoQ](#infoq)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 
 ## 文章链接
 
@@ -317,12 +317,12 @@
 </summary>
 
 
-- [2019-12-25-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590847&idx=2&sn=6756c3866f10a65ae5c873148ea18560&chksm=8891de5bbfe6574d4efa7fefcf1a0cb4e047ca9e76358691405985b22674baf5c00263d79fe2&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-24-记一次webpack构建提速](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590840&idx=1&sn=a85b2098cf885f6e99c88888e5f11f91&chksm=8891de5cbfe6574a180d0e5fe17b7bc4413cee7adbe7ff98c92c8fce96a35920f0976626b08d&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-24-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590840&idx=2&sn=78e6061f3fca19aadb4d66eb1ab21aa4&chksm=8891de5cbfe6574adc248527d017d0ac8e01f80e6cef5bcef2699687b86bf99b60da57ca6304&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-23-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=2&sn=3cbc2d1abf107cb0c0505b17c72c352f&chksm=8891de55bfe65743171a14bfe0f1f627563d3c5c857b30964a5c89923e2a40c2f6d5957f5590&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-21-浏览器缓存策略与-webpack-持久化缓存](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590831&idx=1&sn=1bd1995b6b3cc7f02506ac84df0c1e70&chksm=8891de4bbfe6575d86192eea7ca3b4f3465c38f76cd0a22bfc6cbc13fe4a60f39620ff89acf4&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-21-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590831&idx=2&sn=da29fa45f7ac52c7b27c248ef20349a5&chksm=8891de4bbfe6575d5defd69131153521f7ad93bb10c934ce339e6b917085ba1e7bc500efc176&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-25-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590847&idx=2&sn=6756c3866f10a65ae5c873148ea18560&chksm=8891de5bbfe6574d4efa7fefcf1a0cb4e047ca9e76358691405985b22674baf5c00263d79fe2&scene=27#wechat_redirect)  
+- [2019-12-24-记一次webpack构建提速](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590840&idx=1&sn=a85b2098cf885f6e99c88888e5f11f91&chksm=8891de5cbfe6574a180d0e5fe17b7bc4413cee7adbe7ff98c92c8fce96a35920f0976626b08d&scene=27#wechat_redirect)  
+- [2019-12-24-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590840&idx=2&sn=78e6061f3fca19aadb4d66eb1ab21aa4&chksm=8891de5cbfe6574adc248527d017d0ac8e01f80e6cef5bcef2699687b86bf99b60da57ca6304&scene=27#wechat_redirect)  
+- [2019-12-23-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=2&sn=3cbc2d1abf107cb0c0505b17c72c352f&chksm=8891de55bfe65743171a14bfe0f1f627563d3c5c857b30964a5c89923e2a40c2f6d5957f5590&scene=27#wechat_redirect)  
+- [2019-12-21-浏览器缓存策略与-webpack-持久化缓存](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590831&idx=1&sn=1bd1995b6b3cc7f02506ac84df0c1e70&chksm=8891de4bbfe6575d86192eea7ca3b4f3465c38f76cd0a22bfc6cbc13fe4a60f39620ff89acf4&scene=27#wechat_redirect)  
+- [2019-12-21-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590831&idx=2&sn=da29fa45f7ac52c7b27c248ef20349a5&chksm=8891de4bbfe6575d5defd69131153521f7ad93bb10c934ce339e6b917085ba1e7bc500efc176&scene=27#wechat_redirect)  
 - [2019-12-25-使用-React-为-Chimee-开发插件](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590847&idx=1&sn=19629fd5d68cf6ceeb5381453998bafe&chksm=8891de5bbfe6574d21b9580e1e237d269dfbc68df84ea47165d6eabbb8b53e562e90b53a64e8&scene=27#wechat_redirect)  
 - [2019-12-23-『-Vue小Case-』--如何动态绑定多个事件（内附源码解析）](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=1&sn=d5944efeddc638f7096cb4bab8086fa7&chksm=8891de55bfe6574324c2bb0cbd4fc47f648cd35a8a4fbbbfe940184f4c3bcfab8427a79bb02c&scene=27#wechat_redirect)  
 - [2019-12-20-奇舞周刊第-332-期：你绝对想不到柱形图背后有这么多故事](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590823&idx=1&sn=00cbbcc4df1d729eeaef921799e68954&chksm=8891de43bfe6575506d0997367b18a2acf29cdb0dd9e80958de11ee448aa56101dcb0f533303&scene=27#wechat_redirect)  
@@ -380,6 +380,11 @@
 </summary>
 
 
+- [2019-12-26-计算机编程的历史演进：用-50-种编程语言写“Hello,World!”程序](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=1&sn=1060605ee57a5a3e4820a6ee9318daba&chksm=bdbe9fdb8ac916cd5401262507764ecb92f43e60c0292e49595be25154076c2151ebda6593de&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-26-俄罗斯成功断开全球互联网](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=2&sn=310693f4fc2d6c7d2448f01d897e13bb&chksm=bdbe9fdb8ac916cd1d81af1e1746cdc3a206116d9eb86f1fb78d1f4738189077a4e14bdeb1b7&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-26-都是程序员，凭什么他工资比我高，下班比我早？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=3&sn=7f2252cac80de72e38ff52bee4421453&chksm=bdbe9fdb8ac916cd6d8a657c13c8086ed489386decb55a90e3f8ddde53ca188c88137464a548&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-26-划重点！英特尔AI开发者技术研讨会讲了哪些实战经验？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=4&sn=e230accc50022cfc35ba05c4b58b9aa7&chksm=bdbe9fdb8ac916cd84ce32bf998ea58d0aee1a7c3293292982910758fb04d2df6ba547d7b512&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-26-也许实现真正的人工智能的唯一方法，是注入人工智障元素](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=5&sn=ee6bc5fe053f3cb617f1cb31f4009abb&chksm=bdbe9fdb8ac916cd5dadd82a136806f5c6ad115581456134fbb59c9970fd76b77a0fd8d4ede0&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-12-25-20-个-2020-年软件开发趋势预测](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=1&sn=21c05800fa296f802322cda2419d73f9&chksm=bdbe9f2d8ac9163bf82b9ea8e6fd105d92edff5f5def32a012bbdee35182a08f3b1599d2989e&scene=27#wechat_redirect)  
 - [2019-12-25-单身的程序员如何过一个热闹的圣诞？-|-圣诞福利](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=2&sn=73b5b7f93c20df882d725fbcb2d3a7e9&chksm=bdbe9f2d8ac9163bbb0781b46b7661cdc6abd96f9a52cd1e28d28b54c95a342967d366d3e8ad&scene=27#wechat_redirect)  
 - [2019-12-25-从云计算到云原生信息高速公路，上万个-Kubernetes-的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=3&sn=7c65cfb1c2965498a0351256c06c2867&chksm=bdbe9f2d8ac9163baff1263ad129a70e7c2be3be490349ce7c0dbc62e1994a9fa60f2937b1ca&scene=27#wechat_redirect)  
@@ -401,7 +406,7 @@
 </summary>
 
 
-- [2019-12-25-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498104&idx=1&sn=3a255c7388aad313497b7a368e3ec322&chksm=80f1afb0b78626a69d796e062ae456b5f12cc0274673255f7fdc34b8553d3b1c2cf67449a7c8&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-25-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498104&idx=1&sn=3a255c7388aad313497b7a368e3ec322&chksm=80f1afb0b78626a69d796e062ae456b5f12cc0274673255f7fdc34b8553d3b1c2cf67449a7c8&scene=27#wechat_redirect)  
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect)  
 - [2019-12-23-前端领域的-Docker-与-Kubernetes](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498096&idx=1&sn=59a5be0e4441064d207a9724ca6a1e48&chksm=80f1afb8b78626aeeb1f87ab77812168ceab38872c5d8e35ce046306b29bbb2b1acdfdb2520e&scene=27#wechat_redirect)  
 - [2019-12-23-2019-年-JavaScript-现状调查报告](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498096&idx=2&sn=b2a5cc840f0fc59e03210d6500904eb6&chksm=80f1afb8b78626aedbcb4823e752685c9944912feeb7c75d88f5c8be609dac69f24c5c981df7&scene=27#wechat_redirect)  
