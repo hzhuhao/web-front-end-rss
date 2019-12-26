@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2019-12-25 23:34:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-27 06:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
 
 
 
+- [2019-12-26-前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498106&idx=1&sn=de56133af30eb6b73ae65e8e1bab4cd2&chksm=80f1afb2b78626a47c152dfb1f7fce10d29475a976198f7d5254fde03a6a44cf1c28de3467aa&scene=27#wechat_redirect) 
 - [2019-12-25-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498104&idx=1&sn=3a255c7388aad313497b7a368e3ec322&chksm=80f1afb0b78626a69d796e062ae456b5f12cc0274673255f7fdc34b8553d3b1c2cf67449a7c8&scene=27#wechat_redirect) 
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-23-前端领域的-Docker-与-Kubernetes](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498096&idx=1&sn=59a5be0e4441064d207a9724ca6a1e48&chksm=80f1afb8b78626aeeb1f87ab77812168ceab38872c5d8e35ce046306b29bbb2b1acdfdb2520e&scene=27#wechat_redirect) 
