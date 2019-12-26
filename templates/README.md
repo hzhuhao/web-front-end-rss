@@ -1,5 +1,5 @@
-<div align="center"><img width="100" src="assets/rss.gif" /><h1>Web-Front-End RSS</h1><p>点击右上角 <strong>Watch</strong> 订阅 <strong>最新前端技术文章</strong></p>
-<a href="https://web-front-end-rss.now.sh/">https://web-front-end-rss.now.sh/</a>
+<div align="center"><img width="100" src="assets/rss.gif" /><h1>RSS WEB</h1><p>点击右上角 <strong>Watch</strong> 订阅 <strong>最新前端技术文章</strong></p>
+<a href="https://rssweb.app">https://rssweb.app</a>
 </div>
 
 ## 
