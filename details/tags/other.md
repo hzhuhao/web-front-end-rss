@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-26 12:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-26 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -711,11 +711,16 @@
 - [2019-12-23-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=2&sn=3cbc2d1abf107cb0c0505b17c72c352f&chksm=8891de55bfe65743171a14bfe0f1f627563d3c5c857b30964a5c89923e2a40c2f6d5957f5590&scene=27#wechat_redirect) 
 - [2019-12-21-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590831&idx=2&sn=da29fa45f7ac52c7b27c248ef20349a5&chksm=8891de4bbfe6575d5defd69131153521f7ad93bb10c934ce339e6b917085ba1e7bc500efc176&scene=27#wechat_redirect) 
 - [2019-12-20-奇舞周刊第-332-期：你绝对想不到柱形图背后有这么多故事](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590823&idx=1&sn=00cbbcc4df1d729eeaef921799e68954&chksm=8891de43bfe6575506d0997367b18a2acf29cdb0dd9e80958de11ee448aa56101dcb0f533303&scene=27#wechat_redirect) 
+- [2019-12-25-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484369&idx=1&sn=6c07f38130853bce623273cc5310b982&chksm=eb1cc63bdc6b4f2dfe906292a5e9360c7a851c4c7115b7373ed37ace4b51acb28ecb116c8832&scene=27#wechat_redirect) 
 - [2019-12-23-2019年前端发展趋势总结](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484365&idx=1&sn=819719f5c568b4127142aee5cd2c581f&chksm=eb1cc627dc6b4f3161f03ba7731f5dbed05a24b80001314b09d76fe7dc45601d8fd0ef8bfcfa&scene=27#wechat_redirect) 
 - [2019-12-19-2020年大前端发展趋势](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484363&idx=1&sn=522b2c30aba01d2e7fa333c3b071e5fa&chksm=eb1cc621dc6b4f37557ef99d23ce5d8ea1a224a0a47fe4c589e36d1a3dd22708e1a59d1441e0&scene=27#wechat_redirect) 
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2019-12-26-六面美团后，我有一个重要的发现...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=1&sn=db22c60bac701cd6bcf995528334fb96&chksm=ea5cdafcdd2b53ea4e801bdd975fb8213687e2df0329e39ce3f0d4d577a4c832e57f980ea017&scene=27#wechat_redirect) 
+- [2019-12-26-硬核！尽量避免-bug-手法，让测试彻底失业](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=2&sn=8e2792bb9d6ca39562776db34d94d23f&chksm=ea5cdafcdd2b53ea143e1fa393fcc2bf90ba3de7b85cbfdfc48b0a56a2a29f7cd8d3ce61e3d2&scene=27#wechat_redirect) 
+- [2019-12-26-翻车了！StackOverflow上复制最多的代码存在缺陷！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=3&sn=8d8f9921879e896551110145690f0973&chksm=ea5cdafcdd2b53ea2e0d115a16c415b26ff31556d07d29571e6765301779357dc01c7351956b&scene=27#wechat_redirect) 
+- [2019-12-26-详解-Java-的八大基本类型，写得非常好！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=4&sn=360d5382b08e31b2be0e73b56da46ab4&chksm=ea5cdafcdd2b53ea883bda22d48af618cb07b71fa0e92d3112545ffb0d50dfe09b04c138bda2&scene=27#wechat_redirect) 
 - [2019-12-25-IntelliJ-平台-2020-年路线图，规划原来这么厉害](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489425&idx=1&sn=be3c4c4863aa3a759ddfc0446dbcc541&chksm=ea5cdaf7dd2b53e16f2d5902774946bea58d620a20a41b85501560e68266be107551a4032d4d&scene=27#wechat_redirect) 
 - [2019-12-25-深入浅出-CAS，很多想进阿里的倒在了这个知识点](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489425&idx=2&sn=53564531fd3f41cff66977243b28d96a&chksm=ea5cdaf7dd2b53e1c962030314921103154af1f0d864c077b17c2b37fe71635925a20895ebb5&scene=27#wechat_redirect) 
 - [2019-12-25-17-个方面，综合对比-Kafka、RabbitMQ、RocketMQ、ActiveMQ-四个分布式](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489425&idx=3&sn=8e318ee60b0fd16981a6c9e7eb409b58&chksm=ea5cdaf7dd2b53e10bbcbf9089ec5d8da3d9056ed0e2943a11a9a19b9bbf876725f398eca6de&scene=27#wechat_redirect) 

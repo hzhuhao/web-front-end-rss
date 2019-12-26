@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-26 12:00:23，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-26 18:00:20，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
@@ -25,9 +25,9 @@
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 
 ## 文章链接
@@ -38,6 +38,8 @@
 </summary>
 
 
+- [2019-12-26-【第1817期】小程序没有-DOM-接口，原因竟然是……？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=1&sn=25cf63410604bc7899130616dfc5ef44&chksm=bd497d868a3ef4907cba7eb71a5376106ce5e383ea6db86d605768136cafe7aa3bd457aceec4&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-26-【图书】狼书（卷2）：Node.js-Web应用开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=2&sn=161696b4da29828325b1535a4f6cdfb4&chksm=bd497d868a3ef490073c426dc1dfcc10b79f98ededead5829ced268e0699659f8f24e2d823c9&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-12-25-【第1816期】巧用-CSS-实现酷炫的充电动画](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235323&idx=1&sn=4e8ad0692de3ed6d041a340d5cb176bc&chksm=bd497a7f8a3ef369278c433ae1443af30a9ec6ba7202cdb244f1b265eddd8e254d075153ef4b&scene=27#wechat_redirect)  
 - [2019-12-24-拿不到offer免费学，廖雪峰的“Web-全栈架构师”第16期招生了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235313&idx=1&sn=e93eaf50840acd110f2f8d4940bfa33b&chksm=bd497a758a3ef363c95e6c14e338a015040b2af5d5cd2361c543d49366969d53ab0ef170d8b1&scene=27#wechat_redirect)  
 - [2019-12-24-【第1815期】利用-JS-实现多种图片相似度算法](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235313&idx=2&sn=b048cd119655c218346a6cfbcb6a3676&chksm=bd497a758a3ef3632c43d6d2615a946fade176d3cfd9c2b22e22bd2b10d73deba099b6fb1221&scene=27#wechat_redirect)  
@@ -56,8 +58,6 @@
 - [2019-12-15-【第1806期】高德JS依赖分析工程及关键原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235158&idx=1&sn=381231dee5dbc78fe181084870c75ab8&chksm=bd497ad28a3ef3c4fea2ba90e9e3bdf9a408982af2b5cdf78e696aca707b7ca5dc9319b4c067&scene=27#wechat_redirect)  
 - [2019-12-15-【英】具有产品思维的软件工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235158&idx=2&sn=bc131e78e99b074d4ae9fe473d21e3f1&chksm=bd497ad28a3ef3c46d8fa93efcd4f696ffd53ece4e3645860e871883293b35aa2fd26bf2f2da&scene=27#wechat_redirect)  
 - [2019-12-10-80%的求职者都不懂-Vue](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=1&sn=ef260c95de52a3c031950e5f72525061&chksm=bd497b598a3ef24fa624dbe25c19ec0f0802341e93435e5eb924cd498a1002c1432d34864dcb&scene=27#wechat_redirect)  
-- [2019-12-10-【第1801期】高德APP全链路源码依赖分析工程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235037&idx=2&sn=792465774afcc05276c0985ee6324299&chksm=bd497b598a3ef24f77729cf15e68d54dc146683dd5a686bdebeb3c371d02ff9a827c7a790db3&scene=27#wechat_redirect)  
-- [2019-12-09-【第1800期】利用过渡动效打造沉浸式的体验-—【Web篇】](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235018&idx=1&sn=d3b0758fc38147ad4829cb463e44d7bd&chksm=bd497b4e8a3ef2586127dcdbf46f6beaace886c148f4058135cd339abba11ecf40793cfbc963&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -338,6 +338,7 @@
 </summary>
 
 
+- [2019-12-25-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484369&idx=1&sn=6c07f38130853bce623273cc5310b982&chksm=eb1cc63bdc6b4f2dfe906292a5e9360c7a851c4c7115b7373ed37ace4b51acb28ecb116c8832&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-12-24-W3C官网宣布：第4种Web语言来了：WebAssembly！](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484367&idx=1&sn=237bd02d8f85417b041b7fc26ca49f93&chksm=eb1cc625dc6b4f332b8a289b89dc0079339c1b263bedc45b69588deddca0d63f488fd8606a50&scene=27#wechat_redirect)  
 - [2019-12-23-2019年前端发展趋势总结](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484365&idx=1&sn=819719f5c568b4127142aee5cd2c581f&chksm=eb1cc627dc6b4f3161f03ba7731f5dbed05a24b80001314b09d76fe7dc45601d8fd0ef8bfcfa&scene=27#wechat_redirect)  
 - [2019-12-19-2020年大前端发展趋势](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484363&idx=1&sn=522b2c30aba01d2e7fa333c3b071e5fa&chksm=eb1cc621dc6b4f37557ef99d23ce5d8ea1a224a0a47fe4c589e36d1a3dd22708e1a59d1441e0&scene=27#wechat_redirect)  
@@ -359,6 +360,10 @@
 </summary>
 
 
+- [2019-12-26-六面美团后，我有一个重要的发现...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=1&sn=db22c60bac701cd6bcf995528334fb96&chksm=ea5cdafcdd2b53ea4e801bdd975fb8213687e2df0329e39ce3f0d4d577a4c832e57f980ea017&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-26-硬核！尽量避免-bug-手法，让测试彻底失业](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=2&sn=8e2792bb9d6ca39562776db34d94d23f&chksm=ea5cdafcdd2b53ea143e1fa393fcc2bf90ba3de7b85cbfdfc48b0a56a2a29f7cd8d3ce61e3d2&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-26-翻车了！StackOverflow上复制最多的代码存在缺陷！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=3&sn=8d8f9921879e896551110145690f0973&chksm=ea5cdafcdd2b53ea2e0d115a16c415b26ff31556d07d29571e6765301779357dc01c7351956b&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-26-详解-Java-的八大基本类型，写得非常好！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=4&sn=360d5382b08e31b2be0e73b56da46ab4&chksm=ea5cdafcdd2b53ea883bda22d48af618cb07b71fa0e92d3112545ffb0d50dfe09b04c138bda2&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-12-25-IntelliJ-平台-2020-年路线图，规划原来这么厉害](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489425&idx=1&sn=be3c4c4863aa3a759ddfc0446dbcc541&chksm=ea5cdaf7dd2b53e16f2d5902774946bea58d620a20a41b85501560e68266be107551a4032d4d&scene=27#wechat_redirect)  
 - [2019-12-25-深入浅出-CAS，很多想进阿里的倒在了这个知识点](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489425&idx=2&sn=53564531fd3f41cff66977243b28d96a&chksm=ea5cdaf7dd2b53e1c962030314921103154af1f0d864c077b17c2b37fe71635925a20895ebb5&scene=27#wechat_redirect)  
 - [2019-12-25-17-个方面，综合对比-Kafka、RabbitMQ、RocketMQ、ActiveMQ-四个分布式](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489425&idx=3&sn=8e318ee60b0fd16981a6c9e7eb409b58&chksm=ea5cdaf7dd2b53e10bbcbf9089ec5d8da3d9056ed0e2943a11a9a19b9bbf876725f398eca6de&scene=27#wechat_redirect)  
@@ -380,11 +385,11 @@
 </summary>
 
 
-- [2019-12-26-计算机编程的历史演进：用-50-种编程语言写“Hello,World!”程序](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=1&sn=1060605ee57a5a3e4820a6ee9318daba&chksm=bdbe9fdb8ac916cd5401262507764ecb92f43e60c0292e49595be25154076c2151ebda6593de&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-26-俄罗斯成功断开全球互联网](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=2&sn=310693f4fc2d6c7d2448f01d897e13bb&chksm=bdbe9fdb8ac916cd1d81af1e1746cdc3a206116d9eb86f1fb78d1f4738189077a4e14bdeb1b7&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-26-都是程序员，凭什么他工资比我高，下班比我早？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=3&sn=7f2252cac80de72e38ff52bee4421453&chksm=bdbe9fdb8ac916cd6d8a657c13c8086ed489386decb55a90e3f8ddde53ca188c88137464a548&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-26-划重点！英特尔AI开发者技术研讨会讲了哪些实战经验？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=4&sn=e230accc50022cfc35ba05c4b58b9aa7&chksm=bdbe9fdb8ac916cd84ce32bf998ea58d0aee1a7c3293292982910758fb04d2df6ba547d7b512&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-26-也许实现真正的人工智能的唯一方法，是注入人工智障元素](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=5&sn=ee6bc5fe053f3cb617f1cb31f4009abb&chksm=bdbe9fdb8ac916cd5dadd82a136806f5c6ad115581456134fbb59c9970fd76b77a0fd8d4ede0&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-26-计算机编程的历史演进：用-50-种编程语言写“Hello,World!”程序](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=1&sn=1060605ee57a5a3e4820a6ee9318daba&chksm=bdbe9fdb8ac916cd5401262507764ecb92f43e60c0292e49595be25154076c2151ebda6593de&scene=27#wechat_redirect)  
+- [2019-12-26-俄罗斯成功断开全球互联网](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=2&sn=310693f4fc2d6c7d2448f01d897e13bb&chksm=bdbe9fdb8ac916cd1d81af1e1746cdc3a206116d9eb86f1fb78d1f4738189077a4e14bdeb1b7&scene=27#wechat_redirect)  
+- [2019-12-26-都是程序员，凭什么他工资比我高，下班比我早？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=3&sn=7f2252cac80de72e38ff52bee4421453&chksm=bdbe9fdb8ac916cd6d8a657c13c8086ed489386decb55a90e3f8ddde53ca188c88137464a548&scene=27#wechat_redirect)  
+- [2019-12-26-划重点！英特尔AI开发者技术研讨会讲了哪些实战经验？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=4&sn=e230accc50022cfc35ba05c4b58b9aa7&chksm=bdbe9fdb8ac916cd84ce32bf998ea58d0aee1a7c3293292982910758fb04d2df6ba547d7b512&scene=27#wechat_redirect)  
+- [2019-12-26-也许实现真正的人工智能的唯一方法，是注入人工智障元素](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=5&sn=ee6bc5fe053f3cb617f1cb31f4009abb&chksm=bdbe9fdb8ac916cd5dadd82a136806f5c6ad115581456134fbb59c9970fd76b77a0fd8d4ede0&scene=27#wechat_redirect)  
 - [2019-12-25-20-个-2020-年软件开发趋势预测](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=1&sn=21c05800fa296f802322cda2419d73f9&chksm=bdbe9f2d8ac9163bf82b9ea8e6fd105d92edff5f5def32a012bbdee35182a08f3b1599d2989e&scene=27#wechat_redirect)  
 - [2019-12-25-单身的程序员如何过一个热闹的圣诞？-|-圣诞福利](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=2&sn=73b5b7f93c20df882d725fbcb2d3a7e9&chksm=bdbe9f2d8ac9163bbb0781b46b7661cdc6abd96f9a52cd1e28d28b54c95a342967d366d3e8ad&scene=27#wechat_redirect)  
 - [2019-12-25-从云计算到云原生信息高速公路，上万个-Kubernetes-的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=3&sn=7c65cfb1c2965498a0351256c06c2867&chksm=bdbe9f2d8ac9163baff1263ad129a70e7c2be3be490349ce7c0dbc62e1994a9fa60f2937b1ca&scene=27#wechat_redirect)  

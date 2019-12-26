@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1817期】小程序没有 DOM 接口，原因竟然是……？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=1&sn=25cf63410604bc7899130616dfc5ef44&chksm=bd497d868a3ef4907cba7eb71a5376106ce5e383ea6db86d605768136cafe7aa3bd457aceec4&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
+      {
+        "title": "【图书】狼书（卷2）：Node.js Web应用开发",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=2&sn=161696b4da29828325b1535a4f6cdfb4&chksm=bd497d868a3ef490073c426dc1dfcc10b79f98ededead5829ced268e0699659f8f24e2d823c9&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
+      {
         "title": "【第1816期】巧用 CSS 实现酷炫的充电动画",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235323&idx=1&sn=4e8ad0692de3ed6d041a340d5cb176bc&chksm=bd497a7f8a3ef369278c433ae1443af30a9ec6ba7202cdb244f1b265eddd8e254d075153ef4b&scene=27#wechat_redirect",
         "date": "2019-12-25"
@@ -12540,6 +12550,11 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "又是圣诞彩蛋惹的祸？微软在 VS Code 中添加圣诞图标惹争议",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484369&idx=1&sn=6c07f38130853bce623273cc5310b982&chksm=eb1cc63bdc6b4f2dfe906292a5e9360c7a851c4c7115b7373ed37ace4b51acb28ecb116c8832&scene=27#wechat_redirect",
+        "date": "2019-12-25"
+      },
+      {
         "title": "W3C官网宣布：第4种Web语言来了：WebAssembly！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484367&idx=1&sn=237bd02d8f85417b041b7fc26ca49f93&chksm=eb1cc625dc6b4f332b8a289b89dc0079339c1b263bedc45b69588deddca0d63f488fd8606a50&scene=27#wechat_redirect",
         "date": "2019-12-24"
@@ -12596,6 +12611,26 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "六面美团后，我有一个重要的发现...",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=1&sn=db22c60bac701cd6bcf995528334fb96&chksm=ea5cdafcdd2b53ea4e801bdd975fb8213687e2df0329e39ce3f0d4d577a4c832e57f980ea017&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
+      {
+        "title": "硬核！尽量避免 bug 手法，让测试彻底失业",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=2&sn=8e2792bb9d6ca39562776db34d94d23f&chksm=ea5cdafcdd2b53ea143e1fa393fcc2bf90ba3de7b85cbfdfc48b0a56a2a29f7cd8d3ce61e3d2&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
+      {
+        "title": "翻车了！StackOverflow上复制最多的代码存在缺陷！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=3&sn=8d8f9921879e896551110145690f0973&chksm=ea5cdafcdd2b53ea2e0d115a16c415b26ff31556d07d29571e6765301779357dc01c7351956b&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
+      {
+        "title": "详解 Java 的八大基本类型，写得非常好！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=4&sn=360d5382b08e31b2be0e73b56da46ab4&chksm=ea5cdafcdd2b53ea883bda22d48af618cb07b71fa0e92d3112545ffb0d50dfe09b04c138bda2&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
       {
         "title": "IntelliJ 平台 2020 年路线图，规划原来这么厉害",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489425&idx=1&sn=be3c4c4863aa3a759ddfc0446dbcc541&chksm=ea5cdaf7dd2b53e16f2d5902774946bea58d620a20a41b85501560e68266be107551a4032d4d&scene=27#wechat_redirect",
