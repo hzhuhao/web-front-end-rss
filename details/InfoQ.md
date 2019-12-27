@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2019-12-26 12:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-27 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2019-12-27-2019-年数据泄露全年盘点，让人“触目惊心”](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=1&sn=4eda7270595b2c397c1b9a6ef6271df3&chksm=bdbe9fc38ac916d5fc777c72a96641699c8d0c908ca0e9fcd23f3abee6c4246227192adea394&scene=27#wechat_redirect) 
+- [2019-12-27-24岁的程序员，似乎已经看到了30岁后的自己-|-二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=2&sn=e7380397ef3b160211daeefcc8d100ab&chksm=bdbe9fc38ac916d5cfaaeea15512c8f3f68c335efaff4c9cc3982473842956772bc0e46bca99&scene=27#wechat_redirect) 
+- [2019-12-27-最受印度用户欢迎的相机产品之一，美图BeautyPlus和它背后的-Google-Cloud](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=3&sn=ca72957ef4fcc0277e9ba237878aefeb&chksm=bdbe9fc38ac916d57eed67948618170f999db29c14b58d578508b1d0851a24ee69f9b4b85a31&scene=27#wechat_redirect) 
+- [2019-12-27-基于CPU的AI深度优化，如何打造业内领先的MLPerf推理性能？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=4&sn=47cd2e1496a074a5fe1e0f7a3cabcb2d&chksm=bdbe9fc38ac916d50452497bfb6cc4f87ec181d3cae553cd6ccdbc222b912207e26cad4d0eaf&scene=27#wechat_redirect) 
 - [2019-12-26-计算机编程的历史演进：用-50-种编程语言写“Hello,World!”程序](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=1&sn=1060605ee57a5a3e4820a6ee9318daba&chksm=bdbe9fdb8ac916cd5401262507764ecb92f43e60c0292e49595be25154076c2151ebda6593de&scene=27#wechat_redirect) 
 - [2019-12-26-俄罗斯成功断开全球互联网](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=2&sn=310693f4fc2d6c7d2448f01d897e13bb&chksm=bdbe9fdb8ac916cd1d81af1e1746cdc3a206116d9eb86f1fb78d1f4738189077a4e14bdeb1b7&scene=27#wechat_redirect) 
 - [2019-12-26-都是程序员，凭什么他工资比我高，下班比我早？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=3&sn=7f2252cac80de72e38ff52bee4421453&chksm=bdbe9fdb8ac916cd6d8a657c13c8086ed489386decb55a90e3f8ddde53ca188c88137464a548&scene=27#wechat_redirect) 

@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1818期】网站无障碍化简介",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235337&idx=1&sn=8bd3e2d52e7316aeaeddb423aef399ea&chksm=bd497d8d8a3ef49b0e95dcd5d38f5b58d57faff8b72b577bf841e9826e55c374a87bac732487&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "【图书】前端技术架构与工程",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235337&idx=2&sn=aa838562cec9c33a9d6124b7efe4a737&chksm=bd497d8d8a3ef49b6ef259a1555b92b6c7ea0661306ea01265b20001b90d0403a6885e123591&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
         "title": "【第1817期】小程序没有 DOM 接口，原因竟然是……？",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=1&sn=25cf63410604bc7899130616dfc5ef44&chksm=bd497d868a3ef4907cba7eb71a5376106ce5e383ea6db86d605768136cafe7aa3bd457aceec4&scene=27#wechat_redirect",
         "date": "2019-12-26"
@@ -3681,6 +3691,26 @@
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
+      {
+        "title": "乾坤大挪移！React 也能 “用上” computed 属性",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557629&idx=1&sn=18a9e3bc2adb1b527ff482aa3e690ea2&chksm=8025593cb752d02a07cbde1519bad7457109cb8ab966b046d3e6da53e5402165e15c97ff4dad&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "面向对象：内心有点小文艺的程序媛，期待一份美好的感情",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557629&idx=2&sn=f55109b705b46ec77054f1b908694b5b&chksm=8025593cb752d02aa289b2f25cf897c9e79b75c6575384bd998bd97d12a81bb6c8c38030d033&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "2020年，你必须掌握的前端技术栈",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557619&idx=1&sn=5999416fc9fc691b0dd243c2e4770df4&chksm=80255932b752d0249a9227fdcff916583f56608d6c1e31db605e08d63f9e2e1f5764dd973369&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
+      {
+        "title": "npm install 原理分析",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557619&idx=2&sn=68fe22cc8a65a0c638efef7d164dcb1d&chksm=80255932b752d02416fa730e489b2573199ba5a54e9de57def2dddc9c54f33da90fa348dc80b&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
       {
         "title": "JS 引擎 V8 发布 v8 版",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557611&idx=1&sn=fbd143704bcb295fb0cf5c2da27c3d17&chksm=8025592ab752d03ca3a96d99b55406ad6fdf4969ab8053028f815c1c17df7e11752e287e84b4&scene=27#wechat_redirect",
@@ -12498,6 +12528,26 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "奇舞周刊第 333 期：你不知道的 Stream",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590861&idx=1&sn=5521142efb2113b898537a5e80319624&chksm=8891dea9bfe657bf4b8b4501fb2bb27e354f9c5db389ff53a5861b363b185da37c1efd7dbc69&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "Hybird动态布局，提升3倍开发效率的玩法！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590857&idx=1&sn=e0d61708a799acade77afa0c046e244c&chksm=8891deadbfe657bb1f81124188dd01f506694c7302f78173d5a988faad0d42212096f11d28eb&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
+      {
+        "title": "来奇舞团吧，让自己过得快乐一点",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590857&idx=2&sn=d499d9abf399909322a666bc4e6c9d8d&chksm=8891deadbfe657bb078d957cffbe02b4b43b08477b376d5501bf44861ce53a3fe1c9d0027412&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
+      {
+        "title": "大数据中心招聘AngularJs前端开发工程师",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590857&idx=3&sn=8e315a7d8672013d88a0e5684d9dca50&chksm=8891deadbfe657bbcc444b756929b30166954b6e81e3595344fd3b389e5fcf38472f6daaf1e6&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
+      {
         "title": "来奇舞团吧，让自己过得快乐一点",
         "link": "http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590847&idx=2&sn=6756c3866f10a65ae5c873148ea18560&chksm=8891de5bbfe6574d4efa7fefcf1a0cb4e047ca9e76358691405985b22674baf5c00263d79fe2&scene=27#wechat_redirect",
         "date": "2019-12-25"
@@ -12554,6 +12604,11 @@
     "title": "前端日刊",
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
+      {
+        "title": "面向BAT大厂新零售大型线上场景实战（大厂前端架构师带你实战企业级线上项目）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484373&idx=1&sn=b539a1ca6b8b5696929d5d05b8d315e7&chksm=eb1cc63fdc6b4f29b111e2161082d09ac7381d9ef7748450aefe15e84de86d5c64c33e82920f&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
       {
         "title": "又是圣诞彩蛋惹的祸？微软在 VS Code 中添加圣诞图标惹争议",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484369&idx=1&sn=6c07f38130853bce623273cc5310b982&chksm=eb1cc63bdc6b4f2dfe906292a5e9360c7a851c4c7115b7373ed37ace4b51acb28ecb116c8832&scene=27#wechat_redirect",
@@ -12616,6 +12671,26 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "只要学会它，再多 Bug 也不怕",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489442&idx=1&sn=8cbd1d0a9b3d733ad745f1c03db7676a&chksm=ea5cdac4dd2b53d2ec64236f162d6a843073642ba80939bcb8089e0fe529e333032b13858d74&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "就在昨天，12306又崩了。。。12306是不是世界上最复杂的系统？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489442&idx=2&sn=d351613a14c40b1ce636043bbe8f1d0d&chksm=ea5cdac4dd2b53d2d4b9c320c63e2e92a0606cb0ee8f8bc02a04581ad145e1b04e4a8b92a3fe&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "SpringBoot+RabbitMQ ，保证消息100%投递成功并被消费（实例）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489442&idx=3&sn=0b62419f5ff6167f9f22416f859f9dde&chksm=ea5cdac4dd2b53d2d835edd52fb5b1774fb427f80c105f2a09f45e9c06bbf9912de91f77da97&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "阿里巴巴数据中台实践分享",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489442&idx=4&sn=59fc4a645e1df4fc963446c1a3202e39&chksm=ea5cdac4dd2b53d23d37c628b738438046aeb246489bd31dd2daf7dc9dc112644c410a29d59d&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
       {
         "title": "六面美团后，我有一个重要的发现...",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489434&idx=1&sn=db22c60bac701cd6bcf995528334fb96&chksm=ea5cdafcdd2b53ea4e801bdd975fb8213687e2df0329e39ce3f0d4d577a4c832e57f980ea017&scene=27#wechat_redirect",
@@ -12693,6 +12768,26 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "2019 年数据泄露全年盘点，让人“触目惊心”",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=1&sn=4eda7270595b2c397c1b9a6ef6271df3&chksm=bdbe9fc38ac916d5fc777c72a96641699c8d0c908ca0e9fcd23f3abee6c4246227192adea394&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "24岁的程序员，似乎已经看到了30岁后的自己 | 二叉树视频",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=2&sn=e7380397ef3b160211daeefcc8d100ab&chksm=bdbe9fc38ac916d5cfaaeea15512c8f3f68c335efaff4c9cc3982473842956772bc0e46bca99&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "最受印度用户欢迎的相机产品之一，美图BeautyPlus和它背后的 Google Cloud",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=3&sn=ca72957ef4fcc0277e9ba237878aefeb&chksm=bdbe9fc38ac916d57eed67948618170f999db29c14b58d578508b1d0851a24ee69f9b4b85a31&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "基于CPU的AI深度优化，如何打造业内领先的MLPerf推理性能？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=4&sn=47cd2e1496a074a5fe1e0f7a3cabcb2d&chksm=bdbe9fc38ac916d50452497bfb6cc4f87ec181d3cae553cd6ccdbc222b912207e26cad4d0eaf&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
       {
         "title": "计算机编程的历史演进：用 50 种编程语言写“Hello,World!”程序",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=1&sn=1060605ee57a5a3e4820a6ee9318daba&chksm=bdbe9fdb8ac916cd5401262507764ecb92f43e60c0292e49595be25154076c2151ebda6593de&scene=27#wechat_redirect",

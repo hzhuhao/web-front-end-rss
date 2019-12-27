@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-27 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-27 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -60,3 +60,4 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2019-12-23-ES亿级数据检索优化，三秒返回突破性能瓶颈](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=1&sn=77d2403461c32d7928133520b8ba8d17&chksm=ea5cda0fdd2b5319949f4ada3f67be43ef9c6488f76de8448465edd619f4e6f6c6860ec5dc03&scene=27#wechat_redirect) 
+- [2019-12-27-基于CPU的AI深度优化，如何打造业内领先的MLPerf推理性能？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=4&sn=47cd2e1496a074a5fe1e0f7a3cabcb2d&chksm=bdbe9fc38ac916d50452497bfb6cc4f87ec181d3cae553cd6ccdbc222b912207e26cad4d0eaf&scene=27#wechat_redirect) 

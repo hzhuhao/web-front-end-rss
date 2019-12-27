@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-27 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-27 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -54,3 +54,4 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2019-12-27-24岁的程序员，似乎已经看到了30岁后的自己-|-二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=2&sn=e7380397ef3b160211daeefcc8d100ab&chksm=bdbe9fc38ac916d5cfaaeea15512c8f3f68c335efaff4c9cc3982473842956772bc0e46bca99&scene=27#wechat_redirect) 
