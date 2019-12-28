@@ -6959,6 +6959,26 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "​编程时来点小叛逆 是不是超爱这 10 种坏习惯？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493484&idx=1&sn=c538152295f468de163895704ce56126&chksm=f952522fce25db39c69193f7ff1398e2138c7fc97daaea6e9b349fbb998e56fde589eb7ccedc&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "​令人期待的 JavaScript 新特性",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493484&idx=2&sn=810dc2f5aeee1cf51897a18a7303de85&chksm=f952522fce25db39686b5f25d8aa030216d03e22b5f2d191f5a5b112894f2c96489df137eb7c&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "2019 年 JavaScript 生态圈调查报告出炉！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493477&idx=1&sn=bb24b5c560cffbffaee67379817a5cf1&chksm=f9525226ce25db307299c90252461888e5b1466de452f715899526555ae42d7e862f68069c7b&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
+      {
+        "title": "俄罗斯成功断开全球互联网",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493477&idx=2&sn=d1e689f772eadc616700f49c34c38236&chksm=f9525226ce25db30e18f17430a8b14d47f55f3598caf30e5d98e7ad4962140b516c6bae15404&scene=27#wechat_redirect",
+        "date": "2019-12-26"
+      },
+      {
         "title": "20 个 2020 年软件开发趋势预测",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=1&sn=b10d4ac4fcb2f20e0b419b4e1a6fc143&chksm=f952521dce25db0b7bda946e2b70b8be51990bf702c5a392788a83a7361bd681d3acb23aade6&scene=27#wechat_redirect",
         "date": "2019-12-25"
@@ -12672,6 +12692,26 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "为什么要减少代码中该死的 if else 嵌套",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=1&sn=eb891e999be4830f7852955e0028d5fb&chksm=ea5cdacedd2b53d8546c12106cf2eabb044c6998bd445d2f4a5a4efc2d1b911bce5f4da0cc82&scene=27#wechat_redirect",
+        "date": "2019-12-28"
+      },
+      {
+        "title": "程序员常用资源工具集合（建议收藏）",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=2&sn=3d6674b554e6a7e923f70855d01dd6d3&chksm=ea5cdacedd2b53d83814a2dea04223c953fe83eded6d0bee35bf554676c17113d17829c95914&scene=27#wechat_redirect",
+        "date": "2019-12-28"
+      },
+      {
+        "title": "如何写一手好 SQL！！！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=3&sn=7533f1b0faba6ab560e78ff4bc2557bc&chksm=ea5cdacedd2b53d86285c08af58c6d453bc2f27ff99b70e4a42e941a0d8ead3e219d16f0d2be&scene=27#wechat_redirect",
+        "date": "2019-12-28"
+      },
+      {
+        "title": "微服务架构是啥？一个故事告诉你！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=4&sn=72aa88eea059973e5c445e4972c83734&chksm=ea5cdacedd2b53d849d5b0538452e48c0c116c414c7f27d5ed7c99a568ba565586cfe3586ebf&scene=27#wechat_redirect",
+        "date": "2019-12-28"
+      },
+      {
         "title": "只要学会它，再多 Bug 也不怕",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489442&idx=1&sn=8cbd1d0a9b3d733ad745f1c03db7676a&chksm=ea5cdac4dd2b53d2ec64236f162d6a843073642ba80939bcb8089e0fe529e333032b13858d74&scene=27#wechat_redirect",
         "date": "2019-12-27"
@@ -12870,6 +12910,16 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "巧用 CSS 实现酷炫的充电动画",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498109&idx=1&sn=e4bddb19b9c933a1e53ec5a0e127dc4b&chksm=80f1afb5b78626a3aab518cbe8dd3620752d71c63a387efe3bcf32f65d9b4ca27dcffdb05df6&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
+      {
+        "title": "【工作】支付宝前端技术部社招前端P6/P7",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498109&idx=2&sn=026029fe4ae76ed36c4a79dad6af6ef3&chksm=80f1afb5b78626a314b6b308bcb720f3a37d5573e270d759de9a90ca3299f5b22a6e8644312f&scene=27#wechat_redirect",
+        "date": "2019-12-27"
+      },
       {
         "title": "前端2019年调查报告",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498106&idx=1&sn=de56133af30eb6b73ae65e8e1bab4cd2&chksm=80f1afb2b78626a47c152dfb1f7fce10d29475a976198f7d5254fde03a6a44cf1c28de3467aa&scene=27#wechat_redirect",

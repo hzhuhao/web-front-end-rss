@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-27 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-28 13:17:35。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -343,6 +343,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-12-27-​编程时来点小叛逆-是不是超爱这-10-种坏习惯？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493484&idx=1&sn=c538152295f468de163895704ce56126&chksm=f952522fce25db39c69193f7ff1398e2138c7fc97daaea6e9b349fbb998e56fde589eb7ccedc&scene=27#wechat_redirect) 
+- [2019-12-26-俄罗斯成功断开全球互联网](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493477&idx=2&sn=d1e689f772eadc616700f49c34c38236&chksm=f9525226ce25db30e18f17430a8b14d47f55f3598caf30e5d98e7ad4962140b516c6bae15404&scene=27#wechat_redirect) 
 - [2019-12-25-20-个-2020-年软件开发趋势预测](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=1&sn=b10d4ac4fcb2f20e0b419b4e1a6fc143&chksm=f952521dce25db0b7bda946e2b70b8be51990bf702c5a392788a83a7361bd681d3acb23aade6&scene=27#wechat_redirect) 
 - [2019-12-25-马上-2020-了，送上一份儿特别的礼物给技术人](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=3&sn=5dc35d810b212376f67975f97d349bc0&chksm=f952521dce25db0bf73c150a2a9b595f2df7037ce927c2d0a78702311f23f5dbda4a4ef53cac&scene=27#wechat_redirect) 
 - [2019-12-24-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493450&idx=1&sn=9b41dcec8209de990321f1f87814bd26&chksm=f9525209ce25db1f8da2da7f00e65d979b02b8a907d5292a3161640c2b61fdf153d5754ba495&scene=27#wechat_redirect) 
@@ -725,6 +727,10 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2019-12-28-为什么要减少代码中该死的-if-else-嵌套](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=1&sn=eb891e999be4830f7852955e0028d5fb&chksm=ea5cdacedd2b53d8546c12106cf2eabb044c6998bd445d2f4a5a4efc2d1b911bce5f4da0cc82&scene=27#wechat_redirect) 
+- [2019-12-28-程序员常用资源工具集合（建议收藏）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=2&sn=3d6674b554e6a7e923f70855d01dd6d3&chksm=ea5cdacedd2b53d83814a2dea04223c953fe83eded6d0bee35bf554676c17113d17829c95914&scene=27#wechat_redirect) 
+- [2019-12-28-如何写一手好-SQL！！！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=3&sn=7533f1b0faba6ab560e78ff4bc2557bc&chksm=ea5cdacedd2b53d86285c08af58c6d453bc2f27ff99b70e4a42e941a0d8ead3e219d16f0d2be&scene=27#wechat_redirect) 
+- [2019-12-28-微服务架构是啥？一个故事告诉你！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=4&sn=72aa88eea059973e5c445e4972c83734&chksm=ea5cdacedd2b53d849d5b0538452e48c0c116c414c7f27d5ed7c99a568ba565586cfe3586ebf&scene=27#wechat_redirect) 
 - [2019-12-27-只要学会它，再多-Bug-也不怕](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489442&idx=1&sn=8cbd1d0a9b3d733ad745f1c03db7676a&chksm=ea5cdac4dd2b53d2ec64236f162d6a843073642ba80939bcb8089e0fe529e333032b13858d74&scene=27#wechat_redirect) 
 - [2019-12-27-就在昨天，12306又崩了。。。12306是不是世界上最复杂的系统？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489442&idx=2&sn=d351613a14c40b1ce636043bbe8f1d0d&chksm=ea5cdac4dd2b53d2d4b9c320c63e2e92a0606cb0ee8f8bc02a04581ad145e1b04e4a8b92a3fe&scene=27#wechat_redirect) 
 - [2019-12-27-SpringBoot+RabbitMQ-，保证消息100%投递成功并被消费（实例）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489442&idx=3&sn=0b62419f5ff6167f9f22416f859f9dde&chksm=ea5cdac4dd2b53d2d835edd52fb5b1774fb427f80c105f2a09f45e9c06bbf9912de91f77da97&scene=27#wechat_redirect) 
@@ -756,6 +762,7 @@
 - [2019-12-24-中台进入冷静期，看清自己比盲目追随更重要](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=2&sn=e15f0d21dd1e04efa017b5fae3305baf&chksm=bdbe9f138ac91605f4c143d9b0d3fbbed83da8514eefedb331be5e489e6c8904f71fb7404f87&scene=27#wechat_redirect) 
 - [2019-12-24-金融大数据公司接连被查，爬虫到底犯法吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=3&sn=7492a5ad9e6dfc522d3acb6b4e92bc19&chksm=bdbe9f138ac91605b0e5405df6f331c48586b551cc73f15d7028fb93a54d8fcb7d900961bcab&scene=27#wechat_redirect) 
 - [2019-12-24-这一天，成都的开发人员都经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=4&sn=7cf54be8cca25b28a57e4edfd44f7213&chksm=bdbe9f138ac916055bba182449a4c35f28747d57d0cead06d4880327e29b8c4877bc15b7e4ca&scene=27#wechat_redirect) 
+- [2019-12-27-【工作】支付宝前端技术部社招前端P6/P7](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498109&idx=2&sn=026029fe4ae76ed36c4a79dad6af6ef3&chksm=80f1afb5b78626a314b6b308bcb720f3a37d5573e270d759de9a90ca3299f5b22a6e8644312f&scene=27#wechat_redirect) 
 - [2019-12-26-前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498106&idx=1&sn=de56133af30eb6b73ae65e8e1bab4cd2&chksm=80f1afb2b78626a47c152dfb1f7fce10d29475a976198f7d5254fde03a6a44cf1c28de3467aa&scene=27#wechat_redirect) 
 - [2019-12-25-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498104&idx=1&sn=3a255c7388aad313497b7a368e3ec322&chksm=80f1afb0b78626a69d796e062ae456b5f12cc0274673255f7fdc34b8553d3b1c2cf67449a7c8&scene=27#wechat_redirect) 
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
