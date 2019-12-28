@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-28 23:42:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-12-29 06:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -273,6 +273,10 @@
 - [【互联网架构师】2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [【互联网架构师】2019-12-23-ES亿级数据检索优化，三秒返回突破性能瓶颈](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=1&sn=77d2403461c32d7928133520b8ba8d17&chksm=ea5cda0fdd2b5319949f4ada3f67be43ef9c6488f76de8448465edd619f4e6f6c6860ec5dc03&scene=27#wechat_redirect) 
 - [【互联网架构师】2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [【InfoQ】2019-12-28-微信确认关闭朋友圈表情包评论功能；亚马逊刷单雇水军写好评；“90-后”将支付宝、游戏账号写进遗嘱丨Q](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=1&sn=2ee8a000b89e3ca5d6e4fc2300c82170&chksm=bdbe9f928ac916846d14cb00f5b5445fc4c009ad913d2901ca5e9e1acca215039e14571268af&scene=27#wechat_redirect) 
+- [【InfoQ】2019-12-28-如何打造可以无限扩展的分布式消息队列?](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=2&sn=2458e0561eeecf683652498b9634b4b5&chksm=bdbe9f928ac91684099e8a6e4351c3c6362f9f5421591081999486105212edb54a262b88eef9&scene=27#wechat_redirect) 
+- [【InfoQ】2019-12-28-必备知识点大起底！云计算的这些“3”“4”“5”你都知道吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=3&sn=6a443fb9b8235960839c7ef2f0a678b4&chksm=bdbe9f928ac9168435f9f1c5cf70e7b0b8b6807553d38d480e5328dde455005cd44048c30d39&scene=27#wechat_redirect) 
+- [【InfoQ】2019-12-28-英特尔AI医疗实战：软硬兼施加速医疗产业变革](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=4&sn=731fc4e79ff86a444c9509967df47225&chksm=bdbe9f928ac91684a1af447b559cbf451e770dce4557f6a2ff7d85d6bb110cb12bc620be3b5b&scene=27#wechat_redirect) 
 - [【InfoQ】2019-12-27-2019-年数据泄露全年盘点，让人“触目惊心”](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=1&sn=4eda7270595b2c397c1b9a6ef6271df3&chksm=bdbe9fc38ac916d5fc777c72a96641699c8d0c908ca0e9fcd23f3abee6c4246227192adea394&scene=27#wechat_redirect) 
 - [【InfoQ】2019-12-27-24岁的程序员，似乎已经看到了30岁后的自己-|-二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=2&sn=e7380397ef3b160211daeefcc8d100ab&chksm=bdbe9fc38ac916d5cfaaeea15512c8f3f68c335efaff4c9cc3982473842956772bc0e46bca99&scene=27#wechat_redirect) 
 - [【InfoQ】2019-12-27-最受印度用户欢迎的相机产品之一，美图BeautyPlus和它背后的-Google-Cloud](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=3&sn=ca72957ef4fcc0277e9ba237878aefeb&chksm=bdbe9fc38ac916d57eed67948618170f999db29c14b58d578508b1d0851a24ee69f9b4b85a31&scene=27#wechat_redirect) 

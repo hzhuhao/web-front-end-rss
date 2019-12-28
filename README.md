@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-28 23:42:32，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-29 06:00:23，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)![](assets/dot.png)   
+- [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
@@ -24,10 +24,10 @@
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 
 ## 文章链接
@@ -38,7 +38,7 @@
 </summary>
 
 
-- [2019-12-28-【第1819期】Web-视频播放前前后后](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235349&idx=1&sn=05431b4121c77e2ea82524f3c19bd0fc&chksm=bd497d918a3ef487afc805cb83487deb824a48ce4bb9f1830df91c616a7c7eeafd8fc2a2a113&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-28-【第1819期】Web-视频播放前前后后](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235349&idx=1&sn=05431b4121c77e2ea82524f3c19bd0fc&chksm=bd497d918a3ef487afc805cb83487deb824a48ce4bb9f1830df91c616a7c7eeafd8fc2a2a113&scene=27#wechat_redirect)  
 - [2019-12-27-【第1818期】网站无障碍化简介](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235337&idx=1&sn=8bd3e2d52e7316aeaeddb423aef399ea&chksm=bd497d8d8a3ef49b0e95dcd5d38f5b58d57faff8b72b577bf841e9826e55c374a87bac732487&scene=27#wechat_redirect)  
 - [2019-12-27-【图书】前端技术架构与工程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235337&idx=2&sn=aa838562cec9c33a9d6124b7efe4a737&chksm=bd497d8d8a3ef49b6ef259a1555b92b6c7ea0661306ea01265b20001b90d0403a6885e123591&scene=27#wechat_redirect)  
 - [2019-12-26-【第1817期】小程序没有-DOM-接口，原因竟然是……？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235330&idx=1&sn=25cf63410604bc7899130616dfc5ef44&chksm=bd497d868a3ef4907cba7eb71a5376106ce5e383ea6db86d605768136cafe7aa3bd457aceec4&scene=27#wechat_redirect)  
@@ -317,9 +317,9 @@
 </summary>
 
 
-- [2019-12-28-从-React-历史的长河里聊虚拟DOM及其价值](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=1&sn=8b6d3b47f80e21fd6fe45439258edfef&chksm=8891deb6bfe657a0ebab3da007b49538a0edb2a4d526dbf828a6ddc2193415b831c6c1cba948&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-28-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=2&sn=abb2cc25d67d557388fbc934d5ad4021&chksm=8891deb6bfe657a0d915e8f0c038af12eed42a64eed27aebd19394a8039c7d9daa25cc063c2c&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2019-12-28-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=3&sn=6ee48f6e89c8c22865f5aaedb3ea3d85&chksm=8891deb6bfe657a03a81c421f9d6a492c6753daae7f64b2d0db891ac4569a9c7d6dcad2ecd2b&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-28-从-React-历史的长河里聊虚拟DOM及其价值](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=1&sn=8b6d3b47f80e21fd6fe45439258edfef&chksm=8891deb6bfe657a0ebab3da007b49538a0edb2a4d526dbf828a6ddc2193415b831c6c1cba948&scene=27#wechat_redirect)  
+- [2019-12-28-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=2&sn=abb2cc25d67d557388fbc934d5ad4021&chksm=8891deb6bfe657a0d915e8f0c038af12eed42a64eed27aebd19394a8039c7d9daa25cc063c2c&scene=27#wechat_redirect)  
+- [2019-12-28-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=3&sn=6ee48f6e89c8c22865f5aaedb3ea3d85&chksm=8891deb6bfe657a03a81c421f9d6a492c6753daae7f64b2d0db891ac4569a9c7d6dcad2ecd2b&scene=27#wechat_redirect)  
 - [2019-12-27-奇舞周刊第-333-期：你不知道的-Stream](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590861&idx=1&sn=5521142efb2113b898537a5e80319624&chksm=8891dea9bfe657bf4b8b4501fb2bb27e354f9c5db389ff53a5861b363b185da37c1efd7dbc69&scene=27#wechat_redirect)  
 - [2019-12-26-Hybird动态布局，提升3倍开发效率的玩法！](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590857&idx=1&sn=e0d61708a799acade77afa0c046e244c&chksm=8891deadbfe657bb1f81124188dd01f506694c7302f78173d5a988faad0d42212096f11d28eb&scene=27#wechat_redirect)  
 - [2019-12-26-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590857&idx=2&sn=d499d9abf399909322a666bc4e6c9d8d&chksm=8891deadbfe657bb078d957cffbe02b4b43b08477b376d5501bf44861ce53a3fe1c9d0027412&scene=27#wechat_redirect)  
@@ -399,6 +399,10 @@
 </summary>
 
 
+- [2019-12-28-微信确认关闭朋友圈表情包评论功能；亚马逊刷单雇水军写好评；“90-后”将支付宝、游戏账号写进遗嘱丨Q](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=1&sn=2ee8a000b89e3ca5d6e4fc2300c82170&chksm=bdbe9f928ac916846d14cb00f5b5445fc4c009ad913d2901ca5e9e1acca215039e14571268af&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-28-如何打造可以无限扩展的分布式消息队列?](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=2&sn=2458e0561eeecf683652498b9634b4b5&chksm=bdbe9f928ac91684099e8a6e4351c3c6362f9f5421591081999486105212edb54a262b88eef9&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-28-必备知识点大起底！云计算的这些“3”“4”“5”你都知道吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=3&sn=6a443fb9b8235960839c7ef2f0a678b4&chksm=bdbe9f928ac9168435f9f1c5cf70e7b0b8b6807553d38d480e5328dde455005cd44048c30d39&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-28-英特尔AI医疗实战：软硬兼施加速医疗产业变革](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=4&sn=731fc4e79ff86a444c9509967df47225&chksm=bdbe9f928ac91684a1af447b559cbf451e770dce4557f6a2ff7d85d6bb110cb12bc620be3b5b&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-12-27-2019-年数据泄露全年盘点，让人“触目惊心”](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=1&sn=4eda7270595b2c397c1b9a6ef6271df3&chksm=bdbe9fc38ac916d5fc777c72a96641699c8d0c908ca0e9fcd23f3abee6c4246227192adea394&scene=27#wechat_redirect)  
 - [2019-12-27-24岁的程序员，似乎已经看到了30岁后的自己-|-二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=2&sn=e7380397ef3b160211daeefcc8d100ab&chksm=bdbe9fc38ac916d5cfaaeea15512c8f3f68c335efaff4c9cc3982473842956772bc0e46bca99&scene=27#wechat_redirect)  
 - [2019-12-27-最受印度用户欢迎的相机产品之一，美图BeautyPlus和它背后的-Google-Cloud](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=3&sn=ca72957ef4fcc0277e9ba237878aefeb&chksm=bdbe9fc38ac916d57eed67948618170f999db29c14b58d578508b1d0851a24ee69f9b4b85a31&scene=27#wechat_redirect)  
@@ -415,9 +419,6 @@
 - [2019-12-25-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=5&sn=8576a0a8e134a4c85487046473356207&chksm=bdbe9f2d8ac9163b5312772e7b64f06a5b726bd8c8acc921152b4ef6fcbfc00774398a8ac782&scene=27#wechat_redirect)  
 - [2019-12-24-相机买了两三年，还是只会按快门？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=1&sn=1bf2b1f89af472ce0456dc47a5cebfc0&chksm=bdbe9f138ac91605f8dd489772aeda3b3ed566b32d2d9163f4c004dba3c09edf26a3cd981e0d&scene=27#wechat_redirect)  
 - [2019-12-24-中台进入冷静期，看清自己比盲目追随更重要](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=2&sn=e15f0d21dd1e04efa017b5fae3305baf&chksm=bdbe9f138ac91605f4c143d9b0d3fbbed83da8514eefedb331be5e489e6c8904f71fb7404f87&scene=27#wechat_redirect)  
-- [2019-12-24-金融大数据公司接连被查，爬虫到底犯法吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=3&sn=7492a5ad9e6dfc522d3acb6b4e92bc19&chksm=bdbe9f138ac91605b0e5405df6f331c48586b551cc73f15d7028fb93a54d8fcb7d900961bcab&scene=27#wechat_redirect)  
-- [2019-12-24-这一天，成都的开发人员都经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=4&sn=7cf54be8cca25b28a57e4edfd44f7213&chksm=bdbe9f138ac916055bba182449a4c35f28747d57d0cead06d4880327e29b8c4877bc15b7e4ca&scene=27#wechat_redirect)  
-- [2019-12-24-我们为什么用-gRPC-取代了-Kafka?](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=5&sn=38717e9a309a63a875db6f529ce53914&chksm=bdbe9f138ac91605da8344789c7621aa58009dd572bc0c00ecef0e7973271899efb4c75110a6&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
