@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-29 06:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2019-12-29 18:01:18。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -104,6 +104,7 @@
 </summary>
 
 
+- [【前端早读课】2019-12-29-【第1820期】nohost-—-远程环境配置及抓包调试最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235350&idx=1&sn=57ec2deacd11fd0c61e4c049ea05f6a6&chksm=bd497d928a3ef484dae6931de4bed277201fa0200e84b60650e1d14ffc823a12563af81e47fc&scene=27#wechat_redirect) 
 - [【前端早读课】2019-12-28-【第1819期】Web-视频播放前前后后](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235349&idx=1&sn=05431b4121c77e2ea82524f3c19bd0fc&chksm=bd497d918a3ef487afc805cb83487deb824a48ce4bb9f1830df91c616a7c7eeafd8fc2a2a113&scene=27#wechat_redirect) 
 - [【前端早读课】2019-12-27-【第1818期】网站无障碍化简介](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235337&idx=1&sn=8bd3e2d52e7316aeaeddb423aef399ea&chksm=bd497d8d8a3ef49b0e95dcd5d38f5b58d57faff8b72b577bf841e9826e55c374a87bac732487&scene=27#wechat_redirect) 
 - [【前端早读课】2019-12-27-【图书】前端技术架构与工程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235337&idx=2&sn=aa838562cec9c33a9d6124b7efe4a737&chksm=bd497d8d8a3ef49b6ef259a1555b92b6c7ea0661306ea01265b20001b90d0403a6885e123591&scene=27#wechat_redirect) 
@@ -136,6 +137,7 @@
 - [【前端早读课】2019-12-07-【招聘】阿里飞猪用户技术-行业和平台团队招前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235004&idx=2&sn=1e03cb04ffdf89d4b114ae9f35b39ce7&chksm=bd497b388a3ef22e8431d5e5a26d045557ede6ee29630ebbe534574a820805b6d3e2bd071181&scene=27#wechat_redirect) 
 - [【前端早读课】2019-12-06-【第1797期】京喜首页跨端开发与优化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234988&idx=1&sn=6aa21b09bbb2740d18d789137df03554&chksm=bd497b288a3ef23efbb2b05aae7f4e01622d680a093a6c22b1e9f9b91aacf36633101248c98b&scene=27#wechat_redirect) 
 - [【前端早读课】2019-12-06-【译】前端开发技能是否足以胜任一份职业?](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234988&idx=2&sn=5a96bd7eb4817a570a1795060473803f&chksm=bd497b288a3ef23e3fbcfdbe272e11591fb13e2160e373443e253ecc9980ee31c38e60f78724&scene=27#wechat_redirect) 
+- [【前端大全】2019-12-28-package.json-知多少？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557630&idx=1&sn=25063b23905990b794207b3997ab11ec&chksm=8025593fb752d0294a5fe40e5dde01804da40a03010ae04c0b65d36e8d2a19f1d185836648ec&scene=27#wechat_redirect) 
 - [【前端大全】2019-12-27-乾坤大挪移！React-也能-“用上”-computed-属性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557629&idx=1&sn=18a9e3bc2adb1b527ff482aa3e690ea2&chksm=8025593cb752d02a07cbde1519bad7457109cb8ab966b046d3e6da53e5402165e15c97ff4dad&scene=27#wechat_redirect) 
 - [【前端大全】2019-12-27-面向对象：内心有点小文艺的程序媛，期待一份美好的感情](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557629&idx=2&sn=f55109b705b46ec77054f1b908694b5b&chksm=8025593cb752d02aa289b2f25cf897c9e79b75c6575384bd998bd97d12a81bb6c8c38030d033&scene=27#wechat_redirect) 
 - [【前端大全】2019-12-26-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557619&idx=1&sn=5999416fc9fc691b0dd243c2e4770df4&chksm=80255932b752d0249a9227fdcff916583f56608d6c1e31db605e08d63f9e2e1f5764dd973369&scene=27#wechat_redirect) 
@@ -166,6 +168,7 @@
 - [【前端大全】2019-12-02-关于前端埋点统计方案思考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557490&idx=2&sn=c64343361c5f499cf65e559adecfe48c&chksm=802559b3b752d0a5f1319f8524955a59e1e87b152a2dbf4ddcd65dbc13918d570a3cb094bb42&scene=27#wechat_redirect) 
 - [【前端大全】2019-12-01-TCP为啥要3次握手和4次挥手？握两次手不行吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557488&idx=1&sn=d69ffbaf1ae4f7d04425132f23881c67&chksm=802559b1b752d0a78f3fdaebf1b0abbd5d60c081de6a8dc53f8d56e619e62a57600551ca0b2e&scene=27#wechat_redirect) 
 - [【前端大全】2019-12-01-面向对象：拳打新东方脚踢米其林的厨艺天才](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557488&idx=2&sn=c56fc6e0c9438459c410b8eb1bd1ae5b&chksm=802559b1b752d0a7fa8f9e00c32fbe265be25f0af959a368e58ded601a06e2f0847b3fb8676f&scene=27#wechat_redirect) 
+- [【前端之巅】2019-12-29-前端周报：2019年-Serverless-使用调查发布，需求将持续增长；Firefox-73引入全](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493488&idx=1&sn=5f66f93b6791dcec99d1a9ee8bb51417&chksm=f9525233ce25db25a6e1862feecd800d70dab3dc578d3422d9fbce52041267efaa984fbddcf9&scene=27#wechat_redirect) 
 - [【前端之巅】2019-12-27-​编程时来点小叛逆-是不是超爱这-10-种坏习惯？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493484&idx=1&sn=c538152295f468de163895704ce56126&chksm=f952522fce25db39c69193f7ff1398e2138c7fc97daaea6e9b349fbb998e56fde589eb7ccedc&scene=27#wechat_redirect) 
 - [【前端之巅】2019-12-27-​令人期待的-JavaScript-新特性](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493484&idx=2&sn=810dc2f5aeee1cf51897a18a7303de85&chksm=f952522fce25db39686b5f25d8aa030216d03e22b5f2d191f5a5b112894f2c96489df137eb7c&scene=27#wechat_redirect) 
 - [【前端之巅】2019-12-26-2019-年-JavaScript-生态圈调查报告出炉！](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493477&idx=1&sn=bb24b5c560cffbffaee67379817a5cf1&chksm=f9525226ce25db307299c90252461888e5b1466de452f715899526555ae42d7e862f68069c7b&scene=27#wechat_redirect) 
@@ -222,6 +225,8 @@
 - [【Aotu-|-凹凸实验室】2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/) 
 - [【Aotu-|-凹凸实验室】2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/) 
 - [【Aotu-|-凹凸实验室】2019-12-03-微信购物入口「京喜」首页跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/) 
+- [【奇舞周刊】2019-12-29-SpriteJS-3.0-正式发布-——-针对可视化大屏渲染优化性能提升10倍+](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590868&idx=1&sn=71d164aa9883cabb5a94ca31501b266c&chksm=8891deb0bfe657a613908d03d3ac7d4514d255d8f6f0a879feece1280d355b89ef0d876497f9&scene=27#wechat_redirect) 
+- [【奇舞周刊】2019-12-29-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590868&idx=2&sn=9001da9ac99420d1a6a34294966ca5a1&chksm=8891deb0bfe657a6a6bb18ccc02a273724fe9830cd91936064365d0ccae7710c93f4e8d2d54b&scene=27#wechat_redirect) 
 - [【奇舞周刊】2019-12-28-从-React-历史的长河里聊虚拟DOM及其价值](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=1&sn=8b6d3b47f80e21fd6fe45439258edfef&chksm=8891deb6bfe657a0ebab3da007b49538a0edb2a4d526dbf828a6ddc2193415b831c6c1cba948&scene=27#wechat_redirect) 
 - [【奇舞周刊】2019-12-28-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=2&sn=abb2cc25d67d557388fbc934d5ad4021&chksm=8891deb6bfe657a0d915e8f0c038af12eed42a64eed27aebd19394a8039c7d9daa25cc063c2c&scene=27#wechat_redirect) 
 - [【奇舞周刊】2019-12-28-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=3&sn=6ee48f6e89c8c22865f5aaedb3ea3d85&chksm=8891deb6bfe657a03a81c421f9d6a492c6753daae7f64b2d0db891ac4569a9c7d6dcad2ecd2b&scene=27#wechat_redirect) 
@@ -251,6 +256,10 @@
 - [【前端日刊】2019-12-09-2020年将至，大厂面试都喜欢考些什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484352&idx=1&sn=c780f09731fcc32823b287686562dcb4&chksm=eb1cc62adc6b4f3cc08902d4ee2e250dce5b5af06bed69de13c4ee9b4f38d841db376af74e51&scene=27#wechat_redirect) 
 - [【前端日刊】2019-12-07-Vue-CLI-首屏优化技巧](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484348&idx=1&sn=5a01f3b9c2e843dba222a2032d8b61cc&chksm=eb1cc656dc6b4f40c93b69306ebebb6960bc5f604d586311f4ba9b5a11d358d1400a60b8087c&scene=27#wechat_redirect) 
 - [【前端日刊】2019-12-03-记一次腾讯社招前端面试（已拿到offer入职）](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484346&idx=1&sn=2a8dd02ba85e1e87d6d9ca87734fa16c&chksm=eb1cc650dc6b4f46763c21eab612794983a94149ceb2509a7bef31e7e430aeaef07038763eae&scene=27#wechat_redirect) 
+- [【互联网架构师】2019-12-29-分布式与集群的区别究竟是什么？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=1&sn=870a369fcec75ffde6ee0f48159c475d&chksm=ea5cdad7dd2b53c1da561806c6c41a77d65c895bd09b080dd896da80a26aa245ed45d3278b4b&scene=27#wechat_redirect) 
+- [【互联网架构师】2019-12-29-每个公司都会用的短-URL-服务，怎么设计与实现？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=2&sn=b1b7f944fb39fd1cdfeae2d6b6099dca&chksm=ea5cdad7dd2b53c18db3a7872c7d0e1f40a7c9c1a46356761d8557e8dbdfd2bd0851d12246b0&scene=27#wechat_redirect) 
+- [【互联网架构师】2019-12-29-性能优化:要2个月才跑完的程序我是如何优化到到4小时的？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=3&sn=f8d5c870f93219c444cd1ea2cd9aed93&chksm=ea5cdad7dd2b53c1cfa4e53aa1d7d9d349c98d4a3d4e5f76c2e22f157ef82471b2942b03e517&scene=27#wechat_redirect) 
+- [【互联网架构师】2019-12-29-阿里巴巴技术总监全解中台架构](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=4&sn=d233aa8e2da85521ab08a9795787033a&chksm=ea5cdad7dd2b53c1ee8a1340cd435d562e619f469be5ab2f704ff0ac159b4e58900e7a94454a&scene=27#wechat_redirect) 
 - [【互联网架构师】2019-12-28-为什么要减少代码中该死的-if-else-嵌套](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=1&sn=eb891e999be4830f7852955e0028d5fb&chksm=ea5cdacedd2b53d8546c12106cf2eabb044c6998bd445d2f4a5a4efc2d1b911bce5f4da0cc82&scene=27#wechat_redirect) 
 - [【互联网架构师】2019-12-28-程序员常用资源工具集合（建议收藏）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=2&sn=3d6674b554e6a7e923f70855d01dd6d3&chksm=ea5cdacedd2b53d83814a2dea04223c953fe83eded6d0bee35bf554676c17113d17829c95914&scene=27#wechat_redirect) 
 - [【互联网架构师】2019-12-28-如何写一手好-SQL！！！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=3&sn=7533f1b0faba6ab560e78ff4bc2557bc&chksm=ea5cdacedd2b53d86285c08af58c6d453bc2f27ff99b70e4a42e941a0d8ead3e219d16f0d2be&scene=27#wechat_redirect) 
@@ -273,6 +282,10 @@
 - [【互联网架构师】2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [【互联网架构师】2019-12-23-ES亿级数据检索优化，三秒返回突破性能瓶颈](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=1&sn=77d2403461c32d7928133520b8ba8d17&chksm=ea5cda0fdd2b5319949f4ada3f67be43ef9c6488f76de8448465edd619f4e6f6c6860ec5dc03&scene=27#wechat_redirect) 
 - [【互联网架构师】2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [【InfoQ】2019-12-29-解读-Go-语言的-2019：Go-语言不行了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=1&sn=2edffc3a0b74e251862df61d9c50d03c&chksm=bdbe9f8a8ac9169c41e97f8729407e9c3da50c266ace8af4b9865c2ced52b6f09baaf7b23005&scene=27#wechat_redirect) 
+- [【InfoQ】2019-12-29-用文言文编程？Github“万星”代码背后，到底是何方神圣](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=2&sn=96af72c8510764c91c6e3dbd50f37a15&chksm=bdbe9f8a8ac9169c62d37307343da1a3a788fd52402f30a5b1e46eee8cf7c9db9807b552011b&scene=27#wechat_redirect) 
+- [【InfoQ】2019-12-29-10个好用的代码编辑器快捷键](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=3&sn=48a44c2e984a1be07c8ff3ecf643c513&chksm=bdbe9f8a8ac9169cd5b7c3567c315f651c0cc42db41a973225accf84d05c465fd0d329c3ff0e&scene=27#wechat_redirect) 
+- [【InfoQ】2019-12-29-偶然翻到前几年写的代码，我都震惊了](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=4&sn=8f2ae9e8582e6287e98108280768c05e&chksm=bdbe9f8a8ac9169cccb7107e9309d9848a4481a1c743502c91c97870a2cad7aa774bd5b79395&scene=27#wechat_redirect) 
 - [【InfoQ】2019-12-28-微信确认关闭朋友圈表情包评论功能；亚马逊刷单雇水军写好评；“90-后”将支付宝、游戏账号写进遗嘱丨Q](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=1&sn=2ee8a000b89e3ca5d6e4fc2300c82170&chksm=bdbe9f928ac916846d14cb00f5b5445fc4c009ad913d2901ca5e9e1acca215039e14571268af&scene=27#wechat_redirect) 
 - [【InfoQ】2019-12-28-如何打造可以无限扩展的分布式消息队列?](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=2&sn=2458e0561eeecf683652498b9634b4b5&chksm=bdbe9f928ac91684099e8a6e4351c3c6362f9f5421591081999486105212edb54a262b88eef9&scene=27#wechat_redirect) 
 - [【InfoQ】2019-12-28-必备知识点大起底！云计算的这些“3”“4”“5”你都知道吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=3&sn=6a443fb9b8235960839c7ef2f0a678b4&chksm=bdbe9f928ac9168435f9f1c5cf70e7b0b8b6807553d38d480e5328dde455005cd44048c30d39&scene=27#wechat_redirect) 
@@ -296,6 +309,7 @@
 - [【InfoQ】2019-12-24-金融大数据公司接连被查，爬虫到底犯法吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=3&sn=7492a5ad9e6dfc522d3acb6b4e92bc19&chksm=bdbe9f138ac91605b0e5405df6f331c48586b551cc73f15d7028fb93a54d8fcb7d900961bcab&scene=27#wechat_redirect) 
 - [【InfoQ】2019-12-24-这一天，成都的开发人员都经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=4&sn=7cf54be8cca25b28a57e4edfd44f7213&chksm=bdbe9f138ac916055bba182449a4c35f28747d57d0cead06d4880327e29b8c4877bc15b7e4ca&scene=27#wechat_redirect) 
 - [【InfoQ】2019-12-24-我们为什么用-gRPC-取代了-Kafka?](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=5&sn=38717e9a309a63a875db6f529ce53914&chksm=bdbe9f138ac91605da8344789c7621aa58009dd572bc0c00ecef0e7973271899efb4c75110a6&scene=27#wechat_redirect) 
+- [【JavaScript】2019-12-28-JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498111&idx=1&sn=3d195481f4e5037253b7358864975377&chksm=80f1afb7b78626a1aa95c9d61edb2c289d057e5529133f134277d15a20925ae3955f43c5d3fe&scene=27#wechat_redirect) 
 - [【JavaScript】2019-12-27-巧用-CSS-实现酷炫的充电动画](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498109&idx=1&sn=e4bddb19b9c933a1e53ec5a0e127dc4b&chksm=80f1afb5b78626a3aab518cbe8dd3620752d71c63a387efe3bcf32f65d9b4ca27dcffdb05df6&scene=27#wechat_redirect) 
 - [【JavaScript】2019-12-27-【工作】支付宝前端技术部社招前端P6/P7](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498109&idx=2&sn=026029fe4ae76ed36c4a79dad6af6ef3&chksm=80f1afb5b78626a314b6b308bcb720f3a37d5573e270d759de9a90ca3299f5b22a6e8644312f&scene=27#wechat_redirect) 
 - [【JavaScript】2019-12-26-前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498106&idx=1&sn=de56133af30eb6b73ae65e8e1bab4cd2&chksm=80f1afb2b78626a47c152dfb1f7fce10d29475a976198f7d5254fde03a6a44cf1c28de3467aa&scene=27#wechat_redirect) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-29 06:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-29 18:01:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -712,6 +712,7 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2019-12-29-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590868&idx=2&sn=9001da9ac99420d1a6a34294966ca5a1&chksm=8891deb0bfe657a6a6bb18ccc02a273724fe9830cd91936064365d0ccae7710c93f4e8d2d54b&scene=27#wechat_redirect) 
 - [2019-12-28-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=2&sn=abb2cc25d67d557388fbc934d5ad4021&chksm=8891deb6bfe657a0d915e8f0c038af12eed42a64eed27aebd19394a8039c7d9daa25cc063c2c&scene=27#wechat_redirect) 
 - [2019-12-27-奇舞周刊第-333-期：你不知道的-Stream](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590861&idx=1&sn=5521142efb2113b898537a5e80319624&chksm=8891dea9bfe657bf4b8b4501fb2bb27e354f9c5db389ff53a5861b363b185da37c1efd7dbc69&scene=27#wechat_redirect) 
 - [2019-12-26-Hybird动态布局，提升3倍开发效率的玩法！](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590857&idx=1&sn=e0d61708a799acade77afa0c046e244c&chksm=8891deadbfe657bb1f81124188dd01f506694c7302f78173d5a988faad0d42212096f11d28eb&scene=27#wechat_redirect) 
@@ -728,6 +729,8 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2019-12-29-分布式与集群的区别究竟是什么？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=1&sn=870a369fcec75ffde6ee0f48159c475d&chksm=ea5cdad7dd2b53c1da561806c6c41a77d65c895bd09b080dd896da80a26aa245ed45d3278b4b&scene=27#wechat_redirect) 
+- [2019-12-29-阿里巴巴技术总监全解中台架构](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=4&sn=d233aa8e2da85521ab08a9795787033a&chksm=ea5cdad7dd2b53c1ee8a1340cd435d562e619f469be5ab2f704ff0ac159b4e58900e7a94454a&scene=27#wechat_redirect) 
 - [2019-12-28-为什么要减少代码中该死的-if-else-嵌套](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=1&sn=eb891e999be4830f7852955e0028d5fb&chksm=ea5cdacedd2b53d8546c12106cf2eabb044c6998bd445d2f4a5a4efc2d1b911bce5f4da0cc82&scene=27#wechat_redirect) 
 - [2019-12-28-程序员常用资源工具集合（建议收藏）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=2&sn=3d6674b554e6a7e923f70855d01dd6d3&chksm=ea5cdacedd2b53d83814a2dea04223c953fe83eded6d0bee35bf554676c17113d17829c95914&scene=27#wechat_redirect) 
 - [2019-12-28-如何写一手好-SQL！！！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=3&sn=7533f1b0faba6ab560e78ff4bc2557bc&chksm=ea5cdacedd2b53d86285c08af58c6d453bc2f27ff99b70e4a42e941a0d8ead3e219d16f0d2be&scene=27#wechat_redirect) 
@@ -747,6 +750,9 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2019-12-29-解读-Go-语言的-2019：Go-语言不行了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=1&sn=2edffc3a0b74e251862df61d9c50d03c&chksm=bdbe9f8a8ac9169c41e97f8729407e9c3da50c266ace8af4b9865c2ced52b6f09baaf7b23005&scene=27#wechat_redirect) 
+- [2019-12-29-10个好用的代码编辑器快捷键](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=3&sn=48a44c2e984a1be07c8ff3ecf643c513&chksm=bdbe9f8a8ac9169cd5b7c3567c315f651c0cc42db41a973225accf84d05c465fd0d329c3ff0e&scene=27#wechat_redirect) 
+- [2019-12-29-偶然翻到前几年写的代码，我都震惊了](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=4&sn=8f2ae9e8582e6287e98108280768c05e&chksm=bdbe9f8a8ac9169cccb7107e9309d9848a4481a1c743502c91c97870a2cad7aa774bd5b79395&scene=27#wechat_redirect) 
 - [2019-12-28-如何打造可以无限扩展的分布式消息队列?](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=2&sn=2458e0561eeecf683652498b9634b4b5&chksm=bdbe9f928ac91684099e8a6e4351c3c6362f9f5421591081999486105212edb54a262b88eef9&scene=27#wechat_redirect) 
 - [2019-12-28-必备知识点大起底！云计算的这些“3”“4”“5”你都知道吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=3&sn=6a443fb9b8235960839c7ef2f0a678b4&chksm=bdbe9f928ac9168435f9f1c5cf70e7b0b8b6807553d38d480e5328dde455005cd44048c30d39&scene=27#wechat_redirect) 
 - [2019-12-28-英特尔AI医疗实战：软硬兼施加速医疗产业变革](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=4&sn=731fc4e79ff86a444c9509967df47225&chksm=bdbe9f928ac91684a1af447b559cbf451e770dce4557f6a2ff7d85d6bb110cb12bc620be3b5b&scene=27#wechat_redirect) 

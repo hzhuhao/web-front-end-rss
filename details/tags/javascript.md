@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-29 06:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-29 18:01:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -95,6 +95,7 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2019-12-28-package.json-知多少？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557630&idx=1&sn=25063b23905990b794207b3997ab11ec&chksm=8025593fb752d0294a5fe40e5dde01804da40a03010ae04c0b65d36e8d2a19f1d185836648ec&scene=27#wechat_redirect) 
 - [2019-12-24-7-个令人兴奋的-JavaScript-新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557603&idx=1&sn=5f8bbb90e3b2e707838d9d3c830047d6&chksm=80255922b752d034b3cfa9ff3ae1b61d4eea56c8a38b5cfadac09e72b810fbd09fb97ba76f33&scene=27#wechat_redirect) 
 - [2019-12-22-从-ES6-到-ES10-的新特性万字大总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557590&idx=1&sn=ba1e72941562fc810b417beaa43fd982&chksm=80255917b752d00100441a70ec7f63a4e6787594870863475bf4af68bf8009e3df673ee91148&scene=27#wechat_redirect) 
 - [2019-12-21-2019-年-JavaScript-现状调查报告火热出炉！](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557584&idx=1&sn=316ee8cf6fe4fdcf4315e249dcc0a277&chksm=80255911b752d007488bd00e9d2c1455ff4245d07ba0a2313cc32dd2ac165889093341c76480&scene=27#wechat_redirect) 
@@ -387,8 +388,10 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2019-12-29-SpriteJS-3.0-正式发布-——-针对可视化大屏渲染优化性能提升10倍+](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590868&idx=1&sn=71d164aa9883cabb5a94ca31501b266c&chksm=8891deb0bfe657a613908d03d3ac7d4514d255d8f6f0a879feece1280d355b89ef0d876497f9&scene=27#wechat_redirect) 
 - [2019-12-28-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=3&sn=6ee48f6e89c8c22865f5aaedb3ea3d85&chksm=8891deb6bfe657a03a81c421f9d6a492c6753daae7f64b2d0db891ac4569a9c7d6dcad2ecd2b&scene=27#wechat_redirect) 
 - [2019-12-26-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590857&idx=3&sn=8e315a7d8672013d88a0e5684d9dca50&chksm=8891deadbfe657bbcc444b756929b30166954b6e81e3595344fd3b389e5fcf38472f6daaf1e6&scene=27#wechat_redirect) 
 - [2019-12-19-国内首家！360加入-Ecma-参与-JavaScript-语言标准制定](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590818&idx=1&sn=77045b70b63641eda1b96d3de3cbe1d9&chksm=8891de46bfe657503d59800505c20a45db3846b86b60bb0b69c3b7037f368dea5592b7144339&scene=27#wechat_redirect) 
+- [2019-12-28-JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498111&idx=1&sn=3d195481f4e5037253b7358864975377&chksm=80f1afb7b78626a1aa95c9d61edb2c289d057e5529133f134277d15a20925ae3955f43c5d3fe&scene=27#wechat_redirect) 
 - [2019-12-23-2019-年-JavaScript-现状调查报告](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498096&idx=2&sn=b2a5cc840f0fc59e03210d6500904eb6&chksm=80f1afb8b78626aedbcb4823e752685c9944912feeb7c75d88f5c8be609dac69f24c5c981df7&scene=27#wechat_redirect) 
 - [2019-12-16-使用JS来动态操作CSS，你知道几种方法？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498083&idx=1&sn=f7ec3372ac9c7f09f7dc65804498ccd0&chksm=80f1afabb78626bdfb4beef367b3341f594236aeb87ce7c7e2704f22ca603498cd239658ce77&scene=27#wechat_redirect) 

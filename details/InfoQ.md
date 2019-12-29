@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2019-12-29 06:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-29 18:01:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2019-12-29-解读-Go-语言的-2019：Go-语言不行了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=1&sn=2edffc3a0b74e251862df61d9c50d03c&chksm=bdbe9f8a8ac9169c41e97f8729407e9c3da50c266ace8af4b9865c2ced52b6f09baaf7b23005&scene=27#wechat_redirect) 
+- [2019-12-29-用文言文编程？Github“万星”代码背后，到底是何方神圣](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=2&sn=96af72c8510764c91c6e3dbd50f37a15&chksm=bdbe9f8a8ac9169c62d37307343da1a3a788fd52402f30a5b1e46eee8cf7c9db9807b552011b&scene=27#wechat_redirect) 
+- [2019-12-29-10个好用的代码编辑器快捷键](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=3&sn=48a44c2e984a1be07c8ff3ecf643c513&chksm=bdbe9f8a8ac9169cd5b7c3567c315f651c0cc42db41a973225accf84d05c465fd0d329c3ff0e&scene=27#wechat_redirect) 
+- [2019-12-29-偶然翻到前几年写的代码，我都震惊了](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=4&sn=8f2ae9e8582e6287e98108280768c05e&chksm=bdbe9f8a8ac9169cccb7107e9309d9848a4481a1c743502c91c97870a2cad7aa774bd5b79395&scene=27#wechat_redirect) 
 - [2019-12-28-微信确认关闭朋友圈表情包评论功能；亚马逊刷单雇水军写好评；“90-后”将支付宝、游戏账号写进遗嘱丨Q](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=1&sn=2ee8a000b89e3ca5d6e4fc2300c82170&chksm=bdbe9f928ac916846d14cb00f5b5445fc4c009ad913d2901ca5e9e1acca215039e14571268af&scene=27#wechat_redirect) 
 - [2019-12-28-如何打造可以无限扩展的分布式消息队列?](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=2&sn=2458e0561eeecf683652498b9634b4b5&chksm=bdbe9f928ac91684099e8a6e4351c3c6362f9f5421591081999486105212edb54a262b88eef9&scene=27#wechat_redirect) 
 - [2019-12-28-必备知识点大起底！云计算的这些“3”“4”“5”你都知道吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=3&sn=6a443fb9b8235960839c7ef2f0a678b4&chksm=bdbe9f928ac9168435f9f1c5cf70e7b0b8b6807553d38d480e5328dde455005cd44048c30d39&scene=27#wechat_redirect) 
