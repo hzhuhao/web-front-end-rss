@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-29 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-30 19:19:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -730,6 +730,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2019-12-30-你知道Java里有多少种锁吗？15种锁最全总结！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489465&idx=2&sn=18151b69668950484d66ebe7d1884cee&chksm=ea5cdadfdd2b53c99971b749664b49b97efd7f8d7af192963e2326901f5cb3ab537a10f25834&scene=27#wechat_redirect) 
+- [2019-12-30-你在公司项目里面看过哪些操蛋的代码？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489465&idx=3&sn=b96bbfa261f03fa231491bfe85bfffc6&chksm=ea5cdadfdd2b53c90776b8a1f2095761e1d5bd2f8c16667a9d753a5fb802b01d168d933d27b3&scene=27#wechat_redirect) 
+- [2019-12-30-你碰到过的最难调的-Bug-是什么？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489465&idx=4&sn=416d2979b1359e4580071a7ff57eac3e&chksm=ea5cdadfdd2b53c9ffba0ee2013bb60fd117fe15df1a4ddd2cbabb915d4437653fcfb0756717&scene=27#wechat_redirect) 
 - [2019-12-29-分布式与集群的区别究竟是什么？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=1&sn=870a369fcec75ffde6ee0f48159c475d&chksm=ea5cdad7dd2b53c1da561806c6c41a77d65c895bd09b080dd896da80a26aa245ed45d3278b4b&scene=27#wechat_redirect) 
 - [2019-12-29-阿里巴巴技术总监全解中台架构](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=4&sn=d233aa8e2da85521ab08a9795787033a&chksm=ea5cdad7dd2b53c1ee8a1340cd435d562e619f469be5ab2f704ff0ac159b4e58900e7a94454a&scene=27#wechat_redirect) 
 - [2019-12-28-为什么要减少代码中该死的-if-else-嵌套](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489448&idx=1&sn=eb891e999be4830f7852955e0028d5fb&chksm=ea5cdacedd2b53d8546c12106cf2eabb044c6998bd445d2f4a5a4efc2d1b911bce5f4da0cc82&scene=27#wechat_redirect) 
@@ -779,3 +782,5 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2019-12-30-正确打造MVP：初创公司成功的起点（下篇）](https://juejin.im/post/5e09b372f265da33b956b584) 
+- [2019-12-30-fis框架smarty语法总结（二）——-系统函数](https://juejin.im/post/5e09cbacf265da33d039ec36) 

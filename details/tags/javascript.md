@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-29 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-30 19:19:49。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -395,3 +395,4 @@
 - [2019-12-28-JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498111&idx=1&sn=3d195481f4e5037253b7358864975377&chksm=80f1afb7b78626a1aa95c9d61edb2c289d057e5529133f134277d15a20925ae3955f43c5d3fe&scene=27#wechat_redirect) 
 - [2019-12-23-2019-年-JavaScript-现状调查报告](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498096&idx=2&sn=b2a5cc840f0fc59e03210d6500904eb6&chksm=80f1afb8b78626aedbcb4823e752685c9944912feeb7c75d88f5c8be609dac69f24c5c981df7&scene=27#wechat_redirect) 
 - [2019-12-16-使用JS来动态操作CSS，你知道几种方法？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498083&idx=1&sn=f7ec3372ac9c7f09f7dc65804498ccd0&chksm=80f1afabb78626bdfb4beef367b3341f594236aeb87ce7c7e2704f22ca603498cd239658ce77&scene=27#wechat_redirect) 
+- [2019-12-30-JS-中为啥使用-JSON-来代替简单对象会更快？](https://juejin.im/post/5e03fefe518825127d10934d) 
