@@ -3707,6 +3707,11 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "从 React 历史的长河里聊虚拟 DOM 及其价值",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557634&idx=1&sn=c574274aead2cee8d16ca472bd0ae659&chksm=802558c3b752d1d565f28bae48abb1d397fbc08b04c74d7108c82030cef49ae4b9b1209ae724&scene=27#wechat_redirect",
+        "date": "2019-12-29"
+      },
+      {
         "title": "package.json 知多少？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557630&idx=1&sn=25063b23905990b794207b3997ab11ec&chksm=8025593fb752d0294a5fe40e5dde01804da40a03010ae04c0b65d36e8d2a19f1d185836648ec&scene=27#wechat_redirect",
         "date": "2019-12-28"
@@ -13124,38 +13129,6 @@
         "title": "使用JS来动态操作CSS，你知道几种方法？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498083&idx=1&sn=f7ec3372ac9c7f09f7dc65804498ccd0&chksm=80f1afabb78626bdfb4beef367b3341f594236aeb87ce7c7e2704f22ca603498cd239658ce77&scene=27#wechat_redirect",
         "date": "2019-12-16"
-      }
-    ]
-  },
-  {
-    "rss": "https://rsshub.app/juejin/category/frontend",
-    "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": [
-      {
-        "title": "正确打造MVP：初创公司成功的起点（下篇）",
-        "link": "https://juejin.im/post/5e09b372f265da33b956b584",
-        "date": "2019-12-30"
-      },
-      {
-        "title": "fis框架smarty语法总结（二）—— 系统函数",
-        "link": "https://juejin.im/post/5e09cbacf265da33d039ec36",
-        "date": "2019-12-30"
-      },
-      {
-        "title": "CSS3 新特性",
-        "link": "https://juejin.im/post/5e087912e51d45584e58a0fc",
-        "date": "2019-12-30"
-      },
-      {
-        "title": "区分脚本运行错误和资源加载错误",
-        "link": "https://juejin.im/post/5e09ab12e51d45581308a591",
-        "date": "2019-12-30"
-      },
-      {
-        "title": "JS 中为啥使用 JSON 来代替简单对象会更快？",
-        "link": "https://juejin.im/post/5e03fefe518825127d10934d",
-        "date": "2019-12-30"
       }
     ]
   }
