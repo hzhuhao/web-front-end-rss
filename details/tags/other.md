@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-31 16:00:01。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-31 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -343,6 +343,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2019-12-31-让开发效率“飞起”的-5-个-VS-Code-插件](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493505&idx=1&sn=b9d081d094d6cb2cdabbe545721b76cd&chksm=f95252c2ce25dbd488fcfd97892bd973a1e93d7c915596b9b8a8d2113fd19b2f78049d05f090&scene=27#wechat_redirect) 
 - [2019-12-27-​编程时来点小叛逆-是不是超爱这-10-种坏习惯？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493484&idx=1&sn=c538152295f468de163895704ce56126&chksm=f952522fce25db39c69193f7ff1398e2138c7fc97daaea6e9b349fbb998e56fde589eb7ccedc&scene=27#wechat_redirect) 
 - [2019-12-26-俄罗斯成功断开全球互联网](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493477&idx=2&sn=d1e689f772eadc616700f49c34c38236&chksm=f9525226ce25db30e18f17430a8b14d47f55f3598caf30e5d98e7ad4962140b516c6bae15404&scene=27#wechat_redirect) 
 - [2019-12-25-20-个-2020-年软件开发趋势预测](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493470&idx=1&sn=b10d4ac4fcb2f20e0b419b4e1a6fc143&chksm=f952521dce25db0b7bda946e2b70b8be51990bf702c5a392788a83a7361bd681d3acb23aade6&scene=27#wechat_redirect) 
@@ -732,6 +733,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2019-12-31-2020-Java-跳槽高薪攻略.pdf](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489478&idx=1&sn=0a2856e487d493a50ef5a38bd0040153&chksm=ea5cdaa0dd2b53b6d11230ecfde5d21e776198872d067851cce4b15ea43ca64039e5c904af3f&scene=27#wechat_redirect) 
+- [2019-12-31-刷手支付已来，亚马逊技术专利曝光，不侵犯隐私、秒速支付](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489478&idx=2&sn=44382a243fb86b647a2891a8dc7c8f51&chksm=ea5cdaa0dd2b53b6d8253e9f32f255487475fc6d3cb524f6160bfb944da64968e26ae460f475&scene=27#wechat_redirect) 
+- [2019-12-31-HashMap-容量为什么总是为-2-的次幂？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489478&idx=4&sn=ad7321cd1948f0c8eaf955aaaa7a2046&chksm=ea5cdaa0dd2b53b67ac2b9ba12935e13cb59250180fa302bd61629968e24f8853f208790fe80&scene=27#wechat_redirect) 
 - [2019-12-30-你知道Java里有多少种锁吗？15种锁最全总结！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489465&idx=2&sn=18151b69668950484d66ebe7d1884cee&chksm=ea5cdadfdd2b53c99971b749664b49b97efd7f8d7af192963e2326901f5cb3ab537a10f25834&scene=27#wechat_redirect) 
 - [2019-12-30-你在公司项目里面看过哪些操蛋的代码？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489465&idx=3&sn=b96bbfa261f03fa231491bfe85bfffc6&chksm=ea5cdadfdd2b53c90776b8a1f2095761e1d5bd2f8c16667a9d753a5fb802b01d168d933d27b3&scene=27#wechat_redirect) 
 - [2019-12-30-你碰到过的最难调的-Bug-是什么？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489465&idx=4&sn=416d2979b1359e4580071a7ff57eac3e&chksm=ea5cdadfdd2b53c9ffba0ee2013bb60fd117fe15df1a4ddd2cbabb915d4437653fcfb0756717&scene=27#wechat_redirect) 
@@ -793,6 +797,3 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
-- [2019-12-31-如何在-C#-平台调用云开发？](https://juejin.im/post/5e0ac3cdf265da5d5429402a) 
-- [2019-12-31-Antd-中的-Trigger-是什么？](https://juejin.im/post/5e0a1f7b6fb9a016526ed1b5) 
-- [2019-12-31-你能写个数学计算器吗（二）](https://juejin.im/post/5e0a1342e51d4575b762375a) 
