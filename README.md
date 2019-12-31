@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2019-12-31 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2019-12-31 12:00:24，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,7 +19,7 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -27,7 +27,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 
 ## 文章链接
@@ -162,7 +162,7 @@
 </summary>
 
 
-- [2019-12-31-Oh-My-God，CSS-flex-basis原来有这么多细节](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-basis/) ![](assets/new.png)  
+- [2019-12-31-Oh-My-God，CSS-flex-basis原来有这么多细节](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-basis/)  
 - [2019-12-22-CSS-flex属性深入理解](https://www.zhangxinxu.com/wordpress/2019/12/css-flex-deep/)  
 - [2019-12-07-CSS-repeat函数详细介绍](https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/)  
 - [2019-11-30-CSS-minmax函数简介](https://www.zhangxinxu.com/wordpress/2019/11/css-grid-minmax/)  
@@ -401,6 +401,16 @@
 </summary>
 
 
+- [2019-12-31-Nginx，为什么依旧这么“香”？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=1&sn=5b5561460ca512cc93a6f79aeb661861&chksm=bdbe9faf8ac916b9bf7b430c15df90039a478ad9a8e16d54df8aa045d7d327adb87edf21bedf&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-31-云“杀死”了传统IT](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=2&sn=e8a7e127da36db104b88d9c6266d7395&chksm=bdbe9faf8ac916b969fd4358a7436e273c683d8ef3351b880324c42ec1a6f88dd3c580a478c8&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-31-元旦送礼，InfoQ-周边免费送！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=3&sn=2e2ea7003b8ce0451d10caa58d4020d0&chksm=bdbe9faf8ac916b9e0ec7e6ae2c2b7125056d6074481a822592ab801cfca275b6ca1908547d5&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-31-2019-年-22-款最佳软件开发工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=4&sn=66d8048fc34dc3061331e010b2c08d39&chksm=bdbe9faf8ac916b985f695ee900356e689e34afecc1e9aacd90632e858aff9d5a536920629ce&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-31-看完这篇你就知道什么是无服务器架构了](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=5&sn=c529c6646b3a22458f0aef3ef2c4d02c&chksm=bdbe9faf8ac916b9b427734aa16c6e6763446bef29dca4be21c384eb300404588d4eddea2400&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-30-为节省8亿做系统迁移，13亿记录出错，最终赔了29亿](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023325&idx=1&sn=cb864a779e4bfe98254e6a0c0886fc34&chksm=bdbe9f8e8ac9169891e29a0972326ec417aabde2538c8b4a123d9cd44a506b0d2e84b1df24e1&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-30-解读容器的-2019：把“以应用为中心”进行到底](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023325&idx=2&sn=4b824d897ae8396ccb4ea9241107c206&chksm=bdbe9f8e8ac91698477491e4fbd4edae5680ceb752a7d44de5ff0d6f35fe3d471112909e059e&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-30-阿里高级技术专家教你落地混沌工程](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023325&idx=3&sn=916efed2fe01b371d844b07ec70461f6&chksm=bdbe9f8e8ac91698fa92aeca4e21ac70aa4a02933072d7bf418bf72cc9b2e0ce8b92b5d2c80f&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-30-2020年就要来了，你的全场景AI开发计划制定好了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023325&idx=4&sn=7a9b2a22dd2ebfe2861ee354a06763eb&chksm=bdbe9f8e8ac9169856791f9752c04d0967f08cfca1e52489c37f8606c4d64f20e2a03ee5485d&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2019-12-30-让开发效率“飞起”的-5-个-VS-Code-插件](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023325&idx=5&sn=ff4956c55a4418339367ef9e8d48b2ba&chksm=bdbe9f8e8ac91698669f3e7a2059ad7ae881801b22beef451f5335e26afa74297b07314216cf&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-12-29-解读-Go-语言的-2019：Go-语言不行了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=1&sn=2edffc3a0b74e251862df61d9c50d03c&chksm=bdbe9f8a8ac9169c41e97f8729407e9c3da50c266ace8af4b9865c2ced52b6f09baaf7b23005&scene=27#wechat_redirect)  
 - [2019-12-29-用文言文编程？Github“万星”代码背后，到底是何方神圣](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=2&sn=96af72c8510764c91c6e3dbd50f37a15&chksm=bdbe9f8a8ac9169c62d37307343da1a3a788fd52402f30a5b1e46eee8cf7c9db9807b552011b&scene=27#wechat_redirect)  
 - [2019-12-29-10个好用的代码编辑器快捷键](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=3&sn=48a44c2e984a1be07c8ff3ecf643c513&chksm=bdbe9f8a8ac9169cd5b7c3567c315f651c0cc42db41a973225accf84d05c465fd0d329c3ff0e&scene=27#wechat_redirect)  
@@ -411,16 +421,6 @@
 - [2019-12-28-英特尔AI医疗实战：软硬兼施加速医疗产业变革](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023297&idx=4&sn=731fc4e79ff86a444c9509967df47225&chksm=bdbe9f928ac91684a1af447b559cbf451e770dce4557f6a2ff7d85d6bb110cb12bc620be3b5b&scene=27#wechat_redirect)  
 - [2019-12-27-2019-年数据泄露全年盘点，让人“触目惊心”](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=1&sn=4eda7270595b2c397c1b9a6ef6271df3&chksm=bdbe9fc38ac916d5fc777c72a96641699c8d0c908ca0e9fcd23f3abee6c4246227192adea394&scene=27#wechat_redirect)  
 - [2019-12-27-24岁的程序员，似乎已经看到了30岁后的自己-|-二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=2&sn=e7380397ef3b160211daeefcc8d100ab&chksm=bdbe9fc38ac916d5cfaaeea15512c8f3f68c335efaff4c9cc3982473842956772bc0e46bca99&scene=27#wechat_redirect)  
-- [2019-12-27-最受印度用户欢迎的相机产品之一，美图BeautyPlus和它背后的-Google-Cloud](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=3&sn=ca72957ef4fcc0277e9ba237878aefeb&chksm=bdbe9fc38ac916d57eed67948618170f999db29c14b58d578508b1d0851a24ee69f9b4b85a31&scene=27#wechat_redirect)  
-- [2019-12-27-基于CPU的AI深度优化，如何打造业内领先的MLPerf推理性能？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=4&sn=47cd2e1496a074a5fe1e0f7a3cabcb2d&chksm=bdbe9fc38ac916d50452497bfb6cc4f87ec181d3cae553cd6ccdbc222b912207e26cad4d0eaf&scene=27#wechat_redirect)  
-- [2019-12-26-计算机编程的历史演进：用-50-种编程语言写“Hello,World!”程序](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=1&sn=1060605ee57a5a3e4820a6ee9318daba&chksm=bdbe9fdb8ac916cd5401262507764ecb92f43e60c0292e49595be25154076c2151ebda6593de&scene=27#wechat_redirect)  
-- [2019-12-26-俄罗斯成功断开全球互联网](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=2&sn=310693f4fc2d6c7d2448f01d897e13bb&chksm=bdbe9fdb8ac916cd1d81af1e1746cdc3a206116d9eb86f1fb78d1f4738189077a4e14bdeb1b7&scene=27#wechat_redirect)  
-- [2019-12-26-都是程序员，凭什么他工资比我高，下班比我早？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=3&sn=7f2252cac80de72e38ff52bee4421453&chksm=bdbe9fdb8ac916cd6d8a657c13c8086ed489386decb55a90e3f8ddde53ca188c88137464a548&scene=27#wechat_redirect)  
-- [2019-12-26-划重点！英特尔AI开发者技术研讨会讲了哪些实战经验？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=4&sn=e230accc50022cfc35ba05c4b58b9aa7&chksm=bdbe9fdb8ac916cd84ce32bf998ea58d0aee1a7c3293292982910758fb04d2df6ba547d7b512&scene=27#wechat_redirect)  
-- [2019-12-26-也许实现真正的人工智能的唯一方法，是注入人工智障元素](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023240&idx=5&sn=ee6bc5fe053f3cb617f1cb31f4009abb&chksm=bdbe9fdb8ac916cd5dadd82a136806f5c6ad115581456134fbb59c9970fd76b77a0fd8d4ede0&scene=27#wechat_redirect)  
-- [2019-12-25-20-个-2020-年软件开发趋势预测](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=1&sn=21c05800fa296f802322cda2419d73f9&chksm=bdbe9f2d8ac9163bf82b9ea8e6fd105d92edff5f5def32a012bbdee35182a08f3b1599d2989e&scene=27#wechat_redirect)  
-- [2019-12-25-单身的程序员如何过一个热闹的圣诞？-|-圣诞福利](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=2&sn=73b5b7f93c20df882d725fbcb2d3a7e9&chksm=bdbe9f2d8ac9163bbb0781b46b7661cdc6abd96f9a52cd1e28d28b54c95a342967d366d3e8ad&scene=27#wechat_redirect)  
-- [2019-12-25-从云计算到云原生信息高速公路，上万个-Kubernetes-的最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023230&idx=3&sn=7c65cfb1c2965498a0351256c06c2867&chksm=bdbe9f2d8ac9163baff1263ad129a70e7c2be3be490349ce7c0dbc62e1994a9fa60f2937b1ca&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

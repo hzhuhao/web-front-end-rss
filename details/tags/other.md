@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2019-12-31 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2019-12-31 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -754,6 +754,15 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2019-12-31-云“杀死”了传统IT](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=2&sn=e8a7e127da36db104b88d9c6266d7395&chksm=bdbe9faf8ac916b969fd4358a7436e273c683d8ef3351b880324c42ec1a6f88dd3c580a478c8&scene=27#wechat_redirect) 
+- [2019-12-31-元旦送礼，InfoQ-周边免费送！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=3&sn=2e2ea7003b8ce0451d10caa58d4020d0&chksm=bdbe9faf8ac916b9e0ec7e6ae2c2b7125056d6074481a822592ab801cfca275b6ca1908547d5&scene=27#wechat_redirect) 
+- [2019-12-31-2019-年-22-款最佳软件开发工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=4&sn=66d8048fc34dc3061331e010b2c08d39&chksm=bdbe9faf8ac916b985f695ee900356e689e34afecc1e9aacd90632e858aff9d5a536920629ce&scene=27#wechat_redirect) 
+- [2019-12-31-看完这篇你就知道什么是无服务器架构了](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=5&sn=c529c6646b3a22458f0aef3ef2c4d02c&chksm=bdbe9faf8ac916b9b427734aa16c6e6763446bef29dca4be21c384eb300404588d4eddea2400&scene=27#wechat_redirect) 
+- [2019-12-30-为节省8亿做系统迁移，13亿记录出错，最终赔了29亿](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023325&idx=1&sn=cb864a779e4bfe98254e6a0c0886fc34&chksm=bdbe9f8e8ac9169891e29a0972326ec417aabde2538c8b4a123d9cd44a506b0d2e84b1df24e1&scene=27#wechat_redirect) 
+- [2019-12-30-解读容器的-2019：把“以应用为中心”进行到底](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023325&idx=2&sn=4b824d897ae8396ccb4ea9241107c206&chksm=bdbe9f8e8ac91698477491e4fbd4edae5680ceb752a7d44de5ff0d6f35fe3d471112909e059e&scene=27#wechat_redirect) 
+- [2019-12-30-阿里高级技术专家教你落地混沌工程](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023325&idx=3&sn=916efed2fe01b371d844b07ec70461f6&chksm=bdbe9f8e8ac91698fa92aeca4e21ac70aa4a02933072d7bf418bf72cc9b2e0ce8b92b5d2c80f&scene=27#wechat_redirect) 
+- [2019-12-30-2020年就要来了，你的全场景AI开发计划制定好了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023325&idx=4&sn=7a9b2a22dd2ebfe2861ee354a06763eb&chksm=bdbe9f8e8ac9169856791f9752c04d0967f08cfca1e52489c37f8606c4d64f20e2a03ee5485d&scene=27#wechat_redirect) 
+- [2019-12-30-让开发效率“飞起”的-5-个-VS-Code-插件](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023325&idx=5&sn=ff4956c55a4418339367ef9e8d48b2ba&chksm=bdbe9f8e8ac91698669f3e7a2059ad7ae881801b22beef451f5335e26afa74297b07314216cf&scene=27#wechat_redirect) 
 - [2019-12-29-解读-Go-语言的-2019：Go-语言不行了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=1&sn=2edffc3a0b74e251862df61d9c50d03c&chksm=bdbe9f8a8ac9169c41e97f8729407e9c3da50c266ace8af4b9865c2ced52b6f09baaf7b23005&scene=27#wechat_redirect) 
 - [2019-12-29-10个好用的代码编辑器快捷键](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=3&sn=48a44c2e984a1be07c8ff3ecf643c513&chksm=bdbe9f8a8ac9169cd5b7c3567c315f651c0cc42db41a973225accf84d05c465fd0d329c3ff0e&scene=27#wechat_redirect) 
 - [2019-12-29-偶然翻到前几年写的代码，我都震惊了](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=4&sn=8f2ae9e8582e6287e98108280768c05e&chksm=bdbe9f8a8ac9169cccb7107e9309d9848a4481a1c743502c91c97870a2cad7aa774bd5b79395&scene=27#wechat_redirect) 
