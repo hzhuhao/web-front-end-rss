@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2019-12-31 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-01 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-01-01-2019年IT互联网十大“车祸”现场丨金翻车奖](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=1&sn=a04e7b640e43b47203649c66ef07b339&chksm=bdbe90738ac91965fa9ac92eec60478a732d331656b25cfb58cbba3e121b42c66b091b14787b&scene=27#wechat_redirect) 
+- [2020-01-01-一位投资人眼中的“JetBrains-公司”](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=2&sn=9164450b192cd5ea04023dad0b1b1526&chksm=bdbe90738ac9196564696044ffec2473a182739499c7a283eb92e27ad94abc6933960af36230&scene=27#wechat_redirect) 
+- [2020-01-01-大规模数据场景下的实时数据分析](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=3&sn=ce50bf9170795a4271449d87e0140cf2&chksm=bdbe90738ac91965236122df212fe555a373f93870e188c90e6a9e5f446f04b90ee7ad931fdd&scene=27#wechat_redirect) 
+- [2020-01-01-2019-年-WebAssembly-盘点：跟-JavaScript-的相爱相杀](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=4&sn=e394fc4a06284ba3ce2aad8be353ea21&chksm=bdbe90738ac919659a4682c67a7819a4066b6acbd875e7a7e28b2d54a5b60e7474e1bb0f7529&scene=27#wechat_redirect) 
+- [2020-01-01-机器学习不是万能药，产品经理应该何时对它说-“No”-？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=5&sn=b0dc3e5cdba64b3f0bbb0ba072beb0b2&chksm=bdbe90738ac91965031ddba1b4491a140f333c0b47caf85b3fc3a35a5db8217eaacdc43b4d89&scene=27#wechat_redirect) 
 - [2019-12-31-Nginx，为什么依旧这么“香”？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=1&sn=5b5561460ca512cc93a6f79aeb661861&chksm=bdbe9faf8ac916b9bf7b430c15df90039a478ad9a8e16d54df8aa045d7d327adb87edf21bedf&scene=27#wechat_redirect) 
 - [2019-12-31-云“杀死”了传统IT](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=2&sn=e8a7e127da36db104b88d9c6266d7395&chksm=bdbe9faf8ac916b969fd4358a7436e273c683d8ef3351b880324c42ec1a6f88dd3c580a478c8&scene=27#wechat_redirect) 
 - [2019-12-31-元旦送礼，InfoQ-周边免费送！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=3&sn=2e2ea7003b8ce0451d10caa58d4020d0&chksm=bdbe9faf8ac916b9e0ec7e6ae2c2b7125056d6074481a822592ab801cfca275b6ca1908547d5&scene=27#wechat_redirect) 
