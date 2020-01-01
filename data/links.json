@@ -10083,6 +10083,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "CSS paint-order祝大家元旦快乐",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/",
+        "date": "2020-01-01"
+      },
+      {
         "title": "Oh My God，CSS flex-basis原来有这么多细节",
         "link": "https://www.zhangxinxu.com/wordpress/2019/12/css-flex-basis/",
         "date": "2019-12-31"
@@ -12759,6 +12764,11 @@
     "title": "前端日刊",
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
+      {
+        "title": "VS Code成主宰、Vue备受热捧！2019前端开发趋势必读",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484375&idx=1&sn=40251dd1d0cf4e83c41f9766b36ea896&chksm=eb1cc63ddc6b4f2b69a515a1f0b3bc890917b5674e5595befc40edac2653e5505e23efd4e442&scene=27#wechat_redirect",
+        "date": "2019-12-31"
+      },
       {
         "title": "面向BAT大厂新零售大型线上场景实战（大厂前端架构师带你实战企业级线上项目）",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484373&idx=1&sn=b539a1ca6b8b5696929d5d05b8d315e7&chksm=eb1cc63fdc6b4f29b111e2161082d09ac7381d9ef7748450aefe15e84de86d5c64c33e82920f&scene=27#wechat_redirect",
