@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-01-02 10:03:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-02 16:25:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-01-02-2020，前端早读课的朋友](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=2&sn=f01522b348502efaa337284624b69222&chksm=bd497db48a3ef4a2b6fca2590f001d15c3013514d9f21e41c3ea9f6799caf241041f26164d79&scene=27#wechat_redirect) 
 - [2019-12-31-【第1822期】黑暗模式的过去、现在和未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235362&idx=1&sn=1bcc0e25751eaa0c80855266834342be&chksm=bd497da68a3ef4b00291739a61afc0d6911b03c1c10086e3ba9ffb15a2c31974054964e71c11&scene=27#wechat_redirect) 
 - [2019-12-27-【第1818期】网站无障碍化简介](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235337&idx=1&sn=8bd3e2d52e7316aeaeddb423aef399ea&chksm=bd497d8d8a3ef49b0e95dcd5d38f5b58d57faff8b72b577bf841e9826e55c374a87bac732487&scene=27#wechat_redirect) 
 - [2019-12-27-【图书】前端技术架构与工程](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235337&idx=2&sn=aa838562cec9c33a9d6124b7efe4a737&chksm=bd497d8d8a3ef49b6ef259a1555b92b6c7ea0661306ea01265b20001b90d0403a6885e123591&scene=27#wechat_redirect) 
@@ -730,6 +731,7 @@
 - [2019-12-23-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=2&sn=3cbc2d1abf107cb0c0505b17c72c352f&chksm=8891de55bfe65743171a14bfe0f1f627563d3c5c857b30964a5c89923e2a40c2f6d5957f5590&scene=27#wechat_redirect) 
 - [2019-12-21-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590831&idx=2&sn=da29fa45f7ac52c7b27c248ef20349a5&chksm=8891de4bbfe6575d5defd69131153521f7ad93bb10c934ce339e6b917085ba1e7bc500efc176&scene=27#wechat_redirect) 
 - [2019-12-20-奇舞周刊第-332-期：你绝对想不到柱形图背后有这么多故事](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590823&idx=1&sn=00cbbcc4df1d729eeaef921799e68954&chksm=8891de43bfe6575506d0997367b18a2acf29cdb0dd9e80958de11ee448aa56101dcb0f533303&scene=27#wechat_redirect) 
+- [2020-01-01-前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484377&idx=1&sn=9f00743c4e551a90671150f730a2063c&chksm=eb1cc633dc6b4f25a6d899a900b8f49cf9e2ec3a40900e927f98a57cde0af209d292f5f9fc27&scene=27#wechat_redirect) 
 - [2019-12-27-面向BAT大厂新零售大型线上场景实战（大厂前端架构师带你实战企业级线上项目）](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484373&idx=1&sn=b539a1ca6b8b5696929d5d05b8d315e7&chksm=eb1cc63fdc6b4f29b111e2161082d09ac7381d9ef7748450aefe15e84de86d5c64c33e82920f&scene=27#wechat_redirect) 
 - [2019-12-25-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484369&idx=1&sn=6c07f38130853bce623273cc5310b982&chksm=eb1cc63bdc6b4f2dfe906292a5e9360c7a851c4c7115b7373ed37ace4b51acb28ecb116c8832&scene=27#wechat_redirect) 
 - [2019-12-23-2019年前端发展趋势总结](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484365&idx=1&sn=819719f5c568b4127142aee5cd2c581f&chksm=eb1cc627dc6b4f3161f03ba7731f5dbed05a24b80001314b09d76fe7dc45601d8fd0ef8bfcfa&scene=27#wechat_redirect) 
@@ -737,6 +739,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-01-02-今日头条这么厉害，被称为宇宙条！到底用了什么牛逼技术！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489490&idx=1&sn=7e99b838c9be520ef70e870cf73dc432&chksm=ea5cdab4dd2b53a2564cc237cc6250460e1463e773a1c41af5cc315ddd6ff1f18b40423bba2d&scene=27#wechat_redirect) 
+- [2020-01-02-为啥国人偏爱-Mybatis，而老外喜欢-Hibernate/JPA-呢？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489490&idx=2&sn=3deee1d7e656c41245a637a7c6ac81cb&chksm=ea5cdab4dd2b53a27ad5ec8dc6c2b27fdee6491c1847417edd9dbea5e7b9d9ae74aabeb41020&scene=27#wechat_redirect) 
+- [2020-01-02-新来的妹子把几百万数据放入了内存，系统立马爆了，我不得已做到了妹子傍边，手把手教妹子](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489490&idx=3&sn=3cb0704c7c02bb067670917c2c8a62bf&chksm=ea5cdab4dd2b53a27f6b986ca1713f4749b8b1f5d40375887a12146089618afd1614bdbd51ec&scene=27#wechat_redirect) 
 - [2020-01-01-一些不错-Java-实践推荐！建议熟读并背诵默写全文](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=1&sn=3a3e60c48d1fdded6300239037f6bb35&chksm=ea5cdaaddd2b53bb33e2b81894837c1a3d6564f0345bb54f170396544efbc7e0cc8c033bc080&scene=27#wechat_redirect) 
 - [2020-01-01-身为-Java-程序员必须掌握的-10-款开源工具！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=2&sn=c65151560c2247e9f4243424979ff81d&chksm=ea5cdaaddd2b53bb4f83c73fc8d5655e4826864e6760adfdf5bbc6d54c5cd1fde0007dcee12e&scene=27#wechat_redirect) 
 - [2020-01-01-IDEA-2019.3-最新激活教程，有效期到-2089-年!](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=3&sn=a8d8657b8676a1fcb1c8949cfe48c985&chksm=ea5cdaaddd2b53bb34a5ce1695a52189740136ffdad480ba2d0ceefe887e8565df9d0fc41cea&scene=27#wechat_redirect) 
@@ -767,6 +772,11 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-01-02-InfoQ-编辑部开年聊聊-2020-年值得关注的十大技术趋势](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=1&sn=a1c8e6ec097dfbfd8a722362f19778a3&chksm=bdbe90718ac91967c18a4e6d6e739fbaff7abe0119a5ef6cbd1dd56c3ce5300bd4e56e23d2cd&scene=27#wechat_redirect) 
+- [2020-01-02-专访朱啸虎：投出滴滴与饿了么之后，我如何考察创业者？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=2&sn=33146e1ac30d00e94892ad765f56d1a9&chksm=bdbe90718ac91967d16f0f5133a74fc795a472043c22af15332e9738d5e2745c972a645e49c2&scene=27#wechat_redirect) 
+- [2020-01-02-被繁杂的数据搞到头大？不如让TA帮你实现快准狠！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=3&sn=e6fe92d732599af1b37b9c46c3fff723&chksm=bdbe90718ac919678d86ae440b95914fcc78a18a8a699d10c940540913c1500e56bb671dc793&scene=27#wechat_redirect) 
+- [2020-01-02-犹犹豫豫的战斗民族，终于要测试稳定币了](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=4&sn=376e6dcc2a09a33e4aba476d2ebf8976&chksm=bdbe90718ac91967a604d4020a2a27da8c063f4a42d35c2e4dac5114bd497f59ff762f21d670&scene=27#wechat_redirect) 
+- [2020-01-02-如果想将-C-代码等价转换为-Rust，我们需要注意什么？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=5&sn=1c79b95564c21f60cb7f93511b7ba9e5&chksm=bdbe90718ac919670341020af3b28046de52d9014e845ed779e8a3831e7ec7703dcb14f2ebaf&scene=27#wechat_redirect) 
 - [2020-01-01-2019年IT互联网十大“车祸”现场丨金翻车奖](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=1&sn=a04e7b640e43b47203649c66ef07b339&chksm=bdbe90738ac91965fa9ac92eec60478a732d331656b25cfb58cbba3e121b42c66b091b14787b&scene=27#wechat_redirect) 
 - [2020-01-01-一位投资人眼中的“JetBrains-公司”](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=2&sn=9164450b192cd5ea04023dad0b1b1526&chksm=bdbe90738ac9196564696044ffec2473a182739499c7a283eb92e27ad94abc6933960af36230&scene=27#wechat_redirect) 
 - [2020-01-01-大规模数据场景下的实时数据分析](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=3&sn=ce50bf9170795a4271449d87e0140cf2&chksm=bdbe90738ac91965236122df212fe555a373f93870e188c90e6a9e5f446f04b90ee7ad931fdd&scene=27#wechat_redirect) 
@@ -808,4 +818,5 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-02-2020年再也不用为多级表头和行列合并头大了](https://juejin.im/post/5e0c2301f265da5d345fee26) 
 - [2020-01-02-六年码农生涯的-2019-总结：君子坐而论道，少年起而行之](https://juejin.im/post/5e0c608d6fb9a048217a13c1) 

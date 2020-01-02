@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-01-01 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-02 16:25:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-01-02-InfoQ-编辑部开年聊聊-2020-年值得关注的十大技术趋势](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=1&sn=a1c8e6ec097dfbfd8a722362f19778a3&chksm=bdbe90718ac91967c18a4e6d6e739fbaff7abe0119a5ef6cbd1dd56c3ce5300bd4e56e23d2cd&scene=27#wechat_redirect) 
+- [2020-01-02-专访朱啸虎：投出滴滴与饿了么之后，我如何考察创业者？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=2&sn=33146e1ac30d00e94892ad765f56d1a9&chksm=bdbe90718ac91967d16f0f5133a74fc795a472043c22af15332e9738d5e2745c972a645e49c2&scene=27#wechat_redirect) 
+- [2020-01-02-被繁杂的数据搞到头大？不如让TA帮你实现快准狠！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=3&sn=e6fe92d732599af1b37b9c46c3fff723&chksm=bdbe90718ac919678d86ae440b95914fcc78a18a8a699d10c940540913c1500e56bb671dc793&scene=27#wechat_redirect) 
+- [2020-01-02-犹犹豫豫的战斗民族，终于要测试稳定币了](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=4&sn=376e6dcc2a09a33e4aba476d2ebf8976&chksm=bdbe90718ac91967a604d4020a2a27da8c063f4a42d35c2e4dac5114bd497f59ff762f21d670&scene=27#wechat_redirect) 
+- [2020-01-02-如果想将-C-代码等价转换为-Rust，我们需要注意什么？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=5&sn=1c79b95564c21f60cb7f93511b7ba9e5&chksm=bdbe90718ac919670341020af3b28046de52d9014e845ed779e8a3831e7ec7703dcb14f2ebaf&scene=27#wechat_redirect) 
 - [2020-01-01-2019年IT互联网十大“车祸”现场丨金翻车奖](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=1&sn=a04e7b640e43b47203649c66ef07b339&chksm=bdbe90738ac91965fa9ac92eec60478a732d331656b25cfb58cbba3e121b42c66b091b14787b&scene=27#wechat_redirect) 
 - [2020-01-01-一位投资人眼中的“JetBrains-公司”](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=2&sn=9164450b192cd5ea04023dad0b1b1526&chksm=bdbe90738ac9196564696044ffec2473a182739499c7a283eb92e27ad94abc6933960af36230&scene=27#wechat_redirect) 
 - [2020-01-01-大规模数据场景下的实时数据分析](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=3&sn=ce50bf9170795a4271449d87e0140cf2&chksm=bdbe90738ac91965236122df212fe555a373f93870e188c90e6a9e5f446f04b90ee7ad931fdd&scene=27#wechat_redirect) 

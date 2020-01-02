@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1824期】Serverless 函数应用架构升级",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=1&sn=99dff32d6eedcea7bc1b0d4a6e35c19f&chksm=bd497db48a3ef4a27683e67dbb75ea0829561827c7a0a570f6e48a61858e129c688334c99339&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "2020，前端早读课的朋友",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=2&sn=f01522b348502efaa337284624b69222&chksm=bd497db48a3ef4a2b6fca2590f001d15c3013514d9f21e41c3ea9f6799caf241041f26164d79&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
         "title": "【第1823期】Git子仓库深入浅出",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235364&idx=1&sn=1782b02b50ab6c20957bd770346cb082&chksm=bd497da08a3ef4b606e48b3b7bdd2c69bb3889f84c0025287712d65d4f7f048941091fb529e8&scene=27#wechat_redirect",
         "date": "2020-01-01"
@@ -11691,6 +11701,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "GMTC |《小程序跨框架开发的探索与实践》演讲全文",
+        "link": "https://aotu.io/notes/2020/01/02/gmtc/",
+        "date": "2020-01-02"
+      },
+      {
         "title": "羚珑项目自动化测试方案实践",
         "link": "https://aotu.io/notes/2019/12/05/ling-testing-project/",
         "date": "2019-12-05"
@@ -12765,6 +12780,11 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "前端2019年调查报告",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484377&idx=1&sn=9f00743c4e551a90671150f730a2063c&chksm=eb1cc633dc6b4f25a6d899a900b8f49cf9e2ec3a40900e927f98a57cde0af209d292f5f9fc27&scene=27#wechat_redirect",
+        "date": "2020-01-01"
+      },
+      {
         "title": "VS Code成主宰、Vue备受热捧！2019前端开发趋势必读",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484375&idx=1&sn=40251dd1d0cf4e83c41f9766b36ea896&chksm=eb1cc63ddc6b4f2b69a515a1f0b3bc890917b5674e5595befc40edac2653e5505e23efd4e442&scene=27#wechat_redirect",
         "date": "2019-12-31"
@@ -12836,6 +12856,26 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "今日头条这么厉害，被称为宇宙条！到底用了什么牛逼技术！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489490&idx=1&sn=7e99b838c9be520ef70e870cf73dc432&chksm=ea5cdab4dd2b53a2564cc237cc6250460e1463e773a1c41af5cc315ddd6ff1f18b40423bba2d&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "为啥国人偏爱 Mybatis，而老外喜欢 Hibernate/JPA 呢？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489490&idx=2&sn=3deee1d7e656c41245a637a7c6ac81cb&chksm=ea5cdab4dd2b53a27ad5ec8dc6c2b27fdee6491c1847417edd9dbea5e7b9d9ae74aabeb41020&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "新来的妹子把几百万数据放入了内存，系统立马爆了，我不得已做到了妹子傍边，手把手教妹子",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489490&idx=3&sn=3cb0704c7c02bb067670917c2c8a62bf&chksm=ea5cdab4dd2b53a27f6b986ca1713f4749b8b1f5d40375887a12146089618afd1614bdbd51ec&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "最近面试 Java 后端开发的感受！现在的环境太。。。",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489490&idx=4&sn=d76f83dffa5b55f8225a21c22f6fcc42&chksm=ea5cdab4dd2b53a22860f3e018aa7fef2c7c31336c0e8950a0b0960bc3839d2b1a9f4ed2b40a&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
       {
         "title": "一些不错 Java 实践推荐！建议熟读并背诵默写全文",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=1&sn=3a3e60c48d1fdded6300239037f6bb35&chksm=ea5cdaaddd2b53bb33e2b81894837c1a3d6564f0345bb54f170396544efbc7e0cc8c033bc080&scene=27#wechat_redirect",
@@ -13028,6 +13068,31 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "InfoQ 编辑部开年聊聊 2020 年值得关注的十大技术趋势",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=1&sn=a1c8e6ec097dfbfd8a722362f19778a3&chksm=bdbe90718ac91967c18a4e6d6e739fbaff7abe0119a5ef6cbd1dd56c3ce5300bd4e56e23d2cd&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "专访朱啸虎：投出滴滴与饿了么之后，我如何考察创业者？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=2&sn=33146e1ac30d00e94892ad765f56d1a9&chksm=bdbe90718ac91967d16f0f5133a74fc795a472043c22af15332e9738d5e2745c972a645e49c2&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "被繁杂的数据搞到头大？不如让TA帮你实现快准狠！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=3&sn=e6fe92d732599af1b37b9c46c3fff723&chksm=bdbe90718ac919678d86ae440b95914fcc78a18a8a699d10c940540913c1500e56bb671dc793&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "犹犹豫豫的战斗民族，终于要测试稳定币了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=4&sn=376e6dcc2a09a33e4aba476d2ebf8976&chksm=bdbe90718ac91967a604d4020a2a27da8c063f4a42d35c2e4dac5114bd497f59ff762f21d670&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "如果想将 C 代码等价转换为 Rust，我们需要注意什么？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=5&sn=1c79b95564c21f60cb7f93511b7ba9e5&chksm=bdbe90718ac919670341020af3b28046de52d9014e845ed779e8a3831e7ec7703dcb14f2ebaf&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
       {
         "title": "2019年IT互联网十大“车祸”现场丨金翻车奖",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=1&sn=a04e7b640e43b47203649c66ef07b339&chksm=bdbe90738ac91965fa9ac92eec60478a732d331656b25cfb58cbba3e121b42c66b091b14787b&scene=27#wechat_redirect",
@@ -13246,6 +13311,16 @@
     "link": "https://www.ershicimi.com/a/893",
     "items": [
       {
+        "title": "拿不到offer退全款，廖雪峰的“Web 全栈架构师”开班了",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498123&idx=1&sn=b4bc433a8cf73edae22c5e6b8787c4b2&chksm=80f1af43b78626559cbe91f2747501e9ca0f4725b1a9664bfb13b59590548fff66cab33be57f&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "JavaScript 败北，TypeScript 大势所趋？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498125&idx=1&sn=9f0bf219718aaed89d35d8b154e5e446&chksm=80f1af45b78626531c302d9636dd377b648d5396885c77350b0cc57517bec7821cff1eb1c18e&scene=27#wechat_redirect",
+        "date": "2020-01-01"
+      },
+      {
         "title": "可悲的是，95%的招聘启事都是这样的",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498120&idx=1&sn=832318a030e693cdb79655f7abcd1ef6&chksm=80f1af40b78626560a96dce5811fa028104c2bdc380eeb9b1374f1ece6efcade5812e3dbcfa2&scene=27#wechat_redirect",
         "date": "2019-12-31"
@@ -13337,6 +13412,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "震惊！拉动一下控制台大小，后台请求数量爆炸，竟是没做好防抖与节流！！",
+        "link": "https://juejin.im/post/5e0d7ab9f265da5d691035b5",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "redux懒人教程",
+        "link": "https://juejin.im/post/5e0ac63bf265da5d5537f7f2",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "阅读Vue源码（一）响应式原理",
+        "link": "https://juejin.im/post/5e085122f265da33d21e8d0f",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "2020年再也不用为多级表头和行列合并头大了",
+        "link": "https://juejin.im/post/5e0c2301f265da5d345fee26",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "基用React Hooks + Antd快速实现一个列表页",
+        "link": "https://juejin.im/post/5df8b978e51d45584006e1f5",
+        "date": "2020-01-02"
+      },
       {
         "title": "JavaScript 中创建对象的那些事儿",
         "link": "https://juejin.im/post/5e0caa726fb9a047ef326a3f",
