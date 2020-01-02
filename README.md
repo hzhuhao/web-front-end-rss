@@ -11,25 +11,24 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-02 16:25:48，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-02 18:00:29，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)![](assets/dot.png)   
-- [掘金前端](#掘金前端)![](assets/dot.png)   
 
 ## 文章链接
 
@@ -101,6 +100,10 @@
 </summary>
 
 
+- [2020-01-02-RN-转小程序引擎-Alita-2.0-正式发布：基于-webpack-进行重构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493526&idx=1&sn=5fab13390e8368c7687340133e9a14c5&chksm=f95252d5ce25dbc3d9636f18375971d907b6eb7d1c16b758edd23e1ed3cf921d32ed49bbf386&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-02-浏览器中原生运行的第四种语言诞生：WebAssembly-1.0-成为-W3C-的推荐标准](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493526&idx=2&sn=cb74f9c0e51c99fa4fd7e51174a3a87a&chksm=f95252d5ce25dbc37da8cf561f9840a0b3706b9b7814a1f653bca01d6926377f56cf0ced3481&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-02-2020-来了，你的研发团队培训计划安排好了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493526&idx=3&sn=a3060221c4965c1f7ffd196249a4e2e7&chksm=f95252d5ce25dbc301f086fd95b4954ae915c1f43ed1656f703e5f70c6a712092db159577116&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-01-2019年IT互联网十大“车祸”现场丨金翻车奖](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493512&idx=1&sn=93dc9fb54b0ba67008f79c8e72c787e2&chksm=f95252cbce25dbdd54396f6dafc0a10ba8727886af63f2adb297c5e467906948622f0f64fc54&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2019-12-31-让开发效率“飞起”的-5-个-VS-Code-插件](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493505&idx=1&sn=b9d081d094d6cb2cdabbe545721b76cd&chksm=f95252c2ce25dbd488fcfd97892bd973a1e93d7c915596b9b8a8d2113fd19b2f78049d05f090&scene=27#wechat_redirect)  
 - [2019-12-31-Vue-CLI-4-发布：自动化升级过程，支持自定义包管理器](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493505&idx=2&sn=1b1aedc2bde30c4ab70eb3c9cd0be287&chksm=f95252c2ce25dbd474fb880502a4e1c9de2fa6dc22071e0a8bbc54510910be645ef99beb5c7a&scene=27#wechat_redirect)  
 - [2019-12-30-​2019-年-WebAssembly-盘点：跟-Javascript-的相爱相杀](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493498&idx=1&sn=83e7d7c0cb2d7359e36cce77c4c23440&chksm=f9525239ce25db2ffba8a9069de7dac3253c96f81a910274f8e344d199add0f3245e9793763d&scene=27#wechat_redirect)  
@@ -117,10 +120,6 @@
 - [2019-12-24-10-个好用的-Visual-Studio-Code-插件](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493450&idx=2&sn=7e277195553635b5cbb72e607e641ba0&chksm=f9525209ce25db1ffc9ffe2702535b8492a931fa13b7e0a3911dec22e70be93de20a9df59a49&scene=27#wechat_redirect)  
 - [2019-12-23-倏忽一年：回顾点评前端-2019-重大事件、趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493443&idx=1&sn=32225c032ca7be990c1c02800c401d1d&chksm=f9525200ce25db16d1b61d1040464736b3ac23f1fc42af332569bdf0ba83b42cfa16329ef227&scene=27#wechat_redirect)  
 - [2019-12-23-​如何使用-GraphQL-构建-TypeScript+React-应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493443&idx=2&sn=00ef89575ddbb3315a40c14ba903d758&chksm=f9525200ce25db16a58f5cd5edcbc7253720a6836a569e9c593fb8ab388820d08f0908d9fb2a&scene=27#wechat_redirect)  
-- [2019-12-22-前端周报：JavaScript-引擎-V8-发布；JavaScript-2019-生态报告出炉；新版](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493433&idx=1&sn=0240fcad93dffb5e9b1922f223f6ae21&chksm=f952527ace25db6c25e51375ece3117b3bf95d656372c131e6ad9115cc0b1355612bf9e27ed4&scene=27#wechat_redirect)  
-- [2019-12-20-冰与火之歌：JavaScript-的困境与挑战](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493428&idx=1&sn=2dba2006528dda1e01bc3630659c38fe&chksm=f9525277ce25db614867dbc3a286c857c1c94f56710fbafaf76abc3233f937d701779f226e2a&scene=27#wechat_redirect)  
-- [2019-12-20-与-AI、AR-等技术融合，才是-5G-的发展趋势](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493428&idx=2&sn=8fb7052287fbaeb762ea4a1d74c1fdb1&chksm=f9525277ce25db61acd4bfa19bc5c050eef6e41bc05776dd98340f98a3cf0d643691bae993ed&scene=27#wechat_redirect)  
-- [2019-12-20-提高开发效率的-9-个工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493428&idx=3&sn=3c6e5fde33b9f80228a888933dc4ba29&chksm=f9525277ce25db61e706cf2162b3b8c54d3a69171298c79d1650c0336fff9a28edc6c503a959&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -287,7 +286,6 @@
 </summary>
 
 
-- [2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/) ![](assets/new.png)  
 - [2019-12-05-羚珑项目自动化测试方案实践](https://aotu.io/notes/2019/12/05/ling-testing-project/)  
 - [2019-12-04-前端也要懂一点-MongoDB-Schema-设计](https://aotu.io/notes/2019/12/04/6-Rules-of-Thumb-for-MongoDB-Schema-Design/)  
 - [2019-12-03-微信购物入口「京喜」首页跨端开发与优化实践](https://aotu.io/notes/2019/12/03/jingxi-index/)  
@@ -307,6 +305,7 @@
 - [2019-02-28-决战性能之巅---Taro-H5-转换与优化升级](https://aotu.io/notes/2019/02/28/taro-h5-optimize/)  
 - [2019-02-25-Taro-UI-2.0-发布：新增自定义主题功能，适配更多小程序](https://aotu.io/notes/2019/02/25/taro-ui-2.0/)  
 - [2018-12-24-全新-Phaser-3-游戏引擎特性一览](https://aotu.io/notes/2018/12/23/phaser3/)  
+- [2018-12-18-Taro-1.2：将已有微信小程序转换为多端应用](https://aotu.io/notes/2018/12/17/taro-1-2/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -456,27 +455,6 @@
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect)  
 - [2019-12-16-使用JS来动态操作CSS，你知道几种方法？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498083&idx=1&sn=f7ec3372ac9c7f09f7dc65804498ccd0&chksm=80f1afabb78626bdfb4beef367b3341f594236aeb87ce7c7e2704f22ca603498cd239658ce77&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/JavaScript.md)
-
-<div align="right"><a href="#来源分类">⬆返回顶部</a></div>
-</details>
-
-<details open>
-<summary id="掘金前端">
- 掘金前端
-</summary>
-
-
-- [2020-01-02-震惊！拉动一下控制台大小，后台请求数量爆炸，竟是没做好防抖与节流！！](https://juejin.im/post/5e0d7ab9f265da5d691035b5) ![](assets/new.png)  
-- [2020-01-02-redux懒人教程](https://juejin.im/post/5e0ac63bf265da5d5537f7f2) ![](assets/new.png)  
-- [2020-01-02-阅读Vue源码（一）响应式原理](https://juejin.im/post/5e085122f265da33d21e8d0f) ![](assets/new.png)  
-- [2020-01-02-2020年再也不用为多级表头和行列合并头大了](https://juejin.im/post/5e0c2301f265da5d345fee26) ![](assets/new.png)  
-- [2020-01-02-基用React-Hooks-+-Antd快速实现一个列表页](https://juejin.im/post/5df8b978e51d45584006e1f5) ![](assets/new.png)  
-- [2020-01-02-JavaScript-中创建对象的那些事儿](https://juejin.im/post/5e0caa726fb9a047ef326a3f)  
-- [2020-01-02-从零开发一套完整的vue项目开发环境](https://juejin.im/post/5e0cba76f265da5d4e27480c)  
-- [2020-01-02-图解-JavaScript-对象-—-现代-JavaScript-教程](https://juejin.im/post/5e08a183518825494939209d)  
-- [2020-01-02-六年码农生涯的-2019-总结：君子坐而论道，少年起而行之](https://juejin.im/post/5e0c608d6fb9a048217a13c1)  
-- [2020-01-01-【Youtube】CSS-best-practices---Introduction-to-Atomic-CSS](https://youtu.be/PcrzsCdoFoY)  
-- [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
 </details>

@@ -7014,6 +7014,26 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "RN 转小程序引擎 Alita 2.0 正式发布：基于 webpack 进行重构",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493526&idx=1&sn=5fab13390e8368c7687340133e9a14c5&chksm=f95252d5ce25dbc3d9636f18375971d907b6eb7d1c16b758edd23e1ed3cf921d32ed49bbf386&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "浏览器中原生运行的第四种语言诞生：WebAssembly 1.0 成为 W3C 的推荐标准",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493526&idx=2&sn=cb74f9c0e51c99fa4fd7e51174a3a87a&chksm=f95252d5ce25dbc37da8cf561f9840a0b3706b9b7814a1f653bca01d6926377f56cf0ced3481&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "2020 来了，你的研发团队培训计划安排好了吗？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493526&idx=3&sn=a3060221c4965c1f7ffd196249a4e2e7&chksm=f95252d5ce25dbc301f086fd95b4954ae915c1f43ed1656f703e5f70c6a712092db159577116&scene=27#wechat_redirect",
+        "date": "2020-01-02"
+      },
+      {
+        "title": "2019年IT互联网十大“车祸”现场丨金翻车奖",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493512&idx=1&sn=93dc9fb54b0ba67008f79c8e72c787e2&chksm=f95252cbce25dbdd54396f6dafc0a10ba8727886af63f2adb297c5e467906948622f0f64fc54&scene=27#wechat_redirect",
+        "date": "2020-01-01"
+      },
+      {
         "title": "让开发效率“飞起”的 5 个 VS Code 插件",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493505&idx=1&sn=b9d081d094d6cb2cdabbe545721b76cd&chksm=f95252c2ce25dbd488fcfd97892bd973a1e93d7c915596b9b8a8d2113fd19b2f78049d05f090&scene=27#wechat_redirect",
         "date": "2019-12-31"
@@ -11701,11 +11721,6 @@
     "link": "/atom.xml",
     "items": [
       {
-        "title": "GMTC |《小程序跨框架开发的探索与实践》演讲全文",
-        "link": "https://aotu.io/notes/2020/01/02/gmtc/",
-        "date": "2020-01-02"
-      },
-      {
         "title": "羚珑项目自动化测试方案实践",
         "link": "https://aotu.io/notes/2019/12/05/ling-testing-project/",
         "date": "2019-12-05"
@@ -13404,63 +13419,6 @@
         "title": "使用JS来动态操作CSS，你知道几种方法？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498083&idx=1&sn=f7ec3372ac9c7f09f7dc65804498ccd0&chksm=80f1afabb78626bdfb4beef367b3341f594236aeb87ce7c7e2704f22ca603498cd239658ce77&scene=27#wechat_redirect",
         "date": "2019-12-16"
-      }
-    ]
-  },
-  {
-    "rss": "https://rsshub.app/juejin/category/frontend",
-    "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
-    "items": [
-      {
-        "title": "震惊！拉动一下控制台大小，后台请求数量爆炸，竟是没做好防抖与节流！！",
-        "link": "https://juejin.im/post/5e0d7ab9f265da5d691035b5",
-        "date": "2020-01-02"
-      },
-      {
-        "title": "redux懒人教程",
-        "link": "https://juejin.im/post/5e0ac63bf265da5d5537f7f2",
-        "date": "2020-01-02"
-      },
-      {
-        "title": "阅读Vue源码（一）响应式原理",
-        "link": "https://juejin.im/post/5e085122f265da33d21e8d0f",
-        "date": "2020-01-02"
-      },
-      {
-        "title": "2020年再也不用为多级表头和行列合并头大了",
-        "link": "https://juejin.im/post/5e0c2301f265da5d345fee26",
-        "date": "2020-01-02"
-      },
-      {
-        "title": "基用React Hooks + Antd快速实现一个列表页",
-        "link": "https://juejin.im/post/5df8b978e51d45584006e1f5",
-        "date": "2020-01-02"
-      },
-      {
-        "title": "JavaScript 中创建对象的那些事儿",
-        "link": "https://juejin.im/post/5e0caa726fb9a047ef326a3f",
-        "date": "2020-01-02"
-      },
-      {
-        "title": "从零开发一套完整的vue项目开发环境",
-        "link": "https://juejin.im/post/5e0cba76f265da5d4e27480c",
-        "date": "2020-01-02"
-      },
-      {
-        "title": "图解 JavaScript 对象 — 现代 JavaScript 教程",
-        "link": "https://juejin.im/post/5e08a183518825494939209d",
-        "date": "2020-01-02"
-      },
-      {
-        "title": "六年码农生涯的 2019 总结：君子坐而论道，少年起而行之",
-        "link": "https://juejin.im/post/5e0c608d6fb9a048217a13c1",
-        "date": "2020-01-02"
-      },
-      {
-        "title": "【Youtube】CSS best practices - Introduction to Atomic CSS",
-        "link": "https://youtu.be/PcrzsCdoFoY",
-        "date": "2020-01-01"
       }
     ]
   }
