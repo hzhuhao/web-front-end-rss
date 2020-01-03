@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-03 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-03 22:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -390,6 +390,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-01-02-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=3&sn=896346ccc26c9e996738aa18b932ed31&chksm=8891de89bfe6579fb1b1280dfdd13ed5a2e1cc981526b274f0419f842a6ba1bfd211a545258c&scene=27#wechat_redirect) 
 - [2019-12-29-SpriteJS-3.0-正式发布-——-针对可视化大屏渲染优化性能提升10倍+](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590868&idx=1&sn=71d164aa9883cabb5a94ca31501b266c&chksm=8891deb0bfe657a613908d03d3ac7d4514d255d8f6f0a879feece1280d355b89ef0d876497f9&scene=27#wechat_redirect) 
 - [2019-12-28-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=3&sn=6ee48f6e89c8c22865f5aaedb3ea3d85&chksm=8891deb6bfe657a03a81c421f9d6a492c6753daae7f64b2d0db891ac4569a9c7d6dcad2ecd2b&scene=27#wechat_redirect) 
 - [2019-12-26-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590857&idx=3&sn=8e315a7d8672013d88a0e5684d9dca50&chksm=8891deadbfe657bbcc444b756929b30166954b6e81e3595344fd3b389e5fcf38472f6daaf1e6&scene=27#wechat_redirect) 

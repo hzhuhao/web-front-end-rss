@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-03 18:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-03 22:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,8 +140,12 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-01-01-CSS-paint-order祝大家元旦快乐](https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/) 
 - [【阮一峰的网络日志】2020-01-03-科技爱好者周刊：第-89-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html) 
 - [【Aotu-|-凹凸实验室】2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/) 
+- [【奇舞周刊】2020-01-02-Docker-搭建你的第一个-Node-项目到服务器](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=1&sn=0aa80a7c9549af69a64332bb92a94804&chksm=8891de89bfe6579f09d3cd9a116b63ae2a90409d4e9a8b4359a61fca32d955c47f096b02d5b2&scene=27#wechat_redirect) 
+- [【奇舞周刊】2020-01-02-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=2&sn=7beead6b67999c973b9b8bf02b80322b&chksm=8891de89bfe6579f42b8895e0bbd592b7e6523964a1375f5c4f3304421a8e3b522a858cc1482&scene=27#wechat_redirect) 
+- [【奇舞周刊】2020-01-02-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=3&sn=896346ccc26c9e996738aa18b932ed31&chksm=8891de89bfe6579fb1b1280dfdd13ed5a2e1cc981526b274f0419f842a6ba1bfd211a545258c&scene=27#wechat_redirect) 
 - [【奇舞周刊】2020-01-01-W3C万维物联网解析：编程API篇](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590888&idx=1&sn=1445ef8054f8fcdba30fa3c5115562cd&chksm=8891de8cbfe6579ab334f6d8c4616ffa2e32f98bc1a18fdd29726f1c715e7feaf88517bc2462&scene=27#wechat_redirect) 
 - [【奇舞周刊】2020-01-01-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590888&idx=2&sn=b2b0c80dfd769639ab8d03f1cbeccd85&chksm=8891de8cbfe6579a19bc2109ed89b29471307a841124dc2ba3fd50e1747498f4f554b9e42bfe&scene=27#wechat_redirect) 
+- [【前端日刊】2020-01-03-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484379&idx=1&sn=1a4f37167ab1e6670ad371d49e28f567&chksm=eb1cc631dc6b4f27b90a56a1e582a5ae22e1c82bf97eea28c08e73ff2c26e9b7fcec7461e91f&scene=27#wechat_redirect) 
 - [【前端日刊】2020-01-01-前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484377&idx=1&sn=9f00743c4e551a90671150f730a2063c&chksm=eb1cc633dc6b4f25a6d899a900b8f49cf9e2ec3a40900e927f98a57cde0af209d292f5f9fc27&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-03-JDK的3个Bug](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489496&idx=1&sn=9b3ff6c201394238dfd1db56d1b8d0c2&chksm=ea5cdabedd2b53a8ea49183e7d158de70417bf9158586728bcbb8d34194094a563e47fcb8c6a&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-03-枚举很好用啊，为啥阿里不建议返回值用枚举？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489496&idx=2&sn=b107920c0be5bbad12680207276dc833&chksm=ea5cdabedd2b53a8aba64318d8147e6f06a493aeaaaac06b66a1246bfdf2698dcfd628af362e&scene=27#wechat_redirect) 
@@ -169,6 +173,7 @@
 - [【InfoQ】2020-01-01-大规模数据场景下的实时数据分析](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=3&sn=ce50bf9170795a4271449d87e0140cf2&chksm=bdbe90738ac91965236122df212fe555a373f93870e188c90e6a9e5f446f04b90ee7ad931fdd&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-01-2019-年-WebAssembly-盘点：跟-JavaScript-的相爱相杀](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=4&sn=e394fc4a06284ba3ce2aad8be353ea21&chksm=bdbe90738ac919659a4682c67a7819a4066b6acbd875e7a7e28b2d54a5b60e7474e1bb0f7529&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-01-机器学习不是万能药，产品经理应该何时对它说-“No”-？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=5&sn=b0dc3e5cdba64b3f0bbb0ba072beb0b2&chksm=bdbe90738ac91965031ddba1b4491a140f333c0b47caf85b3fc3a35a5db8217eaacdc43b4d89&scene=27#wechat_redirect) 
+- [【JavaScript】2020-01-03-你连-HTTPS-原理都不懂，还讲“中间人攻击”？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498127&idx=1&sn=622d03d1460eaeda2b40a77e1e4f28ae&chksm=80f1af47b786265119a57b314931276630be5efdacdf341dbd597fa89e29bcf534223d5dae15&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-02-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498123&idx=1&sn=b4bc433a8cf73edae22c5e6b8787c4b2&chksm=80f1af43b78626559cbe91f2747501e9ca0f4725b1a9664bfb13b59590548fff66cab33be57f&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-01-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498125&idx=1&sn=9f0bf219718aaed89d35d8b154e5e446&chksm=80f1af45b78626531c302d9636dd377b648d5396885c77350b0cc57517bec7821cff1eb1c18e&scene=27#wechat_redirect) 
 
