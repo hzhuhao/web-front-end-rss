@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-03 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-03 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -134,6 +134,7 @@
 - [【前端之巅】2020-01-01-2019年IT互联网十大“车祸”现场丨金翻车奖](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493512&idx=1&sn=93dc9fb54b0ba67008f79c8e72c787e2&chksm=f95252cbce25dbdd54396f6dafc0a10ba8727886af63f2adb297c5e467906948622f0f64fc54&scene=27#wechat_redirect) 
 - [【张鑫旭-鑫空间-鑫生活】2020-01-02-CSS-inherit是继承，那initial和unset呢？](https://www.zhangxinxu.com/wordpress/2020/01/css-initial-unset/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-01-01-CSS-paint-order祝大家元旦快乐](https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/) 
+- [【阮一峰的网络日志】2020-01-03-科技爱好者周刊：第-89-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html) 
 - [【Aotu-|-凹凸实验室】2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/) 
 - [【奇舞周刊】2020-01-01-W3C万维物联网解析：编程API篇](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590888&idx=1&sn=1445ef8054f8fcdba30fa3c5115562cd&chksm=8891de8cbfe6579ab334f6d8c4616ffa2e32f98bc1a18fdd29726f1c715e7feaf88517bc2462&scene=27#wechat_redirect) 
 - [【奇舞周刊】2020-01-01-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590888&idx=2&sn=b2b0c80dfd769639ab8d03f1cbeccd85&chksm=8891de8cbfe6579a19bc2109ed89b29471307a841124dc2ba3fd50e1747498f4f554b9e42bfe&scene=27#wechat_redirect) 
@@ -145,6 +146,11 @@
 - [【互联网架构师】2020-01-01-一些不错-Java-实践推荐！建议熟读并背诵默写全文](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=1&sn=3a3e60c48d1fdded6300239037f6bb35&chksm=ea5cdaaddd2b53bb33e2b81894837c1a3d6564f0345bb54f170396544efbc7e0cc8c033bc080&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-01-身为-Java-程序员必须掌握的-10-款开源工具！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=2&sn=c65151560c2247e9f4243424979ff81d&chksm=ea5cdaaddd2b53bb4f83c73fc8d5655e4826864e6760adfdf5bbc6d54c5cd1fde0007dcee12e&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-01-IDEA-2019.3-最新激活教程，有效期到-2089-年!](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=3&sn=a8d8657b8676a1fcb1c8949cfe48c985&chksm=ea5cdaaddd2b53bb34a5ce1695a52189740136ffdad480ba2d0ceefe887e8565df9d0fc41cea&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-03-“创造，就值得被肯定”，一名程序员的艺术人生丨二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=1&sn=a27fff1d7af3c81a667fd1cde2db8a84&chksm=bdbe90118ac91907a7dfedff7c6a500acc70e6f8f74ff85e4d2b6c53d361654b44867cf015c4&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-03-聊聊过去十年，数据库技术的发展趋势](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=2&sn=eb7fd698d2bdb7a17912adb85904d68e&chksm=bdbe90118ac91907c5c1cf8a8b8c25a88b25b7f72d21e58cbdb2e0379f4aae36dfc7b03feb84&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-03-2019-让我再看你一眼](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=3&sn=4ca82a3c8ee024407202ae60f10c10c7&chksm=bdbe90118ac91907c0aa73d8bd6451f8aa1b5d2ad715e368929a97d02000303cdd48bb93b0a0&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-03-达摩院宣布十大技术趋势，AI-有望迈过两大关键门槛](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=4&sn=67cf01286180accd0e517178f5d5dd1b&chksm=bdbe90118ac919078e54a2878334be01ac19d26b1266da9c1439e76b39ef87ee67315c09ee1b&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-03-2019-年度-Python-类库-Top-10](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=5&sn=00eeee97ef40bb303ebbdf5451b1a676&chksm=bdbe90118ac919071bd67a82f3c4d62ddfb4031de61ccfe2f8ba67c847f9b3d867f6e72bc822&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-02-InfoQ-编辑部开年聊聊-2020-年值得关注的十大技术趋势](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=1&sn=a1c8e6ec097dfbfd8a722362f19778a3&chksm=bdbe90718ac91967c18a4e6d6e739fbaff7abe0119a5ef6cbd1dd56c3ce5300bd4e56e23d2cd&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-02-专访朱啸虎：投出滴滴与饿了么之后，我如何考察创业者？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=2&sn=33146e1ac30d00e94892ad765f56d1a9&chksm=bdbe90718ac91967d16f0f5133a74fc795a472043c22af15332e9738d5e2745c972a645e49c2&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-02-被繁杂的数据搞到头大？不如让TA帮你实现快准狠！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023394&idx=3&sn=e6fe92d732599af1b37b9c46c3fff723&chksm=bdbe90718ac919678d86ae440b95914fcc78a18a8a699d10c940540913c1500e56bb671dc793&scene=27#wechat_redirect) 
