@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-04 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-04 22:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【前端早读课】2020-01-04-【第1826期】HTML5-之跨域通讯（postMessage）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235398&idx=1&sn=21a9fa247aadaaed4fd2bf6f1b59606f&chksm=bd497dc28a3ef4d49d4a46bdfb5e7a7699da631bdc37532655ef96e31e6605b8531fc0031229&scene=27#wechat_redirect) 
+- [【前端早读课】2020-01-04-【直播】第三届SEEConf蚂蚁金服体验科技大会](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235398&idx=2&sn=a50c541e3e36c83672429d231be07065&chksm=bd497dc28a3ef4d479524d0e4c0c4b827a313fc1af2c499ea36e735421512fdf4ccfe6891ce8&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-03-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235387&idx=1&sn=b0c681712fe9a9d08f8e29bc0390c277&chksm=bd497dbf8a3ef4a9d48907ae1f2a64bd9e521a2aca4cf9bed12b021e42a07e9d56241c92dea8&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-03-【第1825期】了解什么是微前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235387&idx=2&sn=e5bb3b717c894676bc05cfeba50cf6d5&chksm=bd497dbf8a3ef4a9a544c45cc1c75dafd45f7438ced6915abc9bbe5e90e2920b0cecb354741c&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-02-【第1824期】Serverless-函数应用架构升级](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=1&sn=99dff32d6eedcea7bc1b0d4a6e35c19f&chksm=bd497db48a3ef4a27683e67dbb75ea0829561827c7a0a570f6e48a61858e129c688334c99339&scene=27#wechat_redirect) 
@@ -141,6 +143,10 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-01-01-CSS-paint-order祝大家元旦快乐](https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/) 
 - [【阮一峰的网络日志】2020-01-03-科技爱好者周刊：第-89-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html) 
 - [【Aotu-|-凹凸实验室】2020-01-02-GMTC-|《小程序跨框架开发的探索与实践》演讲全文](https://aotu.io/notes/2020/01/02/gmtc/) 
+- [【奇舞周刊】2020-01-04-npm-install-原理分析](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590902&idx=1&sn=5f83fa90ed4683e9ab81dc9fcb7058cf&chksm=8891de92bfe65784b53d0746e169727d4ad306ec35e3c2e4ae035b16116081d409b8f1e23868&scene=27#wechat_redirect) 
+- [【奇舞周刊】2020-01-04-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590902&idx=2&sn=4babac412e7f0c0d57267e3aabcab47d&chksm=8891de92bfe657844ebe24a111e93f1e95ae2f3128d3ff314d4dd898f9057264dd6ffb7a7e5d&scene=27#wechat_redirect) 
+- [【奇舞周刊】2020-01-04-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590902&idx=3&sn=b9695cc33024267a0a39748aba9e009f&chksm=8891de92bfe657846513ec63d0ba2adc7f84cc8febfc658ff41c04c74d7e0a6b81886a280493&scene=27#wechat_redirect) 
+- [【奇舞周刊】2020-01-03-奇舞周刊第-334-期:-llhttp-是如何使-Node.js-性能翻倍的？](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590897&idx=1&sn=f12379a4d63aa834ad3d920039d35147&chksm=8891de95bfe657835c4f27126c0494520c3b16ee2db877aad2d5d4d5f8634e675b4a60b457d7&scene=27#wechat_redirect) 
 - [【奇舞周刊】2020-01-02-Docker-搭建你的第一个-Node-项目到服务器](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=1&sn=0aa80a7c9549af69a64332bb92a94804&chksm=8891de89bfe6579f09d3cd9a116b63ae2a90409d4e9a8b4359a61fca32d955c47f096b02d5b2&scene=27#wechat_redirect) 
 - [【奇舞周刊】2020-01-02-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=2&sn=7beead6b67999c973b9b8bf02b80322b&chksm=8891de89bfe6579f42b8895e0bbd592b7e6523964a1375f5c4f3304421a8e3b522a858cc1482&scene=27#wechat_redirect) 
 - [【奇舞周刊】2020-01-02-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=3&sn=896346ccc26c9e996738aa18b932ed31&chksm=8891de89bfe6579fb1b1280dfdd13ed5a2e1cc981526b274f0419f842a6ba1bfd211a545258c&scene=27#wechat_redirect) 
