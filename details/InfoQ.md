@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-01-03 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-04 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-01-04-“万瓷王”常程加入小米，担任集团副总裁；Python2正式“退休”；HR-在工位宣读裁员？神州优车道](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=1&sn=a2c9260525da30a3adf244c1f1350800&chksm=bdbe90008ac9191679905c239c6c97b0034087f2234ae84e62951eac06f6316a6081b67ddec8&scene=27#wechat_redirect) 
+- [2020-01-04-值得推荐的-Docker-安全开源工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=2&sn=362f9b615d49a54b9dad9185b0f7e430&chksm=bdbe90008ac919169b68314b50f7007622a86c7f47814684c12037820fef7787e333777849b6&scene=27#wechat_redirect) 
+- [2020-01-04-五分钟了解机器学习十大算法](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=3&sn=5970502d6bdd967c282416ec83493508&chksm=bdbe90008ac919168ca28b60b6894d58eddc8d273d8c56dfd052017d9bb5a2a7d5cc86e4d55c&scene=27#wechat_redirect) 
+- [2020-01-04-今天我们来聊一聊产业互联网时代下海量数据处理问题](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=4&sn=4f73b4a97d6be5f72e7075a5bac892c5&chksm=bdbe90008ac919168434524a3a8890b2400bf6761a31bf2d0e15b4f646a8025667960d42c357&scene=27#wechat_redirect) 
 - [2020-01-03-“创造，就值得被肯定”，一名程序员的艺术人生丨二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=1&sn=a27fff1d7af3c81a667fd1cde2db8a84&chksm=bdbe90118ac91907a7dfedff7c6a500acc70e6f8f74ff85e4d2b6c53d361654b44867cf015c4&scene=27#wechat_redirect) 
 - [2020-01-03-聊聊过去十年，数据库技术的发展趋势](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=2&sn=eb7fd698d2bdb7a17912adb85904d68e&chksm=bdbe90118ac91907c5c1cf8a8b8c25a88b25b7f72d21e58cbdb2e0379f4aae36dfc7b03feb84&scene=27#wechat_redirect) 
 - [2020-01-03-2019-让我再看你一眼](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=3&sn=4ca82a3c8ee024407202ae60f10c10c7&chksm=bdbe90118ac91907c0aa73d8bd6451f8aa1b5d2ad715e368929a97d02000303cdd48bb93b0a0&scene=27#wechat_redirect) 

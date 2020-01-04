@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-04 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-04 12:00:24，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -27,7 +27,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 
 ## 文章链接
@@ -69,7 +69,7 @@
 </summary>
 
 
-- [2020-01-03-从-12.67s-到-1.06s-的网站性能优化实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557661&idx=1&sn=56b82dd94e719188dbec7e543c537976&chksm=802558dcb752d1cab16eca4c5fbff05c69ba4a7ac712d1e6987189cb04174f2dc8d1ffc96b3a&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-03-从-12.67s-到-1.06s-的网站性能优化实战](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557661&idx=1&sn=56b82dd94e719188dbec7e543c537976&chksm=802558dcb752d1cab16eca4c5fbff05c69ba4a7ac712d1e6987189cb04174f2dc8d1ffc96b3a&scene=27#wechat_redirect)  
 - [2020-01-02-拿不到offer免费学，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557656&idx=1&sn=3c327624eb3ce799f779733a559005f6&chksm=802558d9b752d1cf70caaac4691ea083d7fe0cebad5799f1e331c5a95d8c928d2b18de2a9d47&scene=27#wechat_redirect)  
 - [2020-01-02-Node.js-模块系统源码探微](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557656&idx=2&sn=a431994c856fb02af099cf7907ce172b&chksm=802558d9b752d1cf75b664166003e4d047d057e1ae31ac00b0a6fdb052da9aaac7b8461d515e&scene=27#wechat_redirect)  
 - [2020-01-01-2008-至今，Chrome-如何成长为霸主](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557654&idx=1&sn=3aeb66ee35eab28659d0f668b64d0281&chksm=802558d7b752d1c1fe9f5ad4524733c32160919e8f8dfe37670aa5f0c7191a4059870abd0ee0&scene=27#wechat_redirect)  
@@ -405,6 +405,10 @@
 </summary>
 
 
+- [2020-01-04-“万瓷王”常程加入小米，担任集团副总裁；Python2正式“退休”；HR-在工位宣读裁员？神州优车道](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=1&sn=a2c9260525da30a3adf244c1f1350800&chksm=bdbe90008ac9191679905c239c6c97b0034087f2234ae84e62951eac06f6316a6081b67ddec8&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-04-值得推荐的-Docker-安全开源工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=2&sn=362f9b615d49a54b9dad9185b0f7e430&chksm=bdbe90008ac919169b68314b50f7007622a86c7f47814684c12037820fef7787e333777849b6&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-04-五分钟了解机器学习十大算法](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=3&sn=5970502d6bdd967c282416ec83493508&chksm=bdbe90008ac919168ca28b60b6894d58eddc8d273d8c56dfd052017d9bb5a2a7d5cc86e4d55c&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-04-今天我们来聊一聊产业互联网时代下海量数据处理问题](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=4&sn=4f73b4a97d6be5f72e7075a5bac892c5&chksm=bdbe90008ac919168434524a3a8890b2400bf6761a31bf2d0e15b4f646a8025667960d42c357&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-03-“创造，就值得被肯定”，一名程序员的艺术人生丨二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=1&sn=a27fff1d7af3c81a667fd1cde2db8a84&chksm=bdbe90118ac91907a7dfedff7c6a500acc70e6f8f74ff85e4d2b6c53d361654b44867cf015c4&scene=27#wechat_redirect)  
 - [2020-01-03-聊聊过去十年，数据库技术的发展趋势](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=2&sn=eb7fd698d2bdb7a17912adb85904d68e&chksm=bdbe90118ac91907c5c1cf8a8b8c25a88b25b7f72d21e58cbdb2e0379f4aae36dfc7b03feb84&scene=27#wechat_redirect)  
 - [2020-01-03-2019-让我再看你一眼](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=3&sn=4ca82a3c8ee024407202ae60f10c10c7&chksm=bdbe90118ac91907c0aa73d8bd6451f8aa1b5d2ad715e368929a97d02000303cdd48bb93b0a0&scene=27#wechat_redirect)  
@@ -421,10 +425,6 @@
 - [2020-01-01-2019-年-WebAssembly-盘点：跟-JavaScript-的相爱相杀](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=4&sn=e394fc4a06284ba3ce2aad8be353ea21&chksm=bdbe90738ac919659a4682c67a7819a4066b6acbd875e7a7e28b2d54a5b60e7474e1bb0f7529&scene=27#wechat_redirect)  
 - [2020-01-01-机器学习不是万能药，产品经理应该何时对它说-“No”-？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=5&sn=b0dc3e5cdba64b3f0bbb0ba072beb0b2&chksm=bdbe90738ac91965031ddba1b4491a140f333c0b47caf85b3fc3a35a5db8217eaacdc43b4d89&scene=27#wechat_redirect)  
 - [2019-12-31-Nginx，为什么依旧这么“香”？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=1&sn=5b5561460ca512cc93a6f79aeb661861&chksm=bdbe9faf8ac916b9bf7b430c15df90039a478ad9a8e16d54df8aa045d7d327adb87edf21bedf&scene=27#wechat_redirect)  
-- [2019-12-31-云“杀死”了传统IT](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=2&sn=e8a7e127da36db104b88d9c6266d7395&chksm=bdbe9faf8ac916b969fd4358a7436e273c683d8ef3351b880324c42ec1a6f88dd3c580a478c8&scene=27#wechat_redirect)  
-- [2019-12-31-元旦送礼，InfoQ-周边免费送！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=3&sn=2e2ea7003b8ce0451d10caa58d4020d0&chksm=bdbe9faf8ac916b9e0ec7e6ae2c2b7125056d6074481a822592ab801cfca275b6ca1908547d5&scene=27#wechat_redirect)  
-- [2019-12-31-2019-年-22-款最佳软件开发工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=4&sn=66d8048fc34dc3061331e010b2c08d39&chksm=bdbe9faf8ac916b985f695ee900356e689e34afecc1e9aacd90632e858aff9d5a536920629ce&scene=27#wechat_redirect)  
-- [2019-12-31-看完这篇你就知道什么是无服务器架构了](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=5&sn=c529c6646b3a22458f0aef3ef2c4d02c&chksm=bdbe9faf8ac916b9b427734aa16c6e6763446bef29dca4be21c384eb300404588d4eddea2400&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

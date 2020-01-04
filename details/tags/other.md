@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-04 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-04 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -782,6 +782,8 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-01-04-“万瓷王”常程加入小米，担任集团副总裁；Python2正式“退休”；HR-在工位宣读裁员？神州优车道](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=1&sn=a2c9260525da30a3adf244c1f1350800&chksm=bdbe90008ac9191679905c239c6c97b0034087f2234ae84e62951eac06f6316a6081b67ddec8&scene=27#wechat_redirect) 
+- [2020-01-04-今天我们来聊一聊产业互联网时代下海量数据处理问题](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=4&sn=4f73b4a97d6be5f72e7075a5bac892c5&chksm=bdbe90008ac919168434524a3a8890b2400bf6761a31bf2d0e15b4f646a8025667960d42c357&scene=27#wechat_redirect) 
 - [2020-01-03-聊聊过去十年，数据库技术的发展趋势](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=2&sn=eb7fd698d2bdb7a17912adb85904d68e&chksm=bdbe90118ac91907c5c1cf8a8b8c25a88b25b7f72d21e58cbdb2e0379f4aae36dfc7b03feb84&scene=27#wechat_redirect) 
 - [2020-01-03-2019-让我再看你一眼](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=3&sn=4ca82a3c8ee024407202ae60f10c10c7&chksm=bdbe90118ac91907c0aa73d8bd6451f8aa1b5d2ad715e368929a97d02000303cdd48bb93b0a0&scene=27#wechat_redirect) 
 - [2020-01-03-达摩院宣布十大技术趋势，AI-有望迈过两大关键门槛](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=4&sn=67cf01286180accd0e517178f5d5dd1b&chksm=bdbe90118ac919078e54a2878334be01ac19d26b1266da9c1439e76b39ef87ee67315c09ee1b&scene=27#wechat_redirect) 
