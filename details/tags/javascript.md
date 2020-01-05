@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-04 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-05 08:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -397,7 +397,11 @@
 - [2019-12-28-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=3&sn=6ee48f6e89c8c22865f5aaedb3ea3d85&chksm=8891deb6bfe657a03a81c421f9d6a492c6753daae7f64b2d0db891ac4569a9c7d6dcad2ecd2b&scene=27#wechat_redirect) 
 - [2019-12-26-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590857&idx=3&sn=8e315a7d8672013d88a0e5684d9dca50&chksm=8891deadbfe657bbcc444b756929b30166954b6e81e3595344fd3b389e5fcf38472f6daaf1e6&scene=27#wechat_redirect) 
 - [2019-12-19-国内首家！360加入-Ecma-参与-JavaScript-语言标准制定](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590818&idx=1&sn=77045b70b63641eda1b96d3de3cbe1d9&chksm=8891de46bfe657503d59800505c20a45db3846b86b60bb0b69c3b7037f368dea5592b7144339&scene=27#wechat_redirect) 
+- [2020-01-04-Java-并发异步编程，原来十个接口的活现在只需要一个接口就搞定!](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489518&idx=1&sn=04bf242d2811be628ff8db49ba0a8147&chksm=ea5cda88dd2b539e217024cacebd4a929116e983a09537d686fd7362d308d8829ab0ce314aa5&scene=27#wechat_redirect) 
 - [2020-01-01-2019-年-WebAssembly-盘点：跟-JavaScript-的相爱相杀](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=4&sn=e394fc4a06284ba3ce2aad8be353ea21&chksm=bdbe90738ac919659a4682c67a7819a4066b6acbd875e7a7e28b2d54a5b60e7474e1bb0f7529&scene=27#wechat_redirect) 
 - [2019-12-28-JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498111&idx=1&sn=3d195481f4e5037253b7358864975377&chksm=80f1afb7b78626a1aa95c9d61edb2c289d057e5529133f134277d15a20925ae3955f43c5d3fe&scene=27#wechat_redirect) 
 - [2019-12-23-2019-年-JavaScript-现状调查报告](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498096&idx=2&sn=b2a5cc840f0fc59e03210d6500904eb6&chksm=80f1afb8b78626aedbcb4823e752685c9944912feeb7c75d88f5c8be609dac69f24c5c981df7&scene=27#wechat_redirect) 
 - [2019-12-16-使用JS来动态操作CSS，你知道几种方法？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498083&idx=1&sn=f7ec3372ac9c7f09f7dc65804498ccd0&chksm=80f1afabb78626bdfb4beef367b3341f594236aeb87ce7c7e2704f22ca603498cd239658ce77&scene=27#wechat_redirect) 
+- [2020-01-04-如何写一个易用的组件库？](https://juejin.im/post/5e1068b85188253aab08ef0a) 
+- [2020-01-04-ES6之解构赋值与箭头函数的妙用](https://juejin.im/post/5e10071de51d4540de674b79) 
+- [2020-01-04-App内网页静态资源预加载-提高H5转化率](https://juejin.im/post/5e0ffab7e51d4541053f263b) 
