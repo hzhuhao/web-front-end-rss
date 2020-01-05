@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-05 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-05 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -746,6 +746,10 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-01-05-阿里巴巴的26款超神Java开源项目！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489532&idx=1&sn=decaa6375187c1828eefc7c7dd871b9f&chksm=ea5cda9add2b538cad53f86b93a14216987f6942876e688e634a49957aa06ba7e2ebeed5d0e3&scene=27#wechat_redirect) 
+- [2020-01-05-冒着被开除的风险也要给大家看看看这份Spring-Cloud-总结](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489532&idx=2&sn=517896be05565b6baa5ab6da66d954e3&chksm=ea5cda9add2b538c6707eb1cb69131cdb6dc881e7c09a85a0c045b6498d542de8d9218f1d5ec&scene=27#wechat_redirect) 
+- [2020-01-05-八点建议助您写出优雅的Java代码](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489532&idx=3&sn=12efc7f4e611273b58957cbcdbf39e30&chksm=ea5cda9add2b538c628db7b20af9ee01e123351c713535f4571bf2ee12df756db7af992af2ef&scene=27#wechat_redirect) 
+- [2020-01-05-避免大规模故障的微服务架构](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489532&idx=4&sn=328cc644a1356ce4fd9dc66fd4e01b72&chksm=ea5cda9add2b538cb0407dea8988a30430c00976134394fbec7a64d461d0c9062f9569588d22&scene=27#wechat_redirect) 
 - [2020-01-04-你这几天因为-YYYY-MM-dd-被提-BUG-了吗??](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489518&idx=2&sn=4089d9810e600eddc124835ea0e4e1ae&chksm=ea5cda88dd2b539e7b9ecbc12c4b45865ac94f053cd4c691ead53e17673e990efb4980040b16&scene=27#wechat_redirect) 
 - [2020-01-04-这可能是最简单易懂的机器学习入门（小白必读）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489518&idx=4&sn=9c4693c5572c20d19c990dd1e689fd37&chksm=ea5cda88dd2b539ee4e4a49f21bc86d03f831559d4b672432d5ce52ccabd22b795d9ab40c01e&scene=27#wechat_redirect) 
 - [2020-01-03-JDK的3个Bug](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489496&idx=1&sn=9b3ff6c201394238dfd1db56d1b8d0c2&chksm=ea5cdabedd2b53a8ea49183e7d158de70417bf9158586728bcbb8d34194094a563e47fcb8c6a&scene=27#wechat_redirect) 
@@ -831,9 +835,11 @@
 - [2019-12-24-中台进入冷静期，看清自己比盲目追随更重要](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=2&sn=e15f0d21dd1e04efa017b5fae3305baf&chksm=bdbe9f138ac91605f4c143d9b0d3fbbed83da8514eefedb331be5e489e6c8904f71fb7404f87&scene=27#wechat_redirect) 
 - [2019-12-24-金融大数据公司接连被查，爬虫到底犯法吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=3&sn=7492a5ad9e6dfc522d3acb6b4e92bc19&chksm=bdbe9f138ac91605b0e5405df6f331c48586b551cc73f15d7028fb93a54d8fcb7d900961bcab&scene=27#wechat_redirect) 
 - [2019-12-24-这一天，成都的开发人员都经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=4&sn=7cf54be8cca25b28a57e4edfd44f7213&chksm=bdbe9f138ac916055bba182449a4c35f28747d57d0cead06d4880327e29b8c4877bc15b7e4ca&scene=27#wechat_redirect) 
+- [2020-01-04-如何优雅处理前端异常？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498131&idx=1&sn=27714736f30dbf58a6667b6846c5454e&chksm=80f1af5bb786264d22ac5245b51f7923b0d35a8c82a6c05c6e8fd5e9fe441e529ea8debcf4c7&scene=27#wechat_redirect) 
 - [2019-12-27-【工作】支付宝前端技术部社招前端P6/P7](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498109&idx=2&sn=026029fe4ae76ed36c4a79dad6af6ef3&chksm=80f1afb5b78626a314b6b308bcb720f3a37d5573e270d759de9a90ca3299f5b22a6e8644312f&scene=27#wechat_redirect) 
 - [2019-12-26-前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498106&idx=1&sn=de56133af30eb6b73ae65e8e1bab4cd2&chksm=80f1afb2b78626a47c152dfb1f7fce10d29475a976198f7d5254fde03a6a44cf1c28de3467aa&scene=27#wechat_redirect) 
 - [2019-12-25-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498104&idx=1&sn=3a255c7388aad313497b7a368e3ec322&chksm=80f1afb0b78626a69d796e062ae456b5f12cc0274673255f7fdc34b8553d3b1c2cf67449a7c8&scene=27#wechat_redirect) 
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-05-web前端年刊-2019年90篇精选文章](https://juejin.im/post/5e11855bf265da5d3b32dd21) 
