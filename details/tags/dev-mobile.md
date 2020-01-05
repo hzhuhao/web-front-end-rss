@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-05 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-05 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -40,3 +40,4 @@
 - [2018-10-17-Chrome-70正式版发布：Windows端将支持PWA](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489693&idx=1&sn=0f618c4978d3fcf81144b57eb98b67f2#wechat_redirect) 
 - [2018-08-17-Hello-PWA](https://jdc.jd.com/archives/212666) 
 - [2018-08-10-【译】使用-Flutter-实现跨平台移动端开发](https://jdc.jd.com/archives/212644) 
+- [2020-01-05-2020-年移动开发趋势](https://juejin.im/post/5e11d808f265da5d716e5362) 
