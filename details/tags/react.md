@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-06 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-07 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -175,6 +175,7 @@
 - [2019-12-28-从-React-历史的长河里聊虚拟DOM及其价值](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=1&sn=8b6d3b47f80e21fd6fe45439258edfef&chksm=8891deb6bfe657a0ebab3da007b49538a0edb2a4d526dbf828a6ddc2193415b831c6c1cba948&scene=27#wechat_redirect) 
 - [2019-12-25-使用-React-为-Chimee-开发插件](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590847&idx=1&sn=19629fd5d68cf6ceeb5381453998bafe&chksm=8891de5bbfe6574d21b9580e1e237d269dfbc68df84ea47165d6eabbb8b53e562e90b53a64e8&scene=27#wechat_redirect) 
 - [2019-12-17-React-中的一个奇怪的-Hook](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484359&idx=1&sn=5b090080ae3e856aabb4831b6615407a&chksm=eb1cc62ddc6b4f3bcddf679dd04c5a2fc190524dc2cfcd70b63461dded7bb79537124c7087c5&scene=27#wechat_redirect) 
+- [2020-01-06-【译】React团队的技术准则](https://juejin.im/post/5e1324d75188253a9e7ae689) 
 - [2020-01-06-React-之“爬坑记录”](https://juejin.im/post/5da40d3ce51d45780a05d3a8) 
 - [2020-01-05-React-服务端渲染](https://juejin.im/post/5e0d6ae06fb9a0484c4cdfc3) 
 - [2020-01-05-基于-Ant-Design-+-React-的后台管理项目打包优化实践](https://juejin.im/post/5e10b0c0e51d45412437e045) 
