@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-05 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-06 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -789,6 +789,10 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-01-05-25个有用的-Python-代码段](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=1&sn=b9f43826f2570989d53830576d62be0f&chksm=bdbe90098ac9191fd7bcb1431ab445b62cf6cef39e78b6b75e3ff35bd6bb2b98f5080e7e4ff1&scene=27#wechat_redirect) 
+- [2020-01-05-俄罗斯全国断网一周？事情没你想的那么简单丨Q事界](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=2&sn=ddaa7d53f0513f50bc6cc6d1ba6beea0&chksm=bdbe90098ac9191f824089f99a20d08649061b5bd15448ad52d7acefef273d40c9cddc56e669&scene=27#wechat_redirect) 
+- [2020-01-05-好软件不是靠加班-Coding-出来的](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=3&sn=06f88f3bdf290622f395ec3975e27c9e&chksm=bdbe90098ac9191f0b81bba1d59dea5446bb8dabd630445ccdc14093c20a5be716f766f8bca1&scene=27#wechat_redirect) 
+- [2020-01-05-AI-催收能否画下暴力催收的休止符？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=4&sn=95d3b8fb5289f22f716ac2c8603a69c1&chksm=bdbe90098ac9191fd0cd17ab071d4279e14bcfccef7387e40b124e28b1bab072eb70802c431a&scene=27#wechat_redirect) 
 - [2020-01-04-“万瓷王”常程加入小米，担任集团副总裁；Python2正式“退休”；HR-在工位宣读裁员？神州优车道](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=1&sn=a2c9260525da30a3adf244c1f1350800&chksm=bdbe90008ac9191679905c239c6c97b0034087f2234ae84e62951eac06f6316a6081b67ddec8&scene=27#wechat_redirect) 
 - [2020-01-04-今天我们来聊一聊产业互联网时代下海量数据处理问题](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=4&sn=4f73b4a97d6be5f72e7075a5bac892c5&chksm=bdbe90008ac919168434524a3a8890b2400bf6761a31bf2d0e15b4f646a8025667960d42c357&scene=27#wechat_redirect) 
 - [2020-01-03-聊聊过去十年，数据库技术的发展趋势](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=2&sn=eb7fd698d2bdb7a17912adb85904d68e&chksm=bdbe90118ac91907c5c1cf8a8b8c25a88b25b7f72d21e58cbdb2e0379f4aae36dfc7b03feb84&scene=27#wechat_redirect) 

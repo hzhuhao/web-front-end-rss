@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-01-04 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-06 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-01-05-25个有用的-Python-代码段](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=1&sn=b9f43826f2570989d53830576d62be0f&chksm=bdbe90098ac9191fd7bcb1431ab445b62cf6cef39e78b6b75e3ff35bd6bb2b98f5080e7e4ff1&scene=27#wechat_redirect) 
+- [2020-01-05-俄罗斯全国断网一周？事情没你想的那么简单丨Q事界](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=2&sn=ddaa7d53f0513f50bc6cc6d1ba6beea0&chksm=bdbe90098ac9191f824089f99a20d08649061b5bd15448ad52d7acefef273d40c9cddc56e669&scene=27#wechat_redirect) 
+- [2020-01-05-好软件不是靠加班-Coding-出来的](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=3&sn=06f88f3bdf290622f395ec3975e27c9e&chksm=bdbe90098ac9191f0b81bba1d59dea5446bb8dabd630445ccdc14093c20a5be716f766f8bca1&scene=27#wechat_redirect) 
+- [2020-01-05-AI-催收能否画下暴力催收的休止符？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=4&sn=95d3b8fb5289f22f716ac2c8603a69c1&chksm=bdbe90098ac9191fd0cd17ab071d4279e14bcfccef7387e40b124e28b1bab072eb70802c431a&scene=27#wechat_redirect) 
 - [2020-01-04-“万瓷王”常程加入小米，担任集团副总裁；Python2正式“退休”；HR-在工位宣读裁员？神州优车道](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=1&sn=a2c9260525da30a3adf244c1f1350800&chksm=bdbe90008ac9191679905c239c6c97b0034087f2234ae84e62951eac06f6316a6081b67ddec8&scene=27#wechat_redirect) 
 - [2020-01-04-值得推荐的-Docker-安全开源工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=2&sn=362f9b615d49a54b9dad9185b0f7e430&chksm=bdbe90008ac919169b68314b50f7007622a86c7f47814684c12037820fef7787e333777849b6&scene=27#wechat_redirect) 
 - [2020-01-04-五分钟了解机器学习十大算法](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=3&sn=5970502d6bdd967c282416ec83493508&chksm=bdbe90008ac919168ca28b60b6894d58eddc8d273d8c56dfd052017d9bb5a2a7d5cc86e4d55c&scene=27#wechat_redirect) 

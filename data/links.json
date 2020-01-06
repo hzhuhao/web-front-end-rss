@@ -13264,6 +13264,26 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "25个有用的 Python 代码段",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=1&sn=b9f43826f2570989d53830576d62be0f&chksm=bdbe90098ac9191fd7bcb1431ab445b62cf6cef39e78b6b75e3ff35bd6bb2b98f5080e7e4ff1&scene=27#wechat_redirect",
+        "date": "2020-01-05"
+      },
+      {
+        "title": "俄罗斯全国断网一周？事情没你想的那么简单丨Q事界",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=2&sn=ddaa7d53f0513f50bc6cc6d1ba6beea0&chksm=bdbe90098ac9191f824089f99a20d08649061b5bd15448ad52d7acefef273d40c9cddc56e669&scene=27#wechat_redirect",
+        "date": "2020-01-05"
+      },
+      {
+        "title": "好软件不是靠加班 Coding 出来的",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=3&sn=06f88f3bdf290622f395ec3975e27c9e&chksm=bdbe90098ac9191f0b81bba1d59dea5446bb8dabd630445ccdc14093c20a5be716f766f8bca1&scene=27#wechat_redirect",
+        "date": "2020-01-05"
+      },
+      {
+        "title": "AI 催收能否画下暴力催收的休止符？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=4&sn=95d3b8fb5289f22f716ac2c8603a69c1&chksm=bdbe90098ac9191fd0cd17ab071d4279e14bcfccef7387e40b124e28b1bab072eb70802c431a&scene=27#wechat_redirect",
+        "date": "2020-01-05"
+      },
+      {
         "title": "“万瓷王”常程加入小米，担任集团副总裁；Python2正式“退休”；HR 在工位宣读裁员？神州优车道",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=1&sn=a2c9260525da30a3adf244c1f1350800&chksm=bdbe90008ac9191679905c239c6c97b0034087f2234ae84e62951eac06f6316a6081b67ddec8&scene=27#wechat_redirect",
         "date": "2020-01-04"
@@ -13662,6 +13682,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "Flutter实战  从头撸一个「孤岛」APP（No.4、流行、点赞、动画）",
+        "link": "https://juejin.im/post/5e12943f6fb9a0482806df9d",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "从零基础到轻松就业 | CSS——CSS 基本视觉格式化：① “块盒子”格式化（ Ⅰ ）",
+        "link": "https://juejin.im/post/5e1299cae51d454115149759",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "Taro 小程序开发大型实战（三）：实现微信和支付宝多端登录",
+        "link": "https://juejin.im/post/5e10118be51d454165777203",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "一文带你看透 Chrome 浏览器架构",
+        "link": "https://juejin.im/post/5e11cd225188253a73288212",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "前端编译原理浅析及应用场景(Babel、PostCSS)分析",
+        "link": "https://juejin.im/post/5e0f2b47e51d4541643c68e1",
+        "date": "2020-01-06"
+      },
       {
         "title": "2020 年移动开发趋势",
         "link": "https://juejin.im/post/5e11d808f265da5d716e5362",
