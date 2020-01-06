@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-06 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-06 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -347,6 +347,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-01-06-Kotlin-即未来！2020-年需要关注的-5-大-Android-开发技术](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493562&idx=1&sn=787807d7ad4019a3b40388d4a156e9c8&chksm=f95252f9ce25dbefc0ebb5c10bdfc5c1dff013b92e3fdd5d8549d04d58ec7b26e2ce76caafdf&scene=27#wechat_redirect) 
+- [2020-01-05-前端周报：美国政府限制-AI-软件出口中国等国家；Facebook-因不当共享用户数据被罚-164](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493555&idx=1&sn=8e1b50b1efe36e8b35191f492b6eda59&chksm=f95252f0ce25dbe67491e84242f6214062e0f6e67ffd6845271ad1d578097f0c45233f91cd79&scene=27#wechat_redirect) 
 - [2020-01-03-​如何在报纸排版中找到-Web-设计的奥妙](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493551&idx=2&sn=000749cba0a702a45d04f2bd86f90d37&chksm=f95252ecce25dbfa39f3159b19037f60e4b10e43f9d7fd7e08c9f56b82a0ba6e87c5bddbf769&scene=27#wechat_redirect) 
 - [2020-01-02-2020-来了，你的研发团队培训计划安排好了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493526&idx=3&sn=a3060221c4965c1f7ffd196249a4e2e7&chksm=f95252d5ce25dbc301f086fd95b4954ae915c1f43ed1656f703e5f70c6a712092db159577116&scene=27#wechat_redirect) 
 - [2020-01-01-2019年IT互联网十大“车祸”现场丨金翻车奖](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493512&idx=1&sn=93dc9fb54b0ba67008f79c8e72c787e2&chksm=f95252cbce25dbdd54396f6dafc0a10ba8727886af63f2adb297c5e467906948622f0f64fc54&scene=27#wechat_redirect) 
@@ -853,4 +855,5 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-06-从0搭建一个自己的前端脚手架](https://juejin.im/post/5e0ef9ea5188253aaf656c60) 
 - [2020-01-05-web前端年刊-2019年90篇精选文章](https://juejin.im/post/5e11855bf265da5d3b32dd21) 
