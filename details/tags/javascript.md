@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-06 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-06 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -392,6 +392,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-01-06-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590910&idx=3&sn=8fa306230e6199d9fd0e10218b7cd9d2&chksm=8891de9abfe6578c8543eb7e2c5e76cc15b124b2c678dc619beaba553056de4797be99125060&scene=27#wechat_redirect) 
 - [2020-01-04-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590902&idx=3&sn=b9695cc33024267a0a39748aba9e009f&chksm=8891de92bfe657846513ec63d0ba2adc7f84cc8febfc658ff41c04c74d7e0a6b81886a280493&scene=27#wechat_redirect) 
 - [2020-01-02-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=3&sn=896346ccc26c9e996738aa18b932ed31&chksm=8891de89bfe6579fb1b1280dfdd13ed5a2e1cc981526b274f0419f842a6ba1bfd211a545258c&scene=27#wechat_redirect) 
 - [2019-12-29-SpriteJS-3.0-正式发布-——-针对可视化大屏渲染优化性能提升10倍+](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590868&idx=1&sn=71d164aa9883cabb5a94ca31501b266c&chksm=8891deb0bfe657a613908d03d3ac7d4514d255d8f6f0a879feece1280d355b89ef0d876497f9&scene=27#wechat_redirect) 
@@ -403,6 +404,8 @@
 - [2019-12-28-JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498111&idx=1&sn=3d195481f4e5037253b7358864975377&chksm=80f1afb7b78626a1aa95c9d61edb2c289d057e5529133f134277d15a20925ae3955f43c5d3fe&scene=27#wechat_redirect) 
 - [2019-12-23-2019-年-JavaScript-现状调查报告](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498096&idx=2&sn=b2a5cc840f0fc59e03210d6500904eb6&chksm=80f1afb8b78626aedbcb4823e752685c9944912feeb7c75d88f5c8be609dac69f24c5c981df7&scene=27#wechat_redirect) 
 - [2019-12-16-使用JS来动态操作CSS，你知道几种方法？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498083&idx=1&sn=f7ec3372ac9c7f09f7dc65804498ccd0&chksm=80f1afabb78626bdfb4beef367b3341f594236aeb87ce7c7e2704f22ca603498cd239658ce77&scene=27#wechat_redirect) 
+- [2020-01-06-2020年了，12道高频-JavaScript-手写面试题及答案](https://juejin.im/post/5e100cdef265da5d75243229) 
+- [2020-01-06-如何全面出色的回答面试官防抖与节流提问？](https://juejin.im/post/5e1216485188253a9c440b72) 
 - [2020-01-05-Web-Component的一些实践及思考](https://juejin.im/post/5e11a69ce51d45414a47129e) 
 - [2020-01-05-手把手教你模仿element-ui中el-input组件，实现一个带有验证功能的input.](https://juejin.im/post/5e115963e51d4541355c565d) 
 - [2020-01-05-类数组的定义是什么？](https://juejin.im/post/5e1140826fb9a0484f5c330c) 

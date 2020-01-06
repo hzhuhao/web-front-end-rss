@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-01-06 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-06 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-01-06-【第1828期】种草-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235405&idx=1&sn=6da042f4b37c4159b35f3175d7518a6d&chksm=bd497dc98a3ef4df1ff480d1a6a602c160cf577b965c2294bb05e512135e158d7e5930bd1576&scene=27#wechat_redirect) 
 - [2020-01-03-【第1825期】了解什么是微前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235387&idx=2&sn=e5bb3b717c894676bc05cfeba50cf6d5&chksm=bd497dbf8a3ef4a9a544c45cc1c75dafd45f7438ced6915abc9bbe5e90e2920b0cecb354741c&scene=27#wechat_redirect) 
 - [2020-01-02-2020，前端早读课的朋友](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235376&idx=2&sn=f01522b348502efaa337284624b69222&chksm=bd497db48a3ef4a2b6fca2590f001d15c3013514d9f21e41c3ea9f6799caf241041f26164d79&scene=27#wechat_redirect) 
 - [2019-12-31-【第1822期】黑暗模式的过去、现在和未来](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235362&idx=1&sn=1bcc0e25751eaa0c80855266834342be&chksm=bd497da68a3ef4b00291739a61afc0d6911b03c1c10086e3ba9ffb15a2c31974054964e71c11&scene=27#wechat_redirect) 
@@ -721,6 +722,8 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-01-06-Largest-Contentful-Paint-LCP](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590910&idx=1&sn=ee664f27b94438270a601a87c652553c&chksm=8891de9abfe6578c081bddaad03ba65d97d3d0f9ad87c53776de7049d634de370ab634d0eaf2&scene=27#wechat_redirect) 
+- [2020-01-06-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590910&idx=2&sn=b37114c2739a5af02072718a524abced&chksm=8891de9abfe6578c6743cb571f0dfa047a1706f44423b59c42bb67b9fa60191f3fff271460f9&scene=27#wechat_redirect) 
 - [2020-01-04-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590902&idx=2&sn=4babac412e7f0c0d57267e3aabcab47d&chksm=8891de92bfe657844ebe24a111e93f1e95ae2f3128d3ff314d4dd898f9057264dd6ffb7a7e5d&scene=27#wechat_redirect) 
 - [2020-01-02-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=2&sn=7beead6b67999c973b9b8bf02b80322b&chksm=8891de89bfe6579f42b8895e0bbd592b7e6523964a1375f5c4f3304421a8e3b522a858cc1482&scene=27#wechat_redirect) 
 - [2020-01-01-W3C万维物联网解析：编程API篇](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590888&idx=1&sn=1445ef8054f8fcdba30fa3c5115562cd&chksm=8891de8cbfe6579ab334f6d8c4616ffa2e32f98bc1a18fdd29726f1c715e7feaf88517bc2462&scene=27#wechat_redirect) 
@@ -746,6 +749,10 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-01-06-别再用那些已经淘汰的技术了！2020年9大顶级Java框架出炉！！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489538&idx=1&sn=a691a2ddac0f0daa067ebca40f34d324&chksm=ea5cd564dd2b5c7251730bfb8df1bc58e2dbe9b468c209b347ec8b22eb4c140b953afbdaaca9&scene=27#wechat_redirect) 
+- [2020-01-06-Google-开源的依赖注入库，比-Spring-更小更快！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489538&idx=2&sn=ae5e7736c902df36b0e62f45b2f41e1d&chksm=ea5cd564dd2b5c722bc591289e32d3bdb09336cea15af3005eca821d787f92e48a11041587f3&scene=27#wechat_redirect) 
+- [2020-01-06-你知道Arrays.asList-有坑吗？千万别踩啊！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489538&idx=3&sn=4d68da15ec904be9d6aa347a42841e22&chksm=ea5cd564dd2b5c726120a6889c8b75ae77bce18c9f9f3e3ce2fef24249c21bb26255cd839ae4&scene=27#wechat_redirect) 
+- [2020-01-06-重构代码花-1-年！程序员血泪史：千万不要重写代码！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489538&idx=4&sn=68d9d698d927dc0d90077285a76aef74&chksm=ea5cd564dd2b5c72ff709947d5c085d7fb481d4427f093303fb5e51dd4828943960cd0bf116c&scene=27#wechat_redirect) 
 - [2020-01-05-阿里巴巴的26款超神Java开源项目！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489532&idx=1&sn=decaa6375187c1828eefc7c7dd871b9f&chksm=ea5cda9add2b538cad53f86b93a14216987f6942876e688e634a49957aa06ba7e2ebeed5d0e3&scene=27#wechat_redirect) 
 - [2020-01-05-冒着被开除的风险也要给大家看看看这份Spring-Cloud-总结](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489532&idx=2&sn=517896be05565b6baa5ab6da66d954e3&chksm=ea5cda9add2b538c6707eb1cb69131cdb6dc881e7c09a85a0c045b6498d542de8d9218f1d5ec&scene=27#wechat_redirect) 
 - [2020-01-05-八点建议助您写出优雅的Java代码](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489532&idx=3&sn=12efc7f4e611273b58957cbcdbf39e30&chksm=ea5cda9add2b538c628db7b20af9ee01e123351c713535f4571bf2ee12df756db7af992af2ef&scene=27#wechat_redirect) 

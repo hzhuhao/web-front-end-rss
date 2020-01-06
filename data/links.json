@@ -5,6 +5,11 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1828期】种草 ES2020 新特性",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235405&idx=1&sn=6da042f4b37c4159b35f3175d7518a6d&chksm=bd497dc98a3ef4df1ff480d1a6a602c160cf577b965c2294bb05e512135e158d7e5930bd1576&scene=27#wechat_redirect",
+        "date": "2020-01-06"
+      },
+      {
         "title": "【第1827期】小程序跨框架开发的探索与实践",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235399&idx=1&sn=6f5bd648ae382994102aae7d1fa965c0&chksm=bd497dc38a3ef4d5e5db335955cd8108da4ec1f176e364666f771e097c8ab8051937f6be202a&scene=27#wechat_redirect",
         "date": "2020-01-05"
@@ -12743,6 +12748,21 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "Largest Contentful Paint (LCP)",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590910&idx=1&sn=ee664f27b94438270a601a87c652553c&chksm=8891de9abfe6578c081bddaad03ba65d97d3d0f9ad87c53776de7049d634de370ab634d0eaf2&scene=27#wechat_redirect",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "来奇舞团吧，让自己过得快乐一点",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590910&idx=2&sn=b37114c2739a5af02072718a524abced&chksm=8891de9abfe6578c6743cb571f0dfa047a1706f44423b59c42bb67b9fa60191f3fff271460f9&scene=27#wechat_redirect",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "大数据中心招聘AngularJs前端开发工程师",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590910&idx=3&sn=8fa306230e6199d9fd0e10218b7cd9d2&chksm=8891de9abfe6578c8543eb7e2c5e76cc15b124b2c678dc619beaba553056de4797be99125060&scene=27#wechat_redirect",
+        "date": "2020-01-06"
+      },
+      {
         "title": "npm install 原理分析",
         "link": "http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590902&idx=1&sn=5f83fa90ed4683e9ab81dc9fcb7058cf&chksm=8891de92bfe65784b53d0746e169727d4ad306ec35e3c2e4ae035b16116081d409b8f1e23868&scene=27#wechat_redirect",
         "date": "2020-01-04"
@@ -12991,6 +13011,26 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "别再用那些已经淘汰的技术了！2020年9大顶级Java框架出炉！！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489538&idx=1&sn=a691a2ddac0f0daa067ebca40f34d324&chksm=ea5cd564dd2b5c7251730bfb8df1bc58e2dbe9b468c209b347ec8b22eb4c140b953afbdaaca9&scene=27#wechat_redirect",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "Google 开源的依赖注入库，比 Spring 更小更快！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489538&idx=2&sn=ae5e7736c902df36b0e62f45b2f41e1d&chksm=ea5cd564dd2b5c722bc591289e32d3bdb09336cea15af3005eca821d787f92e48a11041587f3&scene=27#wechat_redirect",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "你知道Arrays.asList 有坑吗？千万别踩啊！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489538&idx=3&sn=4d68da15ec904be9d6aa347a42841e22&chksm=ea5cd564dd2b5c726120a6889c8b75ae77bce18c9f9f3e3ce2fef24249c21bb26255cd839ae4&scene=27#wechat_redirect",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "重构代码花 1 年！程序员血泪史：千万不要重写代码！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489538&idx=4&sn=68d9d698d927dc0d90077285a76aef74&chksm=ea5cd564dd2b5c72ff709947d5c085d7fb481d4427f093303fb5e51dd4828943960cd0bf116c&scene=27#wechat_redirect",
+        "date": "2020-01-06"
+      },
       {
         "title": "阿里巴巴的26款超神Java开源项目！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489532&idx=1&sn=decaa6375187c1828eefc7c7dd871b9f&chksm=ea5cda9add2b538cad53f86b93a14216987f6942876e688e634a49957aa06ba7e2ebeed5d0e3&scene=27#wechat_redirect",
@@ -13682,6 +13722,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "2020年了，12道高频 JavaScript 手写面试题及答案",
+        "link": "https://juejin.im/post/5e100cdef265da5d75243229",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "Vue3中不止composition-api，其他的提案(RFC)也很精彩。",
+        "link": "https://juejin.im/post/5e12a2e95188253ab321aa8d",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "React 之“爬坑记录”",
+        "link": "https://juejin.im/post/5da40d3ce51d45780a05d3a8",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "如何全面出色的回答面试官防抖与节流提问？",
+        "link": "https://juejin.im/post/5e1216485188253a9c440b72",
+        "date": "2020-01-06"
+      },
+      {
+        "title": "小心！浏览器指纹正在一步一步找到你（上）",
+        "link": "https://juejin.im/post/5e129d9d6fb9a0480a5a77b3",
+        "date": "2020-01-06"
+      },
       {
         "title": "Flutter实战  从头撸一个「孤岛」APP（No.4、流行、点赞、动画）",
         "link": "https://juejin.im/post/5e12943f6fb9a0482806df9d",
