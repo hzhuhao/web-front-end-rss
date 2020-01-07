@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-07 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-07 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -801,6 +801,16 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-01-07-Google、IBM等一线大厂都在用的敏捷开发到底是什么？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023481&idx=1&sn=5c26db40fcc9f72135fc95d5e171f8f0&chksm=bdbe902a8ac9193c2bb3b9796fd0da6decf1d7d377d103d0959091b72a1c976f9857e9587549&scene=27#wechat_redirect) 
+- [2020-01-07-Kubernetes-会不会“杀死”-DevOps？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023481&idx=2&sn=08f70cb99ee509c564a5e88295c6bc88&chksm=bdbe902a8ac9193c475de1c461b9a26745a65ce3e8b2464f52aefcb807ad2170570e0dde34b6&scene=27#wechat_redirect) 
+- [2020-01-07-如何向-5-岁小朋友解释什么是微服务](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023481&idx=3&sn=72b064dfa868fc87aa9f8eeb3d08c991&chksm=bdbe902a8ac9193c61d9a3712e5222f9b35d18e22bd79d072966061ca6f9b8754cbdcec799d9&scene=27#wechat_redirect) 
+- [2020-01-07-鲲鹏应用迁移与调优实践分享](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023481&idx=4&sn=4882a9ad901564e80acb6b06bb68ec15&chksm=bdbe902a8ac9193c5565e8806c6f07ee0c19eb4dd60d7dc59660f8a746df3b3fffe1315a7948&scene=27#wechat_redirect) 
+- [2020-01-07-围观全球科技公司-18-位高管对-2020-年人工智能的预测](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023481&idx=5&sn=fb4058f1fd869064be6929fce29bccb4&chksm=bdbe902a8ac9193ce4de2f36c62ded2315e8ff8c52d696c541c9c73b9297fc12670e30445f45&scene=27#wechat_redirect) 
+- [2020-01-06-一场跨年晚会挣了50亿，B站在微服务治理中如何探索与实践？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023467&idx=1&sn=75dea0664809e6ce126f410e5c96ee27&chksm=bdbe90388ac9192edad8367843f1b68e9214eb0d7e2dfa006fb9775bb7e86463f0088f715abf&scene=27#wechat_redirect) 
+- [2020-01-06-这-5-种场景不适合采用微服务](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023467&idx=2&sn=143c808fb1e38202a67583b2ba940b66&chksm=bdbe90388ac9192e5d2303f1d30494e0b8ee971c5971b37e17e75096aba101ed91ca3894319f&scene=27#wechat_redirect) 
+- [2020-01-06-识别率从-95%-到-99%，来看看贝壳找房-OCR-实战](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023467&idx=3&sn=7b6d647c020622b845c06ecb16117cfe&chksm=bdbe90388ac9192e870c6c587873bde8b5113f454d322c967319e56beb8190afaffa9d8da350&scene=27#wechat_redirect) 
+- [2020-01-06-LineFlow-开源：比-PyTorch-简洁数倍，适用任何框架的-NLP-数据集处理程序](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023467&idx=4&sn=f423e24cafea8520b37fa06cc1c1d846&chksm=bdbe90388ac9192e53ad557bc3d3dd17c3c75af55b773be505d97e7180540bd02e91b5e751cb&scene=27#wechat_redirect) 
+- [2020-01-06-澳本聪发文抨击比特大陆：他们误导了整个社区](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023467&idx=5&sn=75f1c9a97d2dff67a6e77fd6c083b587&chksm=bdbe90388ac9192e123c1be30cb01fa891bbf508ed6dbfc342bef0713103fadd3cac9f0f0034&scene=27#wechat_redirect) 
 - [2020-01-05-25个有用的-Python-代码段](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=1&sn=b9f43826f2570989d53830576d62be0f&chksm=bdbe90098ac9191fd7bcb1431ab445b62cf6cef39e78b6b75e3ff35bd6bb2b98f5080e7e4ff1&scene=27#wechat_redirect) 
 - [2020-01-05-俄罗斯全国断网一周？事情没你想的那么简单丨Q事界](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=2&sn=ddaa7d53f0513f50bc6cc6d1ba6beea0&chksm=bdbe90098ac9191f824089f99a20d08649061b5bd15448ad52d7acefef273d40c9cddc56e669&scene=27#wechat_redirect) 
 - [2020-01-05-好软件不是靠加班-Coding-出来的](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023450&idx=3&sn=06f88f3bdf290622f395ec3975e27c9e&chksm=bdbe90098ac9191f0b81bba1d59dea5446bb8dabd630445ccdc14093c20a5be716f766f8bca1&scene=27#wechat_redirect) 
@@ -858,6 +868,7 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-07-使用tree命令生成项目目录树](https://juejin.im/post/5e13f9366fb9a0483c632a4c) 
 - [2020-01-07-我是如何在Linux服务器部署自己的网站](https://juejin.im/post/5e13e2765188253a566e382e) 
 - [2020-01-07-第三届-SEE-Conf-2020-演讲资料（PPT）](https://juejin.im/post/5e13ca7d5188253ab978ad5a) 
 - [2020-01-06-从0搭建一个自己的前端脚手架](https://juejin.im/post/5e0ef9ea5188253aaf656c60) 
