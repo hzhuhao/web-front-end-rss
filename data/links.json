@@ -13726,6 +13726,11 @@
     "link": "https://www.ershicimi.com/a/893",
     "items": [
       {
+        "title": "奇葩！面试说真话居然也能拿offer？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498138&idx=1&sn=e6bc2a72368094b55e8040d395a97589&chksm=80f1af52b78626444c85b03ad4aba58ac6801e5f39dd7cfd76e9900f314244d20c0051c60740&scene=27#wechat_redirect",
+        "date": "2020-01-07"
+      },
+      {
         "title": "拿不到offer退全款，廖雪峰的“Web 全栈架构师”开班了",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498132&idx=1&sn=d1adb664eb915c875e201218ba186080&chksm=80f1af5cb786264af5589adc7898fe046a58ec4b15d5863404c4bde13a669518d2995d1f4250&scene=27#wechat_redirect",
         "date": "2020-01-06"
@@ -13842,6 +13847,16 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "Vue3 Composition-Api + TypeScript  + 新型状态管理模式探索",
+        "link": "https://juejin.im/post/5e0da5606fb9a048483ecf64",
+        "date": "2020-01-07"
+      },
+      {
+        "title": "Sth about 'use strict'",
+        "link": "https://juejin.im/post/5e131bf7f265da5d52015dbc",
+        "date": "2020-01-07"
+      },
       {
         "title": "7 个好用的 TypeScript 新功能",
         "link": "https://juejin.im/post/5e144a18f265da5d3b32e0eb",
