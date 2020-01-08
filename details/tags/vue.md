@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-08 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-08 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -157,6 +157,8 @@
 - [2019-12-30-VS-Code成主宰、Vue备受热捧！2019前端开发趋势必读](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498115&idx=1&sn=ac0e9f58859f5f454ac10b63f9d74514&chksm=80f1af4bb786265df4aad0e9cddd12505480784a09625729459e3696d40837a4136dfd7c956b&scene=27#wechat_redirect) 
 - [2019-12-21-VS-Code成主宰、Vue备受热捧！2019前端开发趋势必读](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498090&idx=1&sn=725a4247b8d17c6fa34afc9200271eee&chksm=80f1afa2b78626b426a3da64664a8387e0c26b1808e52af17e4cb32eb3e9da297535dd9b5a0c&scene=27#wechat_redirect) 
 - [2019-12-18-从零实现Vue虚拟DOM和DOM-DIFF算法](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498084&idx=1&sn=b8fd0954d95e4efd1e0c804511d38913&chksm=80f1afacb78626ba5040c398a0a4d53e444b07ce6c4899dd3934a679dccd0444144fd5da6b57&scene=27#wechat_redirect) 
+- [2020-01-08-Vue.js-中的片段](https://juejin.im/post/5e1587e1e51d45415f365973) 
+- [2020-01-08-Vuex持久化插件](https://juejin.im/post/5e153ca8e51d4540f02fad64) 
 - [2020-01-07-Vue3-Composition-Api-+-TypeScript-+-新型状态管理模式探索](https://juejin.im/post/5e0da5606fb9a048483ecf64) 
 - [2020-01-06-如何用上webpack/gulp/rollup，搭建一个基于Vue的UI库脚手架](https://juejin.im/post/5e107b00e51d4541093e8a6b) 
 - [2020-01-06-Vue3中不止composition-api，其他的提案RFC也很精彩。](https://juejin.im/post/5e12a2e95188253ab321aa8d) 
