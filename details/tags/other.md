@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-08 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-09 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -653,6 +653,7 @@
 - [2018-09-28-每周分享第-24-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-24.html) 
 - [2018-09-21-每周分享第-23-期](http://www.ruanyifeng.com/blog/2018/09/weekly-issue-23.html) 
 - [2018-09-20-命令行通配符教程](http://www.ruanyifeng.com/blog/2018/09/bash-wildcards.html) 
+- [2020-01-08-年度总结：2019-前端技术发展回顾](http://www.yyyweb.com/5345.html) 
 - [2019-12-24-第十四届-D2-前端技术论坛精彩回顾【附PPT】](http://www.yyyweb.com/5338.html) 
 - [2019-12-07-双十一-79.34%-的代码是怎样智能生成的](http://www.yyyweb.com/5328.html) 
 - [2019-09-09-互联网时代研发效能的挑战和应对之道](http://www.yyyweb.com/5306.html) 
@@ -876,6 +877,7 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-08-前端自动化测试jest教程2-匹配器matchers](https://juejin.im/post/5e15ae175188253a624a710d) 
 - [2020-01-08-2019年京东PLUS会员前端开发之路](https://juejin.im/post/5e156cb45188253aa666afa2) 
 - [2020-01-08-东拼西凑完成一个“前端框架”1---布局](https://juejin.im/post/5e14ab4be51d4540f9085ba4) 
 - [2020-01-08-Angular-Schematics-三部曲之-Add](https://juejin.im/post/5e0819516fb9a016005350cb) 

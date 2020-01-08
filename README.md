@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-08 22:00:26，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-09 06:00:24，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -70,6 +70,8 @@
 </summary>
 
 
+- [2020-01-08-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=1&sn=d933c86124898f20768f875639037128&chksm=80255880b752d19601e7d012883d750569506bc5a2400c13f2d645e34a2b9b273195e113ca1e&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-08-PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-07-一道不一样的前端架构师最终面试题](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557696&idx=1&sn=f45f78de6cdc70789894800d82a92935&chksm=80255881b752d197a8b5c44e3a8fc1183948e6da829c80fea99ba8ceae7ce3eb5c306765ebcd&scene=27#wechat_redirect)  
 - [2020-01-07-面向对象：一个人最大的幸运就是遇见那个对的人，希望在这里可以遇到Mr.-Right](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557696&idx=2&sn=031481ac3efa5007f09d7f3412b40b67&chksm=80255881b752d1977a7f39f9f961ed6b1bfcc120adde0e6fc422d1a690e315a968bd9837497f&scene=27#wechat_redirect)  
 - [2020-01-06-我会Vue了，面试官还会问我什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557677&idx=1&sn=b9fd9e4ff84325acc770ab8117f9ec60&chksm=802558ecb752d1fa2f98fa24bad9ad16ce9074d716cd20bba5ecd31ede7aa66219638c997b8d&scene=27#wechat_redirect)  
@@ -88,8 +90,6 @@
 - [2019-12-27-面向对象：内心有点小文艺的程序媛，期待一份美好的感情](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557629&idx=2&sn=f55109b705b46ec77054f1b908694b5b&chksm=8025593cb752d02aa289b2f25cf897c9e79b75c6575384bd998bd97d12a81bb6c8c38030d033&scene=27#wechat_redirect)  
 - [2019-12-26-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557619&idx=1&sn=5999416fc9fc691b0dd243c2e4770df4&chksm=80255932b752d0249a9227fdcff916583f56608d6c1e31db605e08d63f9e2e1f5764dd973369&scene=27#wechat_redirect)  
 - [2019-12-26-npm-install-原理分析](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557619&idx=2&sn=68fe22cc8a65a0c638efef7d164dcb1d&chksm=80255932b752d02416fa730e489b2573199ba5a54e9de57def2dddc9c54f33da90fa348dc80b&scene=27#wechat_redirect)  
-- [2019-12-25-JS-引擎-V8-发布-v8-版](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557611&idx=1&sn=fbd143704bcb295fb0cf5c2da27c3d17&chksm=8025592ab752d03ca3a96d99b55406ad6fdf4969ab8053028f815c1c17df7e11752e287e84b4&scene=27#wechat_redirect)  
-- [2019-12-25-面向对象：没有早一秒，没有晚一秒，就是刚刚好，期待你的出现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557611&idx=2&sn=3a579879428d74f8a489609f5cdee62f&chksm=8025592ab752d03c5fb3f9449fe15a03324012bc060e27c2ec36325b7ca9ac6585e73e6eae1e&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -225,6 +225,8 @@
 </summary>
 
 
+- [2020-01-08-年度总结：2019-前端技术发展回顾](http://www.yyyweb.com/5345.html) ![](assets/new.png)  
+- [2020-01-08-聊聊《2019-年-JavaScript-现状调查报告》](http://www.yyyweb.com/5342.html) ![](assets/new.png)  
 - [2019-12-24-第十四届-D2-前端技术论坛精彩回顾【附PPT】](http://www.yyyweb.com/5338.html)  
 - [2019-12-24-React-Hooks-在蚂蚁金服的实践](http://www.yyyweb.com/5329.html)  
 - [2019-12-08-Rax-PWA-–-快速升级-Web-体验](http://www.yyyweb.com/5327.html)  
@@ -243,8 +245,6 @@
 - [2019-07-08-微前端架构：增量升级、代码解耦、独立部署](http://www.yyyweb.com/5298.html)  
 - [2019-06-09-第二届微医前端技术沙龙【附PPT下载】](http://www.yyyweb.com/5280.html)  
 - [2019-06-09-Node-12-值得关注的新特性一览](http://www.yyyweb.com/5279.html)  
-- [2019-04-21-程序员到-CTO-再到-CEO-的进化之路](http://www.yyyweb.com/5276.html)  
-- [2019-04-21-V8-内存管理和垃圾回收机制总结](http://www.yyyweb.com/5275.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -469,11 +469,16 @@
 </summary>
 
 
-- [2020-01-08-React-Hooks-从入门到放弃一](https://juejin.im/post/5e1595a4e51d4540fa49f0bd) ![](assets/new.png)  
-- [2020-01-08-2019年京东PLUS会员前端开发之路](https://juejin.im/post/5e156cb45188253aa666afa2) ![](assets/new.png)  
-- [2020-01-08-阅读《深入理解ES6》书籍，笔记整理（上）](https://juejin.im/post/5e0f5927e51d45416308b50f) ![](assets/new.png)  
-- [2020-01-08-译-Vue.js-内部原理浅析](https://juejin.im/post/5e12fdc6f265da5d6e091ebb) ![](assets/new.png)  
-- [2020-01-08-Vue2.0源码阅读笔记（十一）：自定义事件](https://juejin.im/post/5e159c14f265da5d5f41cbc7) ![](assets/new.png)  
+- [2020-01-08-js跳出forEach循环的骚姿势](https://juejin.im/post/5e159f366fb9a0483e475f42) ![](assets/new.png)  
+- [2020-01-08-mobx在react如何使用？3分钟学会！](https://juejin.im/post/5e159f375188253ab044cf47) ![](assets/new.png)  
+- [2020-01-08-前端自动化测试jest教程2-匹配器matchers](https://juejin.im/post/5e15ae175188253a624a710d) ![](assets/new.png)  
+- [2020-01-08-CSS3六——旋转立方体问题](https://juejin.im/post/5e15e137f265da5d16023c89) ![](assets/new.png)  
+- [2020-01-08-再见js原型](https://juejin.im/post/5e1582175188253a5a3f376a) ![](assets/new.png)  
+- [2020-01-08-React-Hooks-从入门到放弃一](https://juejin.im/post/5e1595a4e51d4540fa49f0bd)  
+- [2020-01-08-2019年京东PLUS会员前端开发之路](https://juejin.im/post/5e156cb45188253aa666afa2)  
+- [2020-01-08-阅读《深入理解ES6》书籍，笔记整理（上）](https://juejin.im/post/5e0f5927e51d45416308b50f)  
+- [2020-01-08-译-Vue.js-内部原理浅析](https://juejin.im/post/5e12fdc6f265da5d6e091ebb)  
+- [2020-01-08-Vue2.0源码阅读笔记（十一）：自定义事件](https://juejin.im/post/5e159c14f265da5d5f41cbc7)  
 - [2020-01-08-js中进行数字,超大金额千位符格式化处理](https://juejin.im/post/5da19c13e51d45784d3f8655)  
 - [2020-01-08-Vue.js-中的片段](https://juejin.im/post/5e1587e1e51d45415f365973)  
 - [2020-01-08-详解浏览器工作原理](https://juejin.im/post/5e0d9c326fb9a048097a1682)  
@@ -484,11 +489,6 @@
 - [2020-01-08-窥探现代浏览器架构三](https://juejin.im/post/5e151c226fb9a0484c4ce87a)  
 - [2020-01-08-Map-与对象之间的相互转换](https://juejin.im/post/5e153b7b5188253a57049bc5)  
 - [2020-01-08-从零基础到轻松就业-|-CSS——CSS-基本视觉格式化：①-“块盒子”格式化（-Ⅲ-）](https://juejin.im/post/5e153a3df265da5d32468e34)  
-- [2020-01-07-Vue3-Composition-Api-+-TypeScript-+-新型状态管理模式探索](https://juejin.im/post/5e0da5606fb9a048483ecf64)  
-- [2020-01-07-Sth-about-'use-strict'](https://juejin.im/post/5e131bf7f265da5d52015dbc)  
-- [2020-01-07-7-个好用的-TypeScript-新功能](https://juejin.im/post/5e144a18f265da5d3b32e0eb)  
-- [2020-01-07-算法学习in-js：快速排序](https://juejin.im/post/5e1405576fb9a04824619ae0)  
-- [2020-01-07-解读element-ui中table组件部分源码与需求分析](https://juejin.im/post/5e13d9ae5188253aae7d85fa)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
