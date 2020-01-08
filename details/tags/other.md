@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-08 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-08 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -547,6 +547,7 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2020-01-08-如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html) 
 - [2020-01-03-科技爱好者周刊：第-89-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html) 
 - [2019-12-29-Bash-脚本如何创建临时文件：mktemp-命令和-trap-命令教程](http://www.ruanyifeng.com/blog/2019/12/mktemp.html) 
 - [2019-12-27-科技爱好者周刊：第-88-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-88.html) 
@@ -751,6 +752,8 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-01-08-更新简历后，来找我的公司都是外包？什么情况！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489552&idx=1&sn=a7674ed569187e64aa02c1e15675a25f&chksm=ea5cd576dd2b5c60b96eb00119202b325376caf5d1864cd9c23924983eb04d65beb631ac5cf9&scene=27#wechat_redirect) 
+- [2020-01-08-如何实现一个通用的分布式事务框架？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489552&idx=3&sn=3c67ead5bacd5269f1d1261572e0b4e8&chksm=ea5cd576dd2b5c60fe13f2311539903196b67adcb85bf127df5fc19334790bce979d2efd9136&scene=27#wechat_redirect) 
 - [2020-01-07-推荐：没有项目经验，可以读一下这几个开源的企业级项目...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489544&idx=1&sn=064f1466ccff309a203f49e8ada3b699&chksm=ea5cd56edd2b5c783bc32786c75a5801a9d6caecdf76d9e781e9e045fa0624baabbe1eb514fa&scene=27#wechat_redirect) 
 - [2020-01-07-使用-ThreadLocal-一次解决老大难问题](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489544&idx=2&sn=156a80523b34607022f79ae0a488373c&chksm=ea5cd56edd2b5c785bcffdfeec6ff5b4aac02c44e04d3fc54dc5f4249ee9e37cc7ae6a4ea791&scene=27#wechat_redirect) 
 - [2020-01-07-Mybatis-有坑，千万别踩！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489544&idx=4&sn=7dfd71a121dd755bb5c7474fc7816640&chksm=ea5cd56edd2b5c78bf18a2f7147d26f0824205e184211d9fff4e847e59543499702d2516b8e7&scene=27#wechat_redirect) 
@@ -868,6 +871,9 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-08-东拼西凑完成一个“前端框架”1---布局](https://juejin.im/post/5e14ab4be51d4540f9085ba4) 
+- [2020-01-08-Angular-Schematics-三部曲之-Add](https://juejin.im/post/5e0819516fb9a016005350cb) 
+- [2020-01-08-Map-与对象之间的相互转换](https://juejin.im/post/5e153b7b5188253a57049bc5) 
 - [2020-01-07-Sth-about-'use-strict'](https://juejin.im/post/5e131bf7f265da5d52015dbc) 
 - [2020-01-07-使用tree命令生成项目目录树](https://juejin.im/post/5e13f9366fb9a0483c632a4c) 
 - [2020-01-07-我是如何在Linux服务器部署自己的网站](https://juejin.im/post/5e13e2765188253a566e382e) 

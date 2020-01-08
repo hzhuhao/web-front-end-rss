@@ -10750,6 +10750,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "如何写一份有效的技术简历？",
+        "link": "http://www.ruanyifeng.com/blog/2020/01/technical-resume.html",
+        "date": "2020-01-08"
+      },
+      {
         "title": "科技爱好者周刊：第 89 期",
         "link": "http://www.ruanyifeng.com/blog/2020/01/weekly-issue-89.html",
         "date": "2020-01-03"
@@ -13067,6 +13072,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "更新简历后，来找我的公司都是外包？什么情况！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489552&idx=1&sn=a7674ed569187e64aa02c1e15675a25f&chksm=ea5cd576dd2b5c60b96eb00119202b325376caf5d1864cd9c23924983eb04d65beb631ac5cf9&scene=27#wechat_redirect",
+        "date": "2020-01-08"
+      },
+      {
+        "title": "JVM 性能调优监控工具 jps、jstack、jmap、jhat、jstat、hprof 使用详解",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489552&idx=2&sn=e2caa61b1d6848309925cff45629d5d8&chksm=ea5cd576dd2b5c6055f1fac0cb3ee1b05971534daf7b9f82eb17e1c8436b9541be25598d2707&scene=27#wechat_redirect",
+        "date": "2020-01-08"
+      },
+      {
+        "title": "如何实现一个通用的分布式事务框架？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489552&idx=3&sn=3c67ead5bacd5269f1d1261572e0b4e8&chksm=ea5cd576dd2b5c60fe13f2311539903196b67adcb85bf127df5fc19334790bce979d2efd9136&scene=27#wechat_redirect",
+        "date": "2020-01-08"
+      },
+      {
         "title": "推荐：没有项目经验，可以读一下这几个开源的企业级项目...",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489544&idx=1&sn=064f1466ccff309a203f49e8ada3b699&chksm=ea5cd56edd2b5c783bc32786c75a5801a9d6caecdf76d9e781e9e045fa0624baabbe1eb514fa&scene=27#wechat_redirect",
         "date": "2020-01-07"
@@ -13736,6 +13756,11 @@
     "link": "https://www.ershicimi.com/a/893",
     "items": [
       {
+        "title": "我会vue了，面试官还会问我什么？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498142&idx=1&sn=4b227c23632731c06f42b57ad1b67a4b&chksm=80f1af56b78626403b2110853fafce517e3bd2dd753a706de8a0c9fc680c3bf49b0fd3ef1343&scene=27#wechat_redirect",
+        "date": "2020-01-08"
+      },
+      {
         "title": "奇葩！面试说真话居然也能拿offer？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498138&idx=1&sn=e6bc2a72368094b55e8040d395a97589&chksm=80f1af52b78626444c85b03ad4aba58ac6801e5f39dd7cfd76e9900f314244d20c0051c60740&scene=27#wechat_redirect",
         "date": "2020-01-07"
@@ -13857,6 +13882,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "东拼西凑完成一个“前端框架”(1) - 布局",
+        "link": "https://juejin.im/post/5e14ab4be51d4540f9085ba4",
+        "date": "2020-01-08"
+      },
+      {
+        "title": "Angular Schematics 三部曲之 Add",
+        "link": "https://juejin.im/post/5e0819516fb9a016005350cb",
+        "date": "2020-01-08"
+      },
+      {
+        "title": "窥探现代浏览器架构(三)",
+        "link": "https://juejin.im/post/5e151c226fb9a0484c4ce87a",
+        "date": "2020-01-08"
+      },
+      {
+        "title": "Map 与对象之间的相互转换",
+        "link": "https://juejin.im/post/5e153b7b5188253a57049bc5",
+        "date": "2020-01-08"
+      },
+      {
+        "title": "从零基础到轻松就业 | CSS——CSS 基本视觉格式化：① “块盒子”格式化（ Ⅲ ）",
+        "link": "https://juejin.im/post/5e153a3df265da5d32468e34",
+        "date": "2020-01-08"
+      },
       {
         "title": "Vue3 Composition-Api + TypeScript  + 新型状态管理模式探索",
         "link": "https://juejin.im/post/5e0da5606fb9a048483ecf64",
