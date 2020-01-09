@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-01-09 06:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-09 12:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -632,7 +632,8 @@
 - [【阮一峰的网络日志】Git-原理入门](http://www.ruanyifeng.com/blog/2018/10/git-internals.html)
 - [【Aotu-|-凹凸实验室】用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/)
 - [【Aotu-|-凹凸实验室】Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/)
-- [【InfoQ】用文言文编程？Github“万星”代码背后，到底是何方神圣](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=2&sn=96af72c8510764c91c6e3dbd50f37a15&chksm=bdbe9f8a8ac9169c62d37307343da1a3a788fd52402f30a5b1e46eee8cf7c9db9807b552011b&scene=27#wechat_redirect)
+- [【互联网架构师】1-月份-Github-上最热门最有价值的开源项目](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489569&idx=1&sn=d837aa8d3b2920172acf0b86c8dfd82b&chksm=ea5cd547dd2b5c513337c8303bb6e338b15aa47afb1fefe867ae7cbf6a62a34991047aa8bfe2&scene=27#wechat_redirect)
+- [【互联网架构师】如何设计-QQ、微信、微博、Github-等等，第三方账号登陆-？（附表设计）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489569&idx=3&sn=e2ee31a44db15f87ce4553bc4cc66d4c&chksm=ea5cd547dd2b5c513393d2f4086ad7eb3adffac96d1dfa0b333b71f8c041e025c116390f9fce&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/git-svn.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

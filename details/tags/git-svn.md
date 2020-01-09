@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-09 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-09 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -25,4 +25,6 @@
 - [2018-10-10-Git-原理入门](http://www.ruanyifeng.com/blog/2018/10/git-internals.html) 
 - [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
 - [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
+- [2020-01-09-1-月份-Github-上最热门最有价值的开源项目](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489569&idx=1&sn=d837aa8d3b2920172acf0b86c8dfd82b&chksm=ea5cd547dd2b5c513337c8303bb6e338b15aa47afb1fefe867ae7cbf6a62a34991047aa8bfe2&scene=27#wechat_redirect) 
+- [2020-01-09-如何设计-QQ、微信、微博、Github-等等，第三方账号登陆-？（附表设计）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489569&idx=3&sn=e2ee31a44db15f87ce4553bc4cc66d4c&chksm=ea5cd547dd2b5c513393d2f4086ad7eb3adffac96d1dfa0b333b71f8c041e025c116390f9fce&scene=27#wechat_redirect) 
 - [2019-12-29-用文言文编程？Github“万星”代码背后，到底是何方神圣](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=2&sn=96af72c8510764c91c6e3dbd50f37a15&chksm=bdbe9f8a8ac9169c62d37307343da1a3a788fd52402f30a5b1e46eee8cf7c9db9807b552011b&scene=27#wechat_redirect) 
