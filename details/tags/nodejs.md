@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-09 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-10 06:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -99,5 +99,6 @@
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-01-03-奇舞周刊第-334-期:-llhttp-是如何使-Node.js-性能翻倍的？](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590897&idx=1&sn=f12379a4d63aa834ad3d920039d35147&chksm=8891de95bfe657835c4f27126c0494520c3b16ee2db877aad2d5d4d5f8634e675b4a60b457d7&scene=27#wechat_redirect) 
 - [2020-01-02-Docker-搭建你的第一个-Node-项目到服务器](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=1&sn=0aa80a7c9549af69a64332bb92a94804&chksm=8891de89bfe6579f09d3cd9a116b63ae2a90409d4e9a8b4359a61fca32d955c47f096b02d5b2&scene=27#wechat_redirect) 
+- [2020-01-09-node-的模块运行机制](https://juejin.im/post/5e174b815188254c075d0d8d) 
 - [2020-01-09-【重学Node.js-第1&2篇】本地搭建Node环境并起RESTful-Api服务](https://juejin.im/post/5e0bf5456fb9a047f164f866) 
 - [2020-01-09-【重学Node.js-第4篇】实现一个简易爬虫&启动定时任务](https://juejin.im/post/5e0c46b2e51d4541184a0e0b) 
