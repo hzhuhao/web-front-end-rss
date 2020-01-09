@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-09 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-09 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -812,6 +812,15 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-01-09-2020-年微信公开课开课，张小龙：我是故意不来现场的](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023554&idx=1&sn=c1583ad7aa3d7ea15d887e95004e0f93&chksm=bdbe90918ac9198705bd8eb8522b80b854c6a0e25fb7308169681df6f2df3771408182e0e3fe&scene=27#wechat_redirect) 
+- [2020-01-09-一个牛掰的程序员应该掌握几种语言，C++之父这样说](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023554&idx=2&sn=2954cc0b67a02e1b53a6bfd9e0fb4e4a&chksm=bdbe90918ac91987bebed8ddb0bead6559c69d238e3d0fcb29cac7e197658874b57c65e54aa2&scene=27#wechat_redirect) 
+- [2020-01-09-2020年需要关注的计算产业四大变化](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023554&idx=3&sn=4ecf0c13cf323154a32d5d7b7357f95a&chksm=bdbe90918ac9198797c875df9841acf5265183488fac2bc5fba7ca76c3e7d8868d8c2251b095&scene=27#wechat_redirect) 
+- [2020-01-09-Java-14-进入-Rampdown-阶段，所有特性已冻结](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023554&idx=4&sn=d82062ea8b01074d04e8f79620934524&chksm=bdbe90918ac919874c24177658ffe550568509a2efa5650a54be65e4fdfbc03b38b211e539de&scene=27#wechat_redirect) 
+- [2020-01-09-伊朗袭击美军基地，比特币快速上涨-400-美元！比特币成避险资产？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023554&idx=5&sn=f8fe76357e99602b1fdce2e943e2b7a7&chksm=bdbe90918ac91987c8bc1f1ba15f8d54abfcd713e910e4c7c92791cfad7a110d4354efe12264&scene=27#wechat_redirect) 
+- [2020-01-08-寒冬中的中国互联网，为什么花钱砸研发的公司都不会觉得冷？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023518&idx=2&sn=6a3270e07a381cdd3da9fff48160d1a3&chksm=bdbe90cd8ac919dbb5c509b7fb40e3b39eb05a66063301a285571e39fa2f0513447efb655e3d&scene=27#wechat_redirect) 
+- [2020-01-08-人工智能在2020将迎来爆发式增长！AICon上海带你解析热点技术](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023518&idx=3&sn=5bc4e34bfd224563d6a9dbc2d89a8b91&chksm=bdbe90cd8ac919db1c141ec1bdcf32ae443f1ffbbdaf8d9fa6873add4a346bed31b59d04275d&scene=27#wechat_redirect) 
+- [2020-01-08-微软北大造出超逼真-AI-换脸框架，顺便搞了个伪人脸检测器，网友：自造矛和盾？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023518&idx=4&sn=f06602ebe554df719838dbff2ad74bb9&chksm=bdbe90cd8ac919db190ca796f054ccaaa4208a719303536397fa8ca8965ca5701c06d60bcadd&scene=27#wechat_redirect) 
+- [2020-01-08-2020-年需要关注的-5-大-Android-开发技术](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023518&idx=5&sn=0ca821361962a4292b4c65efdc107179&chksm=bdbe90cd8ac919dbeb67c1eff8936e23b4f9a760a22d89cde9f7b1fec46742a44b3efece0ad8&scene=27#wechat_redirect) 
 - [2020-01-07-Google、IBM等一线大厂都在用的敏捷开发到底是什么？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023481&idx=1&sn=5c26db40fcc9f72135fc95d5e171f8f0&chksm=bdbe902a8ac9193c2bb3b9796fd0da6decf1d7d377d103d0959091b72a1c976f9857e9587549&scene=27#wechat_redirect) 
 - [2020-01-07-Kubernetes-会不会“杀死”-DevOps？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023481&idx=2&sn=08f70cb99ee509c564a5e88295c6bc88&chksm=bdbe902a8ac9193c475de1c461b9a26745a65ce3e8b2464f52aefcb807ad2170570e0dde34b6&scene=27#wechat_redirect) 
 - [2020-01-07-如何向-5-岁小朋友解释什么是微服务](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023481&idx=3&sn=72b064dfa868fc87aa9f8eeb3d08c991&chksm=bdbe902a8ac9193c61d9a3712e5222f9b35d18e22bd79d072966061ca6f9b8754cbdcec799d9&scene=27#wechat_redirect) 

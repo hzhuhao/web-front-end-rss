@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-09 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-09 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -7,6 +7,7 @@
 
 
 
+- [2020-01-09-【第1831期】React团队的技术准则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235428&idx=2&sn=7cfa398926f440f9bf32200969a6d96f&chksm=bd497de08a3ef4f658b4fb760f3886e244bbf4e9a01678ae83549b0f5d9bf46b22da3a71a578&scene=27#wechat_redirect) 
 - [2019-11-13-【第1774期】详细preact-hook源码逐行解析](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234625&idx=2&sn=1a53cd479a6465f8f3e5fd9133ad9db3&chksm=bd4978c58a3ef1d34600d927cedc65af44bade7c6c084d4af023e1fc1cb77c72be77eb076157&scene=27#wechat_redirect) 
 - [2019-11-12-【第1773期】19-个来自-2019-React-Conf-的总结](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234614&idx=1&sn=ffd14ba026a242ae2a7371fd30d6ea57&chksm=bd4978b28a3ef1a4d80bc066cbb03b844b48958f3f3c0faec19c04efd2509b0f726ed87eb9b4&scene=27#wechat_redirect) 
 - [2019-11-09-【第1770期】利用-React-组件的“黄金法则"让代码更优雅之如何发挥钩子的作用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651234595&idx=1&sn=4f6dbae75d6ade20e5796ed36eb6871e&chksm=bd4978a78a3ef1b1f5ffe75102fb8823d07fb8080229c2313a92b9efb4cc96120bc3651ef713&scene=27#wechat_redirect) 
@@ -101,6 +102,7 @@
 - [2018-10-13-当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect) 
 - [2018-09-25-React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect) 
 - [2018-09-21-重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect) 
+- [2020-01-09-基于-React-的微前端：Piral-简析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=2&sn=5bff778b7793ce4d0d9ff8336448b160&chksm=f9525293ce25db85d19dcd0cf5ac4183b74aab6d82786eb33e0f34316b122d8dc9fa6faf3a59&scene=27#wechat_redirect) 
 - [2019-12-30-关于-React-：你不可不知的-19-件事儿](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493498&idx=2&sn=0f86bc573f5ba265de42c11b7b05e27e&chksm=f9525239ce25db2f68e92fc81b274d2f65781115072282acc9d2153999fdc71c2f44bc88b8bb&scene=27#wechat_redirect) 
 - [2019-12-23-​如何使用-GraphQL-构建-TypeScript+React-应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493443&idx=2&sn=00ef89575ddbb3315a40c14ba903d758&chksm=f9525200ce25db16a58f5cd5edcbc7253720a6836a569e9c593fb8ab388820d08f0908d9fb2a&scene=27#wechat_redirect) 
 - [2019-11-28-React过誉了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493244&idx=1&sn=c7b1badd93c41312a09c7ccbd3fc615a&chksm=f952533fce25da29189eeea2366dc0dbbc40fc8ba6deb3452695e99505421fb5418f973f88da&scene=27#wechat_redirect) 
@@ -175,6 +177,8 @@
 - [2019-12-28-从-React-历史的长河里聊虚拟DOM及其价值](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=1&sn=8b6d3b47f80e21fd6fe45439258edfef&chksm=8891deb6bfe657a0ebab3da007b49538a0edb2a4d526dbf828a6ddc2193415b831c6c1cba948&scene=27#wechat_redirect) 
 - [2019-12-25-使用-React-为-Chimee-开发插件](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590847&idx=1&sn=19629fd5d68cf6ceeb5381453998bafe&chksm=8891de5bbfe6574d21b9580e1e237d269dfbc68df84ea47165d6eabbb8b53e562e90b53a64e8&scene=27#wechat_redirect) 
 - [2019-12-17-React-中的一个奇怪的-Hook](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484359&idx=1&sn=5b090080ae3e856aabb4831b6615407a&chksm=eb1cc62ddc6b4f3bcddf679dd04c5a2fc190524dc2cfcd70b63461dded7bb79537124c7087c5&scene=27#wechat_redirect) 
+- [2020-01-09-React-Native-性能优化指南【全网最全，值得收藏】](https://juejin.im/post/5e1676e16fb9a04847095b12) 
+- [2020-01-09-你可能不知道的-React-Hooks](http://www.taoweng.site/index.php/archives/296/) 
 - [2020-01-08-mobx在react如何使用？3分钟学会！](https://juejin.im/post/5e159f375188253ab044cf47) 
 - [2020-01-08-React-Hooks-从入门到放弃一](https://juejin.im/post/5e1595a4e51d4540fa49f0bd) 
 - [2020-01-06-【译】React团队的技术准则](https://juejin.im/post/5e1324d75188253a9e7ae689) 
