@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-10 22:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-11 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【前端早读课】2020-01-10-【第1832期】从敲下一行JS代码到这行代码被执行，中间发生了什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235440&idx=1&sn=b433c67cc7c79e768ee82e20cb925187&chksm=bd497df48a3ef4e2b912612af8b614f41a389826362225c8d67e946e863bded931eaa355d45d&scene=27#wechat_redirect) 
+- [【前端早读课】2020-01-10-【招聘】阿里的无线架构方案等你来定义](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235440&idx=2&sn=9a142024d8e3acbc0f9a8acdbed5a226&chksm=bd497df48a3ef4e2b152ba534744e433074e9d27a199c0bb18e259df9fcbf6f56989735a85a6&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-09-Electron-开发指南：前端人的最佳跨平台解决方案](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235428&idx=1&sn=d804721aada935a97a124fec6e7f32e8&chksm=bd497de08a3ef4f694d48f527aec9c449c1b562e45e57eb0013205b84411e0dedb448c0c5d84&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-09-【第1831期】React团队的技术准则](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235428&idx=2&sn=7cfa398926f440f9bf32200969a6d96f&chksm=bd497de08a3ef4f658b4fb760f3886e244bbf4e9a01678ae83549b0f5d9bf46b22da3a71a578&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-08-【第1830期】2019年京东PLUS会员前端开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235422&idx=1&sn=4335e2d4b515cd70584dd929b625aaed&chksm=bd497dda8a3ef4cc09b16c390d725cb115f06c9656fb0e082aa37de208112d79ede586f5d24d&scene=27#wechat_redirect) 
@@ -288,6 +290,7 @@
 - [【JavaScript】2020-01-03-你连-HTTPS-原理都不懂，还讲“中间人攻击”？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498127&idx=1&sn=622d03d1460eaeda2b40a77e1e4f28ae&chksm=80f1af47b786265119a57b314931276630be5efdacdf341dbd597fa89e29bcf534223d5dae15&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-02-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498123&idx=1&sn=b4bc433a8cf73edae22c5e6b8787c4b2&chksm=80f1af43b78626559cbe91f2747501e9ca0f4725b1a9664bfb13b59590548fff66cab33be57f&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-01-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498125&idx=1&sn=9f0bf219718aaed89d35d8b154e5e446&chksm=80f1af45b78626531c302d9636dd377b648d5396885c77350b0cc57517bec7821cff1eb1c18e&scene=27#wechat_redirect) 
+- [【掘金前端】2020-01-10-ZooTeam-前端周刊｜第-64-期](https://juejin.im/post/5e189294e51d4557e86e8b4a) 
 - [【掘金前端】2020-01-10-关于-React-的几个问题总结](https://juejin.im/post/5e1876236fb9a030073b428a) 
 - [【掘金前端】2020-01-10-自动化部署](https://juejin.im/post/5e1851645188254dbc25dcb9) 
 - [【掘金前端】2020-01-10-2020年从基础到进阶，测试你有多了解-JavaScript，刷新你的知识！](https://juejin.im/post/5e1830c05188254c461313dc) 
