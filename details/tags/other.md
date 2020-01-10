@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-10 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-10 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -348,6 +348,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-01-10-寒冬中的中国互联网，为什么花钱砸研发的公司都不会觉得冷？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493593&idx=3&sn=4eb321cf00188a909bdefee1d15b4319&chksm=f952529ace25db8cda114651af0f6b092890c58e3cd8db5f8b30c6ad097513e3f30217e8e6a2&scene=27#wechat_redirect) 
 - [2020-01-07-华为快速应用迁移与调优的秘诀是什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493572&idx=3&sn=bc56ca9de755afdc5210c350a6ee2a32&chksm=f9525287ce25db91e7a52181575e9d8deee3a9e38a1c71efdf4c054db591ef361611f3db5b8d&scene=27#wechat_redirect) 
 - [2020-01-06-Kotlin-即未来！2020-年需要关注的-5-大-Android-开发技术](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493562&idx=1&sn=787807d7ad4019a3b40388d4a156e9c8&chksm=f95252f9ce25dbefc0ebb5c10bdfc5c1dff013b92e3fdd5d8549d04d58ec7b26e2ce76caafdf&scene=27#wechat_redirect) 
 - [2020-01-05-前端周报：美国政府限制-AI-软件出口中国等国家；Facebook-因不当共享用户数据被罚-164](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493555&idx=1&sn=8e1b50b1efe36e8b35191f492b6eda59&chksm=f95252f0ce25dbe67491e84242f6214062e0f6e67ffd6845271ad1d578097f0c45233f91cd79&scene=27#wechat_redirect) 
@@ -729,6 +730,7 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-01-09-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590930&idx=2&sn=bdc1490d66e01c68e1a1161e25583697&chksm=8891def6bfe657e07c981edebd72e27fd3ede06bdf18481638beb3c499f4283bcfefc754a4d8&scene=27#wechat_redirect) 
 - [2020-01-08-谈谈农历](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590924&idx=1&sn=c6a3fb89e42e4d281bbcf6dac501c15b&chksm=8891dee8bfe657fefc07a8fa91a67d72bf395a21164498f007a1e0004d1019ee49a482037973&scene=27#wechat_redirect) 
 - [2020-01-08-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590924&idx=2&sn=6ca36fd7107ba7c08b4c9d2a8bebedf1&chksm=8891dee8bfe657fe832c016109973e22d5212adc78f3fc0a6e405cc93c331e225a4b54148ce9&scene=27#wechat_redirect) 
 - [2020-01-07-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590916&idx=2&sn=3f1834d431f42ec6070956e6834586a4&chksm=8891dee0bfe657f6612de0e613ad3f37f39fa4f83cd9a7d4618bec4c7a067d2369019a843488&scene=27#wechat_redirect) 
@@ -751,6 +753,7 @@
 - [2019-12-23-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=2&sn=3cbc2d1abf107cb0c0505b17c72c352f&chksm=8891de55bfe65743171a14bfe0f1f627563d3c5c857b30964a5c89923e2a40c2f6d5957f5590&scene=27#wechat_redirect) 
 - [2019-12-21-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590831&idx=2&sn=da29fa45f7ac52c7b27c248ef20349a5&chksm=8891de4bbfe6575d5defd69131153521f7ad93bb10c934ce339e6b917085ba1e7bc500efc176&scene=27#wechat_redirect) 
 - [2019-12-20-奇舞周刊第-332-期：你绝对想不到柱形图背后有这么多故事](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590823&idx=1&sn=00cbbcc4df1d729eeaef921799e68954&chksm=8891de43bfe6575506d0997367b18a2acf29cdb0dd9e80958de11ee448aa56101dcb0f533303&scene=27#wechat_redirect) 
+- [2020-01-10-程序员都有哪些副业【第一期】](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484389&idx=1&sn=fc44e64618c7f14836cf5efab1f2cd90&chksm=eb1cc60fdc6b4f19d68fa72266d3b9144634ceaa99d791643516d275a5e30d9a909ed1b6f3bb&scene=27#wechat_redirect) 
 - [2020-01-01-前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484377&idx=1&sn=9f00743c4e551a90671150f730a2063c&chksm=eb1cc633dc6b4f25a6d899a900b8f49cf9e2ec3a40900e927f98a57cde0af209d292f5f9fc27&scene=27#wechat_redirect) 
 - [2019-12-27-面向BAT大厂新零售大型线上场景实战（大厂前端架构师带你实战企业级线上项目）](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484373&idx=1&sn=b539a1ca6b8b5696929d5d05b8d315e7&chksm=eb1cc63fdc6b4f29b111e2161082d09ac7381d9ef7748450aefe15e84de86d5c64c33e82920f&scene=27#wechat_redirect) 
 - [2019-12-25-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484369&idx=1&sn=6c07f38130853bce623273cc5310b982&chksm=eb1cc63bdc6b4f2dfe906292a5e9360c7a851c4c7115b7373ed37ace4b51acb28ecb116c8832&scene=27#wechat_redirect) 
@@ -891,6 +894,7 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-10-开始使用sentry](https://juejin.im/post/5e171cabe51d451c7808b3a5) 
 - [2020-01-10-前端三分天下到四强争霸？神奇的svelte](https://juejin.im/post/5e167a88f265da5d22020c83) 
 - [2020-01-09-前端程序员用前端的习惯对-Golang-进行的一次小小封装尝试](https://juejin.im/post/5e15bd2f5188253aa32a745f) 
 - [2020-01-08-你会成为你想的那个人-|-考拉掘金年终总结](https://juejin.im/post/5e0c4e0b6fb9a0480a5a71a9) 

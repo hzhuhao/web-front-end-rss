@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-10 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-10 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -153,6 +153,8 @@
 - [2019-12-29-每个公司都会用的短-URL-服务，怎么设计与实现？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=2&sn=b1b7f944fb39fd1cdfeae2d6b6099dca&chksm=ea5cdad7dd2b53c18db3a7872c7d0e1f40a7c9c1a46356761d8557e8dbdfd2bd0851d12246b0&scene=27#wechat_redirect) 
 - [2019-12-24-去宇宙条面试被问：HashMap-为什么线程不安全？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=3&sn=f0fdc5e0f9b13249bb67020d018238f1&chksm=ea5cdaeddd2b53fbe3f84d4822fcc8f1b83c79e0d979e9c35d58e07a2cd5b7afe7f2425a8bd0&scene=27#wechat_redirect) 
 - [2020-01-04-值得推荐的-Docker-安全开源工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023443&idx=2&sn=362f9b615d49a54b9dad9185b0f7e430&chksm=bdbe90008ac919169b68314b50f7007622a86c7f47814684c12037820fef7787e333777849b6&scene=27#wechat_redirect) 
+- [2020-01-10-关于浏览器渲染---从URL到页面显示](https://juejin.im/post/5e16fa2851882536751cf29e) 
+- [2020-01-10-手摸手教你解决重定向缓存问题](https://juejin.im/post/5e16f5eef265da3e1135953c) 
 - [2020-01-08-详解浏览器工作原理](https://juejin.im/post/5e0d9c326fb9a048097a1682) 
 - [2020-01-08-postMessage真香](https://juejin.im/post/5e146bae6fb9a048401d077d) 
 - [2020-01-08-窥探现代浏览器架构三](https://juejin.im/post/5e151c226fb9a0484c4ce87a) 
