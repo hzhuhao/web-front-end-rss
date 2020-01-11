@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2020-01-09 18:00:20。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-11 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-01-11-搜狐规定迟到一次罚款-500；C-获得“2019-年度编程语言”称号；百度被行政处罚丨Q资讯](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=1&sn=5b08e323e7d5ed1f627763a62a1b4b91&chksm=bdbe90b38ac919a5052b77d847c86573bb7d718b34aa9a4a7675ab018994851879a3045b36a4&scene=27#wechat_redirect) 
+- [2020-01-11-API已死——APIs万岁！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=2&sn=de45d61d6ec81f4384040e7a8d2edd21&chksm=bdbe90b38ac919a5f14fb17bc3191886f7c15989f437a984c54e68d104251f6f33fca2e8b273&scene=27#wechat_redirect) 
+- [2020-01-11-揭秘大数据时代秒级查询响应引擎的架构设计](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=3&sn=fd05cdd885a6b8133a8e9c0637de3ffc&chksm=bdbe90b38ac919a56a7e58b9ec5a8dc65ac31912c0a8d76730956382f46e388b2912979381a5&scene=27#wechat_redirect) 
+- [2020-01-11-给平庸程序员的12条建议](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=4&sn=0a8589bc58dbcd696e410a95b726dacb&chksm=bdbe90b38ac919a560f417ebc304d38935830f6db77bc214857c91eb0df26717d0fad1970624&scene=27#wechat_redirect) 
+- [2020-01-10-“中台”是架构的捷径吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023578&idx=1&sn=291f160a748ffb7e12bd5e3dd3b6d6ac&chksm=bdbe90898ac9199f7d14598b4d357670cec21be83d0fb8b0e4745626d8203f04e08fc00c7420&scene=27#wechat_redirect) 
+- [2020-01-10-达摩院预测-2020-十大科技趋势，两个领域值得注意丨Q事界](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023578&idx=2&sn=a4e8de1bf2e0c274b8cf6849761b9145&chksm=bdbe90898ac9199f4494cc8da81505ce26ef0ff806a5d74721819b51512602e31d1674925c4c&scene=27#wechat_redirect) 
+- [2020-01-10-AI开源的硬核战场：领军者百度如何亮剑？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023578&idx=3&sn=b55d9bfdbb1885ae1d442958f96b27bd&chksm=bdbe90898ac9199fdd8543adb0cdd1676600f8beb1ffaaea5d5c727f06d5b41f5c5e31988897&scene=27#wechat_redirect) 
+- [2020-01-10-程序员自救指南：一不小心删库删表怎么办？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023578&idx=4&sn=f1958b8bf8d0e2110a33c3a2fba209de&chksm=bdbe90898ac9199f87d7ba86f5b2912e2d680b496467cac2e7823e17f1d63f8e0f4ba59d4707&scene=27#wechat_redirect) 
+- [2020-01-10-这5个Python特性，后悔没早知道](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023578&idx=5&sn=2e9ec96dbb37f2adc00fc97260ab1db3&chksm=bdbe90898ac9199fe7dfe9c0046295a2c7e618276e9f658b8fb6da6253e6463f204edda86601&scene=27#wechat_redirect) 
 - [2020-01-09-2020-年微信公开课开课，张小龙：我是故意不来现场的](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023554&idx=1&sn=c1583ad7aa3d7ea15d887e95004e0f93&chksm=bdbe90918ac9198705bd8eb8522b80b854c6a0e25fb7308169681df6f2df3771408182e0e3fe&scene=27#wechat_redirect) 
 - [2020-01-09-一个牛掰的程序员应该掌握几种语言，C++之父这样说](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023554&idx=2&sn=2954cc0b67a02e1b53a6bfd9e0fb4e4a&chksm=bdbe90918ac91987bebed8ddb0bead6559c69d238e3d0fcb29cac7e197658874b57c65e54aa2&scene=27#wechat_redirect) 
 - [2020-01-09-2020年需要关注的计算产业四大变化](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023554&idx=3&sn=4ecf0c13cf323154a32d5d7b7357f95a&chksm=bdbe90918ac9198797c875df9841acf5265183488fac2bc5fba7ca76c3e7d8868d8c2251b095&scene=27#wechat_redirect) 
