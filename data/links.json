@@ -13252,6 +13252,46 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "2020 年最流行的 Java 开发技术",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489610&idx=1&sn=1549e9945e3d37291e820f6daec55ac0&chksm=ea5cd52cdd2b5c3a84136e0adfc9ffb8dd1ce7577d872ebdd1032b6795d8356ad4abb18ea36d&scene=27#wechat_redirect",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "count(1)、count(*) 与 count(列名) 的执行区别",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489610&idx=2&sn=d4ab55cacd5bd5db11efdcd8d9892893&chksm=ea5cd52cdd2b5c3a49d4748d2afa4ee417462e2a27954ed1845c4c5132b1ee5b56fa54e7a8a1&scene=27#wechat_redirect",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "5种将死的编程语言",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489610&idx=3&sn=7078a4ef5f9e6104474696670197d9fd&chksm=ea5cd52cdd2b5c3a5caf76c13981d2fb625926340914a0565d39a7e12921d5d52fc923a37a67&scene=27#wechat_redirect",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "JVM 大厂面试都会问，都会这么问，你能顶住么？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489610&idx=4&sn=3121d8f70e2d65aa2179cb891fa7bbb3&chksm=ea5cd52cdd2b5c3af482f7cb4128e5b0763019ac1fe37b0f0590fc0d70a357140b90f83668f9&scene=27#wechat_redirect",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "10 分钟看懂消息队列 RocketMQ",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489604&idx=1&sn=d132d816f800ae729e25ad1bb11c10ba&chksm=ea5cd522dd2b5c34354fd590f6ac194bfdd4779117bc3097d23d25c2fd1476b6d82cdf082ead&scene=27#wechat_redirect",
+        "date": "2020-01-11"
+      },
+      {
+        "title": "用了这么久的数据库连接池，你知道原理吗？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489604&idx=2&sn=02fdfd181385b8479643b8f79015933a&chksm=ea5cd522dd2b5c345c40041d0c005027476bd99d0a8d03e4ce5e1c73a3d668c4f1db945bb3dc&scene=27#wechat_redirect",
+        "date": "2020-01-11"
+      },
+      {
+        "title": "Spring 面试 7 大问题，你顶得住不？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489604&idx=3&sn=aae7aa833204fba181b6215555088b5d&chksm=ea5cd522dd2b5c34ba28d8a39eef29ed90be760981097677540320304de3ca35c950defeaeef&scene=27#wechat_redirect",
+        "date": "2020-01-11"
+      },
+      {
+        "title": "Spring Boot 异步请求和异步调用，一文搞定！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489604&idx=4&sn=3d59e8b9967a47c051bed1314fbd6403&chksm=ea5cd522dd2b5c34ec8f866eba30f5fb97583c693b0da5dc3102bf5990d494b7d63905f55fbf&scene=27#wechat_redirect",
+        "date": "2020-01-11"
+      },
+      {
         "title": "C语言，C++，python，Java...初学者应该选哪个？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489575&idx=1&sn=3294f37087a1d9f5a94c6a48ee941e4a&chksm=ea5cd541dd2b5c57c2fb78a97548c5448e5a48d4b7b689f395f36117af72c7a3e8932237b821&scene=27#wechat_redirect",
         "date": "2020-01-10"
@@ -14197,6 +14237,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "前端程序员进阶必备 | 教你配置免费又好用的抓包代理神器，HTTPS 也不在话下",
+        "link": "https://juejin.im/post/5e1a8bcfe51d450200787629",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "JavaScript实现JSON解析器",
+        "link": "https://juejin.im/post/5e188466e51d452fb97347b4",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "京东购物小程序cookie方案实践",
+        "link": "https://juejin.im/post/5e1885af6fb9a02fd84973d2",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "Vue 测试速成班",
+        "link": "https://juejin.im/post/5e18863df265da3e1932cddc",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "多 UI 版本网页五子棋实现",
+        "link": "https://juejin.im/post/5e1886975188252c6d367f7e",
+        "date": "2020-01-12"
+      },
       {
         "title": "ZooTeam 前端周刊｜第 64 期",
         "link": "https://juejin.im/post/5e189294e51d4557e86e8b4a",
