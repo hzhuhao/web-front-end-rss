@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-12 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-12 18:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【前端早读课】2020-01-12-【第1834期】DCloud@崔红保：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=1&sn=b225fb56b24e8d4575fd70c2694dc8ce&chksm=bd497d018a3ef417ed60f669626df76949c89f6601540cc213e037e0e94e67c42c75f5205f78&scene=27#wechat_redirect) 
+- [【前端早读课】2020-01-12-Taro-2.0：拥抱社区，拥抱变化](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=2&sn=072fd65d3b2c68d7f1726fae004afbe1&chksm=bd497d018a3ef417684044c69a17d88fc106ba6112fda36de774f7f1b27266882b0998913567&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-11-【第1833期】“云”端的语雀：用-JavaScript-全栈打造商业级应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235447&idx=1&sn=286efdd05289a58962dcf48963054a69&chksm=bd497df38a3ef4e57dcbf1dd92f9ce4cd379ed1295ce612ebf855fe30e0462267afacbed3d01&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-11-【招聘】百度智能小程序大前端部门招聘大量Web前端工程师，社招岗位及实习岗位均开放](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235447&idx=2&sn=14a8d454069f0a3dcfd0046f0f74eb9a&chksm=bd497df38a3ef4e5ec09f87bd28bde737f636490ff4649b85677fb759f006a576e0f083af34a&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-10-【第1832期】从敲下一行JS代码到这行代码被执行，中间发生了什么？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235440&idx=1&sn=b433c67cc7c79e768ee82e20cb925187&chksm=bd497df48a3ef4e2b912612af8b614f41a389826362225c8d67e946e863bded931eaa355d45d&scene=27#wechat_redirect) 
@@ -253,6 +255,10 @@
 - [【互联网架构师】2020-01-01-一些不错-Java-实践推荐！建议熟读并背诵默写全文](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=1&sn=3a3e60c48d1fdded6300239037f6bb35&chksm=ea5cdaaddd2b53bb33e2b81894837c1a3d6564f0345bb54f170396544efbc7e0cc8c033bc080&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-01-身为-Java-程序员必须掌握的-10-款开源工具！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=2&sn=c65151560c2247e9f4243424979ff81d&chksm=ea5cdaaddd2b53bb4f83c73fc8d5655e4826864e6760adfdf5bbc6d54c5cd1fde0007dcee12e&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-01-IDEA-2019.3-最新激活教程，有效期到-2089-年!](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=3&sn=a8d8657b8676a1fcb1c8949cfe48c985&chksm=ea5cdaaddd2b53bb34a5ce1695a52189740136ffdad480ba2d0ceefe887e8565df9d0fc41cea&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-12-成立不足五年，GMV-达百亿美元，东南亚淘宝-Shopee-是如何进行数据库选型的？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=1&sn=b11a1b91f9ce3207ca3edc3e06814546&chksm=bdbe90aa8ac919bc46cc6e58001086fa05f7ebd5c21505daa1a8c0af97f61515a9126a7c47d8&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-12-2020-年，那些“寿命终止”的微软产品](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=2&sn=8fe941e033bfb8a856fbbea2b83f5534&chksm=bdbe90aa8ac919bc9cbfa87c60cb42ba0da17a6f6de6490c0ddef1209fd5a93c4676714052bf&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-12-人工智能的下一个拐点：图神经网络迎来快速爆发期](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=3&sn=78ed3847eba75c8f23526b7d42b9c726&chksm=bdbe90aa8ac919bc17688120b81995d3c54f7af0806ddf08775773abbf93b1610a46c1fd71d5&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-12-美国白宫提出十条-AI-监管原则，避免政府过度干预-AI-发展](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=4&sn=1b4f950013042663b788a9a6d3f8efdb&chksm=bdbe90aa8ac919bc84ab4710e3715e9f28d332815acbd0d8979688f04a27e6853302c1412399&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-11-搜狐规定迟到一次罚款-500；C-获得“2019-年度编程语言”称号；百度被行政处罚丨Q资讯](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=1&sn=5b08e323e7d5ed1f627763a62a1b4b91&chksm=bdbe90b38ac919a5052b77d847c86573bb7d718b34aa9a4a7675ab018994851879a3045b36a4&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-11-API已死——APIs万岁！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=2&sn=de45d61d6ec81f4384040e7a8d2edd21&chksm=bdbe90b38ac919a5f14fb17bc3191886f7c15989f437a984c54e68d104251f6f33fca2e8b273&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-11-揭秘大数据时代秒级查询响应引擎的架构设计](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=3&sn=fd05cdd885a6b8133a8e9c0637de3ffc&chksm=bdbe90b38ac919a56a7e58b9ec5a8dc65ac31912c0a8d76730956382f46e388b2912979381a5&scene=27#wechat_redirect) 
@@ -305,6 +311,7 @@
 - [【InfoQ】2020-01-01-大规模数据场景下的实时数据分析](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=3&sn=ce50bf9170795a4271449d87e0140cf2&chksm=bdbe90738ac91965236122df212fe555a373f93870e188c90e6a9e5f446f04b90ee7ad931fdd&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-01-2019-年-WebAssembly-盘点：跟-JavaScript-的相爱相杀](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=4&sn=e394fc4a06284ba3ce2aad8be353ea21&chksm=bdbe90738ac919659a4682c67a7819a4066b6acbd875e7a7e28b2d54a5b60e7474e1bb0f7529&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-01-机器学习不是万能药，产品经理应该何时对它说-“No”-？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=5&sn=b0dc3e5cdba64b3f0bbb0ba072beb0b2&chksm=bdbe90738ac91965031ddba1b4491a140f333c0b47caf85b3fc3a35a5db8217eaacdc43b4d89&scene=27#wechat_redirect) 
+- [【JavaScript】2020-01-11-腾讯最新开源内部跨端框架Hippy，QQ、腾讯视频等18项业务都在用](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498152&idx=1&sn=ae3de7bbc16b5e58c553d9bbffae0556&chksm=80f1af60b78626763b1b4ef868ab071721448c5e1cdd247dd7a3d77a55c34cfecad2dd505b3b&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-10-种草-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498150&idx=1&sn=fce2a41a1bb5caad5cdddeed168d2610&chksm=80f1af6eb7862678b9ed7911af7cd6f749d7ded90df85aeb6e7ec369dbff3e1587f9c9569d34&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-09-工作之余，大家还有什么副业吗？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498146&idx=1&sn=06a6c8dec455c8e2762d05a1ec65f871&chksm=80f1af6ab786267cc70b32eee144baf5ab8cb4551355f37a157a7a5105e574803ab4ad922466&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-08-我会vue了，面试官还会问我什么？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498142&idx=1&sn=4b227c23632731c06f42b57ad1b67a4b&chksm=80f1af56b78626403b2110853fafce517e3bd2dd753a706de8a0c9fc680c3bf49b0fd3ef1343&scene=27#wechat_redirect) 

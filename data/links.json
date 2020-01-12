@@ -5,6 +5,16 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1834期】DCloud@崔红保：我眼中小程序的当下和未来可能",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=1&sn=b225fb56b24e8d4575fd70c2694dc8ce&chksm=bd497d018a3ef417ed60f669626df76949c89f6601540cc213e037e0e94e67c42c75f5205f78&scene=27#wechat_redirect",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "Taro 2.0：拥抱社区，拥抱变化",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=2&sn=072fd65d3b2c68d7f1726fae004afbe1&chksm=bd497d018a3ef417684044c69a17d88fc106ba6112fda36de774f7f1b27266882b0998913567&scene=27#wechat_redirect",
+        "date": "2020-01-12"
+      },
+      {
         "title": "【第1833期】“云”端的语雀：用 JavaScript 全栈打造商业级应用",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235447&idx=1&sn=286efdd05289a58962dcf48963054a69&chksm=bd497df38a3ef4e57dcbf1dd92f9ce4cd379ed1295ce612ebf855fe30e0462267afacbed3d01&scene=27#wechat_redirect",
         "date": "2020-01-11"
@@ -13649,6 +13659,26 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "成立不足五年，GMV 达百亿美元，东南亚淘宝 Shopee 是如何进行数据库选型的？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=1&sn=b11a1b91f9ce3207ca3edc3e06814546&chksm=bdbe90aa8ac919bc46cc6e58001086fa05f7ebd5c21505daa1a8c0af97f61515a9126a7c47d8&scene=27#wechat_redirect",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "2020 年，那些“寿命终止”的微软产品",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=2&sn=8fe941e033bfb8a856fbbea2b83f5534&chksm=bdbe90aa8ac919bc9cbfa87c60cb42ba0da17a6f6de6490c0ddef1209fd5a93c4676714052bf&scene=27#wechat_redirect",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "人工智能的下一个拐点：图神经网络迎来快速爆发期",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=3&sn=78ed3847eba75c8f23526b7d42b9c726&chksm=bdbe90aa8ac919bc17688120b81995d3c54f7af0806ddf08775773abbf93b1610a46c1fd71d5&scene=27#wechat_redirect",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "美国白宫提出十条 AI 监管原则，避免政府过度干预 AI 发展",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=4&sn=1b4f950013042663b788a9a6d3f8efdb&chksm=bdbe90aa8ac919bc84ab4710e3715e9f28d332815acbd0d8979688f04a27e6853302c1412399&scene=27#wechat_redirect",
+        "date": "2020-01-12"
+      },
+      {
         "title": "搜狐规定迟到一次罚款 500；C 获得“2019 年度编程语言”称号；百度被行政处罚丨Q资讯",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=1&sn=5b08e323e7d5ed1f627763a62a1b4b91&chksm=bdbe90b38ac919a5052b77d847c86573bb7d718b34aa9a4a7675ab018994851879a3045b36a4&scene=27#wechat_redirect",
         "date": "2020-01-11"
@@ -14100,6 +14130,11 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "腾讯最新开源内部跨端框架Hippy，QQ、腾讯视频等18项业务都在用",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498152&idx=1&sn=ae3de7bbc16b5e58c553d9bbffae0556&chksm=80f1af60b78626763b1b4ef868ab071721448c5e1cdd247dd7a3d77a55c34cfecad2dd505b3b&scene=27#wechat_redirect",
+        "date": "2020-01-11"
+      },
       {
         "title": "种草 ES2020 新特性",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498150&idx=1&sn=fce2a41a1bb5caad5cdddeed168d2610&chksm=80f1af6eb7862678b9ed7911af7cd6f749d7ded90df85aeb6e7ec369dbff3e1587f9c9569d34&scene=27#wechat_redirect",

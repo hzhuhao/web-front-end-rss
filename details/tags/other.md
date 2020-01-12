@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-12 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-12 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -825,6 +825,10 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-01-12-成立不足五年，GMV-达百亿美元，东南亚淘宝-Shopee-是如何进行数据库选型的？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=1&sn=b11a1b91f9ce3207ca3edc3e06814546&chksm=bdbe90aa8ac919bc46cc6e58001086fa05f7ebd5c21505daa1a8c0af97f61515a9126a7c47d8&scene=27#wechat_redirect) 
+- [2020-01-12-2020-年，那些“寿命终止”的微软产品](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=2&sn=8fe941e033bfb8a856fbbea2b83f5534&chksm=bdbe90aa8ac919bc9cbfa87c60cb42ba0da17a6f6de6490c0ddef1209fd5a93c4676714052bf&scene=27#wechat_redirect) 
+- [2020-01-12-人工智能的下一个拐点：图神经网络迎来快速爆发期](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=3&sn=78ed3847eba75c8f23526b7d42b9c726&chksm=bdbe90aa8ac919bc17688120b81995d3c54f7af0806ddf08775773abbf93b1610a46c1fd71d5&scene=27#wechat_redirect) 
+- [2020-01-12-美国白宫提出十条-AI-监管原则，避免政府过度干预-AI-发展](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=4&sn=1b4f950013042663b788a9a6d3f8efdb&chksm=bdbe90aa8ac919bc84ab4710e3715e9f28d332815acbd0d8979688f04a27e6853302c1412399&scene=27#wechat_redirect) 
 - [2020-01-11-搜狐规定迟到一次罚款-500；C-获得“2019-年度编程语言”称号；百度被行政处罚丨Q资讯](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=1&sn=5b08e323e7d5ed1f627763a62a1b4b91&chksm=bdbe90b38ac919a5052b77d847c86573bb7d718b34aa9a4a7675ab018994851879a3045b36a4&scene=27#wechat_redirect) 
 - [2020-01-11-API已死——APIs万岁！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=2&sn=de45d61d6ec81f4384040e7a8d2edd21&chksm=bdbe90b38ac919a5f14fb17bc3191886f7c15989f437a984c54e68d104251f6f33fca2e8b273&scene=27#wechat_redirect) 
 - [2020-01-11-揭秘大数据时代秒级查询响应引擎的架构设计](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023584&idx=3&sn=fd05cdd885a6b8133a8e9c0637de3ffc&chksm=bdbe90b38ac919a56a7e58b9ec5a8dc65ac31912c0a8d76730956382f46e388b2912979381a5&scene=27#wechat_redirect) 
