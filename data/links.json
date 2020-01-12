@@ -3817,6 +3817,11 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "如何全方位优化你的超大型 React 应用",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557715&idx=1&sn=db61169cf874cfbc4153c23b9db65029&chksm=80255892b752d184fe7592892c5092592f778509e0f7169092d2962fd639eaa4f4fe88704a08&scene=27#wechat_redirect",
+        "date": "2020-01-11"
+      },
+      {
         "title": "学习 axios 源码整体架构，打造属于自己的请求库",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557714&idx=1&sn=39a56e4e410d251ca3d3902c86802619&chksm=80255893b752d1857efa47330f4d1d5b52cdf68c39a545069095179adbac40b275bb33dcdc90&scene=27#wechat_redirect",
         "date": "2020-01-10"
@@ -7178,6 +7183,11 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "前端周报：C语言获2019年度最佳编程语言称号，Swift稳居TOP10榜单；微软数据库漏洞或使8.",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493597&idx=1&sn=a0d3dfd687e99f6f5d69600abb8431f3&chksm=f952529ece25db8876f39175c0a6004d9555111c53f58c0714caa6e2debedaa6f2da99a72755&scene=27#wechat_redirect",
+        "date": "2020-01-12"
+      },
       {
         "title": "Serverless 与前端工程化结合：让项目 5 分钟上线成为可能",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493593&idx=1&sn=4868afc174d84f4cd65bb59adf9c2a37&chksm=f952529ace25db8c0ac2898885e39ebe9577b51e647b05ce7311904bc845a8d3088eea84226d&scene=27#wechat_redirect",
@@ -14272,6 +14282,26 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "React Hooks 从入门到放弃(二)",
+        "link": "https://juejin.im/post/5e19d2456fb9a030176e654a",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "跨域请求问题总结",
+        "link": "https://juejin.im/post/5e181935e51d454d3046a1a3",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "Vue.js的高级面试题以及答案",
+        "link": "https://juejin.im/post/5e1473e46fb9a0481759e3d6",
+        "date": "2020-01-12"
+      },
+      {
+        "title": "Git -- Pre-commit钩子的使用",
+        "link": "https://juejin.im/post/5e19dad4f265da3df47ad9f1",
+        "date": "2020-01-12"
+      },
       {
         "title": "前端程序员进阶必备 | 教你配置免费又好用的抓包代理神器，HTTPS 也不在话下",
         "link": "https://juejin.im/post/5e1a8bcfe51d450200787629",

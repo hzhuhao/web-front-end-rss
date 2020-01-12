@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-12 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-12 22:00:19。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -61,6 +61,7 @@
 - [2018-10-08-【第1409期】-React之深入理解-Props-和-State](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230022&idx=1&sn=37f0b6efe488a6f96bd61b922a77083a#wechat_redirect) 
 - [2018-09-29-【第1407期】盘点-React-16.0-~-16.5-主要更新及其应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230012&idx=1&sn=91cba1a6bb716c4edce877f43dc6f425#wechat_redirect) 
 - [2018-09-22-【第1401期】React-Fiber-架构学习](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229937&idx=1&sn=0d979f82318431171390af58d5f16195#wechat_redirect) 
+- [2020-01-11-如何全方位优化你的超大型-React-应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557715&idx=1&sn=db61169cf874cfbc4153c23b9db65029&chksm=80255892b752d184fe7592892c5092592f778509e0f7169092d2962fd639eaa4f4fe88704a08&scene=27#wechat_redirect) 
 - [2019-12-29-从-React-历史的长河里聊虚拟-DOM-及其价值](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557634&idx=1&sn=c574274aead2cee8d16ca472bd0ae659&chksm=802558c3b752d1d565f28bae48abb1d397fbc08b04c74d7108c82030cef49ae4b9b1209ae724&scene=27#wechat_redirect) 
 - [2019-12-27-乾坤大挪移！React-也能-“用上”-computed-属性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557629&idx=1&sn=18a9e3bc2adb1b527ff482aa3e690ea2&chksm=8025593cb752d02a07cbde1519bad7457109cb8ab966b046d3e6da53e5402165e15c97ff4dad&scene=27#wechat_redirect) 
 - [2019-12-18-性能！！让你的-React-组件跑得再快一点](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557566&idx=2&sn=fea4e36daca905123fdf842af946844a&chksm=8025597fb752d069e6c63f8a4268046b7b5810930c2e11f565016716e44226d4aa834af7901c&scene=27#wechat_redirect) 
@@ -177,6 +178,7 @@
 - [2019-12-28-从-React-历史的长河里聊虚拟DOM及其价值](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=1&sn=8b6d3b47f80e21fd6fe45439258edfef&chksm=8891deb6bfe657a0ebab3da007b49538a0edb2a4d526dbf828a6ddc2193415b831c6c1cba948&scene=27#wechat_redirect) 
 - [2019-12-25-使用-React-为-Chimee-开发插件](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590847&idx=1&sn=19629fd5d68cf6ceeb5381453998bafe&chksm=8891de5bbfe6574d21b9580e1e237d269dfbc68df84ea47165d6eabbb8b53e562e90b53a64e8&scene=27#wechat_redirect) 
 - [2019-12-17-React-中的一个奇怪的-Hook](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484359&idx=1&sn=5b090080ae3e856aabb4831b6615407a&chksm=eb1cc62ddc6b4f3bcddf679dd04c5a2fc190524dc2cfcd70b63461dded7bb79537124c7087c5&scene=27#wechat_redirect) 
+- [2020-01-12-React-Hooks-从入门到放弃二](https://juejin.im/post/5e19d2456fb9a030176e654a) 
 - [2020-01-10-关于-React-的几个问题总结](https://juejin.im/post/5e1876236fb9a030073b428a) 
 - [2020-01-09-React-Native-性能优化指南【全网最全，值得收藏】](https://juejin.im/post/5e1676e16fb9a04847095b12) 
 - [2020-01-09-你可能不知道的-React-Hooks](http://www.taoweng.site/index.php/archives/296/) 
