@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-13 06:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-13 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -409,9 +409,11 @@
 - [2020-01-04-Java-并发异步编程，原来十个接口的活现在只需要一个接口就搞定!](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489518&idx=1&sn=04bf242d2811be628ff8db49ba0a8147&chksm=ea5cda88dd2b539e217024cacebd4a929116e983a09537d686fd7362d308d8829ab0ce314aa5&scene=27#wechat_redirect) 
 - [2020-01-08-未来有望干掉-Python-和-JavaScript-的编程语言](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023518&idx=1&sn=e3d90704ded3774936d4eb72d6b6cca5&chksm=bdbe90cd8ac919db57ea9a8b5592dfdc63e4058aad1772a914aa1e50834e721b7835dddd6e9b&scene=27#wechat_redirect) 
 - [2020-01-01-2019-年-WebAssembly-盘点：跟-JavaScript-的相爱相杀](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=4&sn=e394fc4a06284ba3ce2aad8be353ea21&chksm=bdbe90738ac919659a4682c67a7819a4066b6acbd875e7a7e28b2d54a5b60e7474e1bb0f7529&scene=27#wechat_redirect) 
+- [2020-01-13-2020年了，JavaScript依然是前端最受欢迎的语言吗？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498156&idx=1&sn=fde5b6be598cfade366eb510d830ba64&chksm=80f1af64b7862672c324a8d792043e001d31840ab93c5834a01988086c970768a23d4d13414f&scene=27#wechat_redirect) 
 - [2019-12-28-JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498111&idx=1&sn=3d195481f4e5037253b7358864975377&chksm=80f1afb7b78626a1aa95c9d61edb2c289d057e5529133f134277d15a20925ae3955f43c5d3fe&scene=27#wechat_redirect) 
 - [2019-12-23-2019-年-JavaScript-现状调查报告](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498096&idx=2&sn=b2a5cc840f0fc59e03210d6500904eb6&chksm=80f1afb8b78626aedbcb4823e752685c9944912feeb7c75d88f5c8be609dac69f24c5c981df7&scene=27#wechat_redirect) 
 - [2019-12-16-使用JS来动态操作CSS，你知道几种方法？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498083&idx=1&sn=f7ec3372ac9c7f09f7dc65804498ccd0&chksm=80f1afabb78626bdfb4beef367b3341f594236aeb87ce7c7e2704f22ca603498cd239658ce77&scene=27#wechat_redirect) 
+- [2020-01-13-顶层作用域由-let-声明的变量去了哪里？](https://juejin.im/post/5e1a959e6fb9a03003007755) 
 - [2020-01-12-数据结构与算法-javascript描述-集合](https://juejin.im/post/5e15f63df265da5d400fd093) 
 - [2020-01-12-JavaScript实现JSON解析器](https://juejin.im/post/5e188466e51d452fb97347b4) 
 - [2020-01-10-2020年从基础到进阶，测试你有多了解-JavaScript，刷新你的知识！](https://juejin.im/post/5e1830c05188254c461313dc) 

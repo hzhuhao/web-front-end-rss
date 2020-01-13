@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-01-12 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-13 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
 
 
 
+- [2020-01-13-2020年了，JavaScript依然是前端最受欢迎的语言吗？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498156&idx=1&sn=fde5b6be598cfade366eb510d830ba64&chksm=80f1af64b7862672c324a8d792043e001d31840ab93c5834a01988086c970768a23d4d13414f&scene=27#wechat_redirect) 
 - [2020-01-11-腾讯最新开源内部跨端框架Hippy，QQ、腾讯视频等18项业务都在用](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498152&idx=1&sn=ae3de7bbc16b5e58c553d9bbffae0556&chksm=80f1af60b78626763b1b4ef868ab071721448c5e1cdd247dd7a3d77a55c34cfecad2dd505b3b&scene=27#wechat_redirect) 
 - [2020-01-10-种草-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498150&idx=1&sn=fce2a41a1bb5caad5cdddeed168d2610&chksm=80f1af6eb7862678b9ed7911af7cd6f749d7ded90df85aeb6e7ec369dbff3e1587f9c9569d34&scene=27#wechat_redirect) 
 - [2020-01-09-工作之余，大家还有什么副业吗？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498146&idx=1&sn=06a6c8dec455c8e2762d05a1ec65f871&chksm=80f1af6ab786267cc70b32eee144baf5ab8cb4551355f37a157a7a5105e574803ab4ad922466&scene=27#wechat_redirect) 
