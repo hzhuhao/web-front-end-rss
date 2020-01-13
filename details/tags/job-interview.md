@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-13 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-13 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -146,4 +146,5 @@
 - [2019-12-25-美团面试题：JVM-堆内存溢出后，其他线程是否可继续工作？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489425&idx=4&sn=502097c8022a771bcc14d6d95baf0b41&chksm=ea5cdaf7dd2b53e1be4f57d70f48c6eb88cc4154d657c1966b587d1af82f27a684318c0c0232&scene=27#wechat_redirect) 
 - [2020-01-07-奇葩！面试说真话居然也能拿offer？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498138&idx=1&sn=e6bc2a72368094b55e8040d395a97589&chksm=80f1af52b78626444c85b03ad4aba58ac6801e5f39dd7cfd76e9900f314244d20c0051c60740&scene=27#wechat_redirect) 
 - [2019-12-31-可悲的是，95%的招聘启事都是这样的](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498120&idx=1&sn=832318a030e693cdb79655f7abcd1ef6&chksm=80f1af40b78626560a96dce5811fa028104c2bdc380eeb9b1374f1ece6efcade5812e3dbcfa2&scene=27#wechat_redirect) 
+- [2020-01-13-前端面试基础篇，凛冬将至！道友快来一起闭关修炼！](https://juejin.im/post/5e0f6aa0f265da5d220204ec) 
 - [2020-01-13-你应该知道的前端面试题（万字总结）](https://juejin.im/post/5e19e3eff265da3e4412ad5e) 
