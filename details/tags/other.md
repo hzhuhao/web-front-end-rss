@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-14 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-14 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -214,6 +214,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-01-14-前端越来越后端化，工程化？2020年你到底需要注意些什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557730&idx=1&sn=591e710960967fad76a970754070b82f&chksm=802558a3b752d1b5cfb657b6ffe56bf5b2f5afd06e2ea6d3cee40b5d1153a03d5207b113374d&scene=27#wechat_redirect) 
 - [2019-12-26-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557619&idx=1&sn=5999416fc9fc691b0dd243c2e4770df4&chksm=80255932b752d0249a9227fdcff916583f56608d6c1e31db605e08d63f9e2e1f5764dd973369&scene=27#wechat_redirect) 
 - [2019-12-24-前端开发秒懂的一张图](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557603&idx=2&sn=d398567a5f19fef6e757e780f19201fc&chksm=80255922b752d0344dfa41376b9f7836400e461c60e48acbf9dcccef9a23ed47d64056e56919&scene=27#wechat_redirect) 
 - [2019-12-18-作为前端，有必要懂那些底层源码吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557566&idx=1&sn=928568677aaae9648bf46f6aac42fa1b&chksm=8025597fb752d0695958343046ecb6d6ab74ae1969360e6263e1d5df02cd727000e4027b990e&scene=27#wechat_redirect) 
@@ -731,6 +732,8 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-01-13-一张图认识-WCAG-Level-A,-Level-AA,-Level-AAA](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591136&idx=1&sn=7c9eda7ddf3d6bf80f68ad127e0c9c96&chksm=8891df84bfe656929816a71601fe2d46251babb5af8918aa99cd4c90f04e023f44e204383823&scene=27#wechat_redirect) 
+- [2020-01-13-来奇舞团吧，让自己过得快乐一点（文末有活动哟~）](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591136&idx=2&sn=0ac433b5ad45e0bc3790b98e3df7d68e&chksm=8891df84bfe656927f0ef1961a00458001b31a72459db231f2b9e84e3271c21b276f7bee40e1&scene=27#wechat_redirect) 
 - [2020-01-11-星光不问赶路人，时光不负奇舞团](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591128&idx=1&sn=7bb5c081675086863ecd1cc78e431c50&chksm=8891dfbcbfe656aaa240e2fc83840d4e97d666f8911e7e02f76c8b38fdd4a705867f0e024c0b&scene=27#wechat_redirect) 
 - [2020-01-10-奇舞周刊第-335-期：2019-前端技术发展回顾](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590934&idx=1&sn=1de5eb3e1f216553aa0fd597c5a43afa&chksm=8891def2bfe657e4e2f69f78189a21e58f00038558f083a73fe98d47041d5336940cd976c253&scene=27#wechat_redirect) 
 - [2020-01-09-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590930&idx=2&sn=bdc1490d66e01c68e1a1161e25583697&chksm=8891def6bfe657e07c981edebd72e27fd3ede06bdf18481638beb3c499f4283bcfefc754a4d8&scene=27#wechat_redirect) 
@@ -832,6 +835,12 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-01-14-为什么-.NET-Core-值得你学习？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=1&sn=8acddfc7fa3209ef2e5ffce9585c35ea&chksm=bdbe91668ac918700bb884dd4f09f4e603b9fef5e781c4fbe236c9f1bd622b858b6a2f065b02&scene=27#wechat_redirect) 
+- [2020-01-14-C-语言荣获-2019-年度最佳编程语言称号](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=3&sn=b42ce73be2ce453c7214afb564e531b2&chksm=bdbe91668ac91870c5246e251d49f6526d855cf69ff974695e754e4a0adb06269fe2476ff5e9&scene=27#wechat_redirect) 
+- [2020-01-14-欧洲最大电商-Zalando-的微服务之道](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=5&sn=a897abe6c098a325e4342a1261524b31&chksm=bdbe91668ac91870c0b76a99012ee11340a2f03d39abdb40c77b4ea145a79b7c7f65d5f944ed&scene=27#wechat_redirect) 
+- [2020-01-13-Jeff-Dean-的年终汇报：-细数谷歌-AI-的重大突破](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=1&sn=1bdb3f85ff1ff8258122f87a8293ab51&chksm=bdbe914b8ac9185d490f243334e2cc54a3346c3ae825f83b7ce92215a5b18140e4f96a35cb42&scene=27#wechat_redirect) 
+- [2020-01-13-DeFi-发展受限，下一阶段该如何破局？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=2&sn=28c0a8e9b61e0ca1633f94b3a746fdc0&chksm=bdbe914b8ac9185d8a9dff01e258fbc36d6755971b40ad6d00c879485d52574cc6df65496ef5&scene=27#wechat_redirect) 
+- [2020-01-13-Google-AI-和机器学习在-IaaS、PaaS、SaaS-层面的体现](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=4&sn=9e7de07e938cd003a7c8d6278603096a&chksm=bdbe914b8ac9185d6c8ccfc87f55bf5d9a9e010501703961140637f7ef77ceb6cd878a8cace4&scene=27#wechat_redirect) 
 - [2020-01-12-成立不足五年，GMV-达百亿美元，东南亚淘宝-Shopee-是如何进行数据库选型的？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=1&sn=b11a1b91f9ce3207ca3edc3e06814546&chksm=bdbe90aa8ac919bc46cc6e58001086fa05f7ebd5c21505daa1a8c0af97f61515a9126a7c47d8&scene=27#wechat_redirect) 
 - [2020-01-12-2020-年，那些“寿命终止”的微软产品](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=2&sn=8fe941e033bfb8a856fbbea2b83f5534&chksm=bdbe90aa8ac919bc9cbfa87c60cb42ba0da17a6f6de6490c0ddef1209fd5a93c4676714052bf&scene=27#wechat_redirect) 
 - [2020-01-12-人工智能的下一个拐点：图神经网络迎来快速爆发期](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=3&sn=78ed3847eba75c8f23526b7d42b9c726&chksm=bdbe90aa8ac919bc17688120b81995d3c54f7af0806ddf08775773abbf93b1610a46c1fd71d5&scene=27#wechat_redirect) 
@@ -923,6 +932,7 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-14-【Concent杂谈】精确更新策略](https://juejin.im/post/5e17d32b51882536a627ee79) 
 - [2020-01-13-前端的各种日期操作【值得收藏】](https://juejin.im/post/5e0a201ce51d4575eb4f38e7) 
 - [2020-01-13-前端轻量化部署脚手架实践](https://juejin.im/post/5e1bfbadf265da3e3077005e) 
 - [2020-01-13-最难不过二叉树--你应该知道的BFS与DFS](https://juejin.im/post/5e144db1f265da5d153f4673) 

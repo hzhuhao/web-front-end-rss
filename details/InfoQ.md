@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-01-12 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-14 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-01-14-为什么-.NET-Core-值得你学习？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=1&sn=8acddfc7fa3209ef2e5ffce9585c35ea&chksm=bdbe91668ac918700bb884dd4f09f4e603b9fef5e781c4fbe236c9f1bd622b858b6a2f065b02&scene=27#wechat_redirect) 
+- [2020-01-14-16-个好用的-Code-Review-工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=2&sn=9c86c1e5a59df7748c599b4193b3eb1b&chksm=bdbe91668ac91870504c43035d5c1f979164d8c522a3acc7f2784b789bfbdebd1aa9c94c5978&scene=27#wechat_redirect) 
+- [2020-01-14-C-语言荣获-2019-年度最佳编程语言称号](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=3&sn=b42ce73be2ce453c7214afb564e531b2&chksm=bdbe91668ac91870c5246e251d49f6526d855cf69ff974695e754e4a0adb06269fe2476ff5e9&scene=27#wechat_redirect) 
+- [2020-01-14-极具“杀伤力”的性能调优，从几个思路说起](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=4&sn=3fc40afe6c04f45f2663604cbdd92888&chksm=bdbe91668ac91870ac475ec82998d2edbb8360f94e6331e6aa42b51b3318c44b50cb990a9eb2&scene=27#wechat_redirect) 
+- [2020-01-14-欧洲最大电商-Zalando-的微服务之道](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=5&sn=a897abe6c098a325e4342a1261524b31&chksm=bdbe91668ac91870c0b76a99012ee11340a2f03d39abdb40c77b4ea145a79b7c7f65d5f944ed&scene=27#wechat_redirect) 
+- [2020-01-13-Jeff-Dean-的年终汇报：-细数谷歌-AI-的重大突破](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=1&sn=1bdb3f85ff1ff8258122f87a8293ab51&chksm=bdbe914b8ac9185d490f243334e2cc54a3346c3ae825f83b7ce92215a5b18140e4f96a35cb42&scene=27#wechat_redirect) 
+- [2020-01-13-DeFi-发展受限，下一阶段该如何破局？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=2&sn=28c0a8e9b61e0ca1633f94b3a746fdc0&chksm=bdbe914b8ac9185d8a9dff01e258fbc36d6755971b40ad6d00c879485d52574cc6df65496ef5&scene=27#wechat_redirect) 
+- [2020-01-13-陆金所-AI-SQL-Review-系统演进和实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=3&sn=bc6afce17a33e327af98917dc2e9e398&chksm=bdbe914b8ac9185dd360dfda1950207aa11e655c15122b673b3fc1b1cbf6c91a2d5123473ac5&scene=27#wechat_redirect) 
+- [2020-01-13-Google-AI-和机器学习在-IaaS、PaaS、SaaS-层面的体现](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=4&sn=9e7de07e938cd003a7c8d6278603096a&chksm=bdbe914b8ac9185d6c8ccfc87f55bf5d9a9e010501703961140637f7ef77ceb6cd878a8cace4&scene=27#wechat_redirect) 
+- [2020-01-13-一个通用的数据中台架构应该如何构建？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=5&sn=b0d95ca2295d668e48d80c426f15e299&chksm=bdbe914b8ac9185d65bdaffd4d3ec0d6453c20ac0ddb43f351bf943ea33b01d1f6c90b3e8e09&scene=27#wechat_redirect) 
 - [2020-01-12-成立不足五年，GMV-达百亿美元，东南亚淘宝-Shopee-是如何进行数据库选型的？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=1&sn=b11a1b91f9ce3207ca3edc3e06814546&chksm=bdbe90aa8ac919bc46cc6e58001086fa05f7ebd5c21505daa1a8c0af97f61515a9126a7c47d8&scene=27#wechat_redirect) 
 - [2020-01-12-2020-年，那些“寿命终止”的微软产品](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=2&sn=8fe941e033bfb8a856fbbea2b83f5534&chksm=bdbe90aa8ac919bc9cbfa87c60cb42ba0da17a6f6de6490c0ddef1209fd5a93c4676714052bf&scene=27#wechat_redirect) 
 - [2020-01-12-人工智能的下一个拐点：图神经网络迎来快速爆发期](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023609&idx=3&sn=78ed3847eba75c8f23526b7d42b9c726&chksm=bdbe90aa8ac919bc17688120b81995d3c54f7af0806ddf08775773abbf93b1610a46c1fd71d5&scene=27#wechat_redirect) 
