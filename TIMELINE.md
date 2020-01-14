@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-14 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-14 22:00:29。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -223,6 +223,7 @@
 - [【奇舞周刊】2020-01-02-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=3&sn=896346ccc26c9e996738aa18b932ed31&chksm=8891de89bfe6579fb1b1280dfdd13ed5a2e1cc981526b274f0419f842a6ba1bfd211a545258c&scene=27#wechat_redirect) 
 - [【奇舞周刊】2020-01-01-W3C万维物联网解析：编程API篇](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590888&idx=1&sn=1445ef8054f8fcdba30fa3c5115562cd&chksm=8891de8cbfe6579ab334f6d8c4616ffa2e32f98bc1a18fdd29726f1c715e7feaf88517bc2462&scene=27#wechat_redirect) 
 - [【奇舞周刊】2020-01-01-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590888&idx=2&sn=b2b0c80dfd769639ab8d03f1cbeccd85&chksm=8891de8cbfe6579a19bc2109ed89b29471307a841124dc2ba3fd50e1747498f4f554b9e42bfe&scene=27#wechat_redirect) 
+- [【前端日刊】2020-01-14-2020年人人都会Vue了，面试官还能考什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484393&idx=1&sn=83972cbd129e943091693c5ad74589a7&chksm=eb1cc603dc6b4f15d6496af5d061d38ec9cffb4eff2f893033eaf9429b6d0fe8692ae6120889&scene=27#wechat_redirect) 
 - [【前端日刊】2020-01-10-程序员都有哪些副业【第一期】](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484389&idx=1&sn=fc44e64618c7f14836cf5efab1f2cd90&chksm=eb1cc60fdc6b4f19d68fa72266d3b9144634ceaa99d791643516d275a5e30d9a909ed1b6f3bb&scene=27#wechat_redirect) 
 - [【前端日刊】2020-01-06-你连-HTTPS-原理都不懂，还讲“中间人攻击”？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484382&idx=1&sn=8e127b43152dfadc9ac0f81ffe9c4668&chksm=eb1cc634dc6b4f2221294c06a0648af9d6a0209f47ae3f4cf173b0cddbea9fc1c716a02f5c20&scene=27#wechat_redirect) 
 - [【前端日刊】2020-01-03-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484379&idx=1&sn=1a4f37167ab1e6670ad371d49e28f567&chksm=eb1cc631dc6b4f27b90a56a1e582a5ae22e1c82bf97eea28c08e73ff2c26e9b7fcec7461e91f&scene=27#wechat_redirect) 
@@ -357,6 +358,8 @@
 - [【JavaScript】2020-01-03-你连-HTTPS-原理都不懂，还讲“中间人攻击”？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498127&idx=1&sn=622d03d1460eaeda2b40a77e1e4f28ae&chksm=80f1af47b786265119a57b314931276630be5efdacdf341dbd597fa89e29bcf534223d5dae15&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-02-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498123&idx=1&sn=b4bc433a8cf73edae22c5e6b8787c4b2&chksm=80f1af43b78626559cbe91f2747501e9ca0f4725b1a9664bfb13b59590548fff66cab33be57f&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-01-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498125&idx=1&sn=9f0bf219718aaed89d35d8b154e5e446&chksm=80f1af45b78626531c302d9636dd377b648d5396885c77350b0cc57517bec7821cff1eb1c18e&scene=27#wechat_redirect) 
+- [【掘金前端】2020-01-14-自动化测试-e2e测试框架选择](https://juejin.im/post/5e1d8900e51d451c8771c6cd) 
+- [【掘金前端】2020-01-14-JavaScript-中的-NaN](https://juejin.im/post/5e1d934cf265da3e133fd9a5) 
 - [【掘金前端】2020-01-14-【译】用Node.js编写内存效率高的应用程序](https://juejin.im/post/5e1d880df265da3e3d510ed6) 
 - [【掘金前端】2020-01-14-一个白学家眼里的-WebAssembly](https://juejin.im/post/5e1d74e86fb9a0301461c17e) 
 - [【掘金前端】2020-01-14-前端安全—你必须要注意的依赖安全漏洞](https://juejin.im/post/5e1d68fc6fb9a0300b4c0eac) 

@@ -13250,6 +13250,11 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "2020年人人都会Vue了，面试官还能考什么？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484393&idx=1&sn=83972cbd129e943091693c5ad74589a7&chksm=eb1cc603dc6b4f15d6496af5d061d38ec9cffb4eff2f893033eaf9429b6d0fe8692ae6120889&scene=27#wechat_redirect",
+        "date": "2020-01-14"
+      },
+      {
         "title": "程序员都有哪些副业【第一期】",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484389&idx=1&sn=fc44e64618c7f14836cf5efab1f2cd90&chksm=eb1cc60fdc6b4f19d68fa72266d3b9144634ceaa99d791643516d275a5e30d9a909ed1b6f3bb&scene=27#wechat_redirect",
         "date": "2020-01-10"
@@ -14452,6 +14457,16 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "自动化测试-e2e测试框架选择",
+        "link": "https://juejin.im/post/5e1d8900e51d451c8771c6cd",
+        "date": "2020-01-14"
+      },
+      {
+        "title": "JavaScript 中的 NaN",
+        "link": "https://juejin.im/post/5e1d934cf265da3e133fd9a5",
+        "date": "2020-01-14"
+      },
       {
         "title": "【译】用Node.js编写内存效率高的应用程序",
         "link": "https://juejin.im/post/5e1d880df265da3e3d510ed6",
