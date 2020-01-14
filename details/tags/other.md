@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-14 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-14 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -765,6 +765,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-01-14-HashMap-和-currentHashMap-我们终于给你总结清楚了！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=2&sn=9dd91517955b0453ca5c0df8e4137740&chksm=ea5cd531dd2b5c2766f688e1916261d5b257596f016e4001cb5598b0c9f10217b6d9bbc1ac70&scene=27#wechat_redirect) 
+- [2020-01-14-阿里新一代微服务解决方案：Spring-Cloud-Alibaba](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=3&sn=8cd1ff88aba64b62af52ba760d470508&chksm=ea5cd531dd2b5c2756eaad6a816d64398cf402fdb3553d27d311dbb3b8b8c7ebe8f2d8340028&scene=27#wechat_redirect) 
+- [2020-01-14-IDEA高级玩法：集成JIRA、UML类图插件、SSH、FTP、Database管理...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=4&sn=42e3a3f2d4db40a6e046195edd9b6965&chksm=ea5cd531dd2b5c27fbbd896dcd22e381d3c388fee6d6b70d15b995236657aa1f35e8c1214a77&scene=27#wechat_redirect) 
 - [2020-01-13-微服务架构复杂吗？全新角度详解，看完这篇你就明白了！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489616&idx=1&sn=dec345894546b293026c30af17ec7a29&chksm=ea5cd536dd2b5c2080a412d5c014e349e79685564b5ed5824a8342e8985bceddec270f9eadd7&scene=27#wechat_redirect) 
 - [2020-01-13-带你深挖Java泛型类型擦除以及类型擦除带来的问题](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489616&idx=3&sn=f5d3993f0cb943899cc97ef8cc5b6f92&chksm=ea5cd536dd2b5c20726b0f800784fde272e321674569e4b7f4bbf47c7814f65b19a31f5dc0c9&scene=27#wechat_redirect) 
 - [2020-01-13-为什么要看源码、如何看源码，高手进阶必看](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489616&idx=4&sn=6242de8f1377f3f790c05be553c57be3&chksm=ea5cd536dd2b5c20cf2e3b3afc59306dc21d2c70656f13d780b88754b026e5d26ce12431f192&scene=27#wechat_redirect) 

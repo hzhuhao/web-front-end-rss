@@ -13287,6 +13287,26 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "Mybatis 中经典的 9 种设计模式！面试可以吹牛了！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=1&sn=8efbecfcd203f859eb8905e592599764&chksm=ea5cd531dd2b5c277a78f43769c82b5be7996851dd0167a994037aa0b58e4a162b2acd460615&scene=27#wechat_redirect",
+        "date": "2020-01-14"
+      },
+      {
+        "title": "HashMap 和 currentHashMap 我们终于给你总结清楚了！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=2&sn=9dd91517955b0453ca5c0df8e4137740&chksm=ea5cd531dd2b5c2766f688e1916261d5b257596f016e4001cb5598b0c9f10217b6d9bbc1ac70&scene=27#wechat_redirect",
+        "date": "2020-01-14"
+      },
+      {
+        "title": "阿里新一代微服务解决方案：Spring Cloud Alibaba",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=3&sn=8cd1ff88aba64b62af52ba760d470508&chksm=ea5cd531dd2b5c2756eaad6a816d64398cf402fdb3553d27d311dbb3b8b8c7ebe8f2d8340028&scene=27#wechat_redirect",
+        "date": "2020-01-14"
+      },
+      {
+        "title": "IDEA高级玩法：集成JIRA、UML类图插件、SSH、FTP、Database管理...",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=4&sn=42e3a3f2d4db40a6e046195edd9b6965&chksm=ea5cd531dd2b5c27fbbd896dcd22e381d3c388fee6d6b70d15b995236657aa1f35e8c1214a77&scene=27#wechat_redirect",
+        "date": "2020-01-14"
+      },
+      {
         "title": "微服务架构复杂吗？全新角度详解，看完这篇你就明白了！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489616&idx=1&sn=dec345894546b293026c30af17ec7a29&chksm=ea5cd536dd2b5c2080a412d5c014e349e79685564b5ed5824a8342e8985bceddec270f9eadd7&scene=27#wechat_redirect",
         "date": "2020-01-13"
@@ -14176,6 +14196,11 @@
     "link": "https://www.ershicimi.com/a/893",
     "items": [
       {
+        "title": "TS 真香系列：7个 TypeScript 新功能",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498159&idx=1&sn=ba42ba6d929dad91a91b3d9912cf8a2d&chksm=80f1af67b78626718739fb5878336ea1ac7e23fc2918a73bcfafe5c206091fe4b10029f23ca9&scene=27#wechat_redirect",
+        "date": "2020-01-14"
+      },
+      {
         "title": "2020年了，JavaScript依然是前端最受欢迎的语言吗？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498156&idx=1&sn=fde5b6be598cfade366eb510d830ba64&chksm=80f1af64b7862672c324a8d792043e001d31840ab93c5834a01988086c970768a23d4d13414f&scene=27#wechat_redirect",
         "date": "2020-01-13"
@@ -14322,6 +14347,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "不是所有的 No 'Access-Control-Allow-Origin' header... 都是跨域问题 - 记一次图片上传踩坑",
+        "link": "https://juejin.im/post/5e1c4a3ef265da3e3a5370f8",
+        "date": "2020-01-14"
+      },
+      {
+        "title": "带你了解 vue-next（Vue 3.0）之 炉火纯青",
+        "link": "https://juejin.im/post/5e1d28d1f265da3e4412b052",
+        "date": "2020-01-14"
+      },
+      {
+        "title": "Node.js微服务实践(二)",
+        "link": "https://juejin.im/post/5e1d287b6fb9a02fe81854dc",
+        "date": "2020-01-14"
+      },
+      {
+        "title": "带你了解 vue-next（Vue 3.0）之 小试牛刀",
+        "link": "https://juejin.im/post/5e1d28b96fb9a02fbf37a7cc",
+        "date": "2020-01-14"
+      },
+      {
+        "title": "带你了解 vue-next（Vue 3.0）之 初入茅庐",
+        "link": "https://juejin.im/post/5e1d289c5188254dfd43d0c8",
+        "date": "2020-01-14"
+      },
       {
         "title": "webpack 4 源码主流程分析（一）：前言及总流程概览",
         "link": "https://juejin.im/post/5e1c92776fb9a02fe118628d",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-14 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-14 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -138,6 +138,7 @@
 - [2018-08-15-面试感悟：当经历所有大厂的实习面试后](http://www.yyyweb.com/5136.html) 
 - [2019-12-09-2020年将至，大厂面试都喜欢考些什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484352&idx=1&sn=c780f09731fcc32823b287686562dcb4&chksm=eb1cc62adc6b4f3cc08902d4ee2e250dce5b5af06bed69de13c4ee9b4f38d841db376af74e51&scene=27#wechat_redirect) 
 - [2019-12-03-记一次腾讯社招前端面试（已拿到offer入职）](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484346&idx=1&sn=2a8dd02ba85e1e87d6d9ca87734fa16c&chksm=eb1cc650dc6b4f46763c21eab612794983a94149ceb2509a7bef31e7e430aeaef07038763eae&scene=27#wechat_redirect) 
+- [2020-01-14-Mybatis-中经典的-9-种设计模式！面试可以吹牛了！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=1&sn=8efbecfcd203f859eb8905e592599764&chksm=ea5cd531dd2b5c277a78f43769c82b5be7996851dd0167a994037aa0b58e4a162b2acd460615&scene=27#wechat_redirect) 
 - [2020-01-12-JVM-大厂面试都会问，都会这么问，你能顶住么？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489610&idx=4&sn=3121d8f70e2d65aa2179cb891fa7bbb3&chksm=ea5cd52cdd2b5c3af482f7cb4128e5b0763019ac1fe37b0f0590fc0d70a357140b90f83668f9&scene=27#wechat_redirect) 
 - [2020-01-11-Spring-面试-7-大问题，你顶得住不？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489604&idx=3&sn=aae7aa833204fba181b6215555088b5d&chksm=ea5cd522dd2b5c34ba28d8a39eef29ed90be760981097677540320304de3ca35c950defeaeef&scene=27#wechat_redirect) 
 - [2020-01-04-Spring-Cloud+Spring-Boot高频面试题解析](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489518&idx=3&sn=3a86f5bdc569688c65de8d4128ec0a9e&chksm=ea5cda88dd2b539edddc463ce858bcce41067b012f8ef51e6f909acf8b3763c37d344596de68&scene=27#wechat_redirect) 
