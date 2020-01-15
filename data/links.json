@@ -14538,6 +14538,31 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "全面总结 JavaScript 类型相关知识点",
+        "link": "https://juejin.im/post/5e1ef846f265da3e2e4f5268",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "keep-alive实现原理",
+        "link": "https://juejin.im/post/5e1ed2635188254c46131aaf",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "所见即所得， 通过拖拽实现一个自定义布局",
+        "link": "https://juejin.im/post/5e1ed7dbf265da3e021f8ece",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "如何推动与影响中型前端团队的成长 & 暨最近一年多新团队的管理工作复盘",
+        "link": "https://juejin.im/post/5e1ef0ba6fb9a02ffd6eb8b3",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "前端早早聊|竹隐 - 如何从 7 年技术架构走向业务管理",
+        "link": "https://juejin.im/post/5e1ed7bdf265da3e505f13bf",
+        "date": "2020-01-15"
+      },
+      {
         "title": "webpack 4 源码主流程分析（十一）：文件的生成",
         "link": "https://juejin.im/post/5e1c952ae51d4552455a8264",
         "date": "2020-01-15"
