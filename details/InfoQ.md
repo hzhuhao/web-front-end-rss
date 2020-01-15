@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-01-14 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-15 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-01-15-对话阿里巴巴贾扬清：如何成为一名优秀的AI架构师？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=1&sn=0e6f09ea555f36f39d10ae339e448847&chksm=bdbe91128ac918046c976a0a232e3b0e491cb75714ad75f6221619fba76f5b70fa305576f22c&scene=27#wechat_redirect) 
+- [2020-01-15-大前端-10-倍提效破局利器：可视化辅助编程成为大势所趋？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=2&sn=90dd6fb386d966903d89631be88ef218&chksm=bdbe91128ac9180474bf5767bf0f79a34641ba47e2e48f3c64a827d3664ab9417151e7f2f7fd&scene=27#wechat_redirect) 
+- [2020-01-15-5G时代，金融行业洗牌加剧，智能金融成主要突破口](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=3&sn=c7a723b6dd5fb5c33f806328e35ca4aa&chksm=bdbe91128ac91804ef0a5922ee891a26258ff04c558eb9ac3c613d6e2868fe026d9e5c5c3518&scene=27#wechat_redirect) 
+- [2020-01-15-哪一瞬间让你真的感觉到科技在改变世界？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=4&sn=8139f15ae9782d1500a3db51bc99555d&chksm=bdbe91128ac91804e1400d140a4d4fd4f4d99edaeb96ac4ff7366bf674ecc860c86083549a92&scene=27#wechat_redirect) 
+- [2020-01-15-区块链年末裁员，慌吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=5&sn=543a5a56345bbb1512869e141f388c0f&chksm=bdbe91128ac918045d584698302ce94bf4b0a04d6160caabb8913d00bfaa6abded146f6c77b8&scene=27#wechat_redirect) 
 - [2020-01-14-为什么-.NET-Core-值得你学习？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=1&sn=8acddfc7fa3209ef2e5ffce9585c35ea&chksm=bdbe91668ac918700bb884dd4f09f4e603b9fef5e781c4fbe236c9f1bd622b858b6a2f065b02&scene=27#wechat_redirect) 
 - [2020-01-14-16-个好用的-Code-Review-工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=2&sn=9c86c1e5a59df7748c599b4193b3eb1b&chksm=bdbe91668ac91870504c43035d5c1f979164d8c522a3acc7f2784b789bfbdebd1aa9c94c5978&scene=27#wechat_redirect) 
 - [2020-01-14-C-语言荣获-2019-年度最佳编程语言称号](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=3&sn=b42ce73be2ce453c7214afb564e531b2&chksm=bdbe91668ac91870c5246e251d49f6526d855cf69ff974695e754e4a0adb06269fe2476ff5e9&scene=27#wechat_redirect) 

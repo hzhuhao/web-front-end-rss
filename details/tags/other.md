@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-15 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-15 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -732,6 +732,7 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-01-14-来奇舞团吧，让自己过得快乐一点（文末有活动哟~）](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591142&idx=2&sn=5dc5b06691a399fca8c6473db6f4e3be&chksm=8891df82bfe65694d90bd21bb9cceec1c4919a1ed0094dd7635d82f6fb3b0fd88bf98a419738&scene=27#wechat_redirect) 
 - [2020-01-13-一张图认识-WCAG-Level-A,-Level-AA,-Level-AAA](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591136&idx=1&sn=7c9eda7ddf3d6bf80f68ad127e0c9c96&chksm=8891df84bfe656929816a71601fe2d46251babb5af8918aa99cd4c90f04e023f44e204383823&scene=27#wechat_redirect) 
 - [2020-01-13-来奇舞团吧，让自己过得快乐一点（文末有活动哟~）](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591136&idx=2&sn=0ac433b5ad45e0bc3790b98e3df7d68e&chksm=8891df84bfe656927f0ef1961a00458001b31a72459db231f2b9e84e3271c21b276f7bee40e1&scene=27#wechat_redirect) 
 - [2020-01-11-星光不问赶路人，时光不负奇舞团](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591128&idx=1&sn=7bb5c081675086863ecd1cc78e431c50&chksm=8891dfbcbfe656aaa240e2fc83840d4e97d666f8911e7e02f76c8b38fdd4a705867f0e024c0b&scene=27#wechat_redirect) 
@@ -837,6 +838,11 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-01-15-对话阿里巴巴贾扬清：如何成为一名优秀的AI架构师？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=1&sn=0e6f09ea555f36f39d10ae339e448847&chksm=bdbe91128ac918046c976a0a232e3b0e491cb75714ad75f6221619fba76f5b70fa305576f22c&scene=27#wechat_redirect) 
+- [2020-01-15-大前端-10-倍提效破局利器：可视化辅助编程成为大势所趋？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=2&sn=90dd6fb386d966903d89631be88ef218&chksm=bdbe91128ac9180474bf5767bf0f79a34641ba47e2e48f3c64a827d3664ab9417151e7f2f7fd&scene=27#wechat_redirect) 
+- [2020-01-15-5G时代，金融行业洗牌加剧，智能金融成主要突破口](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=3&sn=c7a723b6dd5fb5c33f806328e35ca4aa&chksm=bdbe91128ac91804ef0a5922ee891a26258ff04c558eb9ac3c613d6e2868fe026d9e5c5c3518&scene=27#wechat_redirect) 
+- [2020-01-15-哪一瞬间让你真的感觉到科技在改变世界？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=4&sn=8139f15ae9782d1500a3db51bc99555d&chksm=bdbe91128ac91804e1400d140a4d4fd4f4d99edaeb96ac4ff7366bf674ecc860c86083549a92&scene=27#wechat_redirect) 
+- [2020-01-15-区块链年末裁员，慌吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=5&sn=543a5a56345bbb1512869e141f388c0f&chksm=bdbe91128ac918045d584698302ce94bf4b0a04d6160caabb8913d00bfaa6abded146f6c77b8&scene=27#wechat_redirect) 
 - [2020-01-14-为什么-.NET-Core-值得你学习？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=1&sn=8acddfc7fa3209ef2e5ffce9585c35ea&chksm=bdbe91668ac918700bb884dd4f09f4e603b9fef5e781c4fbe236c9f1bd622b858b6a2f065b02&scene=27#wechat_redirect) 
 - [2020-01-14-C-语言荣获-2019-年度最佳编程语言称号](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=3&sn=b42ce73be2ce453c7214afb564e531b2&chksm=bdbe91668ac91870c5246e251d49f6526d855cf69ff974695e754e4a0adb06269fe2476ff5e9&scene=27#wechat_redirect) 
 - [2020-01-14-欧洲最大电商-Zalando-的微服务之道](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=5&sn=a897abe6c098a325e4342a1261524b31&chksm=bdbe91668ac91870c0b76a99012ee11340a2f03d39abdb40c77b4ea145a79b7c7f65d5f944ed&scene=27#wechat_redirect) 
