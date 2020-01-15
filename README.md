@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-15 22:00:29，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-16 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -471,11 +471,12 @@
 </summary>
 
 
-- [2020-01-15-全面总结-JavaScript-类型相关知识点](https://juejin.im/post/5e1ef846f265da3e2e4f5268) ![](assets/new.png)  
-- [2020-01-15-keep-alive实现原理](https://juejin.im/post/5e1ed2635188254c46131aaf) ![](assets/new.png)  
-- [2020-01-15-所见即所得，-通过拖拽实现一个自定义布局](https://juejin.im/post/5e1ed7dbf265da3e021f8ece) ![](assets/new.png)  
-- [2020-01-15-如何推动与影响中型前端团队的成长-&-暨最近一年多新团队的管理工作复盘](https://juejin.im/post/5e1ef0ba6fb9a02ffd6eb8b3) ![](assets/new.png)  
-- [2020-01-15-前端早早聊|竹隐---如何从-7-年技术架构走向业务管理](https://juejin.im/post/5e1ed7bdf265da3e505f13bf) ![](assets/new.png)  
+- [2020-01-15-译-定制-create-react-app：如何制作自己的模版](https://juejin.im/post/5e1b0a71f265da3dfa49ac41) ![](assets/new.png)  
+- [2020-01-15-全面总结-JavaScript-类型相关知识点](https://juejin.im/post/5e1ef846f265da3e2e4f5268)  
+- [2020-01-15-keep-alive实现原理](https://juejin.im/post/5e1ed2635188254c46131aaf)  
+- [2020-01-15-所见即所得，-通过拖拽实现一个自定义布局](https://juejin.im/post/5e1ed7dbf265da3e021f8ece)  
+- [2020-01-15-如何推动与影响中型前端团队的成长-&-暨最近一年多新团队的管理工作复盘](https://juejin.im/post/5e1ef0ba6fb9a02ffd6eb8b3)  
+- [2020-01-15-前端早早聊|竹隐---如何从-7-年技术架构走向业务管理](https://juejin.im/post/5e1ed7bdf265da3e505f13bf)  
 - [2020-01-15-webpack-4-源码主流程分析（十一）：文件的生成](https://juejin.im/post/5e1c952ae51d4552455a8264)  
 - [2020-01-15-webpack-4-源码主流程分析（十）：资源的构建](https://juejin.im/post/5e1c95015188252c32252673)  
 - [2020-01-15-webpack-4-源码主流程分析（九）：优化-chunk](https://juejin.im/post/5e1c94d9f265da3dea347e1a)  
@@ -490,7 +491,6 @@
 - [2020-01-14-译-在生产环境运行-PM2-&-Node.js](https://juejin.im/post/5e1c475af265da3e30770143)  
 - [2020-01-14-自动化测试-e2e测试框架选择](https://juejin.im/post/5e1d8900e51d451c8771c6cd)  
 - [2020-01-14-JavaScript-中的-NaN](https://juejin.im/post/5e1d934cf265da3e133fd9a5)  
-- [2020-01-14-【译】用Node.js编写内存效率高的应用程序](https://juejin.im/post/5e1d880df265da3e3d510ed6)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -14538,6 +14538,11 @@
     "link": "https://juejin.im/welcome/frontend",
     "items": [
       {
+        "title": "[译] 定制 create-react-app：如何制作自己的模版",
+        "link": "https://juejin.im/post/5e1b0a71f265da3dfa49ac41",
+        "date": "2020-01-15"
+      },
+      {
         "title": "全面总结 JavaScript 类型相关知识点",
         "link": "https://juejin.im/post/5e1ef846f265da3e2e4f5268",
         "date": "2020-01-15"
