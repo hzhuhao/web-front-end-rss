@@ -5,6 +5,11 @@
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
       {
+        "title": "【第1837期】未来可期的TypeScript",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235481&idx=1&sn=6204e0d78aa42010ea58e0cd93e0a383&chksm=bd497d1d8a3ef40b2df3a18690f1a087595a99888c2c98d254859bb5517398ff6fa7d3a08794&scene=27#wechat_redirect",
+        "date": "2020-01-15"
+      },
+      {
         "title": "【第1836期】Remax - 使用 React 开发小程序",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235473&idx=1&sn=43f3b7b908cbfabe5c608b00282a0a56&chksm=bd497d158a3ef40373115d34d5b67f5c6e2f55adc893ff631fd743e7a96fe982ad4c6c48825e&scene=27#wechat_redirect",
         "date": "2020-01-14"
@@ -13352,6 +13357,26 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "HTTP客户端连接，选择HttpClient还是OkHttp？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489631&idx=1&sn=463dacfc7911959b380c44e89708e086&chksm=ea5cd539dd2b5c2f77a38643e6ec0b75d7dc84c337f6fbec842dc5dbb9beece3964af27c64c0&scene=27#wechat_redirect",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "Spring循环依赖，竟然有这样不可思议的坑！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489631&idx=2&sn=c052dbc59e86b1867fb27c722681650a&chksm=ea5cd539dd2b5c2f2ab2660e7dc05a106b9fccf7b2369ab087dbfda8e35bfb14b6406656b457&scene=27#wechat_redirect",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "Java序列化 3 连问，这太难了吧！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489631&idx=3&sn=46c449151290993b56725675f9acb271&chksm=ea5cd539dd2b5c2f5291cb782051ce9fcd98820edc619088f7256723e5a9d4d598cf052f4bef&scene=27#wechat_redirect",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "多出去面试，好处多多！",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489631&idx=4&sn=91719360c5ee6668d0d028d493ef24e0&chksm=ea5cd539dd2b5c2f623516f35f36fc392edec561278c1a5a6878c4fe0e2187e11083794252d4&scene=27#wechat_redirect",
+        "date": "2020-01-15"
+      },
+      {
         "title": "Mybatis 中经典的 9 种设计模式！面试可以吹牛了！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=1&sn=8efbecfcd203f859eb8905e592599764&chksm=ea5cd531dd2b5c277a78f43769c82b5be7996851dd0167a994037aa0b58e4a162b2acd460615&scene=27#wechat_redirect",
         "date": "2020-01-14"
@@ -14462,6 +14487,31 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "从0实现一个single-spa的前端微服务（中）",
+        "link": "https://juejin.im/post/5e1d2a02f265da3e4d5ba94c",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "Taro 小程序开发大型实战（五）：使用 Hooks 版的 Redux 实现应用状态管理（下篇）",
+        "link": "https://juejin.im/post/5e1e63e8f265da3e4412b1f1",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "Taro 小程序开发大型实战（六）：尝鲜微信小程序云（上篇）",
+        "link": "https://juejin.im/post/5e1dd614f265da3e12181ff3",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "[译]JS 中的原型继承（Prototypal inheritance）是怎么回事？",
+        "link": "https://juejin.im/post/5e1e77efe51d45305b55a0dd",
+        "date": "2020-01-15"
+      },
+      {
+        "title": "Vue2.0源码阅读笔记（十二）：生命周期",
+        "link": "https://juejin.im/post/5e1e735ae51d454d503515a9",
+        "date": "2020-01-15"
+      },
       {
         "title": "Vue高级指南-01 Vue源码解析之手写Vue源码",
         "link": "https://juejin.im/post/5e1af3156fb9a02ffe7025c1",

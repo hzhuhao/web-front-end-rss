@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-15 06:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-15 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -768,6 +768,8 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-01-15-Spring循环依赖，竟然有这样不可思议的坑！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489631&idx=2&sn=c052dbc59e86b1867fb27c722681650a&chksm=ea5cd539dd2b5c2f2ab2660e7dc05a106b9fccf7b2369ab087dbfda8e35bfb14b6406656b457&scene=27#wechat_redirect) 
+- [2020-01-15-Java序列化-3-连问，这太难了吧！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489631&idx=3&sn=46c449151290993b56725675f9acb271&chksm=ea5cd539dd2b5c2f5291cb782051ce9fcd98820edc619088f7256723e5a9d4d598cf052f4bef&scene=27#wechat_redirect) 
 - [2020-01-14-HashMap-和-currentHashMap-我们终于给你总结清楚了！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=2&sn=9dd91517955b0453ca5c0df8e4137740&chksm=ea5cd531dd2b5c2766f688e1916261d5b257596f016e4001cb5598b0c9f10217b6d9bbc1ac70&scene=27#wechat_redirect) 
 - [2020-01-14-阿里新一代微服务解决方案：Spring-Cloud-Alibaba](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=3&sn=8cd1ff88aba64b62af52ba760d470508&chksm=ea5cd531dd2b5c2756eaad6a816d64398cf402fdb3553d27d311dbb3b8b8c7ebe8f2d8340028&scene=27#wechat_redirect) 
 - [2020-01-14-IDEA高级玩法：集成JIRA、UML类图插件、SSH、FTP、Database管理...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=4&sn=42e3a3f2d4db40a6e046195edd9b6965&chksm=ea5cd531dd2b5c27fbbd896dcd22e381d3c388fee6d6b70d15b995236657aa1f35e8c1214a77&scene=27#wechat_redirect) 
@@ -932,6 +934,7 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-15-从0实现一个single-spa的前端微服务（中）](https://juejin.im/post/5e1d2a02f265da3e4d5ba94c) 
 - [2020-01-14-自动化测试-e2e测试框架选择](https://juejin.im/post/5e1d8900e51d451c8771c6cd) 
 - [2020-01-14-【Concent杂谈】精确更新策略](https://juejin.im/post/5e17d32b51882536a627ee79) 
 - [2020-01-13-前端的各种日期操作【值得收藏】](https://juejin.im/post/5e0a201ce51d4575eb4f38e7) 

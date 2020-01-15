@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-15 06:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-15 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【前端早读课】2020-01-15-【第1837期】未来可期的TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235481&idx=1&sn=6204e0d78aa42010ea58e0cd93e0a383&chksm=bd497d1d8a3ef40b2df3a18690f1a087595a99888c2c98d254859bb5517398ff6fa7d3a08794&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-14-【第1836期】Remax---使用-React-开发小程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235473&idx=1&sn=43f3b7b908cbfabe5c608b00282a0a56&chksm=bd497d158a3ef40373115d34d5b67f5c6e2f55adc893ff631fd743e7a96fe982ad4c6c48825e&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-13-【第1835期】llhttp是如何使Node.js性能翻倍的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235471&idx=1&sn=0bee2ebaf7234b54e0782455bbc3ae6f&chksm=bd497d0b8a3ef41d888e082669654713c975a67d8935145aba141372107ae908ea383a10bde2&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-12-【第1834期】DCloud@崔红保：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235461&idx=1&sn=b225fb56b24e8d4575fd70c2694dc8ce&chksm=bd497d018a3ef417ed60f669626df76949c89f6601540cc213e037e0e94e67c42c75f5205f78&scene=27#wechat_redirect) 
@@ -229,6 +230,10 @@
 - [【前端日刊】2020-01-06-你连-HTTPS-原理都不懂，还讲“中间人攻击”？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484382&idx=1&sn=8e127b43152dfadc9ac0f81ffe9c4668&chksm=eb1cc634dc6b4f2221294c06a0648af9d6a0209f47ae3f4cf173b0cddbea9fc1c716a02f5c20&scene=27#wechat_redirect) 
 - [【前端日刊】2020-01-03-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484379&idx=1&sn=1a4f37167ab1e6670ad371d49e28f567&chksm=eb1cc631dc6b4f27b90a56a1e582a5ae22e1c82bf97eea28c08e73ff2c26e9b7fcec7461e91f&scene=27#wechat_redirect) 
 - [【前端日刊】2020-01-01-前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484377&idx=1&sn=9f00743c4e551a90671150f730a2063c&chksm=eb1cc633dc6b4f25a6d899a900b8f49cf9e2ec3a40900e927f98a57cde0af209d292f5f9fc27&scene=27#wechat_redirect) 
+- [【互联网架构师】2020-01-15-HTTP客户端连接，选择HttpClient还是OkHttp？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489631&idx=1&sn=463dacfc7911959b380c44e89708e086&chksm=ea5cd539dd2b5c2f77a38643e6ec0b75d7dc84c337f6fbec842dc5dbb9beece3964af27c64c0&scene=27#wechat_redirect) 
+- [【互联网架构师】2020-01-15-Spring循环依赖，竟然有这样不可思议的坑！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489631&idx=2&sn=c052dbc59e86b1867fb27c722681650a&chksm=ea5cd539dd2b5c2f2ab2660e7dc05a106b9fccf7b2369ab087dbfda8e35bfb14b6406656b457&scene=27#wechat_redirect) 
+- [【互联网架构师】2020-01-15-Java序列化-3-连问，这太难了吧！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489631&idx=3&sn=46c449151290993b56725675f9acb271&chksm=ea5cd539dd2b5c2f5291cb782051ce9fcd98820edc619088f7256723e5a9d4d598cf052f4bef&scene=27#wechat_redirect) 
+- [【互联网架构师】2020-01-15-多出去面试，好处多多！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489631&idx=4&sn=91719360c5ee6668d0d028d493ef24e0&chksm=ea5cd539dd2b5c2f623516f35f36fc392edec561278c1a5a6878c4fe0e2187e11083794252d4&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-14-Mybatis-中经典的-9-种设计模式！面试可以吹牛了！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=1&sn=8efbecfcd203f859eb8905e592599764&chksm=ea5cd531dd2b5c277a78f43769c82b5be7996851dd0167a994037aa0b58e4a162b2acd460615&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-14-HashMap-和-currentHashMap-我们终于给你总结清楚了！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=2&sn=9dd91517955b0453ca5c0df8e4137740&chksm=ea5cd531dd2b5c2766f688e1916261d5b257596f016e4001cb5598b0c9f10217b6d9bbc1ac70&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-14-阿里新一代微服务解决方案：Spring-Cloud-Alibaba](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489623&idx=3&sn=8cd1ff88aba64b62af52ba760d470508&chksm=ea5cd531dd2b5c2756eaad6a816d64398cf402fdb3553d27d311dbb3b8b8c7ebe8f2d8340028&scene=27#wechat_redirect) 
@@ -359,6 +364,11 @@
 - [【JavaScript】2020-01-03-你连-HTTPS-原理都不懂，还讲“中间人攻击”？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498127&idx=1&sn=622d03d1460eaeda2b40a77e1e4f28ae&chksm=80f1af47b786265119a57b314931276630be5efdacdf341dbd597fa89e29bcf534223d5dae15&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-02-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498123&idx=1&sn=b4bc433a8cf73edae22c5e6b8787c4b2&chksm=80f1af43b78626559cbe91f2747501e9ca0f4725b1a9664bfb13b59590548fff66cab33be57f&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-01-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498125&idx=1&sn=9f0bf219718aaed89d35d8b154e5e446&chksm=80f1af45b78626531c302d9636dd377b648d5396885c77350b0cc57517bec7821cff1eb1c18e&scene=27#wechat_redirect) 
+- [【掘金前端】2020-01-15-从0实现一个single-spa的前端微服务（中）](https://juejin.im/post/5e1d2a02f265da3e4d5ba94c) 
+- [【掘金前端】2020-01-15-Taro-小程序开发大型实战（五）：使用-Hooks-版的-Redux-实现应用状态管理（下篇）](https://juejin.im/post/5e1e63e8f265da3e4412b1f1) 
+- [【掘金前端】2020-01-15-Taro-小程序开发大型实战（六）：尝鲜微信小程序云（上篇）](https://juejin.im/post/5e1dd614f265da3e12181ff3) 
+- [【掘金前端】2020-01-15-译JS-中的原型继承（Prototypal-inheritance）是怎么回事？](https://juejin.im/post/5e1e77efe51d45305b55a0dd) 
+- [【掘金前端】2020-01-15-Vue2.0源码阅读笔记（十二）：生命周期](https://juejin.im/post/5e1e735ae51d454d503515a9) 
 - [【掘金前端】2020-01-14-Vue高级指南-01-Vue源码解析之手写Vue源码](https://juejin.im/post/5e1af3156fb9a02ffe7025c1) 
 - [【掘金前端】2020-01-14-译-在生产环境运行-PM2-&-Node.js](https://juejin.im/post/5e1c475af265da3e30770143) 
 - [【掘金前端】2020-01-14-自动化测试-e2e测试框架选择](https://juejin.im/post/5e1d8900e51d451c8771c6cd) 
