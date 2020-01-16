@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-16 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-16 22:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【前端早读课】2020-01-16-【第1838期】TypeScript-3.8-Beta](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235485&idx=1&sn=38b1d5c078c53e0f1d8835ad06e7f3f0&chksm=bd497d198a3ef40f1ab1d82020f530751ce682ce416b0a4053fbbf3513e71e7039fd2397a062&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-15-【第1837期】未来可期的TypeScript](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235481&idx=1&sn=6204e0d78aa42010ea58e0cd93e0a383&chksm=bd497d1d8a3ef40b2df3a18690f1a087595a99888c2c98d254859bb5517398ff6fa7d3a08794&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-14-【第1836期】Remax---使用-React-开发小程序](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235473&idx=1&sn=43f3b7b908cbfabe5c608b00282a0a56&chksm=bd497d158a3ef40373115d34d5b67f5c6e2f55adc893ff631fd743e7a96fe982ad4c6c48825e&scene=27#wechat_redirect) 
 - [【前端早读课】2020-01-13-【第1835期】llhttp是如何使Node.js性能翻倍的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235471&idx=1&sn=0bee2ebaf7234b54e0782455bbc3ae6f&chksm=bd497d0b8a3ef41d888e082669654713c975a67d8935145aba141372107ae908ea383a10bde2&scene=27#wechat_redirect) 
@@ -201,6 +202,7 @@
 - [【张鑫旭-鑫空间-鑫生活】2020-01-05-CSS-overscroll-behavior让滚动嵌套时父滚动不触发](https://www.zhangxinxu.com/wordpress/2020/01/css-overscroll-behavior/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-01-02-CSS-inherit是继承，那initial和unset呢？](https://www.zhangxinxu.com/wordpress/2020/01/css-initial-unset/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-01-01-CSS-paint-order祝大家元旦快乐](https://www.zhangxinxu.com/wordpress/2020/01/css-paint-order/) 
+- [【阮一峰的网络日志】2020-01-16-我对中国科技行业的看法（译文）](http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html) 
 - [【阮一峰的网络日志】2020-01-14-FFmpeg-视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html) 
 - [【阮一峰的网络日志】2020-01-10-科技爱好者周刊：第-90-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html) 
 - [【阮一峰的网络日志】2020-01-08-如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html) 
@@ -394,6 +396,11 @@
 - [【JavaScript】2020-01-03-你连-HTTPS-原理都不懂，还讲“中间人攻击”？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498127&idx=1&sn=622d03d1460eaeda2b40a77e1e4f28ae&chksm=80f1af47b786265119a57b314931276630be5efdacdf341dbd597fa89e29bcf534223d5dae15&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-02-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498123&idx=1&sn=b4bc433a8cf73edae22c5e6b8787c4b2&chksm=80f1af43b78626559cbe91f2747501e9ca0f4725b1a9664bfb13b59590548fff66cab33be57f&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-01-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498125&idx=1&sn=9f0bf219718aaed89d35d8b154e5e446&chksm=80f1af45b78626531c302d9636dd377b648d5396885c77350b0cc57517bec7821cff1eb1c18e&scene=27#wechat_redirect) 
+- [【掘金前端】2020-01-16-对未来团队的思考：未来袋鼠能跳多高](https://juejin.im/post/5e2031145188252c4f2ba9bc) 
+- [【掘金前端】2020-01-16-再嚼一嚼call,apply,bind](https://juejin.im/post/5e20373b6fb9a02fe528fcd3) 
+- [【掘金前端】2020-01-16-「面试重点」聊一聊JS中call、apply、bind里的小心思](https://juejin.im/post/5e1eaaa9f265da3e0e2a1b2a) 
+- [【掘金前端】2020-01-16-Vue-3-真香](https://juejin.im/post/5e201c0d6fb9a02fc90e335b) 
+- [【掘金前端】2020-01-16-实现“乞丐版”的DOM事件流机制](https://juejin.im/post/5e202f8af265da3e364564a4) 
 - [【掘金前端】2020-01-16-CSS/CSS3-7-常见“坑”](https://juejin.im/post/5e202d635188254e1d439107) 
 - [【掘金前端】2020-01-16-小程序云开发-全栈（干）程序员-一个人的狂欢🎉🎉🎉](https://juejin.im/post/5e1f0543f265da3e0e2a1bdf) 
 - [【掘金前端】2020-01-16-数据结构与算法-javascript描述-散列表下](https://juejin.im/post/5e1c8c66f265da3e1c564e90) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-16 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-16 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -161,6 +161,7 @@
 - [2019-12-30-VS-Code成主宰、Vue备受热捧！2019前端开发趋势必读](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498115&idx=1&sn=ac0e9f58859f5f454ac10b63f9d74514&chksm=80f1af4bb786265df4aad0e9cddd12505480784a09625729459e3696d40837a4136dfd7c956b&scene=27#wechat_redirect) 
 - [2019-12-21-VS-Code成主宰、Vue备受热捧！2019前端开发趋势必读](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498090&idx=1&sn=725a4247b8d17c6fa34afc9200271eee&chksm=80f1afa2b78626b426a3da64664a8387e0c26b1808e52af17e4cb32eb3e9da297535dd9b5a0c&scene=27#wechat_redirect) 
 - [2019-12-18-从零实现Vue虚拟DOM和DOM-DIFF算法](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498084&idx=1&sn=b8fd0954d95e4efd1e0c804511d38913&chksm=80f1afacb78626ba5040c398a0a4d53e444b07ce6c4899dd3934a679dccd0444144fd5da6b57&scene=27#wechat_redirect) 
+- [2020-01-16-Vue-3-真香](https://juejin.im/post/5e201c0d6fb9a02fc90e335b) 
 - [2020-01-15-Vue2.0源码阅读笔记（十二）：生命周期](https://juejin.im/post/5e1e735ae51d454d503515a9) 
 - [2020-01-14-Vue高级指南-01-Vue源码解析之手写Vue源码](https://juejin.im/post/5e1af3156fb9a02ffe7025c1) 
 - [2020-01-14-带你了解-vue-next（Vue-3.0）之-炉火纯青](https://juejin.im/post/5e1d28d1f265da3e4412b052) 
