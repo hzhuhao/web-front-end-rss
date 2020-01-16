@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-01-15 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-16 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-01-16-为什么今年能抢到票了？12306技术演进史丨Q事界](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023690&idx=1&sn=ef21bb678be266563673297b97ead183&chksm=bdbe91198ac9180f4d7035458ad0f16e68987fffb94a255ca028f2a6a0ba023e146d8e21a1df&scene=27#wechat_redirect) 
+- [2020-01-16-大疆搅局自动驾驶](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023690&idx=2&sn=1056c5b2c4bdeffcd9092087681b22a8&chksm=bdbe91198ac9180f467296a720e7b4b47fcff284e7149997e0da634ae6dc47568a3844c8d203&scene=27#wechat_redirect) 
+- [2020-01-16-Windows-7“谢幕”，这是一个时代的结束](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023690&idx=3&sn=158cfd3739831398f8b909b6e011acc3&chksm=bdbe91198ac9180f66ea25e58a0fe922dca5e288a9163e8dbfb4387a1cb0397f788129f46ce8&scene=27#wechat_redirect) 
+- [2020-01-16-21-世纪的第-3-个-10-年，有哪些技术关键词即将曝光？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023690&idx=4&sn=b42cfb533909015e7309160a30d88905&chksm=bdbe91198ac9180fcadd21dbd7b05994b83f90fe4319d3bc99f1b7159996e1c5eb747e7d3557&scene=27#wechat_redirect) 
+- [2020-01-16-杀死“DevOps-团队”](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023690&idx=5&sn=b0158c73c38678cee03143b74f1dccbc&chksm=bdbe91198ac9180f90de6cc9078b5cad418e58224f3627d8e2fb96fd94b8610a856d17e7494d&scene=27#wechat_redirect) 
 - [2020-01-15-对话阿里巴巴贾扬清：如何成为一名优秀的AI架构师？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=1&sn=0e6f09ea555f36f39d10ae339e448847&chksm=bdbe91128ac918046c976a0a232e3b0e491cb75714ad75f6221619fba76f5b70fa305576f22c&scene=27#wechat_redirect) 
 - [2020-01-15-大前端-10-倍提效破局利器：可视化辅助编程成为大势所趋？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=2&sn=90dd6fb386d966903d89631be88ef218&chksm=bdbe91128ac9180474bf5767bf0f79a34641ba47e2e48f3c64a827d3664ab9417151e7f2f7fd&scene=27#wechat_redirect) 
 - [2020-01-15-5G时代，金融行业洗牌加剧，智能金融成主要突破口](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023681&idx=3&sn=c7a723b6dd5fb5c33f806328e35ca4aa&chksm=bdbe91128ac91804ef0a5922ee891a26258ff04c558eb9ac3c613d6e2868fe026d9e5c5c3518&scene=27#wechat_redirect) 
