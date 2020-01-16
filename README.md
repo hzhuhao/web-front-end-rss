@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-16 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-16 12:00:25，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -28,7 +28,7 @@
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 
 ## 文章链接
@@ -440,6 +440,7 @@
 </summary>
 
 
+- [2020-01-15-Vue这些修饰符帮我节省20%的开发时间](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498161&idx=1&sn=4648607b03185ccef9b19c9abbdb427a&chksm=80f1af79b786266fba116463649dc0a819e88c0232d8db075e7944a3ae205902fe44f629c3b2&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-14-TS-真香系列：7个-TypeScript-新功能](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498159&idx=1&sn=ba42ba6d929dad91a91b3d9912cf8a2d&chksm=80f1af67b78626718739fb5878336ea1ac7e23fc2918a73bcfafe5c206091fe4b10029f23ca9&scene=27#wechat_redirect)  
 - [2020-01-13-2020年了，JavaScript依然是前端最受欢迎的语言吗？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498156&idx=1&sn=fde5b6be598cfade366eb510d830ba64&chksm=80f1af64b7862672c324a8d792043e001d31840ab93c5834a01988086c970768a23d4d13414f&scene=27#wechat_redirect)  
 - [2020-01-11-腾讯最新开源内部跨端框架Hippy，QQ、腾讯视频等18项业务都在用](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498152&idx=1&sn=ae3de7bbc16b5e58c553d9bbffae0556&chksm=80f1af60b78626763b1b4ef868ab071721448c5e1cdd247dd7a3d77a55c34cfecad2dd505b3b&scene=27#wechat_redirect)  
@@ -459,7 +460,6 @@
 - [2019-12-27-【工作】支付宝前端技术部社招前端P6/P7](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498109&idx=2&sn=026029fe4ae76ed36c4a79dad6af6ef3&chksm=80f1afb5b78626a314b6b308bcb720f3a37d5573e270d759de9a90ca3299f5b22a6e8644312f&scene=27#wechat_redirect)  
 - [2019-12-26-前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498106&idx=1&sn=de56133af30eb6b73ae65e8e1bab4cd2&chksm=80f1afb2b78626a47c152dfb1f7fce10d29475a976198f7d5254fde03a6a44cf1c28de3467aa&scene=27#wechat_redirect)  
 - [2019-12-25-又是圣诞彩蛋惹的祸？微软在-VS-Code-中添加圣诞图标惹争议](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498104&idx=1&sn=3a255c7388aad313497b7a368e3ec322&chksm=80f1afb0b78626a69d796e062ae456b5f12cc0274673255f7fdc34b8553d3b1c2cf67449a7c8&scene=27#wechat_redirect)  
-- [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -471,7 +471,10 @@
 </summary>
 
 
-- [2020-01-15-译-定制-create-react-app：如何制作自己的模版](https://juejin.im/post/5e1b0a71f265da3dfa49ac41) ![](assets/new.png)  
+- [2020-01-16-看完这几道-JavaScript-面试题，让你与考官对答如流（下）](https://juejin.im/post/5e1faa3d51882520a167df0e) ![](assets/new.png)  
+- [2020-01-16-使用微信公众号开发模拟面试功能](https://juejin.im/post/5e1fb4d86fb9a02fd67ea1fd) ![](assets/new.png)  
+- [2020-01-16-pm2-实践指南](https://juejin.im/post/5e1fa941e51d451c774dcc18) ![](assets/new.png)  
+- [2020-01-15-译-定制-create-react-app：如何制作自己的模版](https://juejin.im/post/5e1b0a71f265da3dfa49ac41)  
 - [2020-01-15-全面总结-JavaScript-类型相关知识点](https://juejin.im/post/5e1ef846f265da3e2e4f5268)  
 - [2020-01-15-keep-alive实现原理](https://juejin.im/post/5e1ed2635188254c46131aaf)  
 - [2020-01-15-所见即所得，-通过拖拽实现一个自定义布局](https://juejin.im/post/5e1ed7dbf265da3e021f8ece)  
@@ -488,9 +491,6 @@
 - [2020-01-15-译JS-中的原型继承（Prototypal-inheritance）是怎么回事？](https://juejin.im/post/5e1e77efe51d45305b55a0dd)  
 - [2020-01-15-Vue2.0源码阅读笔记（十二）：生命周期](https://juejin.im/post/5e1e735ae51d454d503515a9)  
 - [2020-01-14-Vue高级指南-01-Vue源码解析之手写Vue源码](https://juejin.im/post/5e1af3156fb9a02ffe7025c1)  
-- [2020-01-14-译-在生产环境运行-PM2-&-Node.js](https://juejin.im/post/5e1c475af265da3e30770143)  
-- [2020-01-14-自动化测试-e2e测试框架选择](https://juejin.im/post/5e1d8900e51d451c8771c6cd)  
-- [2020-01-14-JavaScript-中的-NaN](https://juejin.im/post/5e1d934cf265da3e133fd9a5)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
