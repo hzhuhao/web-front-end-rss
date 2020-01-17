@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-17 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-17 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -962,6 +962,8 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-17-AMP-开发体验洗白之路](https://juejin.im/post/5e1e9d0f518825261900820b) 
+- [2020-01-17-技术决策：自研和半自研数据报表与可视化大盘](https://juejin.im/post/5e1c07d85188254c0a040dca) 
 - [2020-01-17-机器人制证系统大屏可视化](https://juejin.im/post/5e21534ee51d454d79246dc7) 
 - [2020-01-17-前端早早聊|Scott---如何在中小前端团队中完成管理转型](https://juejin.im/post/5e21624fe51d451c7d2a61ff) 
 - [2020-01-17-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
