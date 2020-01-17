@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-17 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-17 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -553,6 +553,7 @@
 - [2018-10-24-数学标记语言MathML简介、工具及兼容](https://www.zhangxinxu.com/wordpress/2018/10/mathml-%e5%85%bc%e5%ae%b9-%e5%b7%a5%e5%85%b7/) 
 - [2018-09-01-借助wbr标签实现连续英文字符的精准换行](https://www.zhangxinxu.com/wordpress/2018/09/html-wbr-word-break/) 
 - [2018-08-06-看，for..in和for..of在那里吵架！](https://www.zhangxinxu.com/wordpress/2018/08/for-in-es6-for-of/) 
+- [2020-01-17-科技爱好者周刊：第-91-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html) 
 - [2020-01-16-我对中国科技行业的看法（译文）](http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html) 
 - [2020-01-10-科技爱好者周刊：第-90-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html) 
 - [2020-01-08-如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html) 
@@ -774,6 +775,10 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-01-17-为什么我们放弃了微服务？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489644&idx=1&sn=7957be8bc0de2e63a61d75711d59819f&chksm=ea5cd50add2b5c1c0d917388bff220b98e12110c306861e219a8528f7c21322e10456ec11199&scene=27#wechat_redirect) 
+- [2020-01-17-看完知乎轮子哥的编程之路，我只想说，收下我的膝盖。。。](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489644&idx=2&sn=581811bf4cc903ef0437af17e40f54d3&chksm=ea5cd50add2b5c1c41f6986659808403dd9648b8e13ce5de8b1324a2e3901a8377b85d20795f&scene=27#wechat_redirect) 
+- [2020-01-17-优秀的代码都是如何分层的？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489644&idx=3&sn=c670b051f3961cdb4b92e5a0ddef2d5c&chksm=ea5cd50add2b5c1c0a5371cb89de06bade0f95ee80a2964cca22927876546888395ba1d758b5&scene=27#wechat_redirect) 
+- [2020-01-17-免费自学编程的12个网站](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489644&idx=4&sn=0c3d7102fbc22cb73702d7558ad47187&chksm=ea5cd50add2b5c1c15180dd3f86fdef793fb3219b3edbdd296ed23e862054f6557c96e2910c9&scene=27#wechat_redirect) 
 - [2020-01-16-数据中台应该包含什么？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489638&idx=1&sn=e6fd4a10a20097b869a6fb4bc4aa3c45&chksm=ea5cd500dd2b5c16bfb6b31fc55e143f2142d48a4441f05315faa4c5c170b78cfd0e4761081d&scene=27#wechat_redirect) 
 - [2020-01-16-18个Java8日期处理的实践，太有用了！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489638&idx=3&sn=cf3f6bdf47f44967147b23b4b2491ee9&chksm=ea5cd500dd2b5c1682abb7fa08274cd30725e4379a8bc3f01c499c2443488b6dcbc3fd4d4cdd&scene=27#wechat_redirect) 
 - [2020-01-15-Spring循环依赖，竟然有这样不可思议的坑！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489631&idx=2&sn=c052dbc59e86b1867fb27c722681650a&chksm=ea5cd539dd2b5c2f2ab2660e7dc05a106b9fccf7b2369ab087dbfda8e35bfb14b6406656b457&scene=27#wechat_redirect) 
@@ -952,6 +957,7 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-17-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) 
 - [2020-01-16-得到-Hybrid-架构的演进之路](https://juejin.im/post/5e20483bf265da3e3a53767b) 
 - [2020-01-16-对未来团队的思考：未来袋鼠能跳多高](https://juejin.im/post/5e2031145188252c4f2ba9bc) 
 - [2020-01-16-pm2-实践指南](https://juejin.im/post/5e1fa941e51d451c774dcc18) 

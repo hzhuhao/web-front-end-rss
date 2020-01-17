@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-17 06:00:24，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-17 12:00:25，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,14 +19,14 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)![](assets/dot.png)   
@@ -163,7 +163,7 @@
 </summary>
 
 
-- [2020-01-17-CSS-any-hover-any-pointer-media查询与交互体验提升](https://www.zhangxinxu.com/wordpress/2020/01/css-any-hover-media/) ![](assets/new.png)  
+- [2020-01-17-CSS-any-hover-any-pointer-media查询与交互体验提升](https://www.zhangxinxu.com/wordpress/2020/01/css-any-hover-media/)  
 - [2020-01-15-CSS-grid-auto-flow深入理解](https://www.zhangxinxu.com/wordpress/2020/01/css-grid-auto-flow/)  
 - [2020-01-05-CSS-overscroll-behavior让滚动嵌套时父滚动不触发](https://www.zhangxinxu.com/wordpress/2020/01/css-overscroll-behavior/)  
 - [2020-01-02-CSS-inherit是继承，那initial和unset呢？](https://www.zhangxinxu.com/wordpress/2020/01/css-initial-unset/)  
@@ -194,6 +194,7 @@
 </summary>
 
 
+- [2020-01-17-科技爱好者周刊：第-91-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html) ![](assets/new.png)  
 - [2020-01-16-我对中国科技行业的看法（译文）](http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html)  
 - [2020-01-14-FFmpeg-视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)  
 - [2020-01-10-科技爱好者周刊：第-90-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html)  
@@ -213,7 +214,6 @@
 - [2019-11-26-如何识别文件的真假](http://www.ruanyifeng.com/blog/2019/11/hash-sum.html)  
 - [2019-11-22-科技爱好者周刊：第-83-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html)  
 - [2019-11-21-Python-异步编程入门](http://www.ruanyifeng.com/blog/2019/11/python-asyncio.html)  
-- [2019-11-19-CSS-定位详解](http://www.ruanyifeng.com/blog/2019/11/css-position.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,6 +380,10 @@
 </summary>
 
 
+- [2020-01-17-为什么我们放弃了微服务？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489644&idx=1&sn=7957be8bc0de2e63a61d75711d59819f&chksm=ea5cd50add2b5c1c0d917388bff220b98e12110c306861e219a8528f7c21322e10456ec11199&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-17-看完知乎轮子哥的编程之路，我只想说，收下我的膝盖。。。](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489644&idx=2&sn=581811bf4cc903ef0437af17e40f54d3&chksm=ea5cd50add2b5c1c41f6986659808403dd9648b8e13ce5de8b1324a2e3901a8377b85d20795f&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-17-优秀的代码都是如何分层的？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489644&idx=3&sn=c670b051f3961cdb4b92e5a0ddef2d5c&chksm=ea5cd50add2b5c1c0a5371cb89de06bade0f95ee80a2964cca22927876546888395ba1d758b5&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-17-免费自学编程的12个网站](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489644&idx=4&sn=0c3d7102fbc22cb73702d7558ad47187&chksm=ea5cd50add2b5c1c15180dd3f86fdef793fb3219b3edbdd296ed23e862054f6557c96e2910c9&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-16-数据中台应该包含什么？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489638&idx=1&sn=e6fd4a10a20097b869a6fb4bc4aa3c45&chksm=ea5cd500dd2b5c16bfb6b31fc55e143f2142d48a4441f05315faa4c5c170b78cfd0e4761081d&scene=27#wechat_redirect)  
 - [2020-01-16-Linux-正在吞噬-Windows-和-Chrome-OS！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489638&idx=2&sn=fbde4c6b71c2c1169add7d9b63035482&chksm=ea5cd500dd2b5c16ed38bb50629b56b7c602ea4b435ccd65510f205683bb3a28558c6b81b32b&scene=27#wechat_redirect)  
 - [2020-01-16-18个Java8日期处理的实践，太有用了！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489638&idx=3&sn=cf3f6bdf47f44967147b23b4b2491ee9&chksm=ea5cd500dd2b5c1682abb7fa08274cd30725e4379a8bc3f01c499c2443488b6dcbc3fd4d4cdd&scene=27#wechat_redirect)  
@@ -396,10 +400,6 @@
 - [2020-01-13-从Nginx、Apache工作原理看为什么Nginx比Apache高效！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489616&idx=2&sn=08b2171964cfb75adc01543095613eb1&chksm=ea5cd536dd2b5c209d8b676c472cc873a789894acd363a323ec1c8909128df440ddec713d7d2&scene=27#wechat_redirect)  
 - [2020-01-13-带你深挖Java泛型类型擦除以及类型擦除带来的问题](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489616&idx=3&sn=f5d3993f0cb943899cc97ef8cc5b6f92&chksm=ea5cd536dd2b5c20726b0f800784fde272e321674569e4b7f4bbf47c7814f65b19a31f5dc0c9&scene=27#wechat_redirect)  
 - [2020-01-13-为什么要看源码、如何看源码，高手进阶必看](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489616&idx=4&sn=6242de8f1377f3f790c05be553c57be3&chksm=ea5cd536dd2b5c20cf2e3b3afc59306dc21d2c70656f13d780b88754b026e5d26ce12431f192&scene=27#wechat_redirect)  
-- [2020-01-12-2020-年最流行的-Java-开发技术](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489610&idx=1&sn=1549e9945e3d37291e820f6daec55ac0&chksm=ea5cd52cdd2b5c3a84136e0adfc9ffb8dd1ce7577d872ebdd1032b6795d8356ad4abb18ea36d&scene=27#wechat_redirect)  
-- [2020-01-12-count1、count*-与-count列名-的执行区别](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489610&idx=2&sn=d4ab55cacd5bd5db11efdcd8d9892893&chksm=ea5cd52cdd2b5c3a49d4748d2afa4ee417462e2a27954ed1845c4c5132b1ee5b56fa54e7a8a1&scene=27#wechat_redirect)  
-- [2020-01-12-5种将死的编程语言](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489610&idx=3&sn=7078a4ef5f9e6104474696670197d9fd&chksm=ea5cd52cdd2b5c3a5caf76c13981d2fb625926340914a0565d39a7e12921d5d52fc923a37a67&scene=27#wechat_redirect)  
-- [2020-01-12-JVM-大厂面试都会问，都会这么问，你能顶住么？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489610&idx=4&sn=3121d8f70e2d65aa2179cb891fa7bbb3&chksm=ea5cd52cdd2b5c3af482f7cb4128e5b0763019ac1fe37b0f0590fc0d70a357140b90f83668f9&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,8 +473,10 @@
 </summary>
 
 
-- [2020-01-16-得到-Hybrid-架构的演进之路](https://juejin.im/post/5e20483bf265da3e3a53767b) ![](assets/new.png)  
-- [2020-01-16-V8-内存浅析](https://juejin.im/post/5e1ef9356fb9a02fe75869d9) ![](assets/new.png)  
+- [2020-01-17-前端图像处理之滤镜](https://juejin.im/post/5e2110b86fb9a02fcf18df8c) ![](assets/new.png)  
+- [2020-01-17-自动化部署的一小步，前端搬砖的一大步](https://juejin.im/post/5e206168f265da3e2b2d7560) ![](assets/new.png)  
+- [2020-01-16-得到-Hybrid-架构的演进之路](https://juejin.im/post/5e20483bf265da3e3a53767b)  
+- [2020-01-16-V8-内存浅析](https://juejin.im/post/5e1ef9356fb9a02fe75869d9)  
 - [2020-01-16-对未来团队的思考：未来袋鼠能跳多高](https://juejin.im/post/5e2031145188252c4f2ba9bc)  
 - [2020-01-16-再嚼一嚼call,apply,bind](https://juejin.im/post/5e20373b6fb9a02fe528fcd3)  
 - [2020-01-16-「面试重点」聊一聊JS中call、apply、bind里的小心思](https://juejin.im/post/5e1eaaa9f265da3e0e2a1b2a)  
@@ -491,8 +493,6 @@
 - [2020-01-15-译-定制-create-react-app：如何制作自己的模版](https://juejin.im/post/5e1b0a71f265da3dfa49ac41)  
 - [2020-01-15-全面总结-JavaScript-类型相关知识点](https://juejin.im/post/5e1ef846f265da3e2e4f5268)  
 - [2020-01-15-keep-alive实现原理](https://juejin.im/post/5e1ed2635188254c46131aaf)  
-- [2020-01-15-所见即所得，-通过拖拽实现一个自定义布局](https://juejin.im/post/5e1ed7dbf265da3e021f8ece)  
-- [2020-01-15-如何推动与影响中型前端团队的成长-&-暨最近一年多新团队的管理工作复盘](https://juejin.im/post/5e1ef0ba6fb9a02ffd6eb8b3)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
