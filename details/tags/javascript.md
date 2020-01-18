@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-18 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-18 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -398,6 +398,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2020-01-18-SpriteJS的3D渲染能力-Up,-Up,-Up!](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591154&idx=1&sn=95c122593fc9ee9f3271a349324958f6&chksm=8891df96bfe656805cad5c8842da18bb051c0061c81b9e23138f5eaf22daab552430d47c21e1&scene=27#wechat_redirect) 
 - [2020-01-14-深入浅出-JavaScript-模块化](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591142&idx=1&sn=fe1d5ee8b173666c869a0090fc07ce08&chksm=8891df82bfe656940fb797b4b495bbb0031ef2ca205eae212aab634744b61daa83dc38ec8f89&scene=27#wechat_redirect) 
 - [2020-01-07-如何答一道惊艳面试官的数组去重问题？](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590916&idx=1&sn=adcd0798f4d7f5ff4835f6cb09e04241&chksm=8891dee0bfe657f670b61121b6112fad61442a1e667c2fbc9f9d92220a8345778fc1d939da8a&scene=27#wechat_redirect) 
 - [2020-01-06-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590910&idx=3&sn=8fa306230e6199d9fd0e10218b7cd9d2&chksm=8891de9abfe6578c8543eb7e2c5e76cc15b124b2c678dc619beaba553056de4797be99125060&scene=27#wechat_redirect) 

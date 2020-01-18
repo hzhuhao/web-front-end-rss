@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2020-01-18 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-18 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
 
 
 
+- [2020-01-18-【第1840期】标准微前端架构在蚂蚁的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235584&idx=1&sn=90e56a44630f79c25db433ef2b64699c&chksm=bd497c848a3ef592a91f58566938ba38cd391d3e5fd2a63ec0edabee0ff5c083be9573fb7ef1&scene=27#wechat_redirect) 
 - [2020-01-08-【第1830期】2019年京东PLUS会员前端开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235422&idx=1&sn=4335e2d4b515cd70584dd929b625aaed&chksm=bd497dda8a3ef4cc09b16c390d725cb115f06c9656fb0e082aa37de208112d79ede586f5d24d&scene=27#wechat_redirect) 
 - [2020-01-06-【第1828期】种草-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235405&idx=1&sn=6da042f4b37c4159b35f3175d7518a6d&chksm=bd497dc98a3ef4df1ff480d1a6a602c160cf577b965c2294bb05e512135e158d7e5930bd1576&scene=27#wechat_redirect) 
 - [2020-01-03-【第1825期】了解什么是微前端](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235387&idx=2&sn=e5bb3b717c894676bc05cfeba50cf6d5&chksm=bd497dbf8a3ef4a9a544c45cc1c75dafd45f7438ced6915abc9bbe5e90e2920b0cecb354741c&scene=27#wechat_redirect) 
@@ -767,6 +768,7 @@
 - [2019-12-23-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=2&sn=3cbc2d1abf107cb0c0505b17c72c352f&chksm=8891de55bfe65743171a14bfe0f1f627563d3c5c857b30964a5c89923e2a40c2f6d5957f5590&scene=27#wechat_redirect) 
 - [2019-12-21-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590831&idx=2&sn=da29fa45f7ac52c7b27c248ef20349a5&chksm=8891de4bbfe6575d5defd69131153521f7ad93bb10c934ce339e6b917085ba1e7bc500efc176&scene=27#wechat_redirect) 
 - [2019-12-20-奇舞周刊第-332-期：你绝对想不到柱形图背后有这么多故事](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590823&idx=1&sn=00cbbcc4df1d729eeaef921799e68954&chksm=8891de43bfe6575506d0997367b18a2acf29cdb0dd9e80958de11ee448aa56101dcb0f533303&scene=27#wechat_redirect) 
+- [2020-01-17-如何优雅处理前端异常？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484399&idx=1&sn=c22556be71bdd9a7cdefa3ead14e2b29&chksm=eb1cc605dc6b4f134d54df6c17413497ce4bacc37d1b211f54b0161fb625efe48016cdcc8bb1&scene=27#wechat_redirect) 
 - [2020-01-15-种草-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484395&idx=1&sn=b5fd24f7e05b48383d7b7d7ac487affb&chksm=eb1cc601dc6b4f17a8083e51836867fe2bfb133824d6674e0e69d3074318176ed57c326e2c46&scene=27#wechat_redirect) 
 - [2020-01-10-程序员都有哪些副业【第一期】](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484389&idx=1&sn=fc44e64618c7f14836cf5efab1f2cd90&chksm=eb1cc60fdc6b4f19d68fa72266d3b9144634ceaa99d791643516d275a5e30d9a909ed1b6f3bb&scene=27#wechat_redirect) 
 - [2020-01-01-前端2019年调查报告](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484377&idx=1&sn=9f00743c4e551a90671150f730a2063c&chksm=eb1cc633dc6b4f25a6d899a900b8f49cf9e2ec3a40900e927f98a57cde0af209d292f5f9fc27&scene=27#wechat_redirect) 
@@ -856,6 +858,9 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-01-18-Apache-2019-年度报告出炉，HBase、Flink、Beam-成最活跃开源项目](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023723&idx=2&sn=7912b3df3a97a00117df671bff89d6c8&chksm=bdbe91388ac9182e8dc3ff335acbecabe2fd60786b5d70d8eeb5d48885ab5ca7069ac1e97098&scene=27#wechat_redirect) 
+- [2020-01-18-澳本聪要拿关键证据自证中本聪！BSV-一夜成为全球第四大加密货币](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023723&idx=3&sn=6899dbc08ca1fc4a7c9f8e2ea07f699d&chksm=bdbe91388ac9182e052cb4c11383ed1b8358772f5c63cb42e7cd5c70ed64325d6eaae5c44488&scene=27#wechat_redirect) 
+- [2020-01-18-如何使-Python-程序快如闪电，提速-30%？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023723&idx=4&sn=1359da3c1206826b6a97a181de793165&chksm=bdbe91388ac9182e06b99152be6c899f812763af7b31eced993fbca19ad307ed01adeec9e010&scene=27#wechat_redirect) 
 - [2020-01-17-要么“被离职”要么几十万年终奖，年度绩效考核怎样做才公正？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023703&idx=1&sn=5bc4215939fafe58fdc894fbae7e7bde&chksm=bdbe91048ac918128f3261ca1554585091952b01583412ea8354653356a0c0065e6cf12089ff&scene=27#wechat_redirect) 
 - [2020-01-17-为何我们用-Go-而非-Python-编写机器学习基础设施平台？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023703&idx=3&sn=2f88f782b3f67daf9487861bdeef9b18&chksm=bdbe91048ac91812c133789c7773e714a022f53e8334aaff08d027241e5a51f7679198694a0a&scene=27#wechat_redirect) 
 - [2020-01-17-等几年，再用新框架](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023703&idx=4&sn=5d082a592f558b19642258f4aa3d3457&chksm=bdbe91048ac918120601e93066e96c74ae67d1558d3df24f157df1ed252dc73e62f1c0c6d21b&scene=27#wechat_redirect) 
@@ -957,6 +962,7 @@
 - [2019-12-24-中台进入冷静期，看清自己比盲目追随更重要](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=2&sn=e15f0d21dd1e04efa017b5fae3305baf&chksm=bdbe9f138ac91605f4c143d9b0d3fbbed83da8514eefedb331be5e489e6c8904f71fb7404f87&scene=27#wechat_redirect) 
 - [2019-12-24-金融大数据公司接连被查，爬虫到底犯法吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=3&sn=7492a5ad9e6dfc522d3acb6b4e92bc19&chksm=bdbe9f138ac91605b0e5405df6f331c48586b551cc73f15d7028fb93a54d8fcb7d900961bcab&scene=27#wechat_redirect) 
 - [2019-12-24-这一天，成都的开发人员都经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=4&sn=7cf54be8cca25b28a57e4edfd44f7213&chksm=bdbe9f138ac916055bba182449a4c35f28747d57d0cead06d4880327e29b8c4877bc15b7e4ca&scene=27#wechat_redirect) 
+- [2020-01-18-程序员注意啦，这个微信群可以学英语，而且全程免费！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498167&idx=1&sn=7212fb24dd9d4ef1dfc3403cb850e2fd&chksm=80f1af7fb7862669bd8e477971eaea298f9260ff7d95c5beb4f1b9776181caa5b42d65a7b4aa&scene=27#wechat_redirect) 
 - [2020-01-10-种草-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498150&idx=1&sn=fce2a41a1bb5caad5cdddeed168d2610&chksm=80f1af6eb7862678b9ed7911af7cd6f749d7ded90df85aeb6e7ec369dbff3e1587f9c9569d34&scene=27#wechat_redirect) 
 - [2020-01-09-工作之余，大家还有什么副业吗？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498146&idx=1&sn=06a6c8dec455c8e2762d05a1ec65f871&chksm=80f1af6ab786267cc70b32eee144baf5ab8cb4551355f37a157a7a5105e574803ab4ad922466&scene=27#wechat_redirect) 
 - [2020-01-04-如何优雅处理前端异常？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498131&idx=1&sn=27714736f30dbf58a6667b6846c5454e&chksm=80f1af5bb786264d22ac5245b51f7923b0d35a8c82a6c05c6e8fd5e9fe441e529ea8debcf4c7&scene=27#wechat_redirect) 
@@ -966,6 +972,7 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-18-君子生非异也，善假于物也](https://juejin.im/post/5e22983f51882526316a676e) 
 - [2020-01-17-AMP-开发体验洗白之路](https://juejin.im/post/5e1e9d0f518825261900820b) 
 - [2020-01-17-技术决策：自研和半自研数据报表与可视化大盘](https://juejin.im/post/5e1c07d85188254c0a040dca) 
 - [2020-01-17-机器人制证系统大屏可视化](https://juejin.im/post/5e21534ee51d454d79246dc7) 
