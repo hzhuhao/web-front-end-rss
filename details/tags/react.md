@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-18 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-18 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -184,6 +184,7 @@
 - [2019-12-28-从-React-历史的长河里聊虚拟DOM及其价值](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=1&sn=8b6d3b47f80e21fd6fe45439258edfef&chksm=8891deb6bfe657a0ebab3da007b49538a0edb2a4d526dbf828a6ddc2193415b831c6c1cba948&scene=27#wechat_redirect) 
 - [2019-12-25-使用-React-为-Chimee-开发插件](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590847&idx=1&sn=19629fd5d68cf6ceeb5381453998bafe&chksm=8891de5bbfe6574d21b9580e1e237d269dfbc68df84ea47165d6eabbb8b53e562e90b53a64e8&scene=27#wechat_redirect) 
 - [2019-12-17-React-中的一个奇怪的-Hook](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484359&idx=1&sn=5b090080ae3e856aabb4831b6615407a&chksm=eb1cc62ddc6b4f3bcddf679dd04c5a2fc190524dc2cfcd70b63461dded7bb79537124c7087c5&scene=27#wechat_redirect) 
+- [2020-01-18-React高阶组件HOC的入门📖及实践💻](https://juejin.im/post/5e169204e51d454112714580) 
 - [2020-01-15-译-定制-create-react-app：如何制作自己的模版](https://juejin.im/post/5e1b0a71f265da3dfa49ac41) 
 - [2020-01-15-Taro-小程序开发大型实战（五）：使用-Hooks-版的-Redux-实现应用状态管理（下篇）](https://juejin.im/post/5e1e63e8f265da3e4412b1f1) 
 - [2020-01-13-2020-Create-React-App-开始一个UI组件库](https://juejin.im/post/5e1826aee51d451c851a8555) 
