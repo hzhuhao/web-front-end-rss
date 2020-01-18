@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-18 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-19 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -42,5 +42,6 @@
 - [2020-01-03-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484379&idx=1&sn=1a4f37167ab1e6670ad371d49e28f567&chksm=eb1cc631dc6b4f27b90a56a1e582a5ae22e1c82bf97eea28c08e73ff2c26e9b7fcec7461e91f&scene=27#wechat_redirect) 
 - [2020-01-14-TS-真香系列：7个-TypeScript-新功能](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498159&idx=1&sn=ba42ba6d929dad91a91b3d9912cf8a2d&chksm=80f1af67b78626718739fb5878336ea1ac7e23fc2918a73bcfafe5c206091fe4b10029f23ca9&scene=27#wechat_redirect) 
 - [2020-01-01-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498125&idx=1&sn=9f0bf219718aaed89d35d8b154e5e446&chksm=80f1af45b78626531c302d9636dd377b648d5396885c77350b0cc57517bec7821cff1eb1c18e&scene=27#wechat_redirect) 
+- [2020-01-18-使用typescript下的项目架构最佳实践](https://juejin.im/post/5e1eeb85e51d4557e41c7a0e) 
 - [2020-01-13-TypeScript-3.8-Beta](https://juejin.im/post/5e1c62a3f265da3e152d1e91) 
 - [2020-01-07-7-个好用的-TypeScript-新功能](https://juejin.im/post/5e144a18f265da5d3b32e0eb) 
