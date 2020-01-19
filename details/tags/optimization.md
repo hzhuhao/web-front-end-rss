@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-19 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-19 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -67,6 +67,7 @@
 - [2020-01-17-我们是如何将-ToB-服务的交付能力优化-75%？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023703&idx=2&sn=d8d1856c482e6b2783d3fbfd83ba4ef5&chksm=bdbe91048ac918124a4b8984c7999dd70dc8611422eebec6e8688bdabdfd5453c4cd20064fa6&scene=27#wechat_redirect) 
 - [2020-01-14-极具“杀伤力”的性能调优，从几个思路说起](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=4&sn=3fc40afe6c04f45f2663604cbdd92888&chksm=bdbe91668ac91870ac475ec82998d2edbb8360f94e6331e6aa42b51b3318c44b50cb990a9eb2&scene=27#wechat_redirect) 
 - [2019-12-27-基于CPU的AI深度优化，如何打造业内领先的MLPerf推理性能？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=4&sn=47cd2e1496a074a5fe1e0f7a3cabcb2d&chksm=bdbe9fc38ac916d50452497bfb6cc4f87ec181d3cae553cd6ccdbc222b912207e26cad4d0eaf&scene=27#wechat_redirect) 
+- [2020-01-19-前端极致性能优化手册大全](https://juejin.im/post/5e22a5c15188254dc132fab4) 
 - [2020-01-18-IM系统的前世今生——2小时快速搭建高性能、可拓展的IM系统](https://juejin.im/post/5e1b29366fb9a02fc31dda24) 
 - [2020-01-18-图片懒加载-Lazyload](https://juejin.im/post/5e19331f6fb9a0301e0de6bd) 
 - [2020-01-12-前端性能分析利器-Chrome性能分析&性能监视器](https://juejin.im/post/5e19b2b451882536a627f0a2) 

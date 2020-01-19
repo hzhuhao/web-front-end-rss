@@ -11,11 +11,11 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-19 06:00:24，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-19 12:00:25，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
-- [前端早读课](#前端早读课)  
+- [前端早读课](#前端早读课)![](assets/dot.png)   
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
@@ -39,6 +39,8 @@
 </summary>
 
 
+- [2020-01-19-【第1841期】Ant-Design-4.0：创造快乐工作](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235595&idx=1&sn=85619a71bdb2b8d64ba275ddac917eca&chksm=bd497c8f8a3ef5999065daa00ef242841f6200fd9da449565d2b665cab37f0d4affbd153f704&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-19-SpriteJS的3D渲染能力-Up,-Up,-Up!](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235595&idx=2&sn=237176689332aeb978a72fa96658a9a3&chksm=bd497c8f8a3ef599f0c5aec58acf7078a42aee571429eaf9ed72f652659fe8e5c43a80c494a2&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-18-【第1840期】标准微前端架构在蚂蚁的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235584&idx=1&sn=90e56a44630f79c25db433ef2b64699c&chksm=bd497c848a3ef592a91f58566938ba38cd391d3e5fd2a63ec0edabee0ff5c083be9573fb7ef1&scene=27#wechat_redirect)  
 - [2020-01-18-【视频】蚂蚁@有知:标准微前端架构在蚂蚁的落地实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235584&idx=2&sn=16579589083a19fd467561322159fe0f&chksm=bd497c848a3ef592f3456b41130f9345c71a440bd9ed160113473c0f463a04a5dfde06fc5630&scene=27#wechat_redirect)  
 - [2020-01-17-【第1839期】微保大型小程序的工程化实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235490&idx=1&sn=2701220946ad1e5a74f044cb2837a5b2&chksm=bd497d268a3ef430d870593209f7b75618cde7f8bccdd882ba4eff7940874db83d3f0cf60e14&scene=27#wechat_redirect)  
@@ -57,8 +59,6 @@
 - [2020-01-08-【第1830期】2019年京东PLUS会员前端开发之路](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235422&idx=1&sn=4335e2d4b515cd70584dd929b625aaed&chksm=bd497dda8a3ef4cc09b16c390d725cb115f06c9656fb0e082aa37de208112d79ede586f5d24d&scene=27#wechat_redirect)  
 - [2020-01-08-【招聘】北京美团金融服务平台招中高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235422&idx=2&sn=066eb463f556f8736dd8f6cbb0a2d2b3&chksm=bd497dda8a3ef4cc325df9049ce3e2b8c932c66b11e4c17158a092f4344d25e3cfa324ad0f1b&scene=27#wechat_redirect)  
 - [2020-01-07-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235414&idx=1&sn=ed1671d5a5287760fc9c457af7e0cd3e&chksm=bd497dd28a3ef4c47c1d8c707dd0ac39a1e2f83adabc7821fc5370f113d4dd1469b7c70a3771&scene=27#wechat_redirect)  
-- [2020-01-07-【第1829期】复制黏贴上传图片和跨浏览器自动化测试](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235414&idx=2&sn=2060afefc3458a631337b532e82f78cb&chksm=bd497dd28a3ef4c46ac51bd8d1d16598b8794349fddbda4856ceadc4accf62f06dfedb94dcb4&scene=27#wechat_redirect)  
-- [2020-01-06-【第1828期】种草-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651235405&idx=1&sn=6da042f4b37c4159b35f3175d7518a6d&chksm=bd497dc98a3ef4df1ff480d1a6a602c160cf577b965c2294bb05e512135e158d7e5930bd1576&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端早读课.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,11 +473,16 @@
 </summary>
 
 
-- [2020-01-18-深入浅出WebAssembly1-Compilation](https://juejin.im/post/5e1ee4f56fb9a02fe4580e3f) ![](assets/new.png)  
-- [2020-01-18-IM系统的前世今生——2小时快速搭建高性能、可拓展的IM系统](https://juejin.im/post/5e1b29366fb9a02fc31dda24) ![](assets/new.png)  
-- [2020-01-18-使用typescript下的项目架构最佳实践](https://juejin.im/post/5e1eeb85e51d4557e41c7a0e) ![](assets/new.png)  
-- [2020-01-18-Vue-微信端扫描二维码，苹果端只能保存图片解决方法](https://juejin.im/post/5e1edac7e51d451c521936db) ![](assets/new.png)  
-- [2020-01-18-着眼当下，相信未来|2019与我的技术之路](https://juejin.im/post/5e201ff6f265da3e413f55ba) ![](assets/new.png)  
+- [2020-01-19-🔥-《大前端吊打面试官系列》-之面试备战篇近几十万字持续更新中，建议收藏~](https://juejin.im/post/5e214c1a6fb9a02fc8247a86) ![](assets/new.png)  
+- [2020-01-19-响应式-Echarts-Flutter-组件](https://juejin.im/post/5e23a8ebf265da3e36456785) ![](assets/new.png)  
+- [2020-01-19-前端极致性能优化手册大全](https://juejin.im/post/5e22a5c15188254dc132fab4) ![](assets/new.png)  
+- [2020-01-19-Vue动画](https://juejin.im/post/5e214e99f265da3e3f418fa2) ![](assets/new.png)  
+- [2020-01-19-Vue优雅设计一个组件](https://juejin.im/post/5e218ce75188254dc74a4285) ![](assets/new.png)  
+- [2020-01-18-深入浅出WebAssembly1-Compilation](https://juejin.im/post/5e1ee4f56fb9a02fe4580e3f)  
+- [2020-01-18-IM系统的前世今生——2小时快速搭建高性能、可拓展的IM系统](https://juejin.im/post/5e1b29366fb9a02fc31dda24)  
+- [2020-01-18-使用typescript下的项目架构最佳实践](https://juejin.im/post/5e1eeb85e51d4557e41c7a0e)  
+- [2020-01-18-Vue-微信端扫描二维码，苹果端只能保存图片解决方法](https://juejin.im/post/5e1edac7e51d451c521936db)  
+- [2020-01-18-着眼当下，相信未来|2019与我的技术之路](https://juejin.im/post/5e201ff6f265da3e413f55ba)  
 - [2020-01-18-君子生非异也，善假于物也](https://juejin.im/post/5e22983f51882526316a676e)  
 - [2020-01-18-图片懒加载-Lazyload](https://juejin.im/post/5e19331f6fb9a0301e0de6bd)  
 - [2020-01-18-React高阶组件HOC的入门📖及实践💻](https://juejin.im/post/5e169204e51d454112714580)  
@@ -488,11 +493,6 @@
 - [2020-01-17-搭建-Flutter-环境](https://juejin.im/post/5e20659de51d45580329b5bc)  
 - [2020-01-17-译JavaScript️可视化：事件循环](https://juejin.im/post/5e218b8af265da3e121824eb)  
 - [2020-01-17-技术决策：自研和半自研数据报表与可视化大盘](https://juejin.im/post/5e1c07d85188254c0a040dca)  
-- [2020-01-17-docker使用和应用场景](https://juejin.im/post/5e2176a0e51d453cab2f4b8a)  
-- [2020-01-17-小程序--滑动右侧字母索引](https://juejin.im/post/5e216227f265da3e491a4a98)  
-- [2020-01-17-TypeScript从零实现基于Proxy的响应式库，带你彻底搞懂Vue3的响应式原理！](https://juejin.im/post/5e21196fe51d454d523be084)  
-- [2020-01-17-机器人制证系统大屏可视化](https://juejin.im/post/5e21534ee51d454d79246dc7)  
-- [2020-01-17-前端早早聊|Scott---如何在中小前端团队中完成管理转型](https://juejin.im/post/5e21624fe51d451c7d2a61ff)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
