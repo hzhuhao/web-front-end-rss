@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-20 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-20 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,6 +42,7 @@
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) 
 - [2018-09-27-【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect) 
 - [2018-09-19-【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect) 
+- [2020-01-19-前端安全：你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557775&idx=1&sn=a97ed88b77ff7c92147708f0e069fa1c&chksm=8025584eb752d1583d8ba11c9cbbff7e2c25bb2cfeacf51026747a4e04c392801a60bbceed75&scene=27#wechat_redirect) 
 - [2020-01-10-学习-axios-源码整体架构，打造属于自己的请求库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557714&idx=1&sn=39a56e4e410d251ca3d3902c86802619&chksm=80255893b752d1857efa47330f4d1d5b52cdf68c39a545069095179adbac40b275bb33dcdc90&scene=27#wechat_redirect) 
 - [2020-01-01-2008-至今，Chrome-如何成长为霸主](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557654&idx=1&sn=3aeb66ee35eab28659d0f668b64d0281&chksm=802558d7b752d1c1fe9f5ad4524733c32160919e8f8dfe37670aa5f0c7191a4059870abd0ee0&scene=27#wechat_redirect) 
 - [2019-11-22-GitHub-四万星标的-axios！如何写一个像它那样牛叉的请求库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557430&idx=1&sn=c3bb33f915e7ecaebf6f8f816b220fc1&chksm=802559f7b752d0e1403969878338d1070f56d398f8b0e63bf98c14855d7b9140802590dfec97&scene=27#wechat_redirect) 
@@ -150,6 +151,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-01-19-前端安全—你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591159&idx=1&sn=68abf498d83a849f9fb2099f1642df20&chksm=8891df93bfe6568550651cb5a32f3c0d30585818dae614772298b4c9913cb4fd2bfd3241f8f5&scene=27#wechat_redirect) 
 - [2020-01-16-Linux-正在吞噬-Windows-和-Chrome-OS！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489638&idx=2&sn=fbde4c6b71c2c1169add7d9b63035482&chksm=ea5cd500dd2b5c16ed38bb50629b56b7c602ea4b435ccd65510f205683bb3a28558c6b81b32b&scene=27#wechat_redirect) 
 - [2020-01-15-HTTP客户端连接，选择HttpClient还是OkHttp？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489631&idx=1&sn=463dacfc7911959b380c44e89708e086&chksm=ea5cd539dd2b5c2f77a38643e6ec0b75d7dc84c337f6fbec842dc5dbb9beece3964af27c64c0&scene=27#wechat_redirect) 
 - [2020-01-07-Nginx-的这些妙用，你都-get-到了吗？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489544&idx=3&sn=e2916680b467098879033093e611d34e&chksm=ea5cd56edd2b5c7822c37ee2dab47dde07583f4c125feb2baaa721ae6eb06ac0e42e1bc3150b&scene=27#wechat_redirect) 

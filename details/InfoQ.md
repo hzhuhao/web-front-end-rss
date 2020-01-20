@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-01-18 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-20 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-01-19-云徙否认茅台项目失败，中台的“邪”应该怎么信？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023743&idx=1&sn=6739e5f8e01650188da978a002ab2c4a&chksm=bdbe912c8ac9183ac4ad4b384f7bb4b776e75efa29fbb7abc61460f449abb965ecf95d0c7d75&scene=27#wechat_redirect) 
+- [2020-01-19-Service-Mesh-浅析：从概念、产品到实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023743&idx=2&sn=21a05f257be470ba002929fd53e1740f&chksm=bdbe912c8ac9183ad3a38597043f2a4a086c459a8890c85be8277856343e85ffeefa24f090b1&scene=27#wechat_redirect) 
+- [2020-01-19-国内有哪些值得开发者关注的技术团队？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023743&idx=3&sn=2cd9aa0ddabc9fe41103a0e77add9562&chksm=bdbe912c8ac9183a05fc9df9a5238774d7480e10fdc282f3289be4f23da137f736a2066a5c9d&scene=27#wechat_redirect) 
+- [2020-01-19-在数据科学领域，为什么-Python-比-R-更好？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023743&idx=4&sn=c6673ecf081befd19beedc49b9f0d16b&chksm=bdbe912c8ac9183a9de90bbd62c718a1af743d53ee6a62a8731e4574ab1b688d9fc5c38e1237&scene=27#wechat_redirect) 
 - [2020-01-18-“木兰”被爆内核实为Python，成又一个“红芯浏览器”；快手公布春晚红包细节；“阿里他爸”清仓阿里](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023723&idx=1&sn=c591995f599a156eb52998b3e08265d7&chksm=bdbe91388ac9182e7719b3acf3fb8370d20d4698690e3e43ec7afc617205aedea7fb7df1c788&scene=27#wechat_redirect) 
 - [2020-01-18-Apache-2019-年度报告出炉，HBase、Flink、Beam-成最活跃开源项目](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023723&idx=2&sn=7912b3df3a97a00117df671bff89d6c8&chksm=bdbe91388ac9182e8dc3ff335acbecabe2fd60786b5d70d8eeb5d48885ab5ca7069ac1e97098&scene=27#wechat_redirect) 
 - [2020-01-18-澳本聪要拿关键证据自证中本聪！BSV-一夜成为全球第四大加密货币](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023723&idx=3&sn=6899dbc08ca1fc4a7c9f8e2ea07f699d&chksm=bdbe91388ac9182e052cb4c11383ed1b8358772f5c63cb42e7cd5c70ed64325d6eaae5c44488&scene=27#wechat_redirect) 

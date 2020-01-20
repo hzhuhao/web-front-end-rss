@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-20 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-20 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -138,6 +138,7 @@
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
 - [2018-08-15-面试感悟：当经历所有大厂的实习面试后](http://www.yyyweb.com/5136.html) 
+- [2020-01-20-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484401&idx=1&sn=700ebc0b555f8d9f11d82860952c2d0e&chksm=eb1cc61bdc6b4f0d03d2a624dc9ab9950ba404338f4b35463ca04f25e3d3e3f006904dd40c61&scene=27#wechat_redirect) 
 - [2019-12-09-2020年将至，大厂面试都喜欢考些什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484352&idx=1&sn=c780f09731fcc32823b287686562dcb4&chksm=eb1cc62adc6b4f3cc08902d4ee2e250dce5b5af06bed69de13c4ee9b4f38d841db376af74e51&scene=27#wechat_redirect) 
 - [2019-12-03-记一次腾讯社招前端面试（已拿到offer入职）](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484346&idx=1&sn=2a8dd02ba85e1e87d6d9ca87734fa16c&chksm=eb1cc650dc6b4f46763c21eab612794983a94149ceb2509a7bef31e7e430aeaef07038763eae&scene=27#wechat_redirect) 
 - [2020-01-16-MySQL-这三道必问面试题，你都会吗？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489638&idx=4&sn=4c8913e5900ebd0ac896ffa6ffd18fa4&chksm=ea5cd500dd2b5c16638358ca215c7aaf41454c9667e3ce1e6b9767c1dd3f4ab9b71284c518b1&scene=27#wechat_redirect) 
@@ -149,6 +150,7 @@
 - [2020-01-02-最近面试-Java-后端开发的感受！现在的环境太。。。](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489490&idx=4&sn=d76f83dffa5b55f8225a21c22f6fcc42&chksm=ea5cdab4dd2b53a22860f3e018aa7fef2c7c31336c0e8950a0b0960bc3839d2b1a9f4ed2b40a&scene=27#wechat_redirect) 
 - [2019-12-31-某IT公司的面试题，难度系数“爆表”。。。](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489478&idx=3&sn=1089b0b340dcf1efddad5b9984d85b9b&chksm=ea5cdaa0dd2b53b6cbc11232d60d2f8be3f801f05cf19cc84e8a6d168a5e0e403641e5739263&scene=27#wechat_redirect) 
 - [2019-12-25-美团面试题：JVM-堆内存溢出后，其他线程是否可继续工作？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489425&idx=4&sn=502097c8022a771bcc14d6d95baf0b41&chksm=ea5cdaf7dd2b53e1be4f57d70f48c6eb88cc4154d657c1966b587d1af82f27a684318c0c0232&scene=27#wechat_redirect) 
+- [2020-01-20-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498169&idx=1&sn=42b7b1fa7a7525001b6683cf005951c3&chksm=80f1af71b7862667dc215aea3ca34f7da2220917dd72c9869e6b696ebc937787208c57b4d688&scene=27#wechat_redirect) 
 - [2020-01-07-奇葩！面试说真话居然也能拿offer？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498138&idx=1&sn=e6bc2a72368094b55e8040d395a97589&chksm=80f1af52b78626444c85b03ad4aba58ac6801e5f39dd7cfd76e9900f314244d20c0051c60740&scene=27#wechat_redirect) 
 - [2019-12-31-可悲的是，95%的招聘启事都是这样的](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498120&idx=1&sn=832318a030e693cdb79655f7abcd1ef6&chksm=80f1af40b78626560a96dce5811fa028104c2bdc380eeb9b1374f1ece6efcade5812e3dbcfa2&scene=27#wechat_redirect) 
 - [2020-01-19-🔥-《大前端吊打面试官系列》-之面试备战篇近几十万字持续更新中，建议收藏~](https://juejin.im/post/5e214c1a6fb9a02fc8247a86) 
