@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-20 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-20 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -162,6 +162,8 @@
 - [2019-12-30-VS-Code成主宰、Vue备受热捧！2019前端开发趋势必读](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498115&idx=1&sn=ac0e9f58859f5f454ac10b63f9d74514&chksm=80f1af4bb786265df4aad0e9cddd12505480784a09625729459e3696d40837a4136dfd7c956b&scene=27#wechat_redirect) 
 - [2019-12-21-VS-Code成主宰、Vue备受热捧！2019前端开发趋势必读](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498090&idx=1&sn=725a4247b8d17c6fa34afc9200271eee&chksm=80f1afa2b78626b426a3da64664a8387e0c26b1808e52af17e4cb32eb3e9da297535dd9b5a0c&scene=27#wechat_redirect) 
 - [2019-12-18-从零实现Vue虚拟DOM和DOM-DIFF算法](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498084&idx=1&sn=b8fd0954d95e4efd1e0c804511d38913&chksm=80f1afacb78626ba5040c398a0a4d53e444b07ce6c4899dd3934a679dccd0444144fd5da6b57&scene=27#wechat_redirect) 
+- [2020-01-20-修改vue源码实现动态路由缓存](https://juejin.im/post/5e2580b5f265da3e10557072) 
+- [2020-01-20-【译】如何使用Vue过渡效果来提升用户体验](https://juejin.im/post/5e25809de51d451c52193dcb) 
 - [2020-01-19-Vue动画](https://juejin.im/post/5e214e99f265da3e3f418fa2) 
 - [2020-01-19-Vue优雅设计一个组件](https://juejin.im/post/5e218ce75188254dc74a4285) 
 - [2020-01-18-Vue-微信端扫描二维码，苹果端只能保存图片解决方法](https://juejin.im/post/5e1edac7e51d451c521936db) 
