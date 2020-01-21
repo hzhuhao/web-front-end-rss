@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-21 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-21 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -178,6 +178,8 @@
 - [2017-03-03-轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/) 
 - [2016-07-05-feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/) 
 - [2016-01-07-使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/) 
+- [2020-01-20-从koa/redux看如何设计中间件](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591165&idx=1&sn=03c47691a515e367a77246fc400dbc0d&chksm=8891df99bfe6568f52ebd608f1a210552820e2934218cdd5a73902d1346d688e81514dd15445&scene=27#wechat_redirect) 
+- [2020-01-20-大数据中心招聘React前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591165&idx=3&sn=e11d759c4c53bf06d281bb05ab7b2681&chksm=8891df99bfe6568f184380ec6e27628e665b0580f2efe0496ab309b69233bd4f833bb266ec97&scene=27#wechat_redirect) 
 - [2020-01-19-大数据中心招聘React前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591159&idx=3&sn=649b11ded2252fbea518e08ca63cf7fc&chksm=8891df93bfe6568505e6169a54b556bfa3fee544a57f2be2fd329b79b4c566fd2d252976543d&scene=27#wechat_redirect) 
 - [2020-01-15-大数据中心招聘React前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591147&idx=3&sn=3cb8189e8af8c716761a8a51d6251941&chksm=8891df8fbfe656993b73bee290732dea0f9015392bf1480b734335707da47a7bfea64cca59ac&scene=27#wechat_redirect) 
 - [2020-01-14-大数据中心招聘React前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591142&idx=3&sn=100be5d474dce9c53816e36ac7e8bc59&chksm=8891df82bfe65694dae6fc5167b7c328384372995be2007bc89950ddd705e06bd9ac4c7cc6ce&scene=27#wechat_redirect) 

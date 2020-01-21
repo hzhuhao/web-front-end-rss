@@ -11,24 +11,24 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-21 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-21 18:00:25，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 
 ## 文章链接
@@ -101,6 +101,10 @@
 </summary>
 
 
+- [2020-01-21-大前端-10-倍提效破局利器：可视化辅助编程会成为大势所趋吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493643&idx=1&sn=b4245ab8600f46208f8da0dcb746f8c7&chksm=f9525d48ce25d45ee0919b87620052b2327b2ee7ba59e4c584141d2367ecaf22dcd11ee1a2bb&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-21-2020-年响应式-Web-设计备忘清单](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493643&idx=2&sn=4222b09d3fbd5e426e28540c41a71a13&chksm=f9525d48ce25d45eadfdb32417bd7722c17d0bcd4374a79b4ec263d35e72b85219bb19440137&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-20-阿里为什么要举全集团之力做-Serverless？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493637&idx=1&sn=11915ecdb5038ab1a82a8763225c27df&chksm=f9525d46ce25d450787e512605a8ed082cfa4258fff2d3e80e77980f9208c2ab3bbde5340688&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-20-加速-Web-开发的-23-款前端开发工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493637&idx=2&sn=a7c665520c46dc95b69fa421791fb5dc&chksm=f9525d46ce25d45085dbd7a894c385b13435d486a1c3619d9bf04b302219c97ce67acfc00ff2&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-19-前端周报：FOSS作者称Linus根本不懂ZFS；2020年值得关注的5个K8s趋势；Kotlin1](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493632&idx=1&sn=8bcf0f6f0176fe7d7bb4b4a1ac25d84b&chksm=f9525d43ce25d455fc9b173e8e4c7614e0905f8143e60b87572e99af8f86023afc870cbb2970&scene=27#wechat_redirect)  
 - [2020-01-17-GraphQL：API-的未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=1&sn=12bffe8079ed17c0d3fc39e3984f1b19&chksm=f95252b8ce25dbaebcbe0171b5ab810289c64afbb0759104bd7b82b747a97b28e4d48974f5da&scene=27#wechat_redirect)  
 - [2020-01-17-沃尔玛如何使用-React-Native-开发-iOS-和-Android-应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=2&sn=af8447b198338396d79dcde3d6cc1306&chksm=f95252b8ce25dbae2d890ea6e9579221cd29c937afb451c9cdfce11ff731d3aab77ec22a6ac8&scene=27#wechat_redirect)  
@@ -117,10 +121,6 @@
 - [2020-01-10-使用-WebAssembly-的网站中有-50%-将其用于恶意目的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493593&idx=2&sn=6e2802787d3dd237b87218f8a91d5417&chksm=f952529ace25db8c2c8337c20ff6d7090c0f2a808a6112e5a8f2ab1ae61b8ea389be2098cfea&scene=27#wechat_redirect)  
 - [2020-01-10-寒冬中的中国互联网，为什么花钱砸研发的公司都不会觉得冷？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493593&idx=3&sn=4eb321cf00188a909bdefee1d15b4319&chksm=f952529ace25db8cda114651af0f6b092890c58e3cd8db5f8b30c6ad097513e3f30217e8e6a2&scene=27#wechat_redirect)  
 - [2020-01-09-前端人的桌面应用利器-Electron，字节跳动、阿里都在用-|-极客时间](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=1&sn=1fd086785e6b10dfbf0a9d37e76a5b3f&chksm=f9525293ce25db859b90098d4e5dc6c9fd1e6d86096f50fb6d7e6ac848c76ff63e6c2e5dc739&scene=27#wechat_redirect)  
-- [2020-01-09-基于-React-的微前端：Piral-简析](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493584&idx=2&sn=5bff778b7793ce4d0d9ff8336448b160&chksm=f9525293ce25db85d19dcd0cf5ac4183b74aab6d82786eb33e0f34316b122d8dc9fa6faf3a59&scene=27#wechat_redirect)  
-- [2020-01-08-跨平台开发领域老兵：我眼中小程序的当下和未来可能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=1&sn=9d855569f6bc6f7ab9b4d01cb954700d&chksm=f9525288ce25db9e0582be707822a1dc31114e99f26d27ce8fe6656837a64b5cce9f58851671&scene=27#wechat_redirect)  
-- [2020-01-08-云开发如何解决-Serverless-对端的“最后一公里”问题？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493579&idx=2&sn=10d11beaa418355441926d60ff892cdc&chksm=f9525288ce25db9e8a97c707464ef072f16b7b0ba016ef6333a635faec24f7199cb9c274fe68&scene=27#wechat_redirect)  
-- [2020-01-07-花了四年迁移到-TypeScript，我们总结出了这些经验教训](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493572&idx=1&sn=f33d93946962e4dc7c876e6926929e0f&chksm=f9525287ce25db9171789cbcc0dd3700677625dae92088279158ab5eccd17fcf1d1f9e37f553&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -318,6 +318,9 @@
 </summary>
 
 
+- [2020-01-20-从koa/redux看如何设计中间件](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591165&idx=1&sn=03c47691a515e367a77246fc400dbc0d&chksm=8891df99bfe6568f52ebd608f1a210552820e2934218cdd5a73902d1346d688e81514dd15445&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-20-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591165&idx=2&sn=95e910c8b5d2387998c584dfcb80da2f&chksm=8891df99bfe6568f11364b5f902cb55eb02d62589664c80901c59c1a5c8885379546f5644c9e&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-20-大数据中心招聘React前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591165&idx=3&sn=e11d759c4c53bf06d281bb05ab7b2681&chksm=8891df99bfe6568f184380ec6e27628e665b0580f2efe0496ab309b69233bd4f833bb266ec97&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-19-前端安全—你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591159&idx=1&sn=68abf498d83a849f9fb2099f1642df20&chksm=8891df93bfe6568550651cb5a32f3c0d30585818dae614772298b4c9913cb4fd2bfd3241f8f5&scene=27#wechat_redirect)  
 - [2020-01-19-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591159&idx=2&sn=a7c4d47f8bfa3e48481d4494533f9df9&chksm=8891df93bfe65685819d3fcc823eb6233b5736fdcffa15d7391c3d02318f50e792b51edfa188&scene=27#wechat_redirect)  
 - [2020-01-19-大数据中心招聘React前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591159&idx=3&sn=649b11ded2252fbea518e08ca63cf7fc&chksm=8891df93bfe6568505e6169a54b556bfa3fee544a57f2be2fd329b79b4c566fd2d252976543d&scene=27#wechat_redirect)  
@@ -335,9 +338,6 @@
 - [2020-01-10-奇舞周刊第-335-期：2019-前端技术发展回顾](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590934&idx=1&sn=1de5eb3e1f216553aa0fd597c5a43afa&chksm=8891def2bfe657e4e2f69f78189a21e58f00038558f083a73fe98d47041d5336940cd976c253&scene=27#wechat_redirect)  
 - [2020-01-09-面试官：你怎么优雅写-CSS？](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590930&idx=1&sn=80a47e9ebd8c86c7042ea12423490b15&chksm=8891def6bfe657e0f7caf333544c0a605dce07b766597d1512d0f584a5f07e2ede07afd8639b&scene=27#wechat_redirect)  
 - [2020-01-09-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590930&idx=2&sn=bdc1490d66e01c68e1a1161e25583697&chksm=8891def6bfe657e07c981edebd72e27fd3ede06bdf18481638beb3c499f4283bcfefc754a4d8&scene=27#wechat_redirect)  
-- [2020-01-08-谈谈农历](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590924&idx=1&sn=c6a3fb89e42e4d281bbcf6dac501c15b&chksm=8891dee8bfe657fefc07a8fa91a67d72bf395a21164498f007a1e0004d1019ee49a482037973&scene=27#wechat_redirect)  
-- [2020-01-08-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590924&idx=2&sn=6ca36fd7107ba7c08b4c9d2a8bebedf1&chksm=8891dee8bfe657fe832c016109973e22d5212adc78f3fc0a6e405cc93c331e225a4b54148ce9&scene=27#wechat_redirect)  
-- [2020-01-07-如何答一道惊艳面试官的数组去重问题？](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590916&idx=1&sn=adcd0798f4d7f5ff4835f6cb09e04241&chksm=8891dee0bfe657f670b61121b6112fad61442a1e667c2fbc9f9d92220a8345778fc1d939da8a&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -349,6 +349,7 @@
 </summary>
 
 
+- [2020-01-21-Ant-Design-4.0：创造快乐工作](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484403&idx=1&sn=5ba4e12f0b83364759c3bda425beeb26&chksm=eb1cc619dc6b4f0f60f2fc9c03fd5265c9cb3014194500162a126830fc0781f0aa2b2f6e81e3&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-20-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484401&idx=1&sn=700ebc0b555f8d9f11d82860952c2d0e&chksm=eb1cc61bdc6b4f0d03d2a624dc9ab9950ba404338f4b35463ca04f25e3d3e3f006904dd40c61&scene=27#wechat_redirect)  
 - [2020-01-17-如何优雅处理前端异常？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484399&idx=1&sn=c22556be71bdd9a7cdefa3ead14e2b29&chksm=eb1cc605dc6b4f134d54df6c17413497ce4bacc37d1b211f54b0161fb625efe48016cdcc8bb1&scene=27#wechat_redirect)  
 - [2020-01-16-腾讯最新开源内部跨端框架Hippy，QQ、腾讯视频等18项业务都在用](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484397&idx=1&sn=e6fe2b03a3b998e618ee097e656bd177&chksm=eb1cc607dc6b4f11402459391173d1ad329d275fe32fb7cae68e395c25134d1b79018228057c&scene=27#wechat_redirect)  
@@ -368,7 +369,6 @@
 - [2019-12-17-React-中的一个奇怪的-Hook](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484359&idx=1&sn=5b090080ae3e856aabb4831b6615407a&chksm=eb1cc62ddc6b4f3bcddf679dd04c5a2fc190524dc2cfcd70b63461dded7bb79537124c7087c5&scene=27#wechat_redirect)  
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect)  
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect)  
-- [2019-12-09-2020年将至，大厂面试都喜欢考些什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484352&idx=1&sn=c780f09731fcc32823b287686562dcb4&chksm=eb1cc62adc6b4f3cc08902d4ee2e250dce5b5af06bed69de13c4ee9b4f38d841db376af74e51&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -442,6 +442,7 @@
 </summary>
 
 
+- [2020-01-21-Ant-Design-4.0：创造快乐工作](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498171&idx=1&sn=4abf43485d740798c54123e42d041f04&chksm=80f1af73b78626653eadd736fa3865d2ab2a5256842afaee61b4750a60bc7f6ea2998099df86&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-20-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498169&idx=1&sn=42b7b1fa7a7525001b6683cf005951c3&chksm=80f1af71b7862667dc215aea3ca34f7da2220917dd72c9869e6b696ebc937787208c57b4d688&scene=27#wechat_redirect)  
 - [2020-01-18-程序员注意啦，这个微信群可以学英语，而且全程免费！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498167&idx=1&sn=7212fb24dd9d4ef1dfc3403cb850e2fd&chksm=80f1af7fb7862669bd8e477971eaea298f9260ff7d95c5beb4f1b9776181caa5b42d65a7b4aa&scene=27#wechat_redirect)  
 - [2020-01-17-我写CSS的常用套路附demo的效果实现与源码）](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498163&idx=1&sn=e9a7731fa03fc5758ef9cb477ffef555&chksm=80f1af7bb786266d4464b9372e7089eaf413438a29f00182bd3f26faed29b27d9616c07ab5a8&scene=27#wechat_redirect)  
@@ -461,7 +462,6 @@
 - [2019-12-31-可悲的是，95%的招聘启事都是这样的](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498120&idx=1&sn=832318a030e693cdb79655f7abcd1ef6&chksm=80f1af40b78626560a96dce5811fa028104c2bdc380eeb9b1374f1ece6efcade5812e3dbcfa2&scene=27#wechat_redirect)  
 - [2019-12-30-VS-Code成主宰、Vue备受热捧！2019前端开发趋势必读](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498115&idx=1&sn=ac0e9f58859f5f454ac10b63f9d74514&chksm=80f1af4bb786265df4aad0e9cddd12505480784a09625729459e3696d40837a4136dfd7c956b&scene=27#wechat_redirect)  
 - [2019-12-28-JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498111&idx=1&sn=3d195481f4e5037253b7358864975377&chksm=80f1afb7b78626a1aa95c9d61edb2c289d057e5529133f134277d15a20925ae3955f43c5d3fe&scene=27#wechat_redirect)  
-- [2019-12-27-巧用-CSS-实现酷炫的充电动画](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498109&idx=1&sn=e4bddb19b9c933a1e53ec5a0e127dc4b&chksm=80f1afb5b78626a3aab518cbe8dd3620752d71c63a387efe3bcf32f65d9b4ca27dcffdb05df6&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,7 +473,12 @@
 </summary>
 
 
-- [2020-01-21-这一年](https://juejin.im/post/5e26443b6fb9a02fd84981d8) ![](assets/new.png)  
+- [2020-01-21-【JS深渊】干它！javascript的执行机制（一）](https://juejin.im/post/5e2420aff265da3e28099cda) ![](assets/new.png)  
+- [2020-01-21-👀github博客不能翻页？快速生成gitbook了解一下](https://juejin.im/post/5e2409d56fb9a02fce0b6648) ![](assets/new.png)  
+- [2020-01-21-2020轮子燥起来-首篇](https://juejin.im/post/5e254572f265da3df47ae63d) ![](assets/new.png)  
+- [2020-01-21-【译】面试官：请你实现一个PWA-我：😭](https://juejin.im/post/5e26aa785188254c257c462d) ![](assets/new.png)  
+- [2020-01-21-【纯前端】基于-opencv.js-实现图像内矩形物品的自动提取](https://juejin.im/post/5e268bd86fb9a0300d61a0c7) ![](assets/new.png)  
+- [2020-01-21-这一年](https://juejin.im/post/5e26443b6fb9a02fd84981d8)  
 - [2020-01-20-修改vue源码实现动态路由缓存](https://juejin.im/post/5e2580b5f265da3e10557072)  
 - [2020-01-20-译JavaScript️可视化：原型继承](https://juejin.im/post/5e257f375188254dba581dae)  
 - [2020-01-20-【译】如何使用Vue过渡效果来提升用户体验](https://juejin.im/post/5e25809de51d451c52193dcb)  
@@ -488,11 +493,6 @@
 - [2020-01-20-React-Suspense-for-Data（一）](https://juejin.im/post/5e247cfd5188254c257c4438)  
 - [2020-01-20-Antd-Form-实现机制解析](https://juejin.im/post/5e241aed6fb9a02fe458138c)  
 - [2020-01-19-译-使用-Web-Workers-优化事件监听器](https://juejin.im/post/5e241bb9f265da3e46090215)  
-- [2020-01-19-你需要知道的JavaScript隐式类型转换](https://juejin.im/post/5e219094f265da3deb432e4b)  
-- [2020-01-19-Webapck-简单配置](https://juejin.im/post/5e2171605188252c5232a7b4)  
-- [2020-01-19-从零开始-Node实现前端自动化部署](https://juejin.im/post/5e210de76fb9a02fb75d6252)  
-- [2020-01-19-React性能优化之使用-ImmutableJS-不可变数据](https://juejin.im/post/5e2103bdf265da3e083b53f7)  
-- [2020-01-19-🔥-《大前端吊打面试官系列》-之面试备战篇近几十万字持续更新中，建议收藏~](https://juejin.im/post/5e214c1a6fb9a02fc8247a86)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
