@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-21 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-21 22:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -181,6 +181,7 @@
 - [2020-01-17-我写CSS的常用套路附demo的效果实现与源码）](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498163&idx=1&sn=e9a7731fa03fc5758ef9cb477ffef555&chksm=80f1af7bb786266d4464b9372e7089eaf413438a29f00182bd3f26faed29b27d9616c07ab5a8&scene=27#wechat_redirect) 
 - [2019-12-27-巧用-CSS-实现酷炫的充电动画](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498109&idx=1&sn=e4bddb19b9c933a1e53ec5a0e127dc4b&chksm=80f1afb5b78626a3aab518cbe8dd3620752d71c63a387efe3bcf32f65d9b4ca27dcffdb05df6&scene=27#wechat_redirect) 
 - [2019-12-22-浏览器解析-CSS-样式的过程](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498092&idx=1&sn=62f5254a2f0c387c1f9cd8b5cc7d8c00&chksm=80f1afa4b78626b23e80870dae213060d8c6ab341c3994a5c7f9f86960e13573445108f18a64&scene=27#wechat_redirect) 
+- [2020-01-21-【译】重拾-CSS-伪类选择器-nth-of-type,-nth-child](https://juejin.im/post/5e26b81c6fb9a030094bd41d) 
 - [2020-01-16-CSS/CSS3-7-常见“坑”](https://juejin.im/post/5e202d635188254e1d439107) 
 - [2020-01-08-CSS3六——旋转立方体问题](https://juejin.im/post/5e15e137f265da5d16023c89) 
 - [2020-01-08-从零基础到轻松就业-|-CSS——CSS-基本视觉格式化：①-“块盒子”格式化（-Ⅲ-）](https://juejin.im/post/5e153a3df265da5d32468e34) 

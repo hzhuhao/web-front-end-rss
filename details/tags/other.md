@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-21 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-21 22:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -216,6 +216,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-01-20-十分钟上手-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557776&idx=1&sn=46960b87873a42756e9b27dacaf3acb1&chksm=80255851b752d147afb92cbc7ea551fffc793182ce130b41c22f2efe7cbe96384959c449a8b6&scene=27#wechat_redirect) 
 - [2020-01-16-12小时删！好“特殊”的资源，全网独此一份](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557740&idx=1&sn=d411226e5348080f55419409de7b0157&chksm=802558adb752d1bba3eb1d2096f5727e71e397f5028f9238fa35eea9f5a62300dac14b2027c7&scene=27#wechat_redirect) 
 - [2020-01-16-图文并茂，为你揭开“单点登录“的神秘面纱](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557740&idx=2&sn=e2ad1c71c0829bcae4fe4a4693bc8414&chksm=802558adb752d1bb8194168c776d84ea4545bada201e58efa5fa12a4be4b5ff63958bf28a8f6&scene=27#wechat_redirect) 
 - [2020-01-14-前端越来越后端化，工程化？2020年你到底需要注意些什么？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557730&idx=1&sn=591e710960967fad76a970754070b82f&chksm=802558a3b752d1b5cfb657b6ffe56bf5b2f5afd06e2ea6d3cee40b5d1153a03d5207b113374d&scene=27#wechat_redirect) 
@@ -992,6 +993,7 @@
 - [2019-12-24-2020年，你必须掌握的前端技术栈](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498100&idx=1&sn=8e0a16945c210d5d476b95524374714a&chksm=80f1afbcb78626aa2bb6d470a53dbfe89126eff7b271d7cc3584060e97b9430bd4d8611c9bcd&scene=27#wechat_redirect) 
 - [2019-12-19-要啥有啥，这个神奇的黑科技堪比任何搜索引擎](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498086&idx=1&sn=01e11a45bf8855750ed37debaf554f03&chksm=80f1afaeb78626b802d59108bf2623db918763d337c6ab8f8dbbeaa56c5f7aa77273cb23dbe0&scene=27#wechat_redirect) 
 - [2019-12-17-天天加班，月薪是同事的三分之一：早2年知道这些项目就好了！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498081&idx=1&sn=e0a93cbf8a432e93dbc6cf832edff9ee&chksm=80f1afa9b78626bfcdbc65e1eae27250d4f3681b145179037b2f85a961b901379b450888779f&scene=27#wechat_redirect) 
+- [2020-01-21-你以为什么是perfomance之基础属性](https://juejin.im/post/5e26c07ff265da3e4e06001f) 
 - [2020-01-21-2020轮子燥起来-首篇](https://juejin.im/post/5e254572f265da3df47ae63d) 
 - [2020-01-21-这一年](https://juejin.im/post/5e26443b6fb9a02fd84981d8) 
 - [2020-01-20-移动web开发总结](https://juejin.im/post/5e2546e36fb9a02ff254b140) 
