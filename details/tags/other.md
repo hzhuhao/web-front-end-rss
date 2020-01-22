@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-22 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-22 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -744,6 +744,8 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-01-21-高质量前端快照方案：来自页面的「自拍」](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591170&idx=1&sn=8c8d4c0fb3184d11ef6a70e15f8a6680&chksm=8891dfe6bfe656f0a2e5209c26fd64a65bd77f6023652b0e92a173112520e19df1f0799d68cd&scene=27#wechat_redirect) 
+- [2020-01-21-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591170&idx=2&sn=c97d64f59fb75aa43418ef26df9ccd95&chksm=8891dfe6bfe656f0e28f4388f1483559569431258fd1871674a3b7bf410e4527e57133fb2d1c&scene=27#wechat_redirect) 
 - [2020-01-20-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591165&idx=2&sn=95e910c8b5d2387998c584dfcb80da2f&chksm=8891df99bfe6568f11364b5f902cb55eb02d62589664c80901c59c1a5c8885379546f5644c9e&scene=27#wechat_redirect) 
 - [2020-01-19-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591159&idx=2&sn=a7c4d47f8bfa3e48481d4494533f9df9&chksm=8891df93bfe65685819d3fcc823eb6233b5736fdcffa15d7391c3d02318f50e792b51edfa188&scene=27#wechat_redirect) 
 - [2020-01-15-那些年我们“跨”过的“域”（接口篇）](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591147&idx=1&sn=774745c9b2c9b0d14bb39513e6c24b8a&chksm=8891df8fbfe6569969f9da11e71b0c96ff786e572636962f236193bbbbc1ab7f4fe51644c72f&scene=27#wechat_redirect) 
@@ -877,6 +879,13 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-01-22-一文讲透微服务下如何保证事务的一致性](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=1&sn=444cd999345af249f9c61d5d6c79d464&chksm=bdbe91b78ac918a1b775de0b4899ff6f7bd8e3c1f654c999b8070e366bf2a5a1beb1bb5b91a1&scene=27#wechat_redirect) 
+- [2020-01-22-AirPods-拯救苹果](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=2&sn=2a8cd32e29c3c5afbc02e3691d617bb5&chksm=bdbe91b78ac918a14a603600584b00befe5022f417629277f20713aa0bda60a7c1055dc7db44&scene=27#wechat_redirect) 
+- [2020-01-22-美团外卖平均30分送达！其背后的AI超脑即时配送系统大起底丨AICon](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=3&sn=6dbe70a3b956e53dd02d4be33c2182bb&chksm=bdbe91b78ac918a17b85eade898870f2d33292ecaaee4bcbf245d7a5bce989cfe8ccb1037e9f&scene=27#wechat_redirect) 
+- [2020-01-22-感谢一路陪伴，请收下这份新年礼物](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=4&sn=9cb80a1d418f243038da95b35eb74109&chksm=bdbe91b78ac918a1afb6244034700bfd4932b054a35af95985c8c0059a35f91bdcd62034b57b&scene=27#wechat_redirect) 
+- [2020-01-21-每秒10W次高并发订单业务，你怎么实现？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=1&sn=4c4e3767eebf0a54bcf02b5d5d8912ff&chksm=bdbe91f68ac918e00fd34eb20d9501bd6f6e3520986a0f2e8268f6a906462d8a8202636081db&scene=27#wechat_redirect) 
+- [2020-01-21-微服务开发的-10-个最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=3&sn=5d7f48819504120110e93b39e43ce959&chksm=bdbe91f68ac918e098de7a15ca9e4f44d9238fc9bf57f474314b858dc498ed896a52a9160d4c&scene=27#wechat_redirect) 
+- [2020-01-21-六大编程语言的有趣特性](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=5&sn=14c40e3c488f9d59a5770ff6dd6bd4a6&chksm=bdbe91f68ac918e05239a4882618684fa25344d4d66bf6bea4f7b1951f7640e04c957c900019&scene=27#wechat_redirect) 
 - [2020-01-19-云徙否认茅台项目失败，中台的“邪”应该怎么信？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023743&idx=1&sn=6739e5f8e01650188da978a002ab2c4a&chksm=bdbe912c8ac9183ac4ad4b384f7bb4b776e75efa29fbb7abc61460f449abb965ecf95d0c7d75&scene=27#wechat_redirect) 
 - [2020-01-19-Service-Mesh-浅析：从概念、产品到实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023743&idx=2&sn=21a05f257be470ba002929fd53e1740f&chksm=bdbe912c8ac9183ad3a38597043f2a4a086c459a8890c85be8277856343e85ffeefa24f090b1&scene=27#wechat_redirect) 
 - [2020-01-19-国内有哪些值得开发者关注的技术团队？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023743&idx=3&sn=2cd9aa0ddabc9fe41103a0e77add9562&chksm=bdbe912c8ac9183a05fc9df9a5238774d7480e10fdc282f3289be4f23da137f736a2066a5c9d&scene=27#wechat_redirect) 

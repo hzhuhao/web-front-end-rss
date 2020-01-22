@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-22 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-22 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -178,6 +178,7 @@
 - [2017-03-03-轻氧---React-Native-安卓版-V1.0](https://aotu.io/notes/2017/03/03/liteo2-android/) 
 - [2016-07-05-feWorkflow---使用electron,-react,-redux,-immutable构建桌面App](https://aotu.io/notes/2016/07/05/fe-workflow/) 
 - [2016-01-07-使用Github的webhooks进行网站自动化部署](https://aotu.io/notes/2016/01/07/auto-deploy-website-by-webhooks-of-github/) 
+- [2020-01-21-大数据中心招聘React前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591170&idx=3&sn=d89b8532b73734c82a51411b7080dba5&chksm=8891dfe6bfe656f0541972fe315a333e904b3f6ebdf5f8d9dfc6d0974a7c6d0d54bbd351baaf&scene=27#wechat_redirect) 
 - [2020-01-20-从koa/redux看如何设计中间件](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591165&idx=1&sn=03c47691a515e367a77246fc400dbc0d&chksm=8891df99bfe6568f52ebd608f1a210552820e2934218cdd5a73902d1346d688e81514dd15445&scene=27#wechat_redirect) 
 - [2020-01-20-大数据中心招聘React前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591165&idx=3&sn=e11d759c4c53bf06d281bb05ab7b2681&chksm=8891df99bfe6568f184380ec6e27628e665b0580f2efe0496ab309b69233bd4f833bb266ec97&scene=27#wechat_redirect) 
 - [2020-01-19-大数据中心招聘React前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591159&idx=3&sn=649b11ded2252fbea518e08ca63cf7fc&chksm=8891df93bfe6568505e6169a54b556bfa3fee544a57f2be2fd329b79b4c566fd2d252976543d&scene=27#wechat_redirect) 
@@ -187,6 +188,7 @@
 - [2019-12-28-从-React-历史的长河里聊虚拟DOM及其价值](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=1&sn=8b6d3b47f80e21fd6fe45439258edfef&chksm=8891deb6bfe657a0ebab3da007b49538a0edb2a4d526dbf828a6ddc2193415b831c6c1cba948&scene=27#wechat_redirect) 
 - [2019-12-25-使用-React-为-Chimee-开发插件](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590847&idx=1&sn=19629fd5d68cf6ceeb5381453998bafe&chksm=8891de5bbfe6574d21b9580e1e237d269dfbc68df84ea47165d6eabbb8b53e562e90b53a64e8&scene=27#wechat_redirect) 
 - [2019-12-17-React-中的一个奇怪的-Hook](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484359&idx=1&sn=5b090080ae3e856aabb4831b6615407a&chksm=eb1cc62ddc6b4f3bcddf679dd04c5a2fc190524dc2cfcd70b63461dded7bb79537124c7087c5&scene=27#wechat_redirect) 
+- [2020-01-22-react-Hooks-实践总结](https://juejin.im/post/5e27fcaa518825262f54af92) 
 - [2020-01-20-React-Suspense-for-Data（一）](https://juejin.im/post/5e247cfd5188254c257c4438) 
 - [2020-01-19-React性能优化之使用-ImmutableJS-不可变数据](https://juejin.im/post/5e2103bdf265da3e083b53f7) 
 - [2020-01-18-React高阶组件HOC的入门📖及实践💻](https://juejin.im/post/5e169204e51d454112714580) 

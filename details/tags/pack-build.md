@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-22 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-22 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -81,6 +81,7 @@
 - [2019-12-24-记一次webpack构建提速](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590840&idx=1&sn=a85b2098cf885f6e99c88888e5f11f91&chksm=8891de5cbfe6574a180d0e5fe17b7bc4413cee7adbe7ff98c92c8fce96a35920f0976626b08d&scene=27#wechat_redirect) 
 - [2019-12-21-浏览器缓存策略与-webpack-持久化缓存](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590831&idx=1&sn=1bd1995b6b3cc7f02506ac84df0c1e70&chksm=8891de4bbfe6575d86192eea7ca3b4f3465c38f76cd0a22bfc6cbc13fe4a60f39620ff89acf4&scene=27#wechat_redirect) 
 - [2020-01-13-一个通用的数据中台架构应该如何构建？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=5&sn=b0d95ca2295d668e48d80c426f15e299&chksm=bdbe914b8ac9185d65bdaffd4d3ec0d6453c20ac0ddb43f351bf943ea33b01d1f6c90b3e8e09&scene=27#wechat_redirect) 
+- [2020-01-22-babel-plugin-macros：babel的另一种配置方式](https://juejin.im/post/5e2811d46fb9a02fec665054) 
 - [2020-01-22-eslint从愁眉苦脸到为所欲为](https://juejin.im/post/5e272e3a6fb9a02fef3a6cf5) 
 - [2020-01-20-关于webpack问答记录...](https://juejin.im/post/5e25462de51d4558021a164d) 
 - [2020-01-18-Webpack实战（五）：轻松读懂Webpack如何分离样式文件](https://juejin.im/post/5e226c005188254c4577906d) 

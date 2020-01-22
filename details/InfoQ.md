@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-01-20 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-22 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-01-22-一文讲透微服务下如何保证事务的一致性](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=1&sn=444cd999345af249f9c61d5d6c79d464&chksm=bdbe91b78ac918a1b775de0b4899ff6f7bd8e3c1f654c999b8070e366bf2a5a1beb1bb5b91a1&scene=27#wechat_redirect) 
+- [2020-01-22-AirPods-拯救苹果](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=2&sn=2a8cd32e29c3c5afbc02e3691d617bb5&chksm=bdbe91b78ac918a14a603600584b00befe5022f417629277f20713aa0bda60a7c1055dc7db44&scene=27#wechat_redirect) 
+- [2020-01-22-美团外卖平均30分送达！其背后的AI超脑即时配送系统大起底丨AICon](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=3&sn=6dbe70a3b956e53dd02d4be33c2182bb&chksm=bdbe91b78ac918a17b85eade898870f2d33292ecaaee4bcbf245d7a5bce989cfe8ccb1037e9f&scene=27#wechat_redirect) 
+- [2020-01-22-感谢一路陪伴，请收下这份新年礼物](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=4&sn=9cb80a1d418f243038da95b35eb74109&chksm=bdbe91b78ac918a1afb6244034700bfd4932b054a35af95985c8c0059a35f91bdcd62034b57b&scene=27#wechat_redirect) 
+- [2020-01-22-为什么说GraphQL是API的未来？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=5&sn=f92cf847bf55cf72c8eb987d10ccd750&chksm=bdbe91b78ac918a1a0598316043b78723bd541525f070dd5664346e02ba3bfa86bae5fd20a82&scene=27#wechat_redirect) 
+- [2020-01-21-每秒10W次高并发订单业务，你怎么实现？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=1&sn=4c4e3767eebf0a54bcf02b5d5d8912ff&chksm=bdbe91f68ac918e00fd34eb20d9501bd6f6e3520986a0f2e8268f6a906462d8a8202636081db&scene=27#wechat_redirect) 
+- [2020-01-21-GraphQL-vs-REST-API-架构，谁更胜一筹？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=2&sn=b9a85e574e2d2897f5c11e82037932b8&chksm=bdbe91f68ac918e0f4ffbb4730291f232e0769c99aaf235a101984d6705d73aebf81fb49fb52&scene=27#wechat_redirect) 
+- [2020-01-21-微服务开发的-10-个最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=3&sn=5d7f48819504120110e93b39e43ce959&chksm=bdbe91f68ac918e098de7a15ca9e4f44d9238fc9bf57f474314b858dc498ed896a52a9160d4c&scene=27#wechat_redirect) 
+- [2020-01-21-Serverless风起云涌：表面上是技术升级，背后其实是钱的事情](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=4&sn=5ef1936063fb74d0d5d33d1705063d70&chksm=bdbe91f68ac918e0f9e41cdad294074196472f432a2f016b62b53a258f6b4c7169ecd1ae4ca2&scene=27#wechat_redirect) 
+- [2020-01-21-六大编程语言的有趣特性](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=5&sn=14c40e3c488f9d59a5770ff6dd6bd4a6&chksm=bdbe91f68ac918e05239a4882618684fa25344d4d66bf6bea4f7b1951f7640e04c957c900019&scene=27#wechat_redirect) 
 - [2020-01-19-云徙否认茅台项目失败，中台的“邪”应该怎么信？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023743&idx=1&sn=6739e5f8e01650188da978a002ab2c4a&chksm=bdbe912c8ac9183ac4ad4b384f7bb4b776e75efa29fbb7abc61460f449abb965ecf95d0c7d75&scene=27#wechat_redirect) 
 - [2020-01-19-Service-Mesh-浅析：从概念、产品到实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023743&idx=2&sn=21a05f257be470ba002929fd53e1740f&chksm=bdbe912c8ac9183ad3a38597043f2a4a086c459a8890c85be8277856343e85ffeefa24f090b1&scene=27#wechat_redirect) 
 - [2020-01-19-国内有哪些值得开发者关注的技术团队？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023743&idx=3&sn=2cd9aa0ddabc9fe41103a0e77add9562&chksm=bdbe912c8ac9183a05fc9df9a5238774d7480e10fdc282f3289be4f23da137f736a2066a5c9d&scene=27#wechat_redirect) 
