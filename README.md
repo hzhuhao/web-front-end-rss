@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-22 06:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-22 12:00:24，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,7 +26,7 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)![](assets/dot.png)   
@@ -380,6 +380,10 @@
 </summary>
 
 
+- [2020-01-21-从微服务跨越到中台，架构领域年度盘点！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489685&idx=1&sn=a41a25e866e01e63bd9f55d1a29b815f&chksm=ea5cd5f3dd2b5ce5042ed2646a74794dcc847bbdfc49a398432da14129373fc8bac10d353b2e&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-21-大公司为什么都有API网关？聊聊API网关的作用](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489685&idx=2&sn=b9aacb1497453fe97ad8774d1564b8a3&chksm=ea5cd5f3dd2b5ce58db5e33c50d0338e842107c08b10a3bb0eaf3eb974c624cc3e133346484a&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-21-5-个底层程序设计逻辑，决定你有多牛逼](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489685&idx=3&sn=f8883efc416acd7b59b7e69cda835dc0&chksm=ea5cd5f3dd2b5ce56f7039711fa59ef3b2ed675048db6ac1b106706f4165fb42ded56232153d&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-21-HTTPS-的五大误区，千万别理解错了！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489685&idx=4&sn=b43546680f832595ddba9af85ecfee6d&chksm=ea5cd5f3dd2b5ce5bb197dbb8f5e77181f24cfcd9995a369cef52ae6c171848e66041c80c696&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-20-为什么很多SpringBoot开发者放弃了Tomcat,选择了Undertow](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489676&idx=1&sn=7dc438f6e86548470aba5c718add66f2&chksm=ea5cd5eadd2b5cfc0d685ba692b1aa20afd8f53b88df8d8563ecb14373c93ff5d1186e15dc08&scene=27#wechat_redirect)  
 - [2020-01-20-IntelliJ-IDEA-For-Mac-快捷键，够骚，速度收藏！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489676&idx=2&sn=fa31553b0e0676ab0504f11349e81a39&chksm=ea5cd5eadd2b5cfc3caf9f6e9890edd9a3b6ff1277350d0b7aa1a52a02a781c270b26624e1e4&scene=27#wechat_redirect)  
 - [2020-01-20-实际生产中，微服务用-Spring-Cloud-多还是-Dubbo-多？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489676&idx=3&sn=12bd15eea74a1d6074845c2ddf3c1d31&chksm=ea5cd5eadd2b5cfcbd0b6555d98dece74ca7bea629b5deb4743465a2e12cade00569da0f0a73&scene=27#wechat_redirect)  
@@ -396,10 +400,6 @@
 - [2020-01-17-看完知乎轮子哥的编程之路，我只想说，收下我的膝盖。。。](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489644&idx=2&sn=581811bf4cc903ef0437af17e40f54d3&chksm=ea5cd50add2b5c1c41f6986659808403dd9648b8e13ce5de8b1324a2e3901a8377b85d20795f&scene=27#wechat_redirect)  
 - [2020-01-17-优秀的代码都是如何分层的？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489644&idx=3&sn=c670b051f3961cdb4b92e5a0ddef2d5c&chksm=ea5cd50add2b5c1c0a5371cb89de06bade0f95ee80a2964cca22927876546888395ba1d758b5&scene=27#wechat_redirect)  
 - [2020-01-17-免费自学编程的12个网站](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489644&idx=4&sn=0c3d7102fbc22cb73702d7558ad47187&chksm=ea5cd50add2b5c1c15180dd3f86fdef793fb3219b3edbdd296ed23e862054f6557c96e2910c9&scene=27#wechat_redirect)  
-- [2020-01-16-数据中台应该包含什么？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489638&idx=1&sn=e6fd4a10a20097b869a6fb4bc4aa3c45&chksm=ea5cd500dd2b5c16bfb6b31fc55e143f2142d48a4441f05315faa4c5c170b78cfd0e4761081d&scene=27#wechat_redirect)  
-- [2020-01-16-Linux-正在吞噬-Windows-和-Chrome-OS！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489638&idx=2&sn=fbde4c6b71c2c1169add7d9b63035482&chksm=ea5cd500dd2b5c16ed38bb50629b56b7c602ea4b435ccd65510f205683bb3a28558c6b81b32b&scene=27#wechat_redirect)  
-- [2020-01-16-18个Java8日期处理的实践，太有用了！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489638&idx=3&sn=cf3f6bdf47f44967147b23b4b2491ee9&chksm=ea5cd500dd2b5c1682abb7fa08274cd30725e4379a8bc3f01c499c2443488b6dcbc3fd4d4cdd&scene=27#wechat_redirect)  
-- [2020-01-16-MySQL-这三道必问面试题，你都会吗？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489638&idx=4&sn=4c8913e5900ebd0ac896ffa6ffd18fa4&chksm=ea5cd500dd2b5c16638358ca215c7aaf41454c9667e3ce1e6b9767c1dd3f4ab9b71284c518b1&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,7 +473,11 @@
 </summary>
 
 
-- [2020-01-21-2019年,盘点一些我出过的前端面试题以及对求职者的建议](https://juejin.im/post/5e2715f06fb9a02fe34bc73c) ![](assets/new.png)  
+- [2020-01-22-新版Flutter集成到已有Android项目](https://juejin.im/post/5e278f7c6fb9a02ff44f6b3e) ![](assets/new.png)  
+- [2020-01-22-译-CSS-计数器教程](https://juejin.im/post/5e279b196fb9a02fe971fd10) ![](assets/new.png)  
+- [2020-01-22-eslint从愁眉苦脸到为所欲为](https://juejin.im/post/5e272e3a6fb9a02fef3a6cf5) ![](assets/new.png)  
+- [2020-01-22-CSS-和-JS-阻塞二三事](https://juejin.im/post/5e23f027e51d454d94422f20) ![](assets/new.png)  
+- [2020-01-21-2019年,盘点一些我出过的前端面试题以及对求职者的建议](https://juejin.im/post/5e2715f06fb9a02fe34bc73c)  
 - [2020-01-21-你以为什么是perfomance之基础属性](https://juejin.im/post/5e26c07ff265da3e4e06001f)  
 - [2020-01-21-你以为什么是perfomance之事件/方法](https://juejin.im/post/5e26c6936fb9a0301b14b88a)  
 - [2020-01-21-跨框架的表格组件:-一套代码多框架运行](https://juejin.im/post/5e26aefbe51d451c571c4668)  
@@ -489,10 +493,6 @@
 - [2020-01-20-【译】如何使用Vue过渡效果来提升用户体验](https://juejin.im/post/5e25809de51d451c52193dcb)  
 - [2020-01-20-关于webpack问答记录...](https://juejin.im/post/5e25462de51d4558021a164d)  
 - [2020-01-20-移动web开发总结](https://juejin.im/post/5e2546e36fb9a02ff254b140)  
-- [2020-01-20-图说“水深火热”的澳大利亚](https://juejin.im/post/5e255640e51d4552464d428e)  
-- [2020-01-20-前端部署和提效：从静态到node再到负载均衡](https://juejin.im/post/5e0e0eb4f265da5d5663aaf4)  
-- [2020-01-20-TypeScript-真的值得吗？](https://juejin.im/post/5e2556c96fb9a0301461ca40)  
-- [2020-01-20-前端单元测试那些事](https://juejin.im/post/5e2405146fb9a02fea37366c)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
