@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-23 06:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-23 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -465,6 +465,7 @@
 - [【InfoQ】2020-01-01-大规模数据场景下的实时数据分析](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=3&sn=ce50bf9170795a4271449d87e0140cf2&chksm=bdbe90738ac91965236122df212fe555a373f93870e188c90e6a9e5f446f04b90ee7ad931fdd&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-01-2019-年-WebAssembly-盘点：跟-JavaScript-的相爱相杀](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=4&sn=e394fc4a06284ba3ce2aad8be353ea21&chksm=bdbe90738ac919659a4682c67a7819a4066b6acbd875e7a7e28b2d54a5b60e7474e1bb0f7529&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-01-机器学习不是万能药，产品经理应该何时对它说-“No”-？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=5&sn=b0dc3e5cdba64b3f0bbb0ba072beb0b2&chksm=bdbe90738ac91965031ddba1b4491a140f333c0b47caf85b3fc3a35a5db8217eaacdc43b4d89&scene=27#wechat_redirect) 
+- [【JavaScript】2020-01-22-TypeScript：拥有超能力的-JavaScript](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498173&idx=1&sn=127d50c2122d1c7320129990116c54ba&chksm=80f1af75b7862663943deae427567265686536249cab8755926a2f0928c1e04192523a0bd220&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-21-Ant-Design-4.0：创造快乐工作](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498171&idx=1&sn=4abf43485d740798c54123e42d041f04&chksm=80f1af73b78626653eadd736fa3865d2ab2a5256842afaee61b4750a60bc7f6ea2998099df86&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-20-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498169&idx=1&sn=42b7b1fa7a7525001b6683cf005951c3&chksm=80f1af71b7862667dc215aea3ca34f7da2220917dd72c9869e6b696ebc937787208c57b4d688&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-18-程序员注意啦，这个微信群可以学英语，而且全程免费！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498167&idx=1&sn=7212fb24dd9d4ef1dfc3403cb850e2fd&chksm=80f1af7fb7862669bd8e477971eaea298f9260ff7d95c5beb4f1b9776181caa5b42d65a7b4aa&scene=27#wechat_redirect) 
@@ -482,6 +483,7 @@
 - [【JavaScript】2020-01-03-你连-HTTPS-原理都不懂，还讲“中间人攻击”？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498127&idx=1&sn=622d03d1460eaeda2b40a77e1e4f28ae&chksm=80f1af47b786265119a57b314931276630be5efdacdf341dbd597fa89e29bcf534223d5dae15&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-02-拿不到offer退全款，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498123&idx=1&sn=b4bc433a8cf73edae22c5e6b8787c4b2&chksm=80f1af43b78626559cbe91f2747501e9ca0f4725b1a9664bfb13b59590548fff66cab33be57f&scene=27#wechat_redirect) 
 - [【JavaScript】2020-01-01-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498125&idx=1&sn=9f0bf219718aaed89d35d8b154e5e446&chksm=80f1af45b78626531c302d9636dd377b648d5396885c77350b0cc57517bec7821cff1eb1c18e&scene=27#wechat_redirect) 
+- [【掘金前端】2020-01-23-前端早早聊|堂主---如何推动与影响中型前端团队的成长](https://juejin.im/post/5e29030851882520ec2cab43) 
 - [【掘金前端】2020-01-22-译-新-Cookie-安全模型即将到来，我们需要做哪些准备？-双语](https://juejin.im/post/5e2840d05188253676296953) 
 - [【掘金前端】2020-01-22-把会话放在Node层-我们这样做的很开心😋](https://juejin.im/post/5e28267be51d45020e180f95) 
 - [【掘金前端】2020-01-22-一个仅需原生api的canvas交互库⭐️](https://juejin.im/post/5e27eebaf265da3e12182a0a) 

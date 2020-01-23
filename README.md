@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-23 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-23 12:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -28,7 +28,7 @@
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)![](assets/dot.png)   
 
 ## 文章链接
@@ -70,7 +70,7 @@
 </summary>
 
 
-- [2020-01-22-如何快速提升-JSON.stringify-的性能？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557783&idx=1&sn=c822a0e7e553dc431ff265463d3f4aa6&chksm=80255856b752d140005c727ee51cbe9010257148bd37d58112b48a6239117ce8c821c0161a21&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-22-如何快速提升-JSON.stringify-的性能？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557783&idx=1&sn=c822a0e7e553dc431ff265463d3f4aa6&chksm=80255856b752d140005c727ee51cbe9010257148bd37d58112b48a6239117ce8c821c0161a21&scene=27#wechat_redirect)  
 - [2020-01-21-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557782&idx=1&sn=49599a54901aa9276a0fa79bf8eb3331&chksm=80255857b752d141c69b08c2ecfc24a334de51d854760642f04d5df2fc785178e0b12af15cf9&scene=27#wechat_redirect)  
 - [2020-01-20-十分钟上手-ES2020-新特性](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557776&idx=1&sn=46960b87873a42756e9b27dacaf3acb1&chksm=80255851b752d147afb92cbc7ea551fffc793182ce130b41c22f2efe7cbe96384959c449a8b6&scene=27#wechat_redirect)  
 - [2020-01-19-前端安全：你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557775&idx=1&sn=a97ed88b77ff7c92147708f0e069fa1c&chksm=8025584eb752d1583d8ba11c9cbbff7e2c25bb2cfeacf51026747a4e04c392801a60bbceed75&scene=27#wechat_redirect)  
@@ -442,6 +442,7 @@
 </summary>
 
 
+- [2020-01-22-TypeScript：拥有超能力的-JavaScript](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498173&idx=1&sn=127d50c2122d1c7320129990116c54ba&chksm=80f1af75b7862663943deae427567265686536249cab8755926a2f0928c1e04192523a0bd220&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-21-Ant-Design-4.0：创造快乐工作](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498171&idx=1&sn=4abf43485d740798c54123e42d041f04&chksm=80f1af73b78626653eadd736fa3865d2ab2a5256842afaee61b4750a60bc7f6ea2998099df86&scene=27#wechat_redirect)  
 - [2020-01-20-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498169&idx=1&sn=42b7b1fa7a7525001b6683cf005951c3&chksm=80f1af71b7862667dc215aea3ca34f7da2220917dd72c9869e6b696ebc937787208c57b4d688&scene=27#wechat_redirect)  
 - [2020-01-18-程序员注意啦，这个微信群可以学英语，而且全程免费！](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498167&idx=1&sn=7212fb24dd9d4ef1dfc3403cb850e2fd&chksm=80f1af7fb7862669bd8e477971eaea298f9260ff7d95c5beb4f1b9776181caa5b42d65a7b4aa&scene=27#wechat_redirect)  
@@ -461,7 +462,6 @@
 - [2020-01-01-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498125&idx=1&sn=9f0bf219718aaed89d35d8b154e5e446&chksm=80f1af45b78626531c302d9636dd377b648d5396885c77350b0cc57517bec7821cff1eb1c18e&scene=27#wechat_redirect)  
 - [2019-12-31-可悲的是，95%的招聘启事都是这样的](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498120&idx=1&sn=832318a030e693cdb79655f7abcd1ef6&chksm=80f1af40b78626560a96dce5811fa028104c2bdc380eeb9b1374f1ece6efcade5812e3dbcfa2&scene=27#wechat_redirect)  
 - [2019-12-30-VS-Code成主宰、Vue备受热捧！2019前端开发趋势必读](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498115&idx=1&sn=ac0e9f58859f5f454ac10b63f9d74514&chksm=80f1af4bb786265df4aad0e9cddd12505480784a09625729459e3696d40837a4136dfd7c956b&scene=27#wechat_redirect)  
-- [2019-12-28-JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498111&idx=1&sn=3d195481f4e5037253b7358864975377&chksm=80f1afb7b78626a1aa95c9d61edb2c289d057e5529133f134277d15a20925ae3955f43c5d3fe&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -473,7 +473,8 @@
 </summary>
 
 
-- [2020-01-22-译-新-Cookie-安全模型即将到来，我们需要做哪些准备？-双语](https://juejin.im/post/5e2840d05188253676296953) ![](assets/new.png)  
+- [2020-01-23-前端早早聊|堂主---如何推动与影响中型前端团队的成长](https://juejin.im/post/5e29030851882520ec2cab43) ![](assets/new.png)  
+- [2020-01-22-译-新-Cookie-安全模型即将到来，我们需要做哪些准备？-双语](https://juejin.im/post/5e2840d05188253676296953)  
 - [2020-01-22-把会话放在Node层-我们这样做的很开心😋](https://juejin.im/post/5e28267be51d45020e180f95)  
 - [2020-01-22-一个仅需原生api的canvas交互库⭐️](https://juejin.im/post/5e27eebaf265da3e12182a0a)  
 - [2020-01-22-babel-plugin-macros：babel的另一种配置方式](https://juejin.im/post/5e2811d46fb9a02fec665054)  
@@ -492,7 +493,6 @@
 - [2020-01-21-【译】重拾-CSS-伪类选择器-nth-of-type,-nth-child](https://juejin.im/post/5e26b81c6fb9a030094bd41d)  
 - [2020-01-21-【JS深渊】干它！javascript的执行机制（一）](https://juejin.im/post/5e2420aff265da3e28099cda)  
 - [2020-01-21-👀github博客不能翻页？快速生成gitbook了解一下](https://juejin.im/post/5e2409d56fb9a02fce0b6648)  
-- [2020-01-21-2020轮子燥起来-首篇](https://juejin.im/post/5e254572f265da3df47ae63d)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -14901,6 +14901,11 @@
     "link": "https://www.ershicimi.com/a/893",
     "items": [
       {
+        "title": "TypeScript：拥有超能力的 JavaScript",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498173&idx=1&sn=127d50c2122d1c7320129990116c54ba&chksm=80f1af75b7862663943deae427567265686536249cab8755926a2f0928c1e04192523a0bd220&scene=27#wechat_redirect",
+        "date": "2020-01-22"
+      },
+      {
         "title": "Ant Design 4.0：创造快乐工作",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498171&idx=1&sn=4abf43485d740798c54123e42d041f04&chksm=80f1af73b78626653eadd736fa3865d2ab2a5256842afaee61b4750a60bc7f6ea2998099df86&scene=27#wechat_redirect",
         "date": "2020-01-21"
@@ -15077,6 +15082,11 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "前端早早聊|堂主 - 如何推动与影响中型前端团队的成长",
+        "link": "https://juejin.im/post/5e29030851882520ec2cab43",
+        "date": "2020-01-23"
+      },
       {
         "title": "[译] 新 Cookie 安全模型即将到来，我们需要做哪些准备？ (双语)",
         "link": "https://juejin.im/post/5e2840d05188253676296953",
