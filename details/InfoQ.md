@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-01-22 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-24 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-01-24-这90篇文章，你一定要收藏-|-InfoQ-年度最受欢迎文章排行榜](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023914&idx=1&sn=6b4c7e03895d4e7d577010c78553a615&chksm=bdbe92798ac91b6ff7201a244a3f048909e02624b110fea30f652f9f05487650f6c3f4144bda&scene=27#wechat_redirect) 
+- [2020-01-23-做了一百万次代码评审，我们总结了这些血泪经验](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=1&sn=5ab068ec85bd6a1649c24642300cff16&chksm=bdbe92778ac91b6138be54a9489d6d36891a2c7698ceea9d093fde767218291c5211c9c235e1&scene=27#wechat_redirect) 
+- [2020-01-23-加速-Web-开发的-23-款前端开发工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=2&sn=8a5f90903c11758fc8eb911fa4631050&chksm=bdbe92778ac91b613d404ba2aa2be138ef26dbb482711c6e7242163fd1bf47705de804a889ff&scene=27#wechat_redirect) 
+- [2020-01-23-聊聊目前运维与测试领域有哪些新技术？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=3&sn=6d6d84ac47caa0cada56e3b2636aa794&chksm=bdbe92778ac91b61db52b653e68cdd88cf5c080bfe2c56e8be72cff263ab542742f546dc3a6a&scene=27#wechat_redirect) 
+- [2020-01-23-区块链竞赛：中国和美国落地上有哪些差异？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=4&sn=54621546ad51179b80cdde878dd05913&chksm=bdbe92778ac91b6188de0ea276341b1153df995f1fe4a58cdc6b6eb982a187bc2338940e2abd&scene=27#wechat_redirect) 
 - [2020-01-22-一文讲透微服务下如何保证事务的一致性](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=1&sn=444cd999345af249f9c61d5d6c79d464&chksm=bdbe91b78ac918a1b775de0b4899ff6f7bd8e3c1f654c999b8070e366bf2a5a1beb1bb5b91a1&scene=27#wechat_redirect) 
 - [2020-01-22-AirPods-拯救苹果](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=2&sn=2a8cd32e29c3c5afbc02e3691d617bb5&chksm=bdbe91b78ac918a14a603600584b00befe5022f417629277f20713aa0bda60a7c1055dc7db44&scene=27#wechat_redirect) 
 - [2020-01-22-美团外卖平均30分送达！其背后的AI超脑即时配送系统大起底丨AICon](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=3&sn=6dbe70a3b956e53dd02d4be33c2182bb&chksm=bdbe91b78ac918a17b85eade898870f2d33292ecaaee4bcbf245d7a5bce989cfe8ccb1037e9f&scene=27#wechat_redirect) 

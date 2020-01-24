@@ -7304,6 +7304,11 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "好软件不是靠加班 Coding 出来的",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493653&idx=1&sn=5aa625600caad100af662b4ce313f9a6&chksm=f9525d56ce25d4401641448b1decebe9374a2ba3a9a46d178845c99adef844449ae61db4bf63&scene=27#wechat_redirect",
+        "date": "2020-01-24"
+      },
+      {
         "title": "前端微服务在字节跳动的打磨与应用",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493647&idx=1&sn=e2f7a8df042ce7eda1c28873681d9757&chksm=f9525d4cce25d45a2c0cdb32f814cf3be01670e20d29fd47781e235cdbbdb58d0df667debd1c&scene=27#wechat_redirect",
         "date": "2020-01-22"
@@ -13198,6 +13203,11 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "往年是快乐，今年祝你平安健康",
+        "link": "http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591195&idx=1&sn=8b40d40ccbebc1d7419d23438bd9d28a&chksm=8891dfffbfe656e971c5e8a27a03f1b69825c3f9b146cdd94e9dcd6399ac0273c2c59a4bf7fd&scene=27#wechat_redirect",
+        "date": "2020-01-24"
+      },
+      {
         "title": "武汉实时疫情来了 | 你想知道的这都有",
         "link": "http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591181&idx=1&sn=e9fdf1c5d60ce2d9bd0a9c54efeddb2f&chksm=8891dfe9bfe656ffc3ade05a8d83e51309d1fe59d6be4e6b802db690797f894376cf295d7b16&scene=27#wechat_redirect",
         "date": "2020-01-22"
@@ -14224,6 +14234,31 @@
     "link": "https://www.ershicimi.com/a/89",
     "items": [
       {
+        "title": "这90篇文章，你一定要收藏 |  InfoQ 年度最受欢迎文章排行榜",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023914&idx=1&sn=6b4c7e03895d4e7d577010c78553a615&chksm=bdbe92798ac91b6ff7201a244a3f048909e02624b110fea30f652f9f05487650f6c3f4144bda&scene=27#wechat_redirect",
+        "date": "2020-01-24"
+      },
+      {
+        "title": "做了一百万次代码评审，我们总结了这些血泪经验",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=1&sn=5ab068ec85bd6a1649c24642300cff16&chksm=bdbe92778ac91b6138be54a9489d6d36891a2c7698ceea9d093fde767218291c5211c9c235e1&scene=27#wechat_redirect",
+        "date": "2020-01-23"
+      },
+      {
+        "title": "加速 Web 开发的 23 款前端开发工具",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=2&sn=8a5f90903c11758fc8eb911fa4631050&chksm=bdbe92778ac91b613d404ba2aa2be138ef26dbb482711c6e7242163fd1bf47705de804a889ff&scene=27#wechat_redirect",
+        "date": "2020-01-23"
+      },
+      {
+        "title": "聊聊目前运维与测试领域有哪些新技术？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=3&sn=6d6d84ac47caa0cada56e3b2636aa794&chksm=bdbe92778ac91b61db52b653e68cdd88cf5c080bfe2c56e8be72cff263ab542742f546dc3a6a&scene=27#wechat_redirect",
+        "date": "2020-01-23"
+      },
+      {
+        "title": "区块链竞赛：中国和美国落地上有哪些差异？",
+        "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=4&sn=54621546ad51179b80cdde878dd05913&chksm=bdbe92778ac91b6188de0ea276341b1153df995f1fe4a58cdc6b6eb982a187bc2338940e2abd&scene=27#wechat_redirect",
+        "date": "2020-01-23"
+      },
+      {
         "title": "一文讲透微服务下如何保证事务的一致性",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023844&idx=1&sn=444cd999345af249f9c61d5d6c79d464&chksm=bdbe91b78ac918a1b775de0b4899ff6f7bd8e3c1f654c999b8070e366bf2a5a1beb1bb5b91a1&scene=27#wechat_redirect",
         "date": "2020-01-22"
@@ -15092,6 +15127,26 @@
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
+      {
+        "title": "[译] 状态管理中的第一性原理",
+        "link": "https://mp.weixin.qq.com/s/58no1mQ6podEC2srdMCEGw",
+        "date": "2020-01-24"
+      },
+      {
+        "title": "ZooTeam 前端周刊｜第 66 期",
+        "link": "https://juejin.im/post/5e2ab36ee51d454d7924740a",
+        "date": "2020-01-24"
+      },
+      {
+        "title": "Egg + React 实战日记本（万字长文，望收藏点赞）",
+        "link": "https://juejin.im/post/5e2a6215e51d454d50351f9b",
+        "date": "2020-01-24"
+      },
+      {
+        "title": "[译] 使用 Nuxt (Vue.js)、Strapi 和 Apollo 构建博客",
+        "link": "https://juejin.im/post/5e2a59ba6fb9a030026e8375",
+        "date": "2020-01-24"
+      },
       {
         "title": "深入理解XMLHttpRequest",
         "link": "https://juejin.im/post/5e05c6c8e51d4558206031ca",
