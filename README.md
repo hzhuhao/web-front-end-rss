@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-24 06:00:24，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-24 12:00:24，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -473,9 +473,12 @@
 </summary>
 
 
-- [2020-01-23-使用-React-的-Context-API-来管理数据](https://juejin.im/post/5e29c42ef265da3e152d2b26) ![](assets/new.png)  
-- [2020-01-23-commonjs的导出是值拷贝吗?](https://juejin.im/post/5e29a9e06fb9a02ff67d46c1) ![](assets/new.png)  
-- [2020-01-23-JS：如何检测一个变量-num-是否为一个有效数字？](https://juejin.im/post/5e29b11de51d454d5177b4ba) ![](assets/new.png)  
+- [2020-01-24-深入理解XMLHttpRequest](https://juejin.im/post/5e05c6c8e51d4558206031ca) ![](assets/new.png)  
+- [2020-01-24-浏览器缓存策略](https://juejin.im/post/5e29b9fbe51d451c7e04a769) ![](assets/new.png)  
+- [2020-01-24-【重学数据结构与算法JS】字符串匹配算法四——Sunday算法](https://juejin.im/post/5e2306525188252c300028ba) ![](assets/new.png)  
+- [2020-01-23-使用-React-的-Context-API-来管理数据](https://juejin.im/post/5e29c42ef265da3e152d2b26)  
+- [2020-01-23-commonjs的导出是值拷贝吗?](https://juejin.im/post/5e29a9e06fb9a02ff67d46c1)  
+- [2020-01-23-JS：如何检测一个变量-num-是否为一个有效数字？](https://juejin.im/post/5e29b11de51d454d5177b4ba)  
 - [2020-01-23-一次Vue改版多标签页的实录](https://juejin.im/post/5e28fdfe518825370d74b415)  
 - [2020-01-23-手把手教你实现一个浏览器引擎（一）-译文](https://juejin.im/post/5e28f7086fb9a0300c54dcb3)  
 - [2020-01-23-【译】在什么时候你需要使用-Web-Workers？](https://juejin.im/post/5e290aaee51d451c8836284f)  
@@ -490,9 +493,6 @@
 - [2020-01-22-react-Hooks-实践总结](https://juejin.im/post/5e27fcaa518825262f54af92)  
 - [2020-01-22-TypeScript真香系列-基本类型和变量声明](https://juejin.im/post/5e26ed56518825364f4a4b11)  
 - [2020-01-22-你以为什么是perfomance之前端基础性能监测](https://juejin.im/post/5e26c8cf5188254d9032a62c)  
-- [2020-01-22-用vuejs撸一个抽奖组件](https://juejin.im/post/5e26a033518825367629686e)  
-- [2020-01-22-新版Flutter集成到已有Android项目](https://juejin.im/post/5e278f7c6fb9a02ff44f6b3e)  
-- [2020-01-22-译-CSS-计数器教程](https://juejin.im/post/5e279b196fb9a02fe971fd10)  
 - [......【查看更多】......](./details/掘金前端.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
