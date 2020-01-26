@@ -11,23 +11,23 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-26 18:00:27，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-26 22:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -101,7 +101,7 @@
 </summary>
 
 
-- [2020-01-26-老而不死的三种编程语言](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493657&idx=1&sn=cb5849591d69467d483f44b357781185&chksm=f9525d5ace25d44c1f6bc628a383bd4729cfb3772ba2dfdadd2622395cce1b350ab49d7ce566&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-26-老而不死的三种编程语言](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493657&idx=1&sn=cb5849591d69467d483f44b357781185&chksm=f9525d5ace25d44c1f6bc628a383bd4729cfb3772ba2dfdadd2622395cce1b350ab49d7ce566&scene=27#wechat_redirect)  
 - [2020-01-24-好软件不是靠加班-Coding-出来的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493653&idx=1&sn=5aa625600caad100af662b4ce313f9a6&chksm=f9525d56ce25d4401641448b1decebe9374a2ba3a9a46d178845c99adef844449ae61db4bf63&scene=27#wechat_redirect)  
 - [2020-01-22-前端微服务在字节跳动的打磨与应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493647&idx=1&sn=e2f7a8df042ce7eda1c28873681d9757&chksm=f9525d4cce25d45a2c0cdb32f814cf3be01670e20d29fd47781e235cdbbdb58d0df667debd1c&scene=27#wechat_redirect)  
 - [2020-01-21-大前端-10-倍提效破局利器：可视化辅助编程会成为大势所趋吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493643&idx=1&sn=b4245ab8600f46208f8da0dcb746f8c7&chksm=f9525d48ce25d45ee0919b87620052b2327b2ee7ba59e4c584141d2367ecaf22dcd11ee1a2bb&scene=27#wechat_redirect)  
@@ -194,6 +194,7 @@
 </summary>
 
 
+- [2020-01-26-Deno-运行时入门教程：Node.js-的替代品](http://www.ruanyifeng.com/blog/2020/01/deno-intro.html) ![](assets/new.png)  
 - [2020-01-17-科技爱好者周刊：第-91-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html)  
 - [2020-01-16-我对中国科技行业的看法（译文）](http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html)  
 - [2020-01-14-FFmpeg-视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)  
@@ -213,7 +214,6 @@
 - [2019-11-29-科技爱好者周刊：第-84-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-84.html)  
 - [2019-11-26-如何识别文件的真假](http://www.ruanyifeng.com/blog/2019/11/hash-sum.html)  
 - [2019-11-22-科技爱好者周刊：第-83-期](http://www.ruanyifeng.com/blog/2019/11/weekly-issue-83.html)  
-- [2019-11-21-Python-异步编程入门](http://www.ruanyifeng.com/blog/2019/11/python-asyncio.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,9 +411,9 @@
 </summary>
 
 
-- [2020-01-26-为什么Go语言是猪，而PHP是鸡？丨编程语言的十二生肖](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023921&idx=1&sn=1f2d8ddfdda22bb9a6df463431ea9cc1&chksm=bdbe92628ac91b741d4adfa9fee0b38b5b4d059705233bf1f10c7734f98068f2e2752dc629e4&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-01-25-如果新型肺炎下只能远程办公？我们该做些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=1&sn=3a70e1034dbda60846fbabee25a61b44&chksm=bdbe92638ac91b75416d40acfd31ee751f5933c4d0b12fb0386e50051fb71218d58cec3d58d6&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-01-25-华为事件出现转机：内部反对，美国商务部打压华为新规已撤回！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=2&sn=7bad47a82f94b6aa60bc59a5dffcfa50&chksm=bdbe92638ac91b75d55099ce86d940ded72052c8d71ace8c17c2a689cf5924b54405b26aa20d&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-26-为什么Go语言是猪，而PHP是鸡？丨编程语言的十二生肖](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023921&idx=1&sn=1f2d8ddfdda22bb9a6df463431ea9cc1&chksm=bdbe92628ac91b741d4adfa9fee0b38b5b4d059705233bf1f10c7734f98068f2e2752dc629e4&scene=27#wechat_redirect)  
+- [2020-01-25-如果新型肺炎下只能远程办公？我们该做些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=1&sn=3a70e1034dbda60846fbabee25a61b44&chksm=bdbe92638ac91b75416d40acfd31ee751f5933c4d0b12fb0386e50051fb71218d58cec3d58d6&scene=27#wechat_redirect)  
+- [2020-01-25-华为事件出现转机：内部反对，美国商务部打压华为新规已撤回！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=2&sn=7bad47a82f94b6aa60bc59a5dffcfa50&chksm=bdbe92638ac91b75d55099ce86d940ded72052c8d71ace8c17c2a689cf5924b54405b26aa20d&scene=27#wechat_redirect)  
 - [2020-01-24-这90篇文章，你一定要收藏-|-InfoQ-年度最受欢迎文章排行榜](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023914&idx=1&sn=6b4c7e03895d4e7d577010c78553a615&chksm=bdbe92798ac91b6ff7201a244a3f048909e02624b110fea30f652f9f05487650f6c3f4144bda&scene=27#wechat_redirect)  
 - [2020-01-23-做了一百万次代码评审，我们总结了这些血泪经验](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=1&sn=5ab068ec85bd6a1649c24642300cff16&chksm=bdbe92778ac91b6138be54a9489d6d36891a2c7698ceea9d093fde767218291c5211c9c235e1&scene=27#wechat_redirect)  
 - [2020-01-23-加速-Web-开发的-23-款前端开发工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=2&sn=8a5f90903c11758fc8eb911fa4631050&chksm=bdbe92778ac91b613d404ba2aa2be138ef26dbb482711c6e7242163fd1bf47705de804a889ff&scene=27#wechat_redirect)  
