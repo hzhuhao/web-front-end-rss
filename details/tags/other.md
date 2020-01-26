@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-24 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-26 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -354,6 +354,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-01-26-老而不死的三种编程语言](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493657&idx=1&sn=cb5849591d69467d483f44b357781185&chksm=f9525d5ace25d44c1f6bc628a383bd4729cfb3772ba2dfdadd2622395cce1b350ab49d7ce566&scene=27#wechat_redirect) 
 - [2020-01-24-好软件不是靠加班-Coding-出来的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493653&idx=1&sn=5aa625600caad100af662b4ce313f9a6&chksm=f9525d56ce25d4401641448b1decebe9374a2ba3a9a46d178845c99adef844449ae61db4bf63&scene=27#wechat_redirect) 
 - [2020-01-22-前端微服务在字节跳动的打磨与应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493647&idx=1&sn=e2f7a8df042ce7eda1c28873681d9757&chksm=f9525d4cce25d45a2c0cdb32f814cf3be01670e20d29fd47781e235cdbbdb58d0df667debd1c&scene=27#wechat_redirect) 
 - [2020-01-21-大前端-10-倍提效破局利器：可视化辅助编程会成为大势所趋吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493643&idx=1&sn=b4245ab8600f46208f8da0dcb746f8c7&chksm=f9525d48ce25d45ee0919b87620052b2327b2ee7ba59e4c584141d2367ecaf22dcd11ee1a2bb&scene=27#wechat_redirect) 
@@ -883,6 +884,8 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-01-26-为什么Go语言是猪，而PHP是鸡？丨编程语言的十二生肖](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023921&idx=1&sn=1f2d8ddfdda22bb9a6df463431ea9cc1&chksm=bdbe92628ac91b741d4adfa9fee0b38b5b4d059705233bf1f10c7734f98068f2e2752dc629e4&scene=27#wechat_redirect) 
+- [2020-01-25-如果新型肺炎下只能远程办公？我们该做些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=1&sn=3a70e1034dbda60846fbabee25a61b44&chksm=bdbe92638ac91b75416d40acfd31ee751f5933c4d0b12fb0386e50051fb71218d58cec3d58d6&scene=27#wechat_redirect) 
 - [2020-01-24-这90篇文章，你一定要收藏-|-InfoQ-年度最受欢迎文章排行榜](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023914&idx=1&sn=6b4c7e03895d4e7d577010c78553a615&chksm=bdbe92798ac91b6ff7201a244a3f048909e02624b110fea30f652f9f05487650f6c3f4144bda&scene=27#wechat_redirect) 
 - [2020-01-23-做了一百万次代码评审，我们总结了这些血泪经验](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=1&sn=5ab068ec85bd6a1649c24642300cff16&chksm=bdbe92778ac91b6138be54a9489d6d36891a2c7698ceea9d093fde767218291c5211c9c235e1&scene=27#wechat_redirect) 
 - [2020-01-23-加速-Web-开发的-23-款前端开发工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=2&sn=8a5f90903c11758fc8eb911fa4631050&chksm=bdbe92778ac91b613d404ba2aa2be138ef26dbb482711c6e7242163fd1bf47705de804a889ff&scene=27#wechat_redirect) 

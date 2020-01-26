@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-24 22:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-26 18:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -184,6 +184,7 @@
 - [【前端大全】2020-01-02-拿不到offer免费学，廖雪峰的“Web-全栈架构师”开班了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557656&idx=1&sn=3c327624eb3ce799f779733a559005f6&chksm=802558d9b752d1cf70caaac4691ea083d7fe0cebad5799f1e331c5a95d8c928d2b18de2a9d47&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-02-Node.js-模块系统源码探微](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557656&idx=2&sn=a431994c856fb02af099cf7907ce172b&chksm=802558d9b752d1cf75b664166003e4d047d057e1ae31ac00b0a6fdb052da9aaac7b8461d515e&scene=27#wechat_redirect) 
 - [【前端大全】2020-01-01-2008-至今，Chrome-如何成长为霸主](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557654&idx=1&sn=3aeb66ee35eab28659d0f668b64d0281&chksm=802558d7b752d1c1fe9f5ad4524733c32160919e8f8dfe37670aa5f0c7191a4059870abd0ee0&scene=27#wechat_redirect) 
+- [【前端之巅】2020-01-26-老而不死的三种编程语言](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493657&idx=1&sn=cb5849591d69467d483f44b357781185&chksm=f9525d5ace25d44c1f6bc628a383bd4729cfb3772ba2dfdadd2622395cce1b350ab49d7ce566&scene=27#wechat_redirect) 
 - [【前端之巅】2020-01-24-好软件不是靠加班-Coding-出来的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493653&idx=1&sn=5aa625600caad100af662b4ce313f9a6&chksm=f9525d56ce25d4401641448b1decebe9374a2ba3a9a46d178845c99adef844449ae61db4bf63&scene=27#wechat_redirect) 
 - [【前端之巅】2020-01-22-前端微服务在字节跳动的打磨与应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493647&idx=1&sn=e2f7a8df042ce7eda1c28873681d9757&chksm=f9525d4cce25d45a2c0cdb32f814cf3be01670e20d29fd47781e235cdbbdb58d0df667debd1c&scene=27#wechat_redirect) 
 - [【前端之巅】2020-01-21-大前端-10-倍提效破局利器：可视化辅助编程会成为大势所趋吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493643&idx=1&sn=b4245ab8600f46208f8da0dcb746f8c7&chksm=f9525d48ce25d45ee0919b87620052b2327b2ee7ba59e4c584141d2367ecaf22dcd11ee1a2bb&scene=27#wechat_redirect) 
@@ -371,6 +372,9 @@
 - [【互联网架构师】2020-01-01-一些不错-Java-实践推荐！建议熟读并背诵默写全文](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=1&sn=3a3e60c48d1fdded6300239037f6bb35&chksm=ea5cdaaddd2b53bb33e2b81894837c1a3d6564f0345bb54f170396544efbc7e0cc8c033bc080&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-01-身为-Java-程序员必须掌握的-10-款开源工具！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=2&sn=c65151560c2247e9f4243424979ff81d&chksm=ea5cdaaddd2b53bb4f83c73fc8d5655e4826864e6760adfdf5bbc6d54c5cd1fde0007dcee12e&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-01-IDEA-2019.3-最新激活教程，有效期到-2089-年!](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=3&sn=a8d8657b8676a1fcb1c8949cfe48c985&chksm=ea5cdaaddd2b53bb34a5ce1695a52189740136ffdad480ba2d0ceefe887e8565df9d0fc41cea&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-26-为什么Go语言是猪，而PHP是鸡？丨编程语言的十二生肖](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023921&idx=1&sn=1f2d8ddfdda22bb9a6df463431ea9cc1&chksm=bdbe92628ac91b741d4adfa9fee0b38b5b4d059705233bf1f10c7734f98068f2e2752dc629e4&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-25-如果新型肺炎下只能远程办公？我们该做些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=1&sn=3a70e1034dbda60846fbabee25a61b44&chksm=bdbe92638ac91b75416d40acfd31ee751f5933c4d0b12fb0386e50051fb71218d58cec3d58d6&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-25-华为事件出现转机：内部反对，美国商务部打压华为新规已撤回！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=2&sn=7bad47a82f94b6aa60bc59a5dffcfa50&chksm=bdbe92638ac91b75d55099ce86d940ded72052c8d71ace8c17c2a689cf5924b54405b26aa20d&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-24-这90篇文章，你一定要收藏-|-InfoQ-年度最受欢迎文章排行榜](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023914&idx=1&sn=6b4c7e03895d4e7d577010c78553a615&chksm=bdbe92798ac91b6ff7201a244a3f048909e02624b110fea30f652f9f05487650f6c3f4144bda&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-23-做了一百万次代码评审，我们总结了这些血泪经验](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=1&sn=5ab068ec85bd6a1649c24642300cff16&chksm=bdbe92778ac91b6138be54a9489d6d36891a2c7698ceea9d093fde767218291c5211c9c235e1&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-23-加速-Web-开发的-23-款前端开发工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023908&idx=2&sn=8a5f90903c11758fc8eb911fa4631050&chksm=bdbe92778ac91b613d404ba2aa2be138ef26dbb482711c6e7242163fd1bf47705de804a889ff&scene=27#wechat_redirect) 
