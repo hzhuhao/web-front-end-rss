@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-27 18:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-27 22:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -27,7 +27,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -70,6 +70,8 @@
 </summary>
 
 
+- [2020-01-27-各种场景唤起-App-骚操作](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557798&idx=1&sn=00b647fb4b43de2dfd421cb17ba749f8&chksm=80255867b752d171265f014a92d5d5c6636cac3786c0bc8dca1971d83a7e44cbacded129c665&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-26-Web-视频播放前前后后那些事](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557793&idx=1&sn=a70ce12286324dfd0dc3ce1f3bb0b971&chksm=80255860b752d1764fc9f7413aa5d14c61fd58782fa0c175a53a9c46993f84c2274efad68083&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-23-通过-Node.js-的-Cluster-模块源码，深入-PM2-原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557791&idx=1&sn=1497cfb097553c4f011f2fd145e5a0c1&chksm=8025585eb752d1480045f861c516c8b85b6669633b544fdf3f02325122961566d0c9c5cbbc3b&scene=27#wechat_redirect)  
 - [2020-01-22-如何快速提升-JSON.stringify-的性能？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557783&idx=1&sn=c822a0e7e553dc431ff265463d3f4aa6&chksm=80255856b752d140005c727ee51cbe9010257148bd37d58112b48a6239117ce8c821c0161a21&scene=27#wechat_redirect)  
 - [2020-01-21-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557782&idx=1&sn=49599a54901aa9276a0fa79bf8eb3331&chksm=80255857b752d141c69b08c2ecfc24a334de51d854760642f04d5df2fc785178e0b12af15cf9&scene=27#wechat_redirect)  
@@ -88,8 +90,6 @@
 - [2020-01-12-面向对象：一个积极努力找灵魂伴侣的程序媛](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557717&idx=2&sn=a3334e293923b532f37ede96affe8d0b&chksm=80255894b752d18282e6b208f18674957174afccbd91c6bd6812ea9ffdd20927d408f23798ab&scene=27#wechat_redirect)  
 - [2020-01-11-如何全方位优化你的超大型-React-应用](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557715&idx=1&sn=db61169cf874cfbc4153c23b9db65029&chksm=80255892b752d184fe7592892c5092592f778509e0f7169092d2962fd639eaa4f4fe88704a08&scene=27#wechat_redirect)  
 - [2020-01-10-学习-axios-源码整体架构，打造属于自己的请求库](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557714&idx=1&sn=39a56e4e410d251ca3d3902c86802619&chksm=80255893b752d1857efa47330f4d1d5b52cdf68c39a545069095179adbac40b275bb33dcdc90&scene=27#wechat_redirect)  
-- [2020-01-09-Typescript-那些好用的技巧](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557703&idx=1&sn=10cf95081c2b5c134e15200192a642ef&chksm=80255886b752d1902180d91653c061b98bf083376402af39105f1120dfffcaa154284c930469&scene=27#wechat_redirect)  
-- [2020-01-09-面向对象：没事喜欢去西湖周边拍拍照的一枚程序媛](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557703&idx=2&sn=762ce07591bcbcfe9b911cdd327408e6&chksm=80255886b752d1905775b399e42a2f6dabe67cce7915b6b1bb59b9940d4bbed0c209bfcbd3da&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,8 +411,8 @@
 </summary>
 
 
-- [2020-01-27-武汉火神山医院向全国公开招募IT运维；-wuhan2020开源项目登录GitHub；国务院凌晨通知春](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023926&idx=1&sn=5881682fd6d2a8c45dcbdbb640eb1325&chksm=bdbe92658ac91b73916725d02e6ed6990d00630f13fa69082cb21b61783912eedf7c5ae35971&scene=27#wechat_redirect) ![](assets/new.png)  
-- [2020-01-27-最近七年的春晚广告主们，如今过的都还好吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023926&idx=2&sn=896a3808673cd2b65713cf9bae7e5761&chksm=bdbe92658ac91b73da347fb54984578416b96f82278868ab052530d0b1ab2d0331db65a8fcec&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-27-武汉火神山医院向全国公开招募IT运维；-wuhan2020开源项目登录GitHub；国务院凌晨通知春](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023926&idx=1&sn=5881682fd6d2a8c45dcbdbb640eb1325&chksm=bdbe92658ac91b73916725d02e6ed6990d00630f13fa69082cb21b61783912eedf7c5ae35971&scene=27#wechat_redirect)  
+- [2020-01-27-最近七年的春晚广告主们，如今过的都还好吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023926&idx=2&sn=896a3808673cd2b65713cf9bae7e5761&chksm=bdbe92658ac91b73da347fb54984578416b96f82278868ab052530d0b1ab2d0331db65a8fcec&scene=27#wechat_redirect)  
 - [2020-01-26-为什么Go语言是猪，而PHP是鸡？丨编程语言的十二生肖](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023921&idx=1&sn=1f2d8ddfdda22bb9a6df463431ea9cc1&chksm=bdbe92628ac91b741d4adfa9fee0b38b5b4d059705233bf1f10c7734f98068f2e2752dc629e4&scene=27#wechat_redirect)  
 - [2020-01-25-如果新型肺炎下只能远程办公？我们该做些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=1&sn=3a70e1034dbda60846fbabee25a61b44&chksm=bdbe92638ac91b75416d40acfd31ee751f5933c4d0b12fb0386e50051fb71218d58cec3d58d6&scene=27#wechat_redirect)  
 - [2020-01-25-华为事件出现转机：内部反对，美国商务部打压华为新规已撤回！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=2&sn=7bad47a82f94b6aa60bc59a5dffcfa50&chksm=bdbe92638ac91b75d55099ce86d940ded72052c8d71ace8c17c2a689cf5924b54405b26aa20d&scene=27#wechat_redirect)  
