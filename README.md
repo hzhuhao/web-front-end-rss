@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-26 22:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-27 18:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,14 +20,14 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2020-01-26-Deno-运行时入门教程：Node.js-的替代品](http://www.ruanyifeng.com/blog/2020/01/deno-intro.html) ![](assets/new.png)  
+- [2020-01-26-Deno-运行时入门教程：Node.js-的替代品](http://www.ruanyifeng.com/blog/2020/01/deno-intro.html)  
 - [2020-01-17-科技爱好者周刊：第-91-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-91.html)  
 - [2020-01-16-我对中国科技行业的看法（译文）](http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html)  
 - [2020-01-14-FFmpeg-视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)  
@@ -411,6 +411,8 @@
 </summary>
 
 
+- [2020-01-27-武汉火神山医院向全国公开招募IT运维；-wuhan2020开源项目登录GitHub；国务院凌晨通知春](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023926&idx=1&sn=5881682fd6d2a8c45dcbdbb640eb1325&chksm=bdbe92658ac91b73916725d02e6ed6990d00630f13fa69082cb21b61783912eedf7c5ae35971&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-27-最近七年的春晚广告主们，如今过的都还好吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023926&idx=2&sn=896a3808673cd2b65713cf9bae7e5761&chksm=bdbe92658ac91b73da347fb54984578416b96f82278868ab052530d0b1ab2d0331db65a8fcec&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-26-为什么Go语言是猪，而PHP是鸡？丨编程语言的十二生肖](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023921&idx=1&sn=1f2d8ddfdda22bb9a6df463431ea9cc1&chksm=bdbe92628ac91b741d4adfa9fee0b38b5b4d059705233bf1f10c7734f98068f2e2752dc629e4&scene=27#wechat_redirect)  
 - [2020-01-25-如果新型肺炎下只能远程办公？我们该做些什么？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=1&sn=3a70e1034dbda60846fbabee25a61b44&chksm=bdbe92638ac91b75416d40acfd31ee751f5933c4d0b12fb0386e50051fb71218d58cec3d58d6&scene=27#wechat_redirect)  
 - [2020-01-25-华为事件出现转机：内部反对，美国商务部打压华为新规已撤回！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=2&sn=7bad47a82f94b6aa60bc59a5dffcfa50&chksm=bdbe92638ac91b75d55099ce86d940ded72052c8d71ace8c17c2a689cf5924b54405b26aa20d&scene=27#wechat_redirect)  
@@ -429,8 +431,6 @@
 - [2020-01-21-微服务开发的-10-个最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=3&sn=5d7f48819504120110e93b39e43ce959&chksm=bdbe91f68ac918e098de7a15ca9e4f44d9238fc9bf57f474314b858dc498ed896a52a9160d4c&scene=27#wechat_redirect)  
 - [2020-01-21-Serverless风起云涌：表面上是技术升级，背后其实是钱的事情](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=4&sn=5ef1936063fb74d0d5d33d1705063d70&chksm=bdbe91f68ac918e0f9e41cdad294074196472f432a2f016b62b53a258f6b4c7169ecd1ae4ca2&scene=27#wechat_redirect)  
 - [2020-01-21-六大编程语言的有趣特性](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=5&sn=14c40e3c488f9d59a5770ff6dd6bd4a6&chksm=bdbe91f68ac918e05239a4882618684fa25344d4d66bf6bea4f7b1951f7640e04c957c900019&scene=27#wechat_redirect)  
-- [2020-01-19-云徙否认茅台项目失败，中台的“邪”应该怎么信？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023743&idx=1&sn=6739e5f8e01650188da978a002ab2c4a&chksm=bdbe912c8ac9183ac4ad4b384f7bb4b776e75efa29fbb7abc61460f449abb965ecf95d0c7d75&scene=27#wechat_redirect)  
-- [2020-01-19-Service-Mesh-浅析：从概念、产品到实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023743&idx=2&sn=21a05f257be470ba002929fd53e1740f&chksm=bdbe912c8ac9183ad3a38597043f2a4a086c459a8890c85be8277856343e85ffeefa24f090b1&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
