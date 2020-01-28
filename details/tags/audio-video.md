@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-27 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-01-28 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -61,6 +61,7 @@
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
 - [2020-01-16-腾讯最新开源内部跨端框架Hippy，QQ、腾讯视频等18项业务都在用](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484397&idx=1&sn=e6fe2b03a3b998e618ee097e656bd177&chksm=eb1cc607dc6b4f11402459391173d1ad329d275fe32fb7cae68e395c25134d1b79018228057c&scene=27#wechat_redirect) 
+- [2020-01-28-趣谈C++：它的诞生只是个意外-|-二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023929&idx=2&sn=237d164a9b9cb4d4631b4e65a7e08528&chksm=bdbe926a8ac91b7ce85841f09c967ac6c62d7bf3d955893fa7affd225ca65571b4693cfe0264&scene=27#wechat_redirect) 
 - [2020-01-03-“创造，就值得被肯定”，一名程序员的艺术人生丨二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=1&sn=a27fff1d7af3c81a667fd1cde2db8a84&chksm=bdbe90118ac91907a7dfedff7c6a500acc70e6f8f74ff85e4d2b6c53d361654b44867cf015c4&scene=27#wechat_redirect) 
 - [2019-12-27-24岁的程序员，似乎已经看到了30岁后的自己-|-二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=2&sn=e7380397ef3b160211daeefcc8d100ab&chksm=bdbe9fc38ac916d5cfaaeea15512c8f3f68c335efaff4c9cc3982473842956772bc0e46bca99&scene=27#wechat_redirect) 
 - [2020-01-11-腾讯最新开源内部跨端框架Hippy，QQ、腾讯视频等18项业务都在用](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498152&idx=1&sn=ae3de7bbc16b5e58c553d9bbffae0556&chksm=80f1af60b78626763b1b4ef868ab071721448c5e1cdd247dd7a3d77a55c34cfecad2dd505b3b&scene=27#wechat_redirect) 
