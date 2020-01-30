@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-01-29 22:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-01-30 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -377,6 +377,7 @@
 - [【互联网架构师】2020-01-01-一些不错-Java-实践推荐！建议熟读并背诵默写全文](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=1&sn=3a3e60c48d1fdded6300239037f6bb35&chksm=ea5cdaaddd2b53bb33e2b81894837c1a3d6564f0345bb54f170396544efbc7e0cc8c033bc080&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-01-身为-Java-程序员必须掌握的-10-款开源工具！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=2&sn=c65151560c2247e9f4243424979ff81d&chksm=ea5cdaaddd2b53bb4f83c73fc8d5655e4826864e6760adfdf5bbc6d54c5cd1fde0007dcee12e&scene=27#wechat_redirect) 
 - [【互联网架构师】2020-01-01-IDEA-2019.3-最新激活教程，有效期到-2089-年!](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489483&idx=3&sn=a8d8657b8676a1fcb1c8949cfe48c985&chksm=ea5cdaaddd2b53bb34a5ce1695a52189740136ffdad480ba2d0ceefe887e8565df9d0fc41cea&scene=27#wechat_redirect) 
+- [【InfoQ】2020-01-30-印度“特产”：CEO](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023951&idx=1&sn=36d060db41e953f5a1ed5a258a207ed9&chksm=bdbe921c8ac91b0af88bb5e36aa726678f46867d263cbd1728f0993435a9dc40716657b8ccc7&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-29-这几个程序员志愿者，用4天建起湖北医疗物资需求对接平台](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023950&idx=1&sn=89d455a7c9cff831eff2ed0a6d7cabac&chksm=bdbe921d8ac91b0b720c264d05290afa4d5dbe5e6784deafa37990e6535f6511d5a026154084&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-29-谈谈春节背后的那些技术场景](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023950&idx=2&sn=1790d74960b7d2c30b6fee739026d5ba&chksm=bdbe921d8ac91b0b8240700d2387d049710e619df7be4ae44daa4f2422e21d6356e2ef87e899&scene=27#wechat_redirect) 
 - [【InfoQ】2020-01-28-Java工程师的成长路线图是什么？|-极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023929&idx=1&sn=14622c725ea64ac756ca5cf18a71c038&chksm=bdbe926a8ac91b7c4f60da9447888cc9e4171b35a05a12a9e67c4654b620ee86b3e76a16e76e&scene=27#wechat_redirect) 
