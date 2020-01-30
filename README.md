@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-01-30 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-01-30 18:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -27,7 +27,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -101,6 +101,7 @@
 </summary>
 
 
+- [2020-01-28-SQL-查询语句总是先执行-SELECT？你们都错了](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493663&idx=1&sn=793ccec580be2be16f9bf6175115ffb7&chksm=f9525d5cce25d44a1d1543a61cd7056944cd9f271784ba5dc2293dfa71b226b6adfda73b5ac1&scene=27#wechat_redirect) ![](assets/new.png)  
 - [2020-01-26-老而不死的三种编程语言](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493657&idx=1&sn=cb5849591d69467d483f44b357781185&chksm=f9525d5ace25d44c1f6bc628a383bd4729cfb3772ba2dfdadd2622395cce1b350ab49d7ce566&scene=27#wechat_redirect)  
 - [2020-01-24-好软件不是靠加班-Coding-出来的](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493653&idx=1&sn=5aa625600caad100af662b4ce313f9a6&chksm=f9525d56ce25d4401641448b1decebe9374a2ba3a9a46d178845c99adef844449ae61db4bf63&scene=27#wechat_redirect)  
 - [2020-01-22-前端微服务在字节跳动的打磨与应用](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493647&idx=1&sn=e2f7a8df042ce7eda1c28873681d9757&chksm=f9525d4cce25d45a2c0cdb32f814cf3be01670e20d29fd47781e235cdbbdb58d0df667debd1c&scene=27#wechat_redirect)  
@@ -120,7 +121,6 @@
 - [2020-01-13-字节跳动Flutter架构实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493602&idx=1&sn=86dff6f4151cd3ad4c1c1e7c87357637&chksm=f95252a1ce25dbb77d852e3c935a9ef6cebda845f078d92658d1938ba5a4401d1faff431cb1e&scene=27#wechat_redirect)  
 - [2020-01-13-只有-9.27%-的-npm-开发者使用-2FA](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493602&idx=2&sn=dd60d045916891da215aaf14c1aaf33e&chksm=f95252a1ce25dbb748139c4c7ce966fae1d4c11176cc1783f71ce2370e1208a5c87757fc75e3&scene=27#wechat_redirect)  
 - [2020-01-12-前端周报：C语言获2019年度最佳编程语言称号，Swift稳居TOP10榜单；微软数据库漏洞或使8.](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493597&idx=1&sn=a0d3dfd687e99f6f5d69600abb8431f3&chksm=f952529ece25db8876f39175c0a6004d9555111c53f58c0714caa6e2debedaa6f2da99a72755&scene=27#wechat_redirect)  
-- [2020-01-10-Serverless-与前端工程化结合：让项目-5-分钟上线成为可能](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493593&idx=1&sn=4868afc174d84f4cd65bb59adf9c2a37&chksm=f952529ace25db8c0ac2898885e39ebe9577b51e647b05ce7311904bc845a8d3088eea84226d&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,7 +411,7 @@
 </summary>
 
 
-- [2020-01-30-印度“特产”：CEO](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023951&idx=1&sn=36d060db41e953f5a1ed5a258a207ed9&chksm=bdbe921c8ac91b0af88bb5e36aa726678f46867d263cbd1728f0993435a9dc40716657b8ccc7&scene=27#wechat_redirect) ![](assets/new.png)  
+- [2020-01-30-印度“特产”：CEO](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023951&idx=1&sn=36d060db41e953f5a1ed5a258a207ed9&chksm=bdbe921c8ac91b0af88bb5e36aa726678f46867d263cbd1728f0993435a9dc40716657b8ccc7&scene=27#wechat_redirect)  
 - [2020-01-29-这几个程序员志愿者，用4天建起湖北医疗物资需求对接平台](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023950&idx=1&sn=89d455a7c9cff831eff2ed0a6d7cabac&chksm=bdbe921d8ac91b0b720c264d05290afa4d5dbe5e6784deafa37990e6535f6511d5a026154084&scene=27#wechat_redirect)  
 - [2020-01-29-谈谈春节背后的那些技术场景](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023950&idx=2&sn=1790d74960b7d2c30b6fee739026d5ba&chksm=bdbe921d8ac91b0b8240700d2387d049710e619df7be4ae44daa4f2422e21d6356e2ef87e899&scene=27#wechat_redirect)  
 - [2020-01-28-Java工程师的成长路线图是什么？|-极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023929&idx=1&sn=14622c725ea64ac756ca5cf18a71c038&chksm=bdbe926a8ac91b7c4f60da9447888cc9e4171b35a05a12a9e67c4654b620ee86b3e76a16e76e&scene=27#wechat_redirect)  
