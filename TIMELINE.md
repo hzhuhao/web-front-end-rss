@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-01 12:00:37。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-02-02 12:00:51。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -9,7 +9,7 @@
 </tr>
 <tr>
 <td><a href="#2020-01">01月</a></td>
-<td>02月</td>
+<td><a href="#2020-02">02月</a></td>
 <td>03月</td>
 <td>04月</td>
 <td>05月</td>
@@ -115,6 +115,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2020-02">
+ 2020-02
+</summary>
+
+
+- [【InfoQ】2020-02-01-北京市政府发文：各企业2月10日到单位上班；辟谣双黄连口服液可抑制新型冠状病毒；Safari将终止支](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023984&idx=1&sn=f15ca259209df3a46c72ffa4ba02fcd0&chksm=bdbe92238ac91b35fdf29b8350196dd4fab4656465e348fd2e8bb8a6198c349f66946a466053&scene=27#wechat_redirect) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2020-01">
