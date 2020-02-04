@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-02-02 12:00:51。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-04 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-02-04-软件测试工程师必备：如何做好接口测试？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024037&idx=1&sn=330d30ff0b0a30feaafe17334d1cfa95&chksm=bdbe92f68ac91be026c60b13aaedb32c79d904bd93a1ce8a4dbd266d13d753f3f4149e8367c3&scene=27#wechat_redirect) 
+- [2020-02-04-C++之父：为了工作下去，我写了C++-|-极客档案](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024037&idx=2&sn=be40fead23b7eb575698333a6c9b24a0&chksm=bdbe92f68ac91be0f791b2cd32a1702c5e8ae14e08781be58bff61764686846ef65c93ba8a16&scene=27#wechat_redirect) 
+- [2020-02-04-程序员如何用技术变现？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024037&idx=3&sn=0c65a2e2c7b944863a35aaa5a9f7b37b&chksm=bdbe92f68ac91be087f250849e5346985a2f356fafc4ab1d17f723722988a20359851b90861f&scene=27#wechat_redirect) 
+- [2020-02-04-2020年-11-大顶级-VueJS-开发工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024037&idx=4&sn=62781eb957fd57e11d4716ec9ab222b5&chksm=bdbe92f68ac91be09e8a9e37b5070a810902bbd4c9be4cdebe17fb30501d4bceba95e01619e8&scene=27#wechat_redirect) 
+- [2020-02-04-HTTP/3-的现状：全世界使用服务接近-30-万](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024037&idx=5&sn=ff62f0a2612f8c6ae71c7f6428521ecb&chksm=bdbe92f68ac91be0a8b18733d02b961ef80aeb058e6b7f6743393233fe1d2c8659220bf9c78f&scene=27#wechat_redirect) 
+- [2020-02-03-远程办公第一天，你掉线了吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024026&idx=1&sn=bb78b9dc787d9c62d5effe4b1e9e9ffd&chksm=bdbe92c98ac91bdfbae5d6a384b8c27df3da349db18e8afc6fe7b8dc811607542bea0a4d8cec&scene=27#wechat_redirect) 
+- [2020-02-03-火神山医院正式交付！三天开5G，九天建好信息系统，IT企业做了什么？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024026&idx=2&sn=3f56b1632d67ce4694888f15f899185b&chksm=bdbe92c98ac91bdf0c2ca9e096a7b068219f936e01b0889d4137f4a0a3d278f49d1750e49b0f&scene=27#wechat_redirect) 
+- [2020-02-03-跨境电商的中台建设思考丨QCon](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024026&idx=3&sn=5701c53fc14175c4820cc329b2d478fc&chksm=bdbe92c98ac91bdf51195cdf6168b515fbbbbfa3e7c355a605d0bcc046d9e4f693512f5e5573&scene=27#wechat_redirect) 
+- [2020-02-03-当我们说“某项技术已死”，我们到底在说什么](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024026&idx=4&sn=b82c5ae54122809547538d4ac74deb0a&chksm=bdbe92c98ac91bdfc324ed6f7e0c500e04e16c949e6c9709a81cce1683a944acf48d0642d177&scene=27#wechat_redirect) 
+- [2020-02-03-英特尔放弃Nervana-AI芯片，全面支持Habana-Labs](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024026&idx=5&sn=1a2e7bba81082ec14170fb1f96f2c563&chksm=bdbe92c98ac91bdf05abd97786bbb3fbebb1bfe310a2b6d4483e33feb20485134d572ac99410&scene=27#wechat_redirect) 
 - [2020-02-01-北京市政府发文：各企业2月10日到单位上班；辟谣双黄连口服液可抑制新型冠状病毒；Safari将终止支](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023984&idx=1&sn=f15ca259209df3a46c72ffa4ba02fcd0&chksm=bdbe92238ac91b35fdf29b8350196dd4fab4656465e348fd2e8bb8a6198c349f66946a466053&scene=27#wechat_redirect) 
 - [2020-01-31-左耳朵耗子：疫情下的远程办公，聊聊我的经验和实践](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023978&idx=1&sn=3388169c35d6e7e4b97abe1e3bcb50ef&chksm=bdbe92398ac91b2ff11a82704f7c8aeda6ae8b421a5d031c4b41a12234c3b91d6282114e1fba&scene=27#wechat_redirect) 
 - [2020-01-30-印度“特产”：CEO](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023951&idx=1&sn=36d060db41e953f5a1ed5a258a207ed9&chksm=bdbe921c8ac91b0af88bb5e36aa726678f46867d263cbd1728f0993435a9dc40716657b8ccc7&scene=27#wechat_redirect) 

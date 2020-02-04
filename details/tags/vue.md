@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-04 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-02-04 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -108,6 +108,7 @@
 - [2018-10-02-Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect) 
 - [2018-09-30-深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect) 
 - [2018-09-22-自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect) 
+- [2020-02-03-2020年11大顶级VueJS开发工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493683&idx=1&sn=2b7c76e04c4792d4416932003c909ef4&chksm=f9525d70ce25d466c85a597d2b6306b2b18184ccd01eb3dbc4b072165bcd3844d15c81bbfddf&scene=27#wechat_redirect) 
 - [2020-01-15-尤雨溪-VueConf-演讲：Vue-3.0-的新特性和设计理念](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493615&idx=1&sn=45de083cf095913ef2d7c365afbe60ca&chksm=f95252acce25dbba0d7235195925f1ed776c115113d70085f59276dc9005474acda7d8cfdf9c&scene=27#wechat_redirect) 
 - [2019-12-31-Vue-CLI-4-发布：自动化升级过程，支持自定义包管理器](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493505&idx=2&sn=1b1aedc2bde30c4ab70eb3c9cd0be287&chksm=f95252c2ce25dbd474fb880502a4e1c9de2fa6dc22071e0a8bbc54510910be645ef99beb5c7a&scene=27#wechat_redirect) 
 - [2019-11-29-为什么Vue3.0不再使用defineProperty实现数据监听？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493252&idx=2&sn=417d8c16d501c45d7d00bf435bb21758&chksm=f95253c7ce25dad14c83d57c6f97001dbd98b68c6b20935a6ff590ebbf449b1a9f290ff8efc4&scene=27#wechat_redirect) 
@@ -157,6 +158,7 @@
 - [2020-01-14-2020年人人都会Vue了，面试官还能考什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484393&idx=1&sn=83972cbd129e943091693c5ad74589a7&chksm=eb1cc603dc6b4f15d6496af5d061d38ec9cffb4eff2f893033eaf9429b6d0fe8692ae6120889&scene=27#wechat_redirect) 
 - [2019-12-31-VS-Code成主宰、Vue备受热捧！2019前端开发趋势必读](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484375&idx=1&sn=40251dd1d0cf4e83c41f9766b36ea896&chksm=eb1cc63ddc6b4f2b69a515a1f0b3bc890917b5674e5595befc40edac2653e5505e23efd4e442&scene=27#wechat_redirect) 
 - [2019-12-07-Vue-CLI-首屏优化技巧](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484348&idx=1&sn=5a01f3b9c2e843dba222a2032d8b61cc&chksm=eb1cc656dc6b4f40c93b69306ebebb6960bc5f604d586311f4ba9b5a11d358d1400a60b8087c&scene=27#wechat_redirect) 
+- [2020-02-04-2020年-11-大顶级-VueJS-开发工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024037&idx=4&sn=62781eb957fd57e11d4716ec9ab222b5&chksm=bdbe92f68ac91be09e8a9e37b5070a810902bbd4c9be4cdebe17fb30501d4bceba95e01619e8&scene=27#wechat_redirect) 
 - [2020-01-17-尤雨溪-VueConf-演讲：Vue-3.0-的新特性和设计理念](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023703&idx=5&sn=b4090f12119d99c1a9f0b4b81808f767&chksm=bdbe91048ac918128fce7fed5fcdfc3f2fe9b648a845ccb1f91d64c5756e99afa5790163a459&scene=27#wechat_redirect) 
 - [2020-01-15-Vue这些修饰符帮我节省20%的开发时间](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498161&idx=1&sn=4648607b03185ccef9b19c9abbdb427a&chksm=80f1af79b786266fba116463649dc0a819e88c0232d8db075e7944a3ae205902fe44f629c3b2&scene=27#wechat_redirect) 
 - [2020-01-08-我会vue了，面试官还会问我什么？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498142&idx=1&sn=4b227c23632731c06f42b57ad1b67a4b&chksm=80f1af56b78626403b2110853fafce517e3bd2dd753a706de8a0c9fc680c3bf49b0fd3ef1343&scene=27#wechat_redirect) 
