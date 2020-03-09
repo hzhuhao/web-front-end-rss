@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-02-05 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-09 10:33:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -104,6 +104,8 @@
 - [2017-01-19-微信小程序跨页面通信解决思路](https://aotu.io/notes/2017/01/19/wxapp-event/) 
 - [2017-01-06-在微信小程序里实现图片预加载组件](https://aotu.io/notes/2017/01/06/wxapp-img-loader/) 
 - [2016-11-10-WeUI-for-小程序---为微信小程序量身设计](https://aotu.io/notes/2016/11/10/weui-wxss/) 
+- [2020-03-03-重磅！微信官方推出-Web-前端和小程序统一框架](https://www.ershicimi.com/p/fafa51d57615018ca009e957ce9ea338) 
+- [2020-03-04-重磅！微信官方推出-Web-前端和小程序统一框架](https://www.ershicimi.com/p/0b756a4e4c8a38ee3881ca474101fbf0) 
 - [2020-01-17-小程序--滑动右侧字母索引](https://juejin.im/post/5e216227f265da3e491a4a98) 
 - [2020-01-16-小程序云开发-全栈（干）程序员-一个人的狂欢🎉🎉🎉](https://juejin.im/post/5e1f0543f265da3e0e2a1bdf) 
 - [2020-01-15-Taro-小程序开发大型实战（六）：尝鲜微信小程序云（上篇）](https://juejin.im/post/5e1dd614f265da3e12181ff3) 

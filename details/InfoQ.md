@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-02-05 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-09 10:33:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-03-07-连软件bug都不能传回北京！美商务部有点蛮横；TikTok被指向中国政府泄露数据；华为为武汉抗疫员工](https://www.ershicimi.com/p/8de99d89102fcade1996030aec390751) 
+- [2020-03-07-宕机2天，千万股民“血本无归”，就赔偿15美元？](https://www.ershicimi.com/p/ea5142a205566794162f57affaa47fc9) 
+- [2020-03-07-图分析技术部署及实战解析丨在线课堂](https://www.ershicimi.com/p/1161234339c4209c2dbc0d1c86aee93f) 
+- [2020-03-07-关于-Kubernetes-规划的灵魂-N-问](https://www.ershicimi.com/p/3d649580fa21106427d70073c35289f6) 
+- [2020-03-06-谷歌、微软也开始远程办公了，工程师发文吐槽：VPN-都是垃圾](https://www.ershicimi.com/p/8eb4fb442882af559dc71aeef42e1f97) 
+- [2020-03-06-技术选型，不是技术造型丨Q-评论](https://www.ershicimi.com/p/5af97e7e7511588f89fec05e5875c4e9) 
+- [2020-03-06-4万名医生在线、访问量过亿，揭秘远程医疗背后的技术](https://www.ershicimi.com/p/9dcb229feb72adf67303f123445d596c) 
+- [2020-03-06-PWA-对比原生应用：谁更胜一筹？](https://www.ershicimi.com/p/eb90d488e33fe132686cadac8339d921) 
+- [2020-03-06-刷脸支付还不够，万事达卡探索步态、心跳和静脉方式支付](https://www.ershicimi.com/p/1f03ced2a5f9954c47a06ee1229aa00d) 
+- [2020-03-05-年前裸辞的程序员：我的职业生涯“宕机”了](https://www.ershicimi.com/p/5aac024b01b78dc0a838774d0246f214) 
 - [2020-02-05-从今天开始，我们为你免费开放-848-个课程-|-极客时间企业版](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024054&idx=1&sn=6de6ed130c5bfecfc599de705776ca5d&chksm=bdbe92e58ac91bf3579398607d59d31ac6c9655b7ae49ec9074de1151429a8c227fc94cbe0d2&scene=27#wechat_redirect) 
 - [2020-02-05-7亿用户、20万台服务器的腾讯QQ全量上云了！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024054&idx=2&sn=776a9d51701f78f32fa3abe5adefca21&chksm=bdbe92e58ac91bf35593930100de3bcbf39e982a9ba3df4e9a49f0a6f844d40f52455afcbbb7&scene=27#wechat_redirect) 
 - [2020-02-05-发售当天售罄！在小米CC9火爆背后隐藏的计算机视觉算法丨AICon](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024054&idx=3&sn=61a714a913fa32410a74e6d76cfe374f&chksm=bdbe92e58ac91bf36e786ae4c5a677b0b131721f1fa3dbbe704c8468bf7465ae0890b5963f97&scene=27#wechat_redirect) 

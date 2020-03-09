@@ -3862,6 +3862,56 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "4W字长文带你深度解锁Webpack系列(上)",
+        "link": "https://www.ershicimi.com/p/a7a94be90091f420cf658bb93fbcc5ee",
+        "date": "2020-03-07"
+      },
+      {
+        "title": "一小时的时间来了解AI抗疫，技术在进步，一切会更好！",
+        "link": "https://www.ershicimi.com/p/c0938be3e648306c1fc2629de11b472f",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "可视化搭建数据大屏系统的前端实现",
+        "link": "https://www.ershicimi.com/p/04f9fda90b1f62bbd5635b6aa41f28d0",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "前端高级进阶：Javascript 代码是如何被压缩的",
+        "link": "https://www.ershicimi.com/p/5f88834dda79dadd1d7c1fb32b43fe7a",
+        "date": "2020-03-05"
+      },
+      {
+        "title": "人人都会Vue，3.0版本即将发布，你的优势在哪里？",
+        "link": "https://www.ershicimi.com/p/3fe355fb6c21c6fb8762ca4f028abdc3",
+        "date": "2020-03-04"
+      },
+      {
+        "title": "关于前端学习路线的一些建议",
+        "link": "https://www.ershicimi.com/p/0398f87dfbde8ba8686a07912148b3c0",
+        "date": "2020-03-04"
+      },
+      {
+        "title": "Web 正文字体发展简史",
+        "link": "https://www.ershicimi.com/p/1dcb028453ea676da18129577072cfe0",
+        "date": "2020-03-03"
+      },
+      {
+        "title": "开发人今年的金三银四，就白费了？",
+        "link": "https://www.ershicimi.com/p/abe2c3472dec3e756f1508b4b70a2ec0",
+        "date": "2020-03-02"
+      },
+      {
+        "title": "三分钟迁移 Ant Design 4",
+        "link": "https://www.ershicimi.com/p/9e1a8d1ff7ec53aa4948712229b63b5c",
+        "date": "2020-03-02"
+      },
+      {
+        "title": "小白必看，JSBridge 初探",
+        "link": "https://www.ershicimi.com/p/bb2a8b92448e73aa22821966dba1b3fd",
+        "date": "2020-03-01"
+      },
+      {
         "title": "还分不清 Cookie、Session、Token、JWT？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557820&idx=1&sn=dd9595e42c7cfd8f7c5dd4dba2075687&chksm=8025587db752d16bfcf0cb4286d9d2b79488218596e2a6130ae6c7eec668d7dd56cd9ea2da27&scene=27#wechat_redirect",
         "date": "2020-02-04"
@@ -7364,6 +7414,56 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "2020 前端开源领域技术展望",
+        "link": "https://www.ershicimi.com/p/0732dec7f89f2940f2939065226d419b",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "10个前端开发需要学习的关键技能",
+        "link": "https://www.ershicimi.com/p/373a93d0003bb6355845dd450647a6ab",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "只会 Vue 的前端工程师是没有前途的",
+        "link": "https://www.ershicimi.com/p/a18cc45de4e8127f298c559efb9ebb04",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "抖音BoostMultiDex优化实践：Android低版本上APP首次启动时间减少80%",
+        "link": "https://www.ershicimi.com/p/d0e387aee202f9da22ce42f59b932c74",
+        "date": "2020-03-05"
+      },
+      {
+        "title": "基于 Serverless 打造全栈“闭环”开发的实战 | GMTC",
+        "link": "https://www.ershicimi.com/p/70aa83adb65a2c65bb5fec1821844e1b",
+        "date": "2020-03-05"
+      },
+      {
+        "title": "JavaScript中For循环的3种版本和使用场景",
+        "link": "https://www.ershicimi.com/p/23b31ce8c007d5ac4195427769dbd184",
+        "date": "2020-03-05"
+      },
+      {
+        "title": "PWA对比原生应用：谁更胜一筹？",
+        "link": "https://www.ershicimi.com/p/e77758e63d1a3b346ea13c13f85f7ea5",
+        "date": "2020-03-04"
+      },
+      {
+        "title": "疫情过后如何实现技术能力快速提升，我们有份半价福利送给你",
+        "link": "https://www.ershicimi.com/p/638be00dec8befa495687173666a3249",
+        "date": "2020-03-04"
+      },
+      {
+        "title": "前端领域主管是刚需，中小前端团队Team Leader如何养成？",
+        "link": "https://www.ershicimi.com/p/29a41591b56bbe7871056905937efdb6",
+        "date": "2020-03-03"
+      },
+      {
+        "title": "闲鱼在 Flutter上的最新进展和创新",
+        "link": "https://www.ershicimi.com/p/337517902b2c4f2c3b55c90905d61c36",
+        "date": "2020-03-03"
+      },
+      {
         "title": "2020年11大顶级VueJS开发工具",
         "link": "http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493683&idx=1&sn=2b7c76e04c4792d4416932003c909ef4&chksm=f9525d70ce25d466c85a597d2b6306b2b18184ccd01eb3dbc4b072165bcd3844d15c81bbfddf&scene=27#wechat_redirect",
         "date": "2020-02-03"
@@ -10356,6 +10456,16 @@
     "link": "https://fed.taobao.org",
     "items": [
       {
+        "title": "初识前端智能化",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/start-to-know-intelligense",
+        "date": "2020-02-19"
+      },
+      {
+        "title": "前端与 Serverless 同行，哇哦视频这半年",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/ftontend-and-serverless-forward",
+        "date": "2020-02-18"
+      },
+      {
         "title": "当 SSR  遇上 Serverless，轻松实现页面瞬开",
         "link": "https://fed.taobao.org/blog/taofed/do71ct/rax-ssr-serverless-quicker",
         "date": "2020-01-19"
@@ -10672,6 +10782,31 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "检测DOM尺寸变化JS API ResizeObserver简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/",
+        "date": "2020-03-08"
+      },
+      {
+        "title": "深入理解position sticky粘性定位的计算规则",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/",
+        "date": "2020-03-07"
+      },
+      {
+        "title": "3D LUT 滤镜颜色映射原理剖析与JS实现",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/02/3d-lut-principle/",
+        "date": "2020-02-27"
+      },
+      {
+        "title": "我是如何通过CSS向JS传参的",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/02/css-params-to-js/",
+        "date": "2020-02-13"
+      },
+      {
+        "title": "CSS @supports开始支持selector选择器检测了",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/02/css-supports-selector/",
+        "date": "2020-02-12"
+      },
       {
         "title": "HTML全局属性列表大全",
         "link": "https://www.zhangxinxu.com/wordpress/2020/01/html-global-attributes/",
@@ -11214,6 +11349,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊：第 97 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "科技爱好者周刊：第 96 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html",
+        "date": "2020-02-28"
+      },
+      {
+        "title": "我的外包经验：印度、中国和菲律宾（译文）",
+        "link": "http://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html",
+        "date": "2020-02-27"
+      },
       {
         "title": "科技爱好者周刊：第 92 期",
         "link": "http://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html",
@@ -11892,6 +12042,16 @@
     "link": "http://www.yyyweb.com",
     "items": [
       {
+        "title": "24 个 ES6 方法，解决实际开发的 JS 问题",
+        "link": "http://www.yyyweb.com/5354.html",
+        "date": "2020-03-08"
+      },
+      {
+        "title": "Ant Design 4.0 正式版来了！",
+        "link": "http://www.yyyweb.com/5352.html",
+        "date": "2020-03-08"
+      },
+      {
         "title": "Taro 2.0：拥抱社区，拥抱变化",
         "link": "http://www.yyyweb.com/5350.html",
         "date": "2020-01-20"
@@ -12365,6 +12525,16 @@
     "title": "Aotu-|-凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "Web 中文字体处理总结",
+        "link": "https://aotu.io/notes/2020/02/28/webfont-processing/",
+        "date": "2020-02-28"
+      },
+      {
+        "title": "Taro Next 发布预览版：同时支持 React / Vue / Nerv",
+        "link": "https://aotu.io/notes/2020/02/03/taro-next-alpha/",
+        "date": "2020-02-03"
+      },
       {
         "title": "Taro 2.0：拥抱社区，拥抱变化",
         "link": "https://aotu.io/notes/2020/01/08/taro-2-0/",
@@ -13318,6 +13488,56 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "忍法，scroll 翻滚之术！",
+        "link": "https://www.ershicimi.com/p/23227d5542faae5371b2bb0467ad53d3",
+        "date": "2020-03-07"
+      },
+      {
+        "title": "奇舞周刊第 340 期：前端进阶十日谈",
+        "link": "https://www.ershicimi.com/p/627a36d8c608b030a5a640d9e71a6cf6",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "《精通CSS》第5章 漂亮的盒子",
+        "link": "https://www.ershicimi.com/p/1425a58958ece7634d456f6bb1f01e3f",
+        "date": "2020-03-04"
+      },
+      {
+        "title": "一文道尽软件架构及前端架构演进",
+        "link": "https://www.ershicimi.com/p/a69f10e39ed50ebd90bfe2aed911c8e8",
+        "date": "2020-03-03"
+      },
+      {
+        "title": "Rome：Facebook最新JS工具上手",
+        "link": "https://www.ershicimi.com/p/58920f643b74f80afbb32380008a3c63",
+        "date": "2020-03-02"
+      },
+      {
+        "title": "辩证的眼光搞懂 JWT 这个知识点",
+        "link": "https://www.ershicimi.com/p/4b237b5ecf96e2c848ff2b685e9adb4b",
+        "date": "2020-02-29"
+      },
+      {
+        "title": "奇舞周刊第 339 期：颜色的原理和应用",
+        "link": "https://www.ershicimi.com/p/fcccbcc7bb93ee923481ff8d4524c2a8",
+        "date": "2020-02-28"
+      },
+      {
+        "title": "Webpack 插件开发如此简单！",
+        "link": "https://www.ershicimi.com/p/46505f3b91fc3f63925c3362ad89d369",
+        "date": "2020-02-27"
+      },
+      {
+        "title": "前端高级进阶：如何更好地优化打包资源",
+        "link": "https://www.ershicimi.com/p/f75535aab170a223ac5b638cb2a4f5f4",
+        "date": "2020-02-26"
+      },
+      {
+        "title": "一个白学家眼里的 WebAssembly",
+        "link": "https://www.ershicimi.com/p/1b4f375925b36cebbe42a4e98af49ddb",
+        "date": "2020-02-25"
+      },
+      {
         "title": "往年是快乐，今年祝你平安健康",
         "link": "http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591195&idx=1&sn=8b40d40ccbebc1d7419d23438bd9d28a&chksm=8891dfffbfe656e971c5e8a27a03f1b69825c3f9b146cdd94e9dcd6399ac0273c2c59a4bf7fd&scene=27#wechat_redirect",
         "date": "2020-01-24"
@@ -13645,6 +13865,56 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "Nginx配置Https零基础教程",
+        "link": "https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "高频使用的 Git 命令",
+        "link": "https://www.ershicimi.com/p/ba494a49d73657938ddd3e960d3b0d0b",
+        "date": "2020-03-04"
+      },
+      {
+        "title": "重磅！微信官方推出 Web 前端和小程序统一框架",
+        "link": "https://www.ershicimi.com/p/fafa51d57615018ca009e957ce9ea338",
+        "date": "2020-03-03"
+      },
+      {
+        "title": "Vue 3.0将正式发布，对我们有哪些改变？",
+        "link": "https://www.ershicimi.com/p/2f5688f513ddfee39e89de69b1c0624d",
+        "date": "2020-02-25"
+      },
+      {
+        "title": "Vue+Electron开发跨平台桌面应用",
+        "link": "https://www.ershicimi.com/p/52d9e6ab84d1ceb2a08483b995b82a96",
+        "date": "2020-02-24"
+      },
+      {
+        "title": "JavaScript 造就年薪超过 10 万美元的开发者们！",
+        "link": "https://www.ershicimi.com/p/16c82eb48f89e36a8dd6f4352e974951",
+        "date": "2020-02-14"
+      },
+      {
+        "title": "Chrome 80发布，新特性将对用户产生深远影响",
+        "link": "https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba",
+        "date": "2020-02-13"
+      },
+      {
+        "title": "远程办公，前端工程师如何应对？",
+        "link": "https://www.ershicimi.com/p/983bdf91b9e065a0f040387c9fb4982e",
+        "date": "2020-02-12"
+      },
+      {
+        "title": "前端工程师，请停止学习那些永无止尽的框架",
+        "link": "https://www.ershicimi.com/p/a4a1e288f1fb45e903c97118e3394940",
+        "date": "2020-02-11"
+      },
+      {
+        "title": "TypeScript：拥有超能力的 JavaScript",
+        "link": "https://www.ershicimi.com/p/3b4eb8d6ad883142ebecee68fd9fa635",
+        "date": "2020-01-22"
+      },
+      {
         "title": "TypeScript：拥有超能力的 JavaScript",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484405&idx=1&sn=31c218c5203ce9f8e575ec93c22c85f7&chksm=eb1cc61fdc6b4f09737e58df18fce3a11c0da1cdfdc122d2e4834da7adb39c5c2a24dd3ba843&scene=27#wechat_redirect",
         "date": "2020-01-22"
@@ -13771,6 +14041,56 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "10个程序员需要收藏的良心网站，你绝对没有用过",
+        "link": "https://www.ershicimi.com/p/b720cfa1a8a5137cef0ed44551930008",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "几张图五分钟让你轻松读懂TCP协议（图文并茂）",
+        "link": "https://www.ershicimi.com/p/3a3bc0eadab59b78093298fc9f524c7e",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "Redis牛逼！轻松实现实时订阅推送",
+        "link": "https://www.ershicimi.com/p/80f964f40a26085ce2d42f634107a0a7",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "数据库连接池到底应该设多大？这里面有大学问",
+        "link": "https://www.ershicimi.com/p/faaca74837c72111f57bf48a5a7e1ff4",
+        "date": "2020-03-05"
+      },
+      {
+        "title": "一款基于SpringBoot + Spring Security的后台管理系统，强烈推荐，直接用",
+        "link": "https://www.ershicimi.com/p/310121f83c143fb70ae50898a89f057e",
+        "date": "2020-03-05"
+      },
+      {
+        "title": "大数据(生于2006，卒于2019)已死！",
+        "link": "https://www.ershicimi.com/p/fd56f099e73ed7b281cc4f0aaa5b33d4",
+        "date": "2020-03-04"
+      },
+      {
+        "title": "阿里巴巴架构师，讲透2亿用户的钉钉系统架构实践",
+        "link": "https://www.ershicimi.com/p/e07cc193d21f2d4a8f019d2c93f2bd3f",
+        "date": "2020-03-04"
+      },
+      {
+        "title": "130 个相见恨晚的超实用网站，一次性分享出来，十倍提高工作效率",
+        "link": "https://www.ershicimi.com/p/c721e6576b9cbbd49076ea1053206952",
+        "date": "2020-03-03"
+      },
+      {
+        "title": "这回把Spring @Async彻底搞懂了",
+        "link": "https://www.ershicimi.com/p/29fcdb5ee1f161bfd181c8bcd5bd1304",
+        "date": "2020-03-03"
+      },
+      {
+        "title": "12306被破解！",
+        "link": "https://www.ershicimi.com/p/28131b2d71ad515dff5ae47933df2dc1",
+        "date": "2020-03-03"
+      },
       {
         "title": "从微服务跨越到中台，架构领域年度盘点！",
         "link": "http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489685&idx=1&sn=a41a25e866e01e63bd9f55d1a29b815f&chksm=ea5cd5f3dd2b5ce5042ed2646a74794dcc847bbdfc49a398432da14129373fc8bac10d353b2e&scene=27#wechat_redirect",
@@ -14348,6 +14668,56 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "连软件bug都不能传回北京！美商务部有点蛮横；TikTok被指向中国政府泄露数据；华为为武汉抗疫员工",
+        "link": "https://www.ershicimi.com/p/8de99d89102fcade1996030aec390751",
+        "date": "2020-03-07"
+      },
+      {
+        "title": "宕机2天，千万股民“血本无归”，就赔偿15美元？",
+        "link": "https://www.ershicimi.com/p/ea5142a205566794162f57affaa47fc9",
+        "date": "2020-03-07"
+      },
+      {
+        "title": "图分析技术部署及实战解析丨在线课堂",
+        "link": "https://www.ershicimi.com/p/1161234339c4209c2dbc0d1c86aee93f",
+        "date": "2020-03-07"
+      },
+      {
+        "title": "关于 Kubernetes 规划的灵魂 N 问",
+        "link": "https://www.ershicimi.com/p/3d649580fa21106427d70073c35289f6",
+        "date": "2020-03-07"
+      },
+      {
+        "title": "谷歌、微软也开始远程办公了，工程师发文吐槽：VPN 都是垃圾",
+        "link": "https://www.ershicimi.com/p/8eb4fb442882af559dc71aeef42e1f97",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "技术选型，不是技术造型丨Q 评论",
+        "link": "https://www.ershicimi.com/p/5af97e7e7511588f89fec05e5875c4e9",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "4万名医生在线、访问量过亿，揭秘远程医疗背后的技术",
+        "link": "https://www.ershicimi.com/p/9dcb229feb72adf67303f123445d596c",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "PWA 对比原生应用：谁更胜一筹？",
+        "link": "https://www.ershicimi.com/p/eb90d488e33fe132686cadac8339d921",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "刷脸支付还不够，万事达卡探索步态、心跳和静脉方式支付",
+        "link": "https://www.ershicimi.com/p/1f03ced2a5f9954c47a06ee1229aa00d",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "年前裸辞的程序员：我的职业生涯“宕机”了",
+        "link": "https://www.ershicimi.com/p/5aac024b01b78dc0a838774d0246f214",
+        "date": "2020-03-05"
+      },
       {
         "title": "从今天开始，我们为你免费开放 848 个课程 | 极客时间企业版",
         "link": "http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024054&idx=1&sn=6de6ed130c5bfecfc599de705776ca5d&chksm=bdbe92e58ac91bf3579398607d59d31ac6c9655b7ae49ec9074de1151429a8c227fc94cbe0d2&scene=27#wechat_redirect",
@@ -15195,6 +15565,56 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "Nginx配置Https零基础教程",
+        "link": "https://www.ershicimi.com/p/2d65466154cde3563c34a8391491902e",
+        "date": "2020-03-07"
+      },
+      {
+        "title": "Vue+Element前端导入导出Excel",
+        "link": "https://www.ershicimi.com/p/b0e581c5c5392d159554154679ef1e7f",
+        "date": "2020-03-06"
+      },
+      {
+        "title": "Vue人人都会，你的优势应该在哪里？",
+        "link": "https://www.ershicimi.com/p/fa3c0adf922651ac63c0338b182ade1b",
+        "date": "2020-03-05"
+      },
+      {
+        "title": "重磅！微信官方推出 Web 前端和小程序统一框架",
+        "link": "https://www.ershicimi.com/p/0b756a4e4c8a38ee3881ca474101fbf0",
+        "date": "2020-03-04"
+      },
+      {
+        "title": "高频使用的 Git 命令",
+        "link": "https://www.ershicimi.com/p/49b3760af76ff7c5af6158f1a471b700",
+        "date": "2020-03-03"
+      },
+      {
+        "title": "三年大厂面试官：二面题",
+        "link": "https://www.ershicimi.com/p/ab90dfe12cfb891c7235ed55f39b1b6d",
+        "date": "2020-03-03"
+      },
+      {
+        "title": "开发人今年的金三银四，就白费了？",
+        "link": "https://www.ershicimi.com/p/5d1788fbceabd88f2ca993995f68d810",
+        "date": "2020-03-02"
+      },
+      {
+        "title": "手把手教你写出令人窒息的烂代码",
+        "link": "https://www.ershicimi.com/p/b0ef631a6f670661e7322595a1218e80",
+        "date": "2020-02-29"
+      },
+      {
+        "title": "我为什么要立刻放弃React而使用Vue？",
+        "link": "https://www.ershicimi.com/p/b25807ba7fbf20504e838317d6b212ec",
+        "date": "2020-02-28"
+      },
+      {
+        "title": "招聘量骤减，70%的求职者被拒，开发者该如何突围？",
+        "link": "https://www.ershicimi.com/p/bb7a1e879463c892a33449a9e4dc14e6",
+        "date": "2020-02-27"
+      },
       {
         "title": "我会这么多技术栈，为什么连面试机会都不给我？",
         "link": "http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498182&idx=1&sn=76e0605308a677e487d037b4f18daf44&chksm=80f1af0eb78626187424166328bacdc25bc03f1b59709cc6f90e5725c00a31fe192ee91a27fe&scene=27#wechat_redirect",
