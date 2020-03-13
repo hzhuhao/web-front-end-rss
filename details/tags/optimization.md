@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-09 10:33:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-13 13:57:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -65,6 +65,8 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-02-26-前端高级进阶：如何更好地优化打包资源](https://www.ershicimi.com/p/f75535aab170a223ac5b638cb2a4f5f4) 
+- [2020-03-12-去阿里面试被问：如果是MySQL引起的CPU消耗过大，你会如何优化？](https://www.ershicimi.com/p/d22370ee376abfa42ab3f34454bd179f) 
+- [2020-03-10-记录一次MySQL两千万数据的大表优化解决过程，提供三种解决方案](https://www.ershicimi.com/p/f51769e3d6546cd7186b74756ebf55d7) 
 - [2020-01-20-一次SQL查询优化原理分析（900W+数据，从17s到300ms）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489676&idx=4&sn=4be19f8c10cc05fecc2589af5a828e94&chksm=ea5cd5eadd2b5cfcf9722a42c73edde3ed4a1ae665403608ee5ce3c3112298ce876b79db9d7c&scene=27#wechat_redirect) 
 - [2019-12-29-性能优化:要2个月才跑完的程序我是如何优化到到4小时的？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=3&sn=f8d5c870f93219c444cd1ea2cd9aed93&chksm=ea5cdad7dd2b53c1cfa4e53aa1d7d9d349c98d4a3d4e5f76c2e22f157ef82471b2942b03e517&scene=27#wechat_redirect) 
 - [2019-12-23-ES亿级数据检索优化，三秒返回突破性能瓶颈](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=1&sn=77d2403461c32d7928133520b8ba8d17&chksm=ea5cda0fdd2b5319949f4ada3f67be43ef9c6488f76de8448465edd619f4e6f6c6860ec5dc03&scene=27#wechat_redirect) 

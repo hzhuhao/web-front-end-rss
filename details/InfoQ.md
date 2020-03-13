@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-03-09 10:33:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-13 13:57:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-03-12-B站“出圈”：技术不够，运营来凑？](https://www.ershicimi.com/p/56bf0caace767ff774790fa5a4e8156f) 
+- [2020-03-11-人脸搜索：你的面孔，他们的“玩物”？](https://www.ershicimi.com/p/48d60a4738a9da17e279f4d8c492e925) 
+- [2020-03-11-架构设计原则之我见：反思KISS原则背后的深层含义](https://www.ershicimi.com/p/b84a533f9c3c163053af079a29e9e74f) 
+- [2020-03-11-微服务发展至今，-Service-Mesh-在业界有哪些值得参考的落地实践？](https://www.ershicimi.com/p/eca891e53d1a2d4f1a30a3eee07f8d30) 
+- [2020-03-11-【有奖调研】在深度学习的路上，哪些框架或学习平台值得推荐？](https://www.ershicimi.com/p/ccadf2e0be46431d95b5f608646611ba) 
+- [2020-03-11-Kubernetes-并不适合大多数团队](https://www.ershicimi.com/p/d02c77b56915628daa18219148b4f9b1) 
+- [2020-03-10-100-个案例，帮你避开-Java-开发的-130-个坑-|-极客时间](https://www.ershicimi.com/p/4ea848b65ec6c7eb60a083165fd4c6fe) 
+- [2020-03-10-940-万用户数据泄露，450-万罚款，国泰航空为“低级失误”买单](https://www.ershicimi.com/p/c82972ad1b7948e4ad7702ec3af1f781) 
+- [2020-03-10-CNCF-发布年度报告，84%-受访者已经在应用容器](https://www.ershicimi.com/p/0ceb79e6684d28865b9d468f3b4d4edd) 
+- [2020-03-10-让团队成员每天准时下班的-4-条建议](https://www.ershicimi.com/p/2b31dc749efa0aef544d67c452002f48) 
 - [2020-03-07-连软件bug都不能传回北京！美商务部有点蛮横；TikTok被指向中国政府泄露数据；华为为武汉抗疫员工](https://www.ershicimi.com/p/8de99d89102fcade1996030aec390751) 
 - [2020-03-07-宕机2天，千万股民“血本无归”，就赔偿15美元？](https://www.ershicimi.com/p/ea5142a205566794162f57affaa47fc9) 
 - [2020-03-07-图分析技术部署及实战解析丨在线课堂](https://www.ershicimi.com/p/1161234339c4209c2dbc0d1c86aee93f) 

@@ -3862,6 +3862,36 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "前端技术者在 Vue3.0 的浪潮下如何奋勇激进？",
+        "link": "https://www.ershicimi.com/p/7f48fe97f70e45bccb1089f693a9e122",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "又来了！Google 和微软在浏览器上的互掐",
+        "link": "https://www.ershicimi.com/p/5bc6084825cf2a06eb65efcb3a83c965",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "万字长文带你深度解锁Webpack（进阶篇）",
+        "link": "https://www.ershicimi.com/p/172da1d5db8683ae94b46516351e7597",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "“不降薪就裸辞”，高薪开发者如何打破复工魔咒？",
+        "link": "https://www.ershicimi.com/p/e9959abfd14f1397615cf53f0db42224",
+        "date": "2020-03-09"
+      },
+      {
+        "title": "Node.js CLI 工具最佳实践",
+        "link": "https://www.ershicimi.com/p/9e02cdb47e1588922a43c15c2fdd7734",
+        "date": "2020-03-09"
+      },
+      {
+        "title": "如何轻松拿到淘宝前端 offer",
+        "link": "https://www.ershicimi.com/p/b0fb269a4d1d725ba66a25a19095979f",
+        "date": "2020-03-08"
+      },
+      {
         "title": "4W字长文带你深度解锁Webpack系列(上)",
         "link": "https://www.ershicimi.com/p/a7a94be90091f420cf658bb93fbcc5ee",
         "date": "2020-03-07"
@@ -7414,6 +7444,31 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "Ant Design 4.0发布，我们和核心作者聊了聊",
+        "link": "https://www.ershicimi.com/p/a00056fea0d341b575dfe644310bbc96",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "我开源了一款JS打包/压缩工具，比其他工具快10-100倍！",
+        "link": "https://www.ershicimi.com/p/3339ddec51bd51e82fe095213344ce6d",
+        "date": "2020-03-09"
+      },
+      {
+        "title": "提升前端开发效率：你应该知道的10个Chrome扩展程序",
+        "link": "https://www.ershicimi.com/p/3cc0a6d24d481d2366b32777b217e182",
+        "date": "2020-03-09"
+      },
+      {
+        "title": "半个月从前端转型机器学习，看他们是如何做到的？ | 极客大学",
+        "link": "https://www.ershicimi.com/p/4c3d019eed2507ba64d8af8cbb371ea1",
+        "date": "2020-03-09"
+      },
+      {
+        "title": "前端周报：华为为深入武汉抗疫一线员工提供每人每天两千元补助；Debian领导人不参与今年DPL竞选；",
+        "link": "https://www.ershicimi.com/p/ffe335db23eaa3205e0756ac1cd865dd",
+        "date": "2020-03-08"
+      },
+      {
         "title": "2020 前端开源领域技术展望",
         "link": "https://www.ershicimi.com/p/0732dec7f89f2940f2939065226d419b",
         "date": "2020-03-06"
@@ -10456,6 +10511,11 @@
     "link": "https://fed.taobao.org",
     "items": [
       {
+        "title": "一个前端智能化的实践",
+        "link": "https://fed.taobao.org/blog/taofed/do71ct/practice-in-frontend",
+        "date": "2020-03-02"
+      },
+      {
         "title": "初识前端智能化",
         "link": "https://fed.taobao.org/blog/taofed/do71ct/start-to-know-intelligense",
         "date": "2020-02-19"
@@ -10782,6 +10842,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "关于CSS emoji字体和OpenType-SVG我所知道的一些事",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/",
+        "date": "2020-03-12"
+      },
       {
         "title": "检测DOM尺寸变化JS API ResizeObserver简介",
         "link": "https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/",
@@ -11349,6 +11414,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊：第 98 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html",
+        "date": "2020-03-13"
+      },
       {
         "title": "科技爱好者周刊：第 97 期",
         "link": "http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html",
@@ -12384,6 +12454,11 @@
     "link": "https://jdc.jd.com",
     "items": [
       {
+        "title": "NutUI 3.0 中单元测试的探索和实践",
+        "link": "https://jdc.jd.com/archives/213007",
+        "date": "2020-03-10"
+      },
+      {
         "title": "用户说的都是真的吗？这些陷阱要避开",
         "link": "https://jdc.jd.com/archives/212987",
         "date": "2019-06-28"
@@ -12525,6 +12600,11 @@
     "title": "Aotu-|-凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "JDRD开发小结",
+        "link": "https://aotu.io/notes/2020/02/21/jdrd-summary/",
+        "date": "2020-02-21"
+      },
       {
         "title": "Web 中文字体处理总结",
         "link": "https://aotu.io/notes/2020/02/28/webfont-processing/",
@@ -13488,6 +13568,21 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "webpack 中实现自动识别 CSS Modules",
+        "link": "https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "从 JS 引擎到 JS 运行时（上）",
+        "link": "https://www.ershicimi.com/p/b7babd35a7cdbcd8d1dbe3516dddb6d9",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "疫情专题之ECharts 经验总结",
+        "link": "https://www.ershicimi.com/p/7ba1a911b92345fdd4cee5c3efb65095",
+        "date": "2020-03-09"
+      },
+      {
         "title": "忍法，scroll 翻滚之术！",
         "link": "https://www.ershicimi.com/p/23227d5542faae5371b2bb0467ad53d3",
         "date": "2020-03-07"
@@ -13865,6 +13960,11 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "如何轻松拿到淘宝前端 offer",
+        "link": "https://www.ershicimi.com/p/cd16415b005856ba512a52e53dc680c1",
+        "date": "2020-03-11"
+      },
+      {
         "title": "Nginx配置Https零基础教程",
         "link": "https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725",
         "date": "2020-03-06"
@@ -14041,6 +14141,56 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "去阿里面试被问：如果是MySQL引起的CPU消耗过大，你会如何优化？",
+        "link": "https://www.ershicimi.com/p/d22370ee376abfa42ab3f34454bd179f",
+        "date": "2020-03-12"
+      },
+      {
+        "title": "用漫画让你彻底搞懂 Linux 内核到底长啥样！",
+        "link": "https://www.ershicimi.com/p/da4591854ff3010e948fdca57cffd834",
+        "date": "2020-03-12"
+      },
+      {
+        "title": "六面美团后，我有一个重要的发现...",
+        "link": "https://www.ershicimi.com/p/4fe6ace8405e70adbb716654ecc7a02c",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "5种将死的编程语言",
+        "link": "https://www.ershicimi.com/p/a9286227fe47d563b2c3d8ae580b9c1a",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "1.3万亿条数据查询毫秒级响应,如何做到的？",
+        "link": "https://www.ershicimi.com/p/a1c6ce583f5932537249948eab0aad96",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "支付宝系统架构（内部架构图）",
+        "link": "https://www.ershicimi.com/p/97d9b512a7a7fe5a279bdc37acc34205",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "记录一次MySQL两千万数据的大表优化解决过程，提供三种解决方案",
+        "link": "https://www.ershicimi.com/p/f51769e3d6546cd7186b74756ebf55d7",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "代码调试神器：VS Code 开源新工具！",
+        "link": "https://www.ershicimi.com/p/7a0d6a4af93cb08881539ab06f10bbf6",
+        "date": "2020-03-09"
+      },
+      {
+        "title": "互联网后端基础设施，都有哪些？",
+        "link": "https://www.ershicimi.com/p/3423189cb46ffa16a2fd5caf40788c62",
+        "date": "2020-03-09"
+      },
+      {
+        "title": "实时海量日志分析系统的架构设计、实现以及思考",
+        "link": "https://www.ershicimi.com/p/078b8e950be8a12a019c4a8ed1a761b9",
+        "date": "2020-03-08"
+      },
       {
         "title": "10个程序员需要收藏的良心网站，你绝对没有用过",
         "link": "https://www.ershicimi.com/p/b720cfa1a8a5137cef0ed44551930008",
@@ -14668,6 +14818,56 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "B站“出圈”：技术不够，运营来凑？",
+        "link": "https://www.ershicimi.com/p/56bf0caace767ff774790fa5a4e8156f",
+        "date": "2020-03-12"
+      },
+      {
+        "title": "人脸搜索：你的面孔，他们的“玩物”？",
+        "link": "https://www.ershicimi.com/p/48d60a4738a9da17e279f4d8c492e925",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "架构设计原则之我见：反思KISS原则背后的深层含义",
+        "link": "https://www.ershicimi.com/p/b84a533f9c3c163053af079a29e9e74f",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "微服务发展至今， Service Mesh 在业界有哪些值得参考的落地实践？",
+        "link": "https://www.ershicimi.com/p/eca891e53d1a2d4f1a30a3eee07f8d30",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "【有奖调研】在深度学习的路上，哪些框架或学习平台值得推荐？",
+        "link": "https://www.ershicimi.com/p/ccadf2e0be46431d95b5f608646611ba",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "Kubernetes 并不适合大多数团队",
+        "link": "https://www.ershicimi.com/p/d02c77b56915628daa18219148b4f9b1",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "100 个案例，帮你避开 Java 开发的 130 个坑 | 极客时间",
+        "link": "https://www.ershicimi.com/p/4ea848b65ec6c7eb60a083165fd4c6fe",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "940 万用户数据泄露，450 万罚款，国泰航空为“低级失误”买单",
+        "link": "https://www.ershicimi.com/p/c82972ad1b7948e4ad7702ec3af1f781",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "CNCF 发布年度报告，84% 受访者已经在应用容器",
+        "link": "https://www.ershicimi.com/p/0ceb79e6684d28865b9d468f3b4d4edd",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "让团队成员每天准时下班的 4 条建议",
+        "link": "https://www.ershicimi.com/p/2b31dc749efa0aef544d67c452002f48",
+        "date": "2020-03-10"
+      },
       {
         "title": "连软件bug都不能传回北京！美商务部有点蛮横；TikTok被指向中国政府泄露数据；华为为武汉抗疫员工",
         "link": "https://www.ershicimi.com/p/8de99d89102fcade1996030aec390751",
