@@ -7444,6 +7444,31 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "张鑫旭：我对前端从业人员分布与技术风向的一点看法",
+        "link": "https://www.ershicimi.com/p/f82936486b8344bff7e176df157c1a0d",
+        "date": "2020-03-12"
+      },
+      {
+        "title": "Wasm 在物联网、云和多媒体领域发展现状（首届 WebAssembly Sumimit 解析下篇）",
+        "link": "https://www.ershicimi.com/p/7981343de570f17ccd1d2af9afac9386",
+        "date": "2020-03-12"
+      },
+      {
+        "title": "从首届 WebAssembly Summit 看 Wasm 未来发展方向——安全性、性能和浏览器引擎",
+        "link": "https://www.ershicimi.com/p/e40a9ef7f17cdea3046e7e5283f4695b",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "苹果开源ArgumentParser：为Swift加个工具？",
+        "link": "https://www.ershicimi.com/p/b913fe5c75ef43643dfac31f8f71c6b8",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "如何将研发团队的学习成本降至每年300元/人？| 极客时间",
+        "link": "https://www.ershicimi.com/p/58a25aefbbb0f08703454ae6d8394538",
+        "date": "2020-03-11"
+      },
+      {
         "title": "Ant Design 4.0发布，我们和核心作者聊了聊",
         "link": "https://www.ershicimi.com/p/a00056fea0d341b575dfe644310bbc96",
         "date": "2020-03-10"
@@ -14142,6 +14167,16 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "进入大厂的面试经验详细总结（P7 拿 offer）",
+        "link": "https://www.ershicimi.com/p/babb5685065e5967bebd16a93f3566e6",
+        "date": "2020-03-13"
+      },
+      {
+        "title": "IDEA 的这款插件真是逆天了，代码那都不是事！",
+        "link": "https://www.ershicimi.com/p/3ebc9958db2bb2ea44536f37853e2ffc",
+        "date": "2020-03-13"
+      },
+      {
         "title": "去阿里面试被问：如果是MySQL引起的CPU消耗过大，你会如何优化？",
         "link": "https://www.ershicimi.com/p/d22370ee376abfa42ab3f34454bd179f",
         "date": "2020-03-12"
@@ -15765,6 +15800,36 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "2020年需要学习的8个前端关键技能",
+        "link": "https://www.ershicimi.com/p/2a7524ec0619a81f87cb608b6643979b",
+        "date": "2020-03-13"
+      },
+      {
+        "title": "网站性能优化之度量篇",
+        "link": "https://www.ershicimi.com/p/ab19dfa169962f6acaae932d092a7c69",
+        "date": "2020-03-12"
+      },
+      {
+        "title": "如何轻松拿到淘宝前端 offer",
+        "link": "https://www.ershicimi.com/p/8a54889ba56f1061d7adcbe0fe59e0d7",
+        "date": "2020-03-11"
+      },
+      {
+        "title": "Vue如何实现疫情地图展示",
+        "link": "https://www.ershicimi.com/p/85e575e25723862953d42ce443188b25",
+        "date": "2020-03-10"
+      },
+      {
+        "title": "React，想说爱你，并不容易",
+        "link": "https://www.ershicimi.com/p/42a9014ed93cd5d26dc34d2bbcd4328c",
+        "date": "2020-03-09"
+      },
+      {
+        "title": "前端基础知识概述 -- 移动端开发的屏幕、图像、字体与布局的兼容适配",
+        "link": "https://www.ershicimi.com/p/84be756ee7339f027542fdb05e6bc0a7",
+        "date": "2020-03-08"
+      },
       {
         "title": "Nginx配置Https零基础教程",
         "link": "https://www.ershicimi.com/p/2d65466154cde3563c34a8391491902e",

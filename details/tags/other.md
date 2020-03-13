@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-13 13:57:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-13 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -363,6 +363,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-03-12-张鑫旭：我对前端从业人员分布与技术风向的一点看法](https://www.ershicimi.com/p/f82936486b8344bff7e176df157c1a0d) 
+- [2020-03-11-苹果开源ArgumentParser：为Swift加个工具？](https://www.ershicimi.com/p/b913fe5c75ef43643dfac31f8f71c6b8) 
+- [2020-03-11-如何将研发团队的学习成本降至每年300元/人？|-极客时间](https://www.ershicimi.com/p/58a25aefbbb0f08703454ae6d8394538) 
 - [2020-03-10-Ant-Design-4.0发布，我们和核心作者聊了聊](https://www.ershicimi.com/p/a00056fea0d341b575dfe644310bbc96) 
 - [2020-03-09-半个月从前端转型机器学习，看他们是如何做到的？-|-极客大学](https://www.ershicimi.com/p/4c3d019eed2507ba64d8af8cbb371ea1) 
 - [2020-03-08-前端周报：华为为深入武汉抗疫一线员工提供每人每天两千元补助；Debian领导人不参与今年DPL竞选；](https://www.ershicimi.com/p/ffe335db23eaa3205e0756ac1cd865dd) 
@@ -835,6 +838,7 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-03-13-IDEA-的这款插件真是逆天了，代码那都不是事！](https://www.ershicimi.com/p/3ebc9958db2bb2ea44536f37853e2ffc) 
 - [2020-03-12-用漫画让你彻底搞懂-Linux-内核到底长啥样！](https://www.ershicimi.com/p/da4591854ff3010e948fdca57cffd834) 
 - [2020-03-11-六面美团后，我有一个重要的发现...](https://www.ershicimi.com/p/4fe6ace8405e70adbb716654ecc7a02c) 
 - [2020-03-11-5种将死的编程语言](https://www.ershicimi.com/p/a9286227fe47d563b2c3d8ae580b9c1a) 
@@ -1098,6 +1102,8 @@
 - [2019-12-24-中台进入冷静期，看清自己比盲目追随更重要](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=2&sn=e15f0d21dd1e04efa017b5fae3305baf&chksm=bdbe9f138ac91605f4c143d9b0d3fbbed83da8514eefedb331be5e489e6c8904f71fb7404f87&scene=27#wechat_redirect) 
 - [2019-12-24-金融大数据公司接连被查，爬虫到底犯法吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=3&sn=7492a5ad9e6dfc522d3acb6b4e92bc19&chksm=bdbe9f138ac91605b0e5405df6f331c48586b551cc73f15d7028fb93a54d8fcb7d900961bcab&scene=27#wechat_redirect) 
 - [2019-12-24-这一天，成都的开发人员都经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=4&sn=7cf54be8cca25b28a57e4edfd44f7213&chksm=bdbe9f138ac916055bba182449a4c35f28747d57d0cead06d4880327e29b8c4877bc15b7e4ca&scene=27#wechat_redirect) 
+- [2020-03-13-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/2a7524ec0619a81f87cb608b6643979b) 
+- [2020-03-11-如何轻松拿到淘宝前端-offer](https://www.ershicimi.com/p/8a54889ba56f1061d7adcbe0fe59e0d7) 
 - [2020-03-02-开发人今年的金三银四，就白费了？](https://www.ershicimi.com/p/5d1788fbceabd88f2ca993995f68d810) 
 - [2020-02-29-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b0ef631a6f670661e7322595a1218e80) 
 - [2020-01-21-Ant-Design-4.0：创造快乐工作](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498171&idx=1&sn=4abf43485d740798c54123e42d041f04&chksm=80f1af73b78626653eadd736fa3865d2ab2a5256842afaee61b4750a60bc7f6ea2998099df86&scene=27#wechat_redirect) 

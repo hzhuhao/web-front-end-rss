@@ -1,10 +1,16 @@
-:alarm_clock: 更新时间: 2020-03-09 10:33:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-13 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
 
 
 
+- [2020-03-13-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/2a7524ec0619a81f87cb608b6643979b) 
+- [2020-03-12-网站性能优化之度量篇](https://www.ershicimi.com/p/ab19dfa169962f6acaae932d092a7c69) 
+- [2020-03-11-如何轻松拿到淘宝前端-offer](https://www.ershicimi.com/p/8a54889ba56f1061d7adcbe0fe59e0d7) 
+- [2020-03-10-Vue如何实现疫情地图展示](https://www.ershicimi.com/p/85e575e25723862953d42ce443188b25) 
+- [2020-03-09-React，想说爱你，并不容易](https://www.ershicimi.com/p/42a9014ed93cd5d26dc34d2bbcd4328c) 
+- [2020-03-08-前端基础知识概述----移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/84be756ee7339f027542fdb05e6bc0a7) 
 - [2020-03-07-Nginx配置Https零基础教程](https://www.ershicimi.com/p/2d65466154cde3563c34a8391491902e) 
 - [2020-03-06-Vue+Element前端导入导出Excel](https://www.ershicimi.com/p/b0e581c5c5392d159554154679ef1e7f) 
 - [2020-03-05-Vue人人都会，你的优势应该在哪里？](https://www.ershicimi.com/p/fa3c0adf922651ac63c0338b182ade1b) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-13 13:57:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-13 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -430,6 +430,7 @@
 - [2020-01-25-华为事件出现转机：内部反对，美国商务部打压华为新规已撤回！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=2&sn=7bad47a82f94b6aa60bc59a5dffcfa50&chksm=bdbe92638ac91b75d55099ce86d940ded72052c8d71ace8c17c2a689cf5924b54405b26aa20d&scene=27#wechat_redirect) 
 - [2020-01-08-未来有望干掉-Python-和-JavaScript-的编程语言](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023518&idx=1&sn=e3d90704ded3774936d4eb72d6b6cca5&chksm=bdbe90cd8ac919db57ea9a8b5592dfdc63e4058aad1772a914aa1e50834e721b7835dddd6e9b&scene=27#wechat_redirect) 
 - [2020-01-01-2019-年-WebAssembly-盘点：跟-JavaScript-的相爱相杀](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=4&sn=e394fc4a06284ba3ce2aad8be353ea21&chksm=bdbe90738ac919659a4682c67a7819a4066b6acbd875e7a7e28b2d54a5b60e7474e1bb0f7529&scene=27#wechat_redirect) 
+- [2020-03-08-前端基础知识概述----移动端开发的屏幕、图像、字体与布局的兼容适配](https://www.ershicimi.com/p/84be756ee7339f027542fdb05e6bc0a7) 
 - [2020-01-13-2020年了，JavaScript依然是前端最受欢迎的语言吗？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498156&idx=1&sn=fde5b6be598cfade366eb510d830ba64&chksm=80f1af64b7862672c324a8d792043e001d31840ab93c5834a01988086c970768a23d4d13414f&scene=27#wechat_redirect) 
 - [2019-12-28-JavaScript-中的数据结构：写给前端软件工程师](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498111&idx=1&sn=3d195481f4e5037253b7358864975377&chksm=80f1afb7b78626a1aa95c9d61edb2c289d057e5529133f134277d15a20925ae3955f43c5d3fe&scene=27#wechat_redirect) 
 - [2019-12-23-2019-年-JavaScript-现状调查报告](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498096&idx=2&sn=b2a5cc840f0fc59e03210d6500904eb6&chksm=80f1afb8b78626aedbcb4823e752685c9944912feeb7c75d88f5c8be609dac69f24c5c981df7&scene=27#wechat_redirect) 

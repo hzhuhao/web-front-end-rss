@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-13 13:57:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-13 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -38,6 +38,7 @@
 - [2018-10-25-页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=3&sn=cc7d562c522aff4e4c322ac84fbdf932#wechat_redirect) 
 - [2018-10-24-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=1&sn=76ae3e8f1f9af2e6bde171b7957540c2#wechat_redirect) 
 - [2018-09-28-上拉加载下拉刷新了解下](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=2&sn=fb35bd4e10d87fe8be823677f9340194#wechat_redirect) 
+- [2020-03-11-从首届-WebAssembly-Summit-看-Wasm-未来发展方向——安全性、性能和浏览器引擎](https://www.ershicimi.com/p/e40a9ef7f17cdea3046e7e5283f4695b) 
 - [2020-03-05-抖音BoostMultiDex优化实践：Android低版本上APP首次启动时间减少80%](https://www.ershicimi.com/p/d0e387aee202f9da22ce42f59b932c74) 
 - [2019-12-03-如何提升低端设备的Web性能？试试自适应加载模式](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493279&idx=1&sn=a029a2a029eac42b5af348c920fff0f4&chksm=f95253dcce25daca2abdb2abfc218b7f3fc9d0fdcf2221b836969cd84c874fda39c19843610a&scene=27#wechat_redirect) 
 - [2019-11-13-2019年Chrome开发者峰会亮点：让所有用户告别加载延迟](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493063&idx=1&sn=3eadb962068c0f7b9f8c347600930caa&chksm=f9525084ce25d9928826225e23e5a703f417c52e7a066883f7f63d4d72a764e5e30b9ca9f19a&scene=27#wechat_redirect) 
@@ -73,6 +74,7 @@
 - [2020-01-17-我们是如何将-ToB-服务的交付能力优化-75%？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023703&idx=2&sn=d8d1856c482e6b2783d3fbfd83ba4ef5&chksm=bdbe91048ac918124a4b8984c7999dd70dc8611422eebec6e8688bdabdfd5453c4cd20064fa6&scene=27#wechat_redirect) 
 - [2020-01-14-极具“杀伤力”的性能调优，从几个思路说起](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023669&idx=4&sn=3fc40afe6c04f45f2663604cbdd92888&chksm=bdbe91668ac91870ac475ec82998d2edbb8360f94e6331e6aa42b51b3318c44b50cb990a9eb2&scene=27#wechat_redirect) 
 - [2019-12-27-基于CPU的AI深度优化，如何打造业内领先的MLPerf推理性能？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=4&sn=47cd2e1496a074a5fe1e0f7a3cabcb2d&chksm=bdbe9fc38ac916d50452497bfb6cc4f87ec181d3cae553cd6ccdbc222b912207e26cad4d0eaf&scene=27#wechat_redirect) 
+- [2020-03-12-网站性能优化之度量篇](https://www.ershicimi.com/p/ab19dfa169962f6acaae932d092a7c69) 
 - [2020-01-22-你以为什么是perfomance之前端基础性能监测](https://juejin.im/post/5e26c8cf5188254d9032a62c) 
 - [2020-01-19-前端极致性能优化手册大全](https://juejin.im/post/5e22a5c15188254dc132fab4) 
 - [2020-01-18-IM系统的前世今生——2小时快速搭建高性能、可拓展的IM系统](https://juejin.im/post/5e1b29366fb9a02fc31dda24) 
