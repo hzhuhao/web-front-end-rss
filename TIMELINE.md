@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-13 22:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-14 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -168,6 +168,7 @@
 - [【前端里】2020-03-08-24-个-ES6-方法，解决实际开发的-JS-问题](http://www.yyyweb.com/5354.html) 
 - [【前端里】2020-03-08-Ant-Design-4.0-正式版来了！](http://www.yyyweb.com/5352.html) 
 - [【JDC-|-京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
+- [【奇舞周刊】2020-03-13-奇舞周刊第-341-期：前端基础建设](https://www.ershicimi.com/p/fd61f3e48c9ff7f8269e084904686752) 
 - [【奇舞周刊】2020-03-11-webpack-中实现自动识别-CSS-Modules](https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e) 
 - [【奇舞周刊】2020-03-10-从-JS-引擎到-JS-运行时（上）](https://www.ershicimi.com/p/b7babd35a7cdbcd8d1dbe3516dddb6d9) 
 - [【奇舞周刊】2020-03-09-疫情专题之ECharts-经验总结](https://www.ershicimi.com/p/7ba1a911b92345fdd4cee5c3efb65095) 
@@ -202,6 +203,11 @@
 - [【互联网架构师】2020-03-03-130-个相见恨晚的超实用网站，一次性分享出来，十倍提高工作效率](https://www.ershicimi.com/p/c721e6576b9cbbd49076ea1053206952) 
 - [【互联网架构师】2020-03-03-这回把Spring-@Async彻底搞懂了](https://www.ershicimi.com/p/29fcdb5ee1f161bfd181c8bcd5bd1304) 
 - [【互联网架构师】2020-03-03-12306被破解！](https://www.ershicimi.com/p/28131b2d71ad515dff5ae47933df2dc1) 
+- [【InfoQ】2020-03-13-我们返岗了，硅谷“关门”了](https://www.ershicimi.com/p/aa8ce47fa3813c6987d2e95caba17de1) 
+- [【InfoQ】2020-03-13-科技改变金融是个伪命题吗？|-Q评论](https://www.ershicimi.com/p/2f7a069995cef0021d7e49c05455e916) 
+- [【InfoQ】2020-03-13-2020年大数据与AI结合的发展方向解读](https://www.ershicimi.com/p/caa1082ddb12c1910256dc7e82135259) 
+- [【InfoQ】2020-03-13-开发安全、高质量代码的-5-款顶级-Python-工具](https://www.ershicimi.com/p/e678192564c381f9f234fb2d2c5a6997) 
+- [【InfoQ】2020-03-13-2020-美国总统候选人必须回答的一个问题：如何看待比特币](https://www.ershicimi.com/p/dfeb7b290d5be158efff98a56e03af46) 
 - [【InfoQ】2020-03-12-B站“出圈”：技术不够，运营来凑？](https://www.ershicimi.com/p/56bf0caace767ff774790fa5a4e8156f) 
 - [【InfoQ】2020-03-11-人脸搜索：你的面孔，他们的“玩物”？](https://www.ershicimi.com/p/48d60a4738a9da17e279f4d8c492e925) 
 - [【InfoQ】2020-03-11-架构设计原则之我见：反思KISS原则背后的深层含义](https://www.ershicimi.com/p/b84a533f9c3c163053af079a29e9e74f) 

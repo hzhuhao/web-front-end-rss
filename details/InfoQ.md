@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-03-13 13:57:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-14 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-03-13-我们返岗了，硅谷“关门”了](https://www.ershicimi.com/p/aa8ce47fa3813c6987d2e95caba17de1) 
+- [2020-03-13-科技改变金融是个伪命题吗？|-Q评论](https://www.ershicimi.com/p/2f7a069995cef0021d7e49c05455e916) 
+- [2020-03-13-2020年大数据与AI结合的发展方向解读](https://www.ershicimi.com/p/caa1082ddb12c1910256dc7e82135259) 
+- [2020-03-13-开发安全、高质量代码的-5-款顶级-Python-工具](https://www.ershicimi.com/p/e678192564c381f9f234fb2d2c5a6997) 
+- [2020-03-13-2020-美国总统候选人必须回答的一个问题：如何看待比特币](https://www.ershicimi.com/p/dfeb7b290d5be158efff98a56e03af46) 
 - [2020-03-12-B站“出圈”：技术不够，运营来凑？](https://www.ershicimi.com/p/56bf0caace767ff774790fa5a4e8156f) 
 - [2020-03-11-人脸搜索：你的面孔，他们的“玩物”？](https://www.ershicimi.com/p/48d60a4738a9da17e279f4d8c492e925) 
 - [2020-03-11-架构设计原则之我见：反思KISS原则背后的深层含义](https://www.ershicimi.com/p/b84a533f9c3c163053af079a29e9e74f) 

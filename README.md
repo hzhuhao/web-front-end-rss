@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-13 22:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-14 08:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -24,10 +24,10 @@
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -70,7 +70,7 @@
 </summary>
 
 
-- [2020-03-12-8-个问题带你进阶-React](https://www.ershicimi.com/p/76a6df30c51ae9765d55a5e2c6f00a90) ![](assets/new.png)  
+- [2020-03-12-8-个问题带你进阶-React](https://www.ershicimi.com/p/76a6df30c51ae9765d55a5e2c6f00a90)  
 - [2020-03-11-前端技术者在-Vue3.0-的浪潮下如何奋勇激进？](https://www.ershicimi.com/p/7f48fe97f70e45bccb1089f693a9e122)  
 - [2020-03-11-又来了！Google-和微软在浏览器上的互掐](https://www.ershicimi.com/p/5bc6084825cf2a06eb65efcb3a83c965)  
 - [2020-03-10-万字长文带你深度解锁Webpack（进阶篇）](https://www.ershicimi.com/p/172da1d5db8683ae94b46516351e7597)  
@@ -318,6 +318,7 @@
 </summary>
 
 
+- [2020-03-13-奇舞周刊第-341-期：前端基础建设](https://www.ershicimi.com/p/fd61f3e48c9ff7f8269e084904686752) ![](assets/new.png)  
 - [2020-03-11-webpack-中实现自动识别-CSS-Modules](https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e)  
 - [2020-03-10-从-JS-引擎到-JS-运行时（上）](https://www.ershicimi.com/p/b7babd35a7cdbcd8d1dbe3516dddb6d9)  
 - [2020-03-09-疫情专题之ECharts-经验总结](https://www.ershicimi.com/p/7ba1a911b92345fdd4cee5c3efb65095)  
@@ -337,7 +338,6 @@
 - [2020-01-21-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591170&idx=2&sn=c97d64f59fb75aa43418ef26df9ccd95&chksm=8891dfe6bfe656f0e28f4388f1483559569431258fd1871674a3b7bf410e4527e57133fb2d1c&scene=27#wechat_redirect)  
 - [2020-01-21-大数据中心招聘React前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591170&idx=3&sn=d89b8532b73734c82a51411b7080dba5&chksm=8891dfe6bfe656f0541972fe315a333e904b3f6ebdf5f8d9dfc6d0974a7c6d0d54bbd351baaf&scene=27#wechat_redirect)  
 - [2020-01-20-从koa/redux看如何设计中间件](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591165&idx=1&sn=03c47691a515e367a77246fc400dbc0d&chksm=8891df99bfe6568f52ebd608f1a210552820e2934218cdd5a73902d1346d688e81514dd15445&scene=27#wechat_redirect)  
-- [2020-01-20-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591165&idx=2&sn=95e910c8b5d2387998c584dfcb80da2f&chksm=8891df99bfe6568f11364b5f902cb55eb02d62589664c80901c59c1a5c8885379546f5644c9e&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,6 +411,11 @@
 </summary>
 
 
+- [2020-03-13-我们返岗了，硅谷“关门”了](https://www.ershicimi.com/p/aa8ce47fa3813c6987d2e95caba17de1) ![](assets/new.png)  
+- [2020-03-13-科技改变金融是个伪命题吗？|-Q评论](https://www.ershicimi.com/p/2f7a069995cef0021d7e49c05455e916) ![](assets/new.png)  
+- [2020-03-13-2020年大数据与AI结合的发展方向解读](https://www.ershicimi.com/p/caa1082ddb12c1910256dc7e82135259) ![](assets/new.png)  
+- [2020-03-13-开发安全、高质量代码的-5-款顶级-Python-工具](https://www.ershicimi.com/p/e678192564c381f9f234fb2d2c5a6997) ![](assets/new.png)  
+- [2020-03-13-2020-美国总统候选人必须回答的一个问题：如何看待比特币](https://www.ershicimi.com/p/dfeb7b290d5be158efff98a56e03af46) ![](assets/new.png)  
 - [2020-03-12-B站“出圈”：技术不够，运营来凑？](https://www.ershicimi.com/p/56bf0caace767ff774790fa5a4e8156f)  
 - [2020-03-11-人脸搜索：你的面孔，他们的“玩物”？](https://www.ershicimi.com/p/48d60a4738a9da17e279f4d8c492e925)  
 - [2020-03-11-架构设计原则之我见：反思KISS原则背后的深层含义](https://www.ershicimi.com/p/b84a533f9c3c163053af079a29e9e74f)  
@@ -426,11 +431,6 @@
 - [2020-03-07-图分析技术部署及实战解析丨在线课堂](https://www.ershicimi.com/p/1161234339c4209c2dbc0d1c86aee93f)  
 - [2020-03-07-关于-Kubernetes-规划的灵魂-N-问](https://www.ershicimi.com/p/3d649580fa21106427d70073c35289f6)  
 - [2020-03-06-谷歌、微软也开始远程办公了，工程师发文吐槽：VPN-都是垃圾](https://www.ershicimi.com/p/8eb4fb442882af559dc71aeef42e1f97)  
-- [2020-03-06-技术选型，不是技术造型丨Q-评论](https://www.ershicimi.com/p/5af97e7e7511588f89fec05e5875c4e9)  
-- [2020-03-06-4万名医生在线、访问量过亿，揭秘远程医疗背后的技术](https://www.ershicimi.com/p/9dcb229feb72adf67303f123445d596c)  
-- [2020-03-06-PWA-对比原生应用：谁更胜一筹？](https://www.ershicimi.com/p/eb90d488e33fe132686cadac8339d921)  
-- [2020-03-06-刷脸支付还不够，万事达卡探索步态、心跳和静脉方式支付](https://www.ershicimi.com/p/1f03ced2a5f9954c47a06ee1229aa00d)  
-- [2020-03-05-年前裸辞的程序员：我的职业生涯“宕机”了](https://www.ershicimi.com/p/5aac024b01b78dc0a838774d0246f214)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

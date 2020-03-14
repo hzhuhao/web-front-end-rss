@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-13 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-14 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -782,6 +782,7 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-03-13-奇舞周刊第-341-期：前端基础建设](https://www.ershicimi.com/p/fd61f3e48c9ff7f8269e084904686752) 
 - [2020-03-09-疫情专题之ECharts-经验总结](https://www.ershicimi.com/p/7ba1a911b92345fdd4cee5c3efb65095) 
 - [2020-03-06-奇舞周刊第-340-期：前端进阶十日谈](https://www.ershicimi.com/p/627a36d8c608b030a5a640d9e71a6cf6) 
 - [2020-03-03-一文道尽软件架构及前端架构演进](https://www.ershicimi.com/p/a69f10e39ed50ebd90bfe2aed911c8e8) 
@@ -944,6 +945,10 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-03-13-我们返岗了，硅谷“关门”了](https://www.ershicimi.com/p/aa8ce47fa3813c6987d2e95caba17de1) 
+- [2020-03-13-科技改变金融是个伪命题吗？|-Q评论](https://www.ershicimi.com/p/2f7a069995cef0021d7e49c05455e916) 
+- [2020-03-13-2020年大数据与AI结合的发展方向解读](https://www.ershicimi.com/p/caa1082ddb12c1910256dc7e82135259) 
+- [2020-03-13-2020-美国总统候选人必须回答的一个问题：如何看待比特币](https://www.ershicimi.com/p/dfeb7b290d5be158efff98a56e03af46) 
 - [2020-03-12-B站“出圈”：技术不够，运营来凑？](https://www.ershicimi.com/p/56bf0caace767ff774790fa5a4e8156f) 
 - [2020-03-11-人脸搜索：你的面孔，他们的“玩物”？](https://www.ershicimi.com/p/48d60a4738a9da17e279f4d8c492e925) 
 - [2020-03-11-架构设计原则之我见：反思KISS原则背后的深层含义](https://www.ershicimi.com/p/b84a533f9c3c163053af079a29e9e74f) 
