@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-14 08:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-16 06:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -24,11 +24,11 @@
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)  
+- [InfoQ](#infoq)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -318,7 +318,7 @@
 </summary>
 
 
-- [2020-03-13-奇舞周刊第-341-期：前端基础建设](https://www.ershicimi.com/p/fd61f3e48c9ff7f8269e084904686752) ![](assets/new.png)  
+- [2020-03-13-奇舞周刊第-341-期：前端基础建设](https://www.ershicimi.com/p/fd61f3e48c9ff7f8269e084904686752)  
 - [2020-03-11-webpack-中实现自动识别-CSS-Modules](https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e)  
 - [2020-03-10-从-JS-引擎到-JS-运行时（上）](https://www.ershicimi.com/p/b7babd35a7cdbcd8d1dbe3516dddb6d9)  
 - [2020-03-09-疫情专题之ECharts-经验总结](https://www.ershicimi.com/p/7ba1a911b92345fdd4cee5c3efb65095)  
@@ -411,11 +411,11 @@
 </summary>
 
 
-- [2020-03-13-我们返岗了，硅谷“关门”了](https://www.ershicimi.com/p/aa8ce47fa3813c6987d2e95caba17de1) ![](assets/new.png)  
-- [2020-03-13-科技改变金融是个伪命题吗？|-Q评论](https://www.ershicimi.com/p/2f7a069995cef0021d7e49c05455e916) ![](assets/new.png)  
-- [2020-03-13-2020年大数据与AI结合的发展方向解读](https://www.ershicimi.com/p/caa1082ddb12c1910256dc7e82135259) ![](assets/new.png)  
-- [2020-03-13-开发安全、高质量代码的-5-款顶级-Python-工具](https://www.ershicimi.com/p/e678192564c381f9f234fb2d2c5a6997) ![](assets/new.png)  
-- [2020-03-13-2020-美国总统候选人必须回答的一个问题：如何看待比特币](https://www.ershicimi.com/p/dfeb7b290d5be158efff98a56e03af46) ![](assets/new.png)  
+- [2020-03-13-我们返岗了，硅谷“关门”了](https://www.ershicimi.com/p/aa8ce47fa3813c6987d2e95caba17de1)  
+- [2020-03-13-科技改变金融是个伪命题吗？|-Q评论](https://www.ershicimi.com/p/2f7a069995cef0021d7e49c05455e916)  
+- [2020-03-13-2020年大数据与AI结合的发展方向解读](https://www.ershicimi.com/p/caa1082ddb12c1910256dc7e82135259)  
+- [2020-03-13-开发安全、高质量代码的-5-款顶级-Python-工具](https://www.ershicimi.com/p/e678192564c381f9f234fb2d2c5a6997)  
+- [2020-03-13-2020-美国总统候选人必须回答的一个问题：如何看待比特币](https://www.ershicimi.com/p/dfeb7b290d5be158efff98a56e03af46)  
 - [2020-03-12-B站“出圈”：技术不够，运营来凑？](https://www.ershicimi.com/p/56bf0caace767ff774790fa5a4e8156f)  
 - [2020-03-11-人脸搜索：你的面孔，他们的“玩物”？](https://www.ershicimi.com/p/48d60a4738a9da17e279f4d8c492e925)  
 - [2020-03-11-架构设计原则之我见：反思KISS原则背后的深层含义](https://www.ershicimi.com/p/b84a533f9c3c163053af079a29e9e74f)  
@@ -442,6 +442,7 @@
 </summary>
 
 
+- [2020-03-15-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271) ![](assets/new.png)  
 - [2020-03-13-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/2a7524ec0619a81f87cb608b6643979b)  
 - [2020-03-12-网站性能优化之度量篇](https://www.ershicimi.com/p/ab19dfa169962f6acaae932d092a7c69)  
 - [2020-03-11-如何轻松拿到淘宝前端-offer](https://www.ershicimi.com/p/8a54889ba56f1061d7adcbe0fe59e0d7)  
@@ -461,7 +462,6 @@
 - [2020-02-05-我会这么多技术栈，为什么连面试机会都不给我？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498182&idx=1&sn=76e0605308a677e487d037b4f18daf44&chksm=80f1af0eb78626187424166328bacdc25bc03f1b59709cc6f90e5725c00a31fe192ee91a27fe&scene=27#wechat_redirect)  
 - [2020-02-04-CSS实现一个粒子动效的按钮](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498178&idx=1&sn=29dfb9ef12180d9aac8dac7f2a84ef46&chksm=80f1af0ab786261cc0c8c3b44d5a4a952682faa1d0eb46e4b4115efe97e0377966ed90b1e7ce&scene=27#wechat_redirect)  
 - [2020-01-22-TypeScript：拥有超能力的-JavaScript](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498173&idx=1&sn=127d50c2122d1c7320129990116c54ba&chksm=80f1af75b7862663943deae427567265686536249cab8755926a2f0928c1e04192523a0bd220&scene=27#wechat_redirect)  
-- [2020-01-21-Ant-Design-4.0：创造快乐工作](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498171&idx=1&sn=4abf43485d740798c54123e42d041f04&chksm=80f1af73b78626653eadd736fa3865d2ab2a5256842afaee61b4750a60bc7f6ea2998099df86&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
