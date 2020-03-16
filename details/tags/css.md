@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-16 08:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-17 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -182,6 +182,7 @@
 - [2015-11-02-使用Adobe-FLASH-CC制作Canvas动画](https://aotu.io/notes/2015/11/02/flash-canvas/) 
 - [2015-10-21-探究transform动画元素的z-index](https://aotu.io/notes/2015/10/21/z-index-and-translate3d/) 
 - [2015-10-13-PostCSS快速入门使用](https://aotu.io/notes/2015/10/13/start-postcss/) 
+- [2020-03-14-【前端冷知识】动画：你知道的和你不知道的](https://www.ershicimi.com/p/4e7735aa77adea588ebff24507546bf0) 
 - [2020-03-04-《精通CSS》第5章-漂亮的盒子](https://www.ershicimi.com/p/1425a58958ece7634d456f6bb1f01e3f) 
 - [2020-01-09-面试官：你怎么优雅写-CSS？](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590930&idx=1&sn=80a47e9ebd8c86c7042ea12423490b15&chksm=8891def6bfe657e0f7caf333544c0a605dce07b766597d1512d0f584a5f07e2ede07afd8639b&scene=27#wechat_redirect) 
 - [2020-01-21-Serverless风起云涌：表面上是技术升级，背后其实是钱的事情](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=4&sn=5ef1936063fb74d0d5d33d1705063d70&chksm=bdbe91f68ac918e0f9e41cdad294074196472f432a2f016b62b53a258f6b4c7169ecd1ae4ca2&scene=27#wechat_redirect) 

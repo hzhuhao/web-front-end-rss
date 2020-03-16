@@ -3862,6 +3862,16 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "前端精神小伙：React Hooks 响应式布局",
+        "link": "https://www.ershicimi.com/p/f60d874d3cfc4c45d28d23717b3b224b",
+        "date": "2020-03-15"
+      },
+      {
+        "title": "前端高级进阶：使用 docker 高效部署你的前端应用",
+        "link": "https://www.ershicimi.com/p/9514870038bcd28b54cb8b3723471013",
+        "date": "2020-03-14"
+      },
+      {
         "title": "8 个问题带你进阶 React",
         "link": "https://www.ershicimi.com/p/76a6df30c51ae9765d55a5e2c6f00a90",
         "date": "2020-03-12"
@@ -13622,6 +13632,11 @@
     "title": "奇舞周刊",
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
+      {
+        "title": "【前端冷知识】动画：你知道的和你不知道的",
+        "link": "https://www.ershicimi.com/p/4e7735aa77adea588ebff24507546bf0",
+        "date": "2020-03-14"
+      },
       {
         "title": "奇舞周刊第 341 期：前端基础建设",
         "link": "https://www.ershicimi.com/p/fd61f3e48c9ff7f8269e084904686752",
