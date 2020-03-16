@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-16 06:00:21，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-16 08:00:22，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,9 +26,9 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -101,6 +101,11 @@
 </summary>
 
 
+- [2020-03-15-前端周报：微信封杀QQ小程序；AWS推出基于Linux的开源操作系统；Firefox74发布：取消对](https://www.ershicimi.com/p/f557b4b08a8c29880e757f5ab100f37b) ![](assets/new.png)  
+- [2020-03-14-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/3248cd8bc832e226ce2cf7c292a8a12b) ![](assets/new.png)  
+- [2020-03-13-Facebook重写iOS版的Messenger，启动速度快2倍，核心代码减少84%](https://www.ershicimi.com/p/b6f65205b280ccc8091765417ecf2c54) ![](assets/new.png)  
+- [2020-03-13-dna-：一个-Dart-到-Native-的超级通道](https://www.ershicimi.com/p/78ba18011f5411f62e0c6488412bc7d4) ![](assets/new.png)  
+- [2020-03-13-如何解决前端工程问题，摆脱“切图仔”？-|-极客大学](https://www.ershicimi.com/p/dad33357cc38f723897e97c64e717e0e) ![](assets/new.png)  
 - [2020-03-12-张鑫旭：我对前端从业人员分布与技术风向的一点看法](https://www.ershicimi.com/p/f82936486b8344bff7e176df157c1a0d)  
 - [2020-03-12-Wasm-在物联网、云和多媒体领域发展现状（首届-WebAssembly-Sumimit-解析下篇）](https://www.ershicimi.com/p/7981343de570f17ccd1d2af9afac9386)  
 - [2020-03-11-从首届-WebAssembly-Summit-看-Wasm-未来发展方向——安全性、性能和浏览器引擎](https://www.ershicimi.com/p/e40a9ef7f17cdea3046e7e5283f4695b)  
@@ -116,11 +121,6 @@
 - [2020-03-06-只会-Vue-的前端工程师是没有前途的](https://www.ershicimi.com/p/a18cc45de4e8127f298c559efb9ebb04)  
 - [2020-03-05-抖音BoostMultiDex优化实践：Android低版本上APP首次启动时间减少80%](https://www.ershicimi.com/p/d0e387aee202f9da22ce42f59b932c74)  
 - [2020-03-05-基于-Serverless-打造全栈“闭环”开发的实战-|-GMTC](https://www.ershicimi.com/p/70aa83adb65a2c65bb5fec1821844e1b)  
-- [2020-03-05-JavaScript中For循环的3种版本和使用场景](https://www.ershicimi.com/p/23b31ce8c007d5ac4195427769dbd184)  
-- [2020-03-04-PWA对比原生应用：谁更胜一筹？](https://www.ershicimi.com/p/e77758e63d1a3b346ea13c13f85f7ea5)  
-- [2020-03-04-疫情过后如何实现技术能力快速提升，我们有份半价福利送给你](https://www.ershicimi.com/p/638be00dec8befa495687173666a3249)  
-- [2020-03-03-前端领域主管是刚需，中小前端团队Team-Leader如何养成？](https://www.ershicimi.com/p/29a41591b56bbe7871056905937efdb6)  
-- [2020-03-03-闲鱼在-Flutter上的最新进展和创新](https://www.ershicimi.com/p/337517902b2c4f2c3b55c90905d61c36)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,6 +380,12 @@
 </summary>
 
 
+- [2020-03-15-去阿里面试，被一道-Spring-面试题难倒了](https://www.ershicimi.com/p/515a4114c386bf168601964c6bd26123) ![](assets/new.png)  
+- [2020-03-15-用户密码到底要怎么加密存储？](https://www.ershicimi.com/p/2bd9db9e63c3733cc32e2b9ff1672c80) ![](assets/new.png)  
+- [2020-03-15-我私藏的一个超级无敌好用的-Java-工具类库](https://www.ershicimi.com/p/874a8bb8235fb8e43b3dd433d2a4e6d7) ![](assets/new.png)  
+- [2020-03-14-自从阿里拿下-Flink-以后,-你还不懂-Flink-就-out-了](https://www.ershicimi.com/p/d7d96d69678b00991ed783140c19cb89) ![](assets/new.png)  
+- [2020-03-14-真不是开玩笑：同事因在涉及金钱交易中使用double造成无法挽回的损失，已跑路](https://www.ershicimi.com/p/5f0150862e92aa4fb6cd9f36138f2228) ![](assets/new.png)  
+- [2020-03-14-Github-3.4k星，200余行代码，让你实时从视频中隐身](https://www.ershicimi.com/p/fbb11f083b57af2576eedde5b761fefa) ![](assets/new.png)  
 - [2020-03-13-进入大厂的面试经验详细总结（P7-拿-offer）](https://www.ershicimi.com/p/babb5685065e5967bebd16a93f3566e6)  
 - [2020-03-13-IDEA-的这款插件真是逆天了，代码那都不是事！](https://www.ershicimi.com/p/3ebc9958db2bb2ea44536f37853e2ffc)  
 - [2020-03-12-去阿里面试被问：如果是MySQL引起的CPU消耗过大，你会如何优化？](https://www.ershicimi.com/p/d22370ee376abfa42ab3f34454bd179f)  
@@ -394,12 +400,6 @@
 - [2020-03-08-实时海量日志分析系统的架构设计、实现以及思考](https://www.ershicimi.com/p/078b8e950be8a12a019c4a8ed1a761b9)  
 - [2020-03-06-10个程序员需要收藏的良心网站，你绝对没有用过](https://www.ershicimi.com/p/b720cfa1a8a5137cef0ed44551930008)  
 - [2020-03-06-几张图五分钟让你轻松读懂TCP协议（图文并茂）](https://www.ershicimi.com/p/3a3bc0eadab59b78093298fc9f524c7e)  
-- [2020-03-06-Redis牛逼！轻松实现实时订阅推送](https://www.ershicimi.com/p/80f964f40a26085ce2d42f634107a0a7)  
-- [2020-03-05-数据库连接池到底应该设多大？这里面有大学问](https://www.ershicimi.com/p/faaca74837c72111f57bf48a5a7e1ff4)  
-- [2020-03-05-一款基于SpringBoot-+-Spring-Security的后台管理系统，强烈推荐，直接用](https://www.ershicimi.com/p/310121f83c143fb70ae50898a89f057e)  
-- [2020-03-04-大数据生于2006，卒于2019已死！](https://www.ershicimi.com/p/fd56f099e73ed7b281cc4f0aaa5b33d4)  
-- [2020-03-04-阿里巴巴架构师，讲透2亿用户的钉钉系统架构实践](https://www.ershicimi.com/p/e07cc193d21f2d4a8f019d2c93f2bd3f)  
-- [2020-03-03-130-个相见恨晚的超实用网站，一次性分享出来，十倍提高工作效率](https://www.ershicimi.com/p/c721e6576b9cbbd49076ea1053206952)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -442,7 +442,7 @@
 </summary>
 
 
-- [2020-03-15-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271) ![](assets/new.png)  
+- [2020-03-15-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271)  
 - [2020-03-13-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/2a7524ec0619a81f87cb608b6643979b)  
 - [2020-03-12-网站性能优化之度量篇](https://www.ershicimi.com/p/ab19dfa169962f6acaae932d092a7c69)  
 - [2020-03-11-如何轻松拿到淘宝前端-offer](https://www.ershicimi.com/p/8a54889ba56f1061d7adcbe0fe59e0d7)  

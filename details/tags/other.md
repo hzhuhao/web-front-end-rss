@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-16 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-16 08:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -363,6 +363,10 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-03-14-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/3248cd8bc832e226ce2cf7c292a8a12b) 
+- [2020-03-13-Facebook重写iOS版的Messenger，启动速度快2倍，核心代码减少84%](https://www.ershicimi.com/p/b6f65205b280ccc8091765417ecf2c54) 
+- [2020-03-13-dna-：一个-Dart-到-Native-的超级通道](https://www.ershicimi.com/p/78ba18011f5411f62e0c6488412bc7d4) 
+- [2020-03-13-如何解决前端工程问题，摆脱“切图仔”？-|-极客大学](https://www.ershicimi.com/p/dad33357cc38f723897e97c64e717e0e) 
 - [2020-03-12-张鑫旭：我对前端从业人员分布与技术风向的一点看法](https://www.ershicimi.com/p/f82936486b8344bff7e176df157c1a0d) 
 - [2020-03-11-苹果开源ArgumentParser：为Swift加个工具？](https://www.ershicimi.com/p/b913fe5c75ef43643dfac31f8f71c6b8) 
 - [2020-03-11-如何将研发团队的学习成本降至每年300元/人？|-极客时间](https://www.ershicimi.com/p/58a25aefbbb0f08703454ae6d8394538) 
@@ -839,6 +843,10 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-03-15-用户密码到底要怎么加密存储？](https://www.ershicimi.com/p/2bd9db9e63c3733cc32e2b9ff1672c80) 
+- [2020-03-15-我私藏的一个超级无敌好用的-Java-工具类库](https://www.ershicimi.com/p/874a8bb8235fb8e43b3dd433d2a4e6d7) 
+- [2020-03-14-自从阿里拿下-Flink-以后,-你还不懂-Flink-就-out-了](https://www.ershicimi.com/p/d7d96d69678b00991ed783140c19cb89) 
+- [2020-03-14-真不是开玩笑：同事因在涉及金钱交易中使用double造成无法挽回的损失，已跑路](https://www.ershicimi.com/p/5f0150862e92aa4fb6cd9f36138f2228) 
 - [2020-03-13-IDEA-的这款插件真是逆天了，代码那都不是事！](https://www.ershicimi.com/p/3ebc9958db2bb2ea44536f37853e2ffc) 
 - [2020-03-12-用漫画让你彻底搞懂-Linux-内核到底长啥样！](https://www.ershicimi.com/p/da4591854ff3010e948fdca57cffd834) 
 - [2020-03-11-六面美团后，我有一个重要的发现...](https://www.ershicimi.com/p/4fe6ace8405e70adbb716654ecc7a02c) 
