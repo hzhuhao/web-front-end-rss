@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-17 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-17 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -953,6 +953,14 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-03-16-极客时间企业版免费开放全部课程，邀请研发团队试学](https://www.ershicimi.com/p/23f7d1a603445ae42c34216263ca7b5f) 
+- [2020-03-16-升级遗留代码的最佳实践](https://www.ershicimi.com/p/602556a0366043e88b195f8ad25759a0) 
+- [2020-03-16-英特尔CEO自救：我太难了](https://www.ershicimi.com/p/aaf884cddffe4c161fa15d87f63786ee) 
+- [2020-03-16-比特币崩盘后：别人恐惧我贪婪？](https://www.ershicimi.com/p/599e535db1f6142027051dfb30a6c8fc) 
+- [2020-03-15-让比尔·盖茨放心退出董事会的纳德拉，是如何与两位前任-CEO“对抗”的？](https://www.ershicimi.com/p/d8e24a74ce9c29bcb15337d2b0a4d007) 
+- [2020-03-15-BFE：面对网络接入挑战的应对之道](https://www.ershicimi.com/p/ca823c85e435d1ff14a188d96095959b) 
+- [2020-03-15-15-个提高效率的-Python-编程技巧](https://www.ershicimi.com/p/3141d7f0d8367b401965bc66d7f02a6d) 
+- [2020-03-14-因恶意举报竞争对手，社交软件Soul运营合伙人被捕；天猫被爆大数据杀熟；OYO中国裁员7000人，中](https://www.ershicimi.com/p/f0243f7a5531d654907eeb13ffc08c56) 
 - [2020-03-13-我们返岗了，硅谷“关门”了](https://www.ershicimi.com/p/aa8ce47fa3813c6987d2e95caba17de1) 
 - [2020-03-13-科技改变金融是个伪命题吗？|-Q评论](https://www.ershicimi.com/p/2f7a069995cef0021d7e49c05455e916) 
 - [2020-03-13-2020年大数据与AI结合的发展方向解读](https://www.ershicimi.com/p/caa1082ddb12c1910256dc7e82135259) 

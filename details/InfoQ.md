@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-03-14 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-17 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-03-16-极客时间企业版免费开放全部课程，邀请研发团队试学](https://www.ershicimi.com/p/23f7d1a603445ae42c34216263ca7b5f) 
+- [2020-03-16-升级遗留代码的最佳实践](https://www.ershicimi.com/p/602556a0366043e88b195f8ad25759a0) 
+- [2020-03-16-好算法距离好产品有多远？丨QCon](https://www.ershicimi.com/p/7c193dff943560e4348f025b19a49b21) 
+- [2020-03-16-英特尔CEO自救：我太难了](https://www.ershicimi.com/p/aaf884cddffe4c161fa15d87f63786ee) 
+- [2020-03-16-比特币崩盘后：别人恐惧我贪婪？](https://www.ershicimi.com/p/599e535db1f6142027051dfb30a6c8fc) 
+- [2020-03-15-让比尔·盖茨放心退出董事会的纳德拉，是如何与两位前任-CEO“对抗”的？](https://www.ershicimi.com/p/d8e24a74ce9c29bcb15337d2b0a4d007) 
+- [2020-03-15-一个彩蛋破解了20年？盘点游戏史上著名彩蛋背后的故事丨Q事界](https://www.ershicimi.com/p/c0333fca402b1ef744a26d04c613ac44) 
+- [2020-03-15-BFE：面对网络接入挑战的应对之道](https://www.ershicimi.com/p/ca823c85e435d1ff14a188d96095959b) 
+- [2020-03-15-15-个提高效率的-Python-编程技巧](https://www.ershicimi.com/p/3141d7f0d8367b401965bc66d7f02a6d) 
+- [2020-03-14-因恶意举报竞争对手，社交软件Soul运营合伙人被捕；天猫被爆大数据杀熟；OYO中国裁员7000人，中](https://www.ershicimi.com/p/f0243f7a5531d654907eeb13ffc08c56) 
 - [2020-03-13-我们返岗了，硅谷“关门”了](https://www.ershicimi.com/p/aa8ce47fa3813c6987d2e95caba17de1) 
 - [2020-03-13-科技改变金融是个伪命题吗？|-Q评论](https://www.ershicimi.com/p/2f7a069995cef0021d7e49c05455e916) 
 - [2020-03-13-2020年大数据与AI结合的发展方向解读](https://www.ershicimi.com/p/caa1082ddb12c1910256dc7e82135259) 
