@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-17 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-17 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -363,6 +363,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-03-17-工程师快速成长指北](https://www.ershicimi.com/p/d4ae1cb123b2c94496af66d94f298bee) 
+- [2020-03-16-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/9a727df8a54312ef1f34ab9840662652) 
+- [2020-03-16-“宅经济”催化下的泛娱乐行业，未来将引爆哪些增长点？](https://www.ershicimi.com/p/e76e28083b0366a8f6f30fe04a706dc8) 
 - [2020-03-14-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/3248cd8bc832e226ce2cf7c292a8a12b) 
 - [2020-03-13-Facebook重写iOS版的Messenger，启动速度快2倍，核心代码减少84%](https://www.ershicimi.com/p/b6f65205b280ccc8091765417ecf2c54) 
 - [2020-03-13-dna-：一个-Dart-到-Native-的超级通道](https://www.ershicimi.com/p/78ba18011f5411f62e0c6488412bc7d4) 
@@ -843,6 +846,11 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-03-17-网上找的一段代码突然爆了，项目出现大Bug！](https://www.ershicimi.com/p/bc132e3ef66b2ec7a8ed77a0623b0de2) 
+- [2020-03-17-一行代码让纯文本编辑器秒变-Markdown-编辑器](https://www.ershicimi.com/p/a513f566999ed536bea4da4ec5080063) 
+- [2020-03-16-什么才是真正的架构设计？](https://www.ershicimi.com/p/3be7db3547b32e7b04faccade1a4f03d) 
+- [2020-03-16-手把手教你SpringBoot+MyBatis+Shiro-搭建项目框架](https://www.ershicimi.com/p/2c4bb7dfa2b3422efc7032cfb1101a46) 
+- [2020-03-16-老板放过我吧！我Java8还没用呢，又让我学习Java14](https://www.ershicimi.com/p/9cfc675ef4a8ec391f416ea095797683) 
 - [2020-03-15-用户密码到底要怎么加密存储？](https://www.ershicimi.com/p/2bd9db9e63c3733cc32e2b9ff1672c80) 
 - [2020-03-15-我私藏的一个超级无敌好用的-Java-工具类库](https://www.ershicimi.com/p/874a8bb8235fb8e43b3dd433d2a4e6d7) 
 - [2020-03-14-自从阿里拿下-Flink-以后,-你还不懂-Flink-就-out-了](https://www.ershicimi.com/p/d7d96d69678b00991ed783140c19cb89) 
@@ -1123,6 +1131,7 @@
 - [2019-12-24-中台进入冷静期，看清自己比盲目追随更重要](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=2&sn=e15f0d21dd1e04efa017b5fae3305baf&chksm=bdbe9f138ac91605f4c143d9b0d3fbbed83da8514eefedb331be5e489e6c8904f71fb7404f87&scene=27#wechat_redirect) 
 - [2019-12-24-金融大数据公司接连被查，爬虫到底犯法吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=3&sn=7492a5ad9e6dfc522d3acb6b4e92bc19&chksm=bdbe9f138ac91605b0e5405df6f331c48586b551cc73f15d7028fb93a54d8fcb7d900961bcab&scene=27#wechat_redirect) 
 - [2019-12-24-这一天，成都的开发人员都经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=4&sn=7cf54be8cca25b28a57e4edfd44f7213&chksm=bdbe9f138ac916055bba182449a4c35f28747d57d0cead06d4880327e29b8c4877bc15b7e4ca&scene=27#wechat_redirect) 
+- [2020-03-16-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/2ca70d1a61b2ccb56ab1fd43e087e1bd) 
 - [2020-03-13-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/2a7524ec0619a81f87cb608b6643979b) 
 - [2020-03-11-如何轻松拿到淘宝前端-offer](https://www.ershicimi.com/p/8a54889ba56f1061d7adcbe0fe59e0d7) 
 - [2020-03-02-开发人今年的金三银四，就白费了？](https://www.ershicimi.com/p/5d1788fbceabd88f2ca993995f68d810) 

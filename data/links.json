@@ -7459,6 +7459,31 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "GitHub正式收购npm，这对开发者意味着什么？",
+        "link": "https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "工程师快速成长指北",
+        "link": "https://www.ershicimi.com/p/d4ae1cb123b2c94496af66d94f298bee",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "性能提升三倍！优酷Node.js重构之路",
+        "link": "https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38",
+        "date": "2020-03-16"
+      },
+      {
+        "title": "极客大学前端进阶训练营有偿招募兼职助教",
+        "link": "https://www.ershicimi.com/p/9a727df8a54312ef1f34ab9840662652",
+        "date": "2020-03-16"
+      },
+      {
+        "title": "“宅经济”催化下的泛娱乐行业，未来将引爆哪些增长点？",
+        "link": "https://www.ershicimi.com/p/e76e28083b0366a8f6f30fe04a706dc8",
+        "date": "2020-03-16"
+      },
+      {
         "title": "前端周报：微信封杀QQ小程序；AWS推出基于Linux的开源操作系统；Firefox74发布：取消对",
         "link": "https://www.ershicimi.com/p/f557b4b08a8c29880e757f5ab100f37b",
         "date": "2020-03-15"
@@ -13633,6 +13658,11 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "Vuex调用接口的三个阶段",
+        "link": "https://www.ershicimi.com/p/fd163fbed488bf0a41be3cac1be11694",
+        "date": "2020-03-16"
+      },
+      {
         "title": "【前端冷知识】动画：你知道的和你不知道的",
         "link": "https://www.ershicimi.com/p/4e7735aa77adea588ebff24507546bf0",
         "date": "2020-03-14"
@@ -14216,6 +14246,36 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson",
+        "link": "https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "网上找的一段代码突然爆了，项目出现大Bug！",
+        "link": "https://www.ershicimi.com/p/bc132e3ef66b2ec7a8ed77a0623b0de2",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "一行代码让纯文本编辑器秒变 Markdown 编辑器",
+        "link": "https://www.ershicimi.com/p/a513f566999ed536bea4da4ec5080063",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "什么才是真正的架构设计？",
+        "link": "https://www.ershicimi.com/p/3be7db3547b32e7b04faccade1a4f03d",
+        "date": "2020-03-16"
+      },
+      {
+        "title": "手把手教你SpringBoot+MyBatis+Shiro 搭建项目框架",
+        "link": "https://www.ershicimi.com/p/2c4bb7dfa2b3422efc7032cfb1101a46",
+        "date": "2020-03-16"
+      },
+      {
+        "title": "老板放过我吧！我Java8还没用呢，又让我学习Java14",
+        "link": "https://www.ershicimi.com/p/9cfc675ef4a8ec391f416ea095797683",
+        "date": "2020-03-16"
+      },
       {
         "title": "去阿里面试，被一道 Spring 面试题难倒了",
         "link": "https://www.ershicimi.com/p/515a4114c386bf168601964c6bd26123",
@@ -15955,6 +16015,16 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "NodeJs入门,带你获取头条热搜形成好看的标签云",
+        "link": "https://www.ershicimi.com/p/1c8b05ff1207f0030e45943937747a57",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "字节跳动今日头条前端面经（4轮技术面+hr面）",
+        "link": "https://www.ershicimi.com/p/2ca70d1a61b2ccb56ab1fd43e087e1bd",
+        "date": "2020-03-16"
+      },
       {
         "title": "Node.js CLI 工具最佳实践",
         "link": "https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271",

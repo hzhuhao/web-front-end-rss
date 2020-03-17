@@ -11,24 +11,24 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-17 12:00:24，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-17 18:00:25，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -101,6 +101,11 @@
 </summary>
 
 
+- [2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5) ![](assets/new.png)  
+- [2020-03-17-工程师快速成长指北](https://www.ershicimi.com/p/d4ae1cb123b2c94496af66d94f298bee) ![](assets/new.png)  
+- [2020-03-16-性能提升三倍！优酷Node.js重构之路](https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38) ![](assets/new.png)  
+- [2020-03-16-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/9a727df8a54312ef1f34ab9840662652) ![](assets/new.png)  
+- [2020-03-16-“宅经济”催化下的泛娱乐行业，未来将引爆哪些增长点？](https://www.ershicimi.com/p/e76e28083b0366a8f6f30fe04a706dc8) ![](assets/new.png)  
 - [2020-03-15-前端周报：微信封杀QQ小程序；AWS推出基于Linux的开源操作系统；Firefox74发布：取消对](https://www.ershicimi.com/p/f557b4b08a8c29880e757f5ab100f37b)  
 - [2020-03-14-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/3248cd8bc832e226ce2cf7c292a8a12b)  
 - [2020-03-13-Facebook重写iOS版的Messenger，启动速度快2倍，核心代码减少84%](https://www.ershicimi.com/p/b6f65205b280ccc8091765417ecf2c54)  
@@ -116,11 +121,6 @@
 - [2020-03-09-提升前端开发效率：你应该知道的10个Chrome扩展程序](https://www.ershicimi.com/p/3cc0a6d24d481d2366b32777b217e182)  
 - [2020-03-09-半个月从前端转型机器学习，看他们是如何做到的？-|-极客大学](https://www.ershicimi.com/p/4c3d019eed2507ba64d8af8cbb371ea1)  
 - [2020-03-08-前端周报：华为为深入武汉抗疫一线员工提供每人每天两千元补助；Debian领导人不参与今年DPL竞选；](https://www.ershicimi.com/p/ffe335db23eaa3205e0756ac1cd865dd)  
-- [2020-03-06-2020-前端开源领域技术展望](https://www.ershicimi.com/p/0732dec7f89f2940f2939065226d419b)  
-- [2020-03-06-10个前端开发需要学习的关键技能](https://www.ershicimi.com/p/373a93d0003bb6355845dd450647a6ab)  
-- [2020-03-06-只会-Vue-的前端工程师是没有前途的](https://www.ershicimi.com/p/a18cc45de4e8127f298c559efb9ebb04)  
-- [2020-03-05-抖音BoostMultiDex优化实践：Android低版本上APP首次启动时间减少80%](https://www.ershicimi.com/p/d0e387aee202f9da22ce42f59b932c74)  
-- [2020-03-05-基于-Serverless-打造全栈“闭环”开发的实战-|-GMTC](https://www.ershicimi.com/p/70aa83adb65a2c65bb5fec1821844e1b)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -318,6 +318,7 @@
 </summary>
 
 
+- [2020-03-16-Vuex调用接口的三个阶段](https://www.ershicimi.com/p/fd163fbed488bf0a41be3cac1be11694) ![](assets/new.png)  
 - [2020-03-14-【前端冷知识】动画：你知道的和你不知道的](https://www.ershicimi.com/p/4e7735aa77adea588ebff24507546bf0)  
 - [2020-03-13-奇舞周刊第-341-期：前端基础建设](https://www.ershicimi.com/p/fd61f3e48c9ff7f8269e084904686752)  
 - [2020-03-11-webpack-中实现自动识别-CSS-Modules](https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e)  
@@ -337,7 +338,6 @@
 - [2020-01-22-武汉实时疫情来了-|-你想知道的这都有](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591181&idx=1&sn=e9fdf1c5d60ce2d9bd0a9c54efeddb2f&chksm=8891dfe9bfe656ffc3ade05a8d83e51309d1fe59d6be4e6b802db690797f894376cf295d7b16&scene=27#wechat_redirect)  
 - [2020-01-21-高质量前端快照方案：来自页面的「自拍」](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591170&idx=1&sn=8c8d4c0fb3184d11ef6a70e15f8a6680&chksm=8891dfe6bfe656f0a2e5209c26fd64a65bd77f6023652b0e92a173112520e19df1f0799d68cd&scene=27#wechat_redirect)  
 - [2020-01-21-来奇舞团吧，让自己过得快乐一点](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591170&idx=2&sn=c97d64f59fb75aa43418ef26df9ccd95&chksm=8891dfe6bfe656f0e28f4388f1483559569431258fd1871674a3b7bf410e4527e57133fb2d1c&scene=27#wechat_redirect)  
-- [2020-01-21-大数据中心招聘React前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591170&idx=3&sn=d89b8532b73734c82a51411b7080dba5&chksm=8891dfe6bfe656f0541972fe315a333e904b3f6ebdf5f8d9dfc6d0974a7c6d0d54bbd351baaf&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,6 +380,12 @@
 </summary>
 
 
+- [2020-03-17-纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson](https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878) ![](assets/new.png)  
+- [2020-03-17-网上找的一段代码突然爆了，项目出现大Bug！](https://www.ershicimi.com/p/bc132e3ef66b2ec7a8ed77a0623b0de2) ![](assets/new.png)  
+- [2020-03-17-一行代码让纯文本编辑器秒变-Markdown-编辑器](https://www.ershicimi.com/p/a513f566999ed536bea4da4ec5080063) ![](assets/new.png)  
+- [2020-03-16-什么才是真正的架构设计？](https://www.ershicimi.com/p/3be7db3547b32e7b04faccade1a4f03d) ![](assets/new.png)  
+- [2020-03-16-手把手教你SpringBoot+MyBatis+Shiro-搭建项目框架](https://www.ershicimi.com/p/2c4bb7dfa2b3422efc7032cfb1101a46) ![](assets/new.png)  
+- [2020-03-16-老板放过我吧！我Java8还没用呢，又让我学习Java14](https://www.ershicimi.com/p/9cfc675ef4a8ec391f416ea095797683) ![](assets/new.png)  
 - [2020-03-15-去阿里面试，被一道-Spring-面试题难倒了](https://www.ershicimi.com/p/515a4114c386bf168601964c6bd26123)  
 - [2020-03-15-用户密码到底要怎么加密存储？](https://www.ershicimi.com/p/2bd9db9e63c3733cc32e2b9ff1672c80)  
 - [2020-03-15-我私藏的一个超级无敌好用的-Java-工具类库](https://www.ershicimi.com/p/874a8bb8235fb8e43b3dd433d2a4e6d7)  
@@ -394,12 +400,6 @@
 - [2020-03-11-5种将死的编程语言](https://www.ershicimi.com/p/a9286227fe47d563b2c3d8ae580b9c1a)  
 - [2020-03-10-1.3万亿条数据查询毫秒级响应,如何做到的？](https://www.ershicimi.com/p/a1c6ce583f5932537249948eab0aad96)  
 - [2020-03-10-支付宝系统架构（内部架构图）](https://www.ershicimi.com/p/97d9b512a7a7fe5a279bdc37acc34205)  
-- [2020-03-10-记录一次MySQL两千万数据的大表优化解决过程，提供三种解决方案](https://www.ershicimi.com/p/f51769e3d6546cd7186b74756ebf55d7)  
-- [2020-03-09-代码调试神器：VS-Code-开源新工具！](https://www.ershicimi.com/p/7a0d6a4af93cb08881539ab06f10bbf6)  
-- [2020-03-09-互联网后端基础设施，都有哪些？](https://www.ershicimi.com/p/3423189cb46ffa16a2fd5caf40788c62)  
-- [2020-03-08-实时海量日志分析系统的架构设计、实现以及思考](https://www.ershicimi.com/p/078b8e950be8a12a019c4a8ed1a761b9)  
-- [2020-03-06-10个程序员需要收藏的良心网站，你绝对没有用过](https://www.ershicimi.com/p/b720cfa1a8a5137cef0ed44551930008)  
-- [2020-03-06-几张图五分钟让你轻松读懂TCP协议（图文并茂）](https://www.ershicimi.com/p/3a3bc0eadab59b78093298fc9f524c7e)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,16 +411,16 @@
 </summary>
 
 
-- [2020-03-16-极客时间企业版免费开放全部课程，邀请研发团队试学](https://www.ershicimi.com/p/23f7d1a603445ae42c34216263ca7b5f) ![](assets/new.png)  
-- [2020-03-16-升级遗留代码的最佳实践](https://www.ershicimi.com/p/602556a0366043e88b195f8ad25759a0) ![](assets/new.png)  
-- [2020-03-16-好算法距离好产品有多远？丨QCon](https://www.ershicimi.com/p/7c193dff943560e4348f025b19a49b21) ![](assets/new.png)  
-- [2020-03-16-英特尔CEO自救：我太难了](https://www.ershicimi.com/p/aaf884cddffe4c161fa15d87f63786ee) ![](assets/new.png)  
-- [2020-03-16-比特币崩盘后：别人恐惧我贪婪？](https://www.ershicimi.com/p/599e535db1f6142027051dfb30a6c8fc) ![](assets/new.png)  
-- [2020-03-15-让比尔·盖茨放心退出董事会的纳德拉，是如何与两位前任-CEO“对抗”的？](https://www.ershicimi.com/p/d8e24a74ce9c29bcb15337d2b0a4d007) ![](assets/new.png)  
-- [2020-03-15-一个彩蛋破解了20年？盘点游戏史上著名彩蛋背后的故事丨Q事界](https://www.ershicimi.com/p/c0333fca402b1ef744a26d04c613ac44) ![](assets/new.png)  
-- [2020-03-15-BFE：面对网络接入挑战的应对之道](https://www.ershicimi.com/p/ca823c85e435d1ff14a188d96095959b) ![](assets/new.png)  
-- [2020-03-15-15-个提高效率的-Python-编程技巧](https://www.ershicimi.com/p/3141d7f0d8367b401965bc66d7f02a6d) ![](assets/new.png)  
-- [2020-03-14-因恶意举报竞争对手，社交软件Soul运营合伙人被捕；天猫被爆大数据杀熟；OYO中国裁员7000人，中](https://www.ershicimi.com/p/f0243f7a5531d654907eeb13ffc08c56) ![](assets/new.png)  
+- [2020-03-16-极客时间企业版免费开放全部课程，邀请研发团队试学](https://www.ershicimi.com/p/23f7d1a603445ae42c34216263ca7b5f)  
+- [2020-03-16-升级遗留代码的最佳实践](https://www.ershicimi.com/p/602556a0366043e88b195f8ad25759a0)  
+- [2020-03-16-好算法距离好产品有多远？丨QCon](https://www.ershicimi.com/p/7c193dff943560e4348f025b19a49b21)  
+- [2020-03-16-英特尔CEO自救：我太难了](https://www.ershicimi.com/p/aaf884cddffe4c161fa15d87f63786ee)  
+- [2020-03-16-比特币崩盘后：别人恐惧我贪婪？](https://www.ershicimi.com/p/599e535db1f6142027051dfb30a6c8fc)  
+- [2020-03-15-让比尔·盖茨放心退出董事会的纳德拉，是如何与两位前任-CEO“对抗”的？](https://www.ershicimi.com/p/d8e24a74ce9c29bcb15337d2b0a4d007)  
+- [2020-03-15-一个彩蛋破解了20年？盘点游戏史上著名彩蛋背后的故事丨Q事界](https://www.ershicimi.com/p/c0333fca402b1ef744a26d04c613ac44)  
+- [2020-03-15-BFE：面对网络接入挑战的应对之道](https://www.ershicimi.com/p/ca823c85e435d1ff14a188d96095959b)  
+- [2020-03-15-15-个提高效率的-Python-编程技巧](https://www.ershicimi.com/p/3141d7f0d8367b401965bc66d7f02a6d)  
+- [2020-03-14-因恶意举报竞争对手，社交软件Soul运营合伙人被捕；天猫被爆大数据杀熟；OYO中国裁员7000人，中](https://www.ershicimi.com/p/f0243f7a5531d654907eeb13ffc08c56)  
 - [2020-03-13-我们返岗了，硅谷“关门”了](https://www.ershicimi.com/p/aa8ce47fa3813c6987d2e95caba17de1)  
 - [2020-03-13-科技改变金融是个伪命题吗？|-Q评论](https://www.ershicimi.com/p/2f7a069995cef0021d7e49c05455e916)  
 - [2020-03-13-2020年大数据与AI结合的发展方向解读](https://www.ershicimi.com/p/caa1082ddb12c1910256dc7e82135259)  
@@ -442,6 +442,8 @@
 </summary>
 
 
+- [2020-03-17-NodeJs入门,带你获取头条热搜形成好看的标签云](https://www.ershicimi.com/p/1c8b05ff1207f0030e45943937747a57) ![](assets/new.png)  
+- [2020-03-16-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/2ca70d1a61b2ccb56ab1fd43e087e1bd) ![](assets/new.png)  
 - [2020-03-15-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271)  
 - [2020-03-13-2020年需要学习的8个前端关键技能](https://www.ershicimi.com/p/2a7524ec0619a81f87cb608b6643979b)  
 - [2020-03-12-网站性能优化之度量篇](https://www.ershicimi.com/p/ab19dfa169962f6acaae932d092a7c69)  
@@ -460,8 +462,6 @@
 - [2020-02-28-我为什么要立刻放弃React而使用Vue？](https://www.ershicimi.com/p/b25807ba7fbf20504e838317d6b212ec)  
 - [2020-02-27-招聘量骤减，70%的求职者被拒，开发者该如何突围？](https://www.ershicimi.com/p/bb7a1e879463c892a33449a9e4dc14e6)  
 - [2020-02-05-我会这么多技术栈，为什么连面试机会都不给我？](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498182&idx=1&sn=76e0605308a677e487d037b4f18daf44&chksm=80f1af0eb78626187424166328bacdc25bc03f1b59709cc6f90e5725c00a31fe192ee91a27fe&scene=27#wechat_redirect)  
-- [2020-02-04-CSS实现一个粒子动效的按钮](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498178&idx=1&sn=29dfb9ef12180d9aac8dac7f2a84ef46&chksm=80f1af0ab786261cc0c8c3b44d5a4a952682faa1d0eb46e4b4115efe97e0377966ed90b1e7ce&scene=27#wechat_redirect)  
-- [2020-01-22-TypeScript：拥有超能力的-JavaScript](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498173&idx=1&sn=127d50c2122d1c7320129990116c54ba&chksm=80f1af75b7862663943deae427567265686536249cab8755926a2f0928c1e04192523a0bd220&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

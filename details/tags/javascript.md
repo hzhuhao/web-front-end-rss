@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-17 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-17 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -423,6 +423,7 @@
 - [2019-12-26-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590857&idx=3&sn=8e315a7d8672013d88a0e5684d9dca50&chksm=8891deadbfe657bbcc444b756929b30166954b6e81e3595344fd3b389e5fcf38472f6daaf1e6&scene=27#wechat_redirect) 
 - [2019-12-19-国内首家！360加入-Ecma-参与-JavaScript-语言标准制定](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590818&idx=1&sn=77045b70b63641eda1b96d3de3cbe1d9&chksm=8891de46bfe657503d59800505c20a45db3846b86b60bb0b69c3b7037f368dea5592b7144339&scene=27#wechat_redirect) 
 - [2020-02-14-JavaScript-造就年薪超过-10-万美元的开发者们！](https://www.ershicimi.com/p/16c82eb48f89e36a8dd6f4352e974951) 
+- [2020-03-17-纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson](https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878) 
 - [2020-03-03-这回把Spring-@Async彻底搞懂了](https://www.ershicimi.com/p/29fcdb5ee1f161bfd181c8bcd5bd1304) 
 - [2020-01-11-Spring-Boot-异步请求和异步调用，一文搞定！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489604&idx=4&sn=3d59e8b9967a47c051bed1314fbd6403&chksm=ea5cd522dd2b5c34ec8f866eba30f5fb97583c693b0da5dc3102bf5990d494b7d63905f55fbf&scene=27#wechat_redirect) 
 - [2020-01-08-JVM-性能调优监控工具-jps、jstack、jmap、jhat、jstat、hprof-使用详解](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489552&idx=2&sn=e2caa61b1d6848309925cff45629d5d8&chksm=ea5cd576dd2b5c6055f1fac0cb3ee1b05971534daf7b9f82eb17e1c8436b9541be25598d2707&scene=27#wechat_redirect) 
