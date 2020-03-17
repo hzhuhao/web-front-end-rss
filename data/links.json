@@ -3862,6 +3862,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "微软旗下 GitHub 收购 npm",
+        "link": "https://www.ershicimi.com/p/3cdb4e4ca0746a4cf3c1be8cadf304ee",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "2020 年需要学习的 8 个前端关键技能",
+        "link": "https://www.ershicimi.com/p/d1cd86723fa7f6c2b827f22ce6165b1e",
+        "date": "2020-03-16"
+      },
+      {
+        "title": "前端面试官：你知道 source-map 的原理吗？",
+        "link": "https://www.ershicimi.com/p/bbd4d4c5cfdd022d4e3662188c8a8aa5",
+        "date": "2020-03-16"
+      },
+      {
         "title": "前端精神小伙：React Hooks 响应式布局",
         "link": "https://www.ershicimi.com/p/f60d874d3cfc4c45d28d23717b3b224b",
         "date": "2020-03-15"
@@ -14993,6 +15008,26 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "刚刚！GitHub宣布正式收购npm",
+        "link": "https://www.ershicimi.com/p/c141516d536348a27f1d2d814a372140",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "别再推荐Git Flow了",
+        "link": "https://www.ershicimi.com/p/a26a3c86709c9316ff80d965901d1ac8",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "大疆禁飞、TikTok 禁装，视野之外的“华为”们如何出海？",
+        "link": "https://www.ershicimi.com/p/f87b2ee1bf5885c4282a489bd2509c99",
+        "date": "2020-03-17"
+      },
+      {
+        "title": "Facebook 重写 iOS 版 Messenger：启动速度快 2 倍，核心代码减少 84%",
+        "link": "https://www.ershicimi.com/p/c51256a895127f2ac6ad0e702e1850d3",
+        "date": "2020-03-17"
+      },
       {
         "title": "极客时间企业版免费开放全部课程，邀请研发团队试学",
         "link": "https://www.ershicimi.com/p/23f7d1a603445ae42c34216263ca7b5f",

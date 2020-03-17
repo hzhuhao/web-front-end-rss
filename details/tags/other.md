@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-17 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-17 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -216,6 +216,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-03-16-2020-年需要学习的-8-个前端关键技能](https://www.ershicimi.com/p/d1cd86723fa7f6c2b827f22ce6165b1e) 
 - [2020-03-09-“不降薪就裸辞”，高薪开发者如何打破复工魔咒？](https://www.ershicimi.com/p/e9959abfd14f1397615cf53f0db42224) 
 - [2020-03-08-如何轻松拿到淘宝前端-offer](https://www.ershicimi.com/p/b0fb269a4d1d725ba66a25a19095979f) 
 - [2020-03-06-一小时的时间来了解AI抗疫，技术在进步，一切会更好！](https://www.ershicimi.com/p/c0938be3e648306c1fc2629de11b472f) 
@@ -961,6 +962,8 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-03-17-大疆禁飞、TikTok-禁装，视野之外的“华为”们如何出海？](https://www.ershicimi.com/p/f87b2ee1bf5885c4282a489bd2509c99) 
+- [2020-03-17-Facebook-重写-iOS-版-Messenger：启动速度快-2-倍，核心代码减少-84%](https://www.ershicimi.com/p/c51256a895127f2ac6ad0e702e1850d3) 
 - [2020-03-16-极客时间企业版免费开放全部课程，邀请研发团队试学](https://www.ershicimi.com/p/23f7d1a603445ae42c34216263ca7b5f) 
 - [2020-03-16-升级遗留代码的最佳实践](https://www.ershicimi.com/p/602556a0366043e88b195f8ad25759a0) 
 - [2020-03-16-英特尔CEO自救：我太难了](https://www.ershicimi.com/p/aaf884cddffe4c161fa15d87f63786ee) 
