@@ -13673,6 +13673,11 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "从构建进程间缓存设计谈Webpack5 优化和工作原理",
+        "link": "https://www.ershicimi.com/p/b4e738677e55f4ff75cf4dd4d68bd7de",
+        "date": "2020-03-17"
+      },
+      {
         "title": "Vuex调用接口的三个阶段",
         "link": "https://www.ershicimi.com/p/fd163fbed488bf0a41be3cac1be11694",
         "date": "2020-03-16"
@@ -14080,6 +14085,11 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "npm is joining GitHub",
+        "link": "https://www.ershicimi.com/p/40e5a64fcae42bbe5088577ee6b3684c",
+        "date": "2020-03-18"
+      },
+      {
         "title": "如何轻松拿到淘宝前端 offer",
         "link": "https://www.ershicimi.com/p/cd16415b005856ba512a52e53dc680c1",
         "date": "2020-03-11"
@@ -14261,6 +14271,21 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "一款SQL自动检查神器，再也不用担心SQL出错了，自动补全、回滚等功能大全",
+        "link": "https://www.ershicimi.com/p/c07b220c97134db570ee7447fe703782",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "大厂面试篇：五轮面试，阿里offer到手！",
+        "link": "https://www.ershicimi.com/p/1c37cf81058c04e73544736de52318eb",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "今天写出一个十分弱智的bug！",
+        "link": "https://www.ershicimi.com/p/5458e8b1056d220ff2f14c9b8be67a15",
+        "date": "2020-03-18"
+      },
       {
         "title": "纳尼？你居然还在使用fastjson，性能太差了，这个新出的秒杀fastjson",
         "link": "https://www.ershicimi.com/p/7a5151db04f5e9c9297bd0c5d9352878",
