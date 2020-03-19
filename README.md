@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-18 22:00:26，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-19 08:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,16 +19,16 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [InfoQ](#infoq)  
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -163,7 +163,7 @@
 </summary>
 
 
-- [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/) ![](assets/new.png)  
+- [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/)  
 - [2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/)  
 - [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/)  
 - [2020-03-07-深入理解position-sticky粘性定位的计算规则](https://www.zhangxinxu.com/wordpress/2020/03/position-sticky-rules/)  
@@ -287,6 +287,7 @@
 </summary>
 
 
+- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) ![](assets/new.png)  
 - [2020-02-21-JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)  
 - [2020-02-28-Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)  
 - [2020-02-03-Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/)  
@@ -306,7 +307,6 @@
 - [2019-07-10-使用-React-Hooks-重构你的小程序](https://aotu.io/notes/2019/07/10/taro-hooks/)  
 - [2019-07-01-邀您参加「Taro-x-小程序·云开发」物料开发竞赛](https://aotu.io/notes/2019/07/01/taro-ext-action/)  
 - [2019-06-21-Taro-「物料市场」及「交流社区」-惊喜上线](https://aotu.io/notes/2019/06/21/taro-ext-club/)  
-- [2019-06-13-Taro-1.3-震撼升级：全面支持-JSX-语法和-HOOKS](https://aotu.io/notes/2019/06/13/taro-1-3/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,11 +411,11 @@
 </summary>
 
 
-- [2020-03-18-华为硬杠谷歌，开发者“夹缝求生”](https://www.ershicimi.com/p/bff291da6ad805f08061c82d067467ff) ![](assets/new.png)  
-- [2020-03-18-狂奔之后-RPA-企业开始精耕细作：建生态、补短板、推进市场落地](https://www.ershicimi.com/p/8f9ce9670fd2f8f846ba58a45ed70489) ![](assets/new.png)  
-- [2020-03-18-Yunong-Xiao：工程师快速成长指北](https://www.ershicimi.com/p/b4995662be5b18e36ed584e6ac2f6323) ![](assets/new.png)  
-- [2020-03-18-TigerGraph-图技术部署及实战落地丨课程回顾](https://www.ershicimi.com/p/5ea19faa8beb00f179e8faebe4b70723) ![](assets/new.png)  
-- [2020-03-18-干了10年软件工程师，我学到10个教训](https://www.ershicimi.com/p/dd0bac387a8c5f3b6931cebee482a1d5) ![](assets/new.png)  
+- [2020-03-18-华为硬杠谷歌，开发者“夹缝求生”](https://www.ershicimi.com/p/bff291da6ad805f08061c82d067467ff)  
+- [2020-03-18-狂奔之后-RPA-企业开始精耕细作：建生态、补短板、推进市场落地](https://www.ershicimi.com/p/8f9ce9670fd2f8f846ba58a45ed70489)  
+- [2020-03-18-Yunong-Xiao：工程师快速成长指北](https://www.ershicimi.com/p/b4995662be5b18e36ed584e6ac2f6323)  
+- [2020-03-18-TigerGraph-图技术部署及实战落地丨课程回顾](https://www.ershicimi.com/p/5ea19faa8beb00f179e8faebe4b70723)  
+- [2020-03-18-干了10年软件工程师，我学到10个教训](https://www.ershicimi.com/p/dd0bac387a8c5f3b6931cebee482a1d5)  
 - [2020-03-17-刚刚！GitHub宣布正式收购npm](https://www.ershicimi.com/p/c141516d536348a27f1d2d814a372140)  
 - [2020-03-17-别再推荐Git-Flow了](https://www.ershicimi.com/p/a26a3c86709c9316ff80d965901d1ac8)  
 - [2020-03-17-大疆禁飞、TikTok-禁装，视野之外的“华为”们如何出海？](https://www.ershicimi.com/p/f87b2ee1bf5885c4282a489bd2509c99)  
@@ -442,7 +442,7 @@
 </summary>
 
 
-- [2020-03-18-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/64cef2047d223eed26d8ef73e163f41f) ![](assets/new.png)  
+- [2020-03-18-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/64cef2047d223eed26d8ef73e163f41f)  
 - [2020-03-17-NodeJs入门,带你获取头条热搜形成好看的标签云](https://www.ershicimi.com/p/1c8b05ff1207f0030e45943937747a57)  
 - [2020-03-16-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/2ca70d1a61b2ccb56ab1fd43e087e1bd)  
 - [2020-03-15-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271)  
