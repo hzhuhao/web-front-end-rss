@@ -11,24 +11,24 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 08:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-19 18:00:25，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
-- [奇舞周刊](#奇舞周刊)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -101,6 +101,9 @@
 </summary>
 
 
+- [2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93) ![](assets/new.png)  
+- [2020-03-18-构建前端安全生产体系，最快5分钟定位故障](https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20) ![](assets/new.png)  
+- [2020-03-18-六个提升前端开发效率的工具](https://www.ershicimi.com/p/45a00d1b92ba5c0b528d3e564d10a2ef) ![](assets/new.png)  
 - [2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5)  
 - [2020-03-17-工程师快速成长指北](https://www.ershicimi.com/p/d4ae1cb123b2c94496af66d94f298bee)  
 - [2020-03-16-性能提升三倍！优酷Node.js重构之路](https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38)  
@@ -118,9 +121,6 @@
 - [2020-03-11-如何将研发团队的学习成本降至每年300元/人？|-极客时间](https://www.ershicimi.com/p/58a25aefbbb0f08703454ae6d8394538)  
 - [2020-03-10-Ant-Design-4.0发布，我们和核心作者聊了聊](https://www.ershicimi.com/p/a00056fea0d341b575dfe644310bbc96)  
 - [2020-03-09-我开源了一款JS打包/压缩工具，比其他工具快10-100倍！](https://www.ershicimi.com/p/3339ddec51bd51e82fe095213344ce6d)  
-- [2020-03-09-提升前端开发效率：你应该知道的10个Chrome扩展程序](https://www.ershicimi.com/p/3cc0a6d24d481d2366b32777b217e182)  
-- [2020-03-09-半个月从前端转型机器学习，看他们是如何做到的？-|-极客大学](https://www.ershicimi.com/p/4c3d019eed2507ba64d8af8cbb371ea1)  
-- [2020-03-08-前端周报：华为为深入武汉抗疫一线员工提供每人每天两千元补助；Debian领导人不参与今年DPL竞选；](https://www.ershicimi.com/p/ffe335db23eaa3205e0756ac1cd865dd)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -287,7 +287,7 @@
 </summary>
 
 
-- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) ![](assets/new.png)  
+- [2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/)  
 - [2020-02-21-JDRD开发小结](https://aotu.io/notes/2020/02/21/jdrd-summary/)  
 - [2020-02-28-Web-中文字体处理总结](https://aotu.io/notes/2020/02/28/webfont-processing/)  
 - [2020-02-03-Taro-Next-发布预览版：同时支持-React-/-Vue-/-Nerv](https://aotu.io/notes/2020/02/03/taro-next-alpha/)  
@@ -318,6 +318,8 @@
 </summary>
 
 
+- [2020-03-19-前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec) ![](assets/new.png)  
+- [2020-03-18-深入理解Javacript从作用域作用域链开始](https://www.ershicimi.com/p/9830daf27c6e0bbf3001439c59e9fa82) ![](assets/new.png)  
 - [2020-03-17-从构建进程间缓存设计谈Webpack5-优化和工作原理](https://www.ershicimi.com/p/b4e738677e55f4ff75cf4dd4d68bd7de)  
 - [2020-03-16-Vuex调用接口的三个阶段](https://www.ershicimi.com/p/fd163fbed488bf0a41be3cac1be11694)  
 - [2020-03-14-【前端冷知识】动画：你知道的和你不知道的](https://www.ershicimi.com/p/4e7735aa77adea588ebff24507546bf0)  
@@ -336,8 +338,6 @@
 - [2020-02-26-前端高级进阶：如何更好地优化打包资源](https://www.ershicimi.com/p/f75535aab170a223ac5b638cb2a4f5f4)  
 - [2020-02-25-一个白学家眼里的-WebAssembly](https://www.ershicimi.com/p/1b4f375925b36cebbe42a4e98af49ddb)  
 - [2020-01-24-往年是快乐，今年祝你平安健康](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591195&idx=1&sn=8b40d40ccbebc1d7419d23438bd9d28a&chksm=8891dfffbfe656e971c5e8a27a03f1b69825c3f9b146cdd94e9dcd6399ac0273c2c59a4bf7fd&scene=27#wechat_redirect)  
-- [2020-01-22-武汉实时疫情来了-|-你想知道的这都有](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591181&idx=1&sn=e9fdf1c5d60ce2d9bd0a9c54efeddb2f&chksm=8891dfe9bfe656ffc3ade05a8d83e51309d1fe59d6be4e6b802db690797f894376cf295d7b16&scene=27#wechat_redirect)  
-- [2020-01-21-高质量前端快照方案：来自页面的「自拍」](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591170&idx=1&sn=8c8d4c0fb3184d11ef6a70e15f8a6680&chksm=8891dfe6bfe656f0a2e5209c26fd64a65bd77f6023652b0e92a173112520e19df1f0799d68cd&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,6 +380,9 @@
 </summary>
 
 
+- [2020-03-19-今天-Java-14-正式发布了！放弃-Java-8-行吗？](https://www.ershicimi.com/p/72bd2dbc95f3adf5899380e7c129ff82) ![](assets/new.png)  
+- [2020-03-19-前后端分离开发，RESTful-接口应该这样设计](https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5) ![](assets/new.png)  
+- [2020-03-19-面试要10K，HR说你只值7K，怎么斗得过？](https://www.ershicimi.com/p/55df2e45eec79ac7a8adc3a77b3ed894) ![](assets/new.png)  
 - [2020-03-18-一款SQL自动检查神器，再也不用担心SQL出错了，自动补全、回滚等功能大全](https://www.ershicimi.com/p/c07b220c97134db570ee7447fe703782)  
 - [2020-03-18-大厂面试篇：五轮面试，阿里offer到手！](https://www.ershicimi.com/p/1c37cf81058c04e73544736de52318eb)  
 - [2020-03-18-今天写出一个十分弱智的bug！](https://www.ershicimi.com/p/5458e8b1056d220ff2f14c9b8be67a15)  
@@ -397,9 +400,6 @@
 - [2020-03-14-Github-3.4k星，200余行代码，让你实时从视频中隐身](https://www.ershicimi.com/p/fbb11f083b57af2576eedde5b761fefa)  
 - [2020-03-13-进入大厂的面试经验详细总结（P7-拿-offer）](https://www.ershicimi.com/p/babb5685065e5967bebd16a93f3566e6)  
 - [2020-03-13-IDEA-的这款插件真是逆天了，代码那都不是事！](https://www.ershicimi.com/p/3ebc9958db2bb2ea44536f37853e2ffc)  
-- [2020-03-12-去阿里面试被问：如果是MySQL引起的CPU消耗过大，你会如何优化？](https://www.ershicimi.com/p/d22370ee376abfa42ab3f34454bd179f)  
-- [2020-03-12-用漫画让你彻底搞懂-Linux-内核到底长啥样！](https://www.ershicimi.com/p/da4591854ff3010e948fdca57cffd834)  
-- [2020-03-11-六面美团后，我有一个重要的发现...](https://www.ershicimi.com/p/4fe6ace8405e70adbb716654ecc7a02c)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -442,6 +442,9 @@
 </summary>
 
 
+- [2020-03-19-微软通过-Github-收购-npm，加上-TS、新版-Edge、Vscode-，拿下-js-语言的](https://www.ershicimi.com/p/6703a3a49d5f30b4cb9eec23a650d889) ![](assets/new.png)  
+- [2020-03-19-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/744a0d889bcad0a9fb985753beb58855) ![](assets/new.png)  
+- [2020-03-19-网络常见的-9-大命令，非常实用！](https://www.ershicimi.com/p/d7b3bef74b2cad8d75fdcb5dccf157f9) ![](assets/new.png)  
 - [2020-03-18-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/64cef2047d223eed26d8ef73e163f41f)  
 - [2020-03-17-NodeJs入门,带你获取头条热搜形成好看的标签云](https://www.ershicimi.com/p/1c8b05ff1207f0030e45943937747a57)  
 - [2020-03-16-字节跳动今日头条前端面经（4轮技术面+hr面）](https://www.ershicimi.com/p/2ca70d1a61b2ccb56ab1fd43e087e1bd)  
@@ -459,9 +462,6 @@
 - [2020-03-03-高频使用的-Git-命令](https://www.ershicimi.com/p/49b3760af76ff7c5af6158f1a471b700)  
 - [2020-03-03-三年大厂面试官：二面题](https://www.ershicimi.com/p/ab90dfe12cfb891c7235ed55f39b1b6d)  
 - [2020-03-02-开发人今年的金三银四，就白费了？](https://www.ershicimi.com/p/5d1788fbceabd88f2ca993995f68d810)  
-- [2020-02-29-手把手教你写出令人窒息的烂代码](https://www.ershicimi.com/p/b0ef631a6f670661e7322595a1218e80)  
-- [2020-02-28-我为什么要立刻放弃React而使用Vue？](https://www.ershicimi.com/p/b25807ba7fbf20504e838317d6b212ec)  
-- [2020-02-27-招聘量骤减，70%的求职者被拒，开发者该如何突围？](https://www.ershicimi.com/p/bb7a1e879463c892a33449a9e4dc14e6)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

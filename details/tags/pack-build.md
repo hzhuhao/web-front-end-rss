@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 08:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -50,6 +50,7 @@
 - [2018-12-03-前端构建：3-类-13-种热门工具的选型参考](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555458&idx=1&sn=3e86070aceb4afa35f7105ad33434042#wechat_redirect) 
 - [2018-11-30-从-0-到-1-再到-100：搭建、编写、构建一个前端项目](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555432&idx=1&sn=5d2961345a9351e9057b29f9396c9d79#wechat_redirect) 
 - [2018-09-27-webpack-启动代码源码解读](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=1&sn=b7d609eea8dad3eea034226c19990f4d#wechat_redirect) 
+- [2020-03-18-构建前端安全生产体系，最快5分钟定位故障](https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20) 
 - [2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5) 
 - [2020-01-13-只有-9.27%-的-npm-开发者使用-2FA](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493602&idx=2&sn=dd60d045916891da215aaf14c1aaf33e&chksm=f95252a1ce25dbb748139c4c7ce966fae1d4c11176cc1783f71ce2370e1208a5c87757fc75e3&scene=27#wechat_redirect) 
 - [2020-01-02-RN-转小程序引擎-Alita-2.0-正式发布：基于-webpack-进行重构](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493526&idx=1&sn=5fab13390e8368c7687340133e9a14c5&chksm=f95252d5ce25dbc3d9636f18375971d907b6eb7d1c16b758edd23e1ed3cf921d32ed49bbf386&scene=27#wechat_redirect) 
@@ -90,6 +91,7 @@
 - [2020-03-18-npm-is-joining-GitHub](https://www.ershicimi.com/p/40e5a64fcae42bbe5088577ee6b3684c) 
 - [2020-03-17-刚刚！GitHub宣布正式收购npm](https://www.ershicimi.com/p/c141516d536348a27f1d2d814a372140) 
 - [2020-01-13-一个通用的数据中台架构应该如何构建？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=5&sn=b0d95ca2295d668e48d80c426f15e299&chksm=bdbe914b8ac9185d65bdaffd4d3ec0d6453c20ac0ddb43f351bf943ea33b01d1f6c90b3e8e09&scene=27#wechat_redirect) 
+- [2020-03-19-微软通过-Github-收购-npm，加上-TS、新版-Edge、Vscode-，拿下-js-语言的](https://www.ershicimi.com/p/6703a3a49d5f30b4cb9eec23a650d889) 
 - [2020-01-22-babel-plugin-macros：babel的另一种配置方式](https://juejin.im/post/5e2811d46fb9a02fec665054) 
 - [2020-01-22-eslint从愁眉苦脸到为所欲为](https://juejin.im/post/5e272e3a6fb9a02fef3a6cf5) 
 - [2020-01-20-关于webpack问答记录...](https://juejin.im/post/5e25462de51d4558021a164d) 

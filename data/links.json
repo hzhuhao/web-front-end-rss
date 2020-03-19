@@ -7474,6 +7474,21 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "JavaScript 执行效率不行？因为你还没用 V8 | 极客时间",
+        "link": "https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "构建前端安全生产体系，最快5分钟定位故障",
+        "link": "https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20",
+        "date": "2020-03-18"
+      },
+      {
+        "title": "六个提升前端开发效率的工具",
+        "link": "https://www.ershicimi.com/p/45a00d1b92ba5c0b528d3e564d10a2ef",
+        "date": "2020-03-18"
+      },
+      {
         "title": "GitHub正式收购npm，这对开发者意味着什么？",
         "link": "https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5",
         "date": "2020-03-17"
@@ -13683,6 +13698,16 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "前端高级进阶：网站的缓存控制策略最佳实践及注意事项",
+        "link": "https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "深入理解Javacript从作用域作用域链开始",
+        "link": "https://www.ershicimi.com/p/9830daf27c6e0bbf3001439c59e9fa82",
+        "date": "2020-03-18"
+      },
+      {
         "title": "从构建进程间缓存设计谈Webpack5 优化和工作原理",
         "link": "https://www.ershicimi.com/p/b4e738677e55f4ff75cf4dd4d68bd7de",
         "date": "2020-03-17"
@@ -14281,6 +14306,21 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "今天 Java 14 正式发布了！放弃 Java 8 行吗？",
+        "link": "https://www.ershicimi.com/p/72bd2dbc95f3adf5899380e7c129ff82",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "前后端分离开发，RESTful 接口应该这样设计",
+        "link": "https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "面试要10K，HR说你只值7K，怎么斗得过？",
+        "link": "https://www.ershicimi.com/p/55df2e45eec79ac7a8adc3a77b3ed894",
+        "date": "2020-03-19"
+      },
       {
         "title": "一款SQL自动检查神器，再也不用担心SQL出错了，自动补全、回滚等功能大全",
         "link": "https://www.ershicimi.com/p/c07b220c97134db570ee7447fe703782",
@@ -16110,6 +16150,21 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "微软通过 Github 收购 npm，加上 TS、新版 Edge、Vscode ，拿下 js 语言的",
+        "link": "https://www.ershicimi.com/p/6703a3a49d5f30b4cb9eec23a650d889",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "前端面试题全面整理-带解析 涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法",
+        "link": "https://www.ershicimi.com/p/744a0d889bcad0a9fb985753beb58855",
+        "date": "2020-03-19"
+      },
+      {
+        "title": "网络常见的 9 大命令，非常实用！",
+        "link": "https://www.ershicimi.com/p/d7b3bef74b2cad8d75fdcb5dccf157f9",
+        "date": "2020-03-19"
+      },
       {
         "title": "面试的时候，会用vue就够了吗？",
         "link": "https://www.ershicimi.com/p/64cef2047d223eed26d8ef73e163f41f",
