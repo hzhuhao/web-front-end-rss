@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -107,6 +107,7 @@
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-01-03-奇舞周刊第-334-期:-llhttp-是如何使-Node.js-性能翻倍的？](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590897&idx=1&sn=f12379a4d63aa834ad3d920039d35147&chksm=8891de95bfe657835c4f27126c0494520c3b16ee2db877aad2d5d4d5f8634e675b4a60b457d7&scene=27#wechat_redirect) 
 - [2020-01-02-Docker-搭建你的第一个-Node-项目到服务器](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=1&sn=0aa80a7c9549af69a64332bb92a94804&chksm=8891de89bfe6579f09d3cd9a116b63ae2a90409d4e9a8b4359a61fca32d955c47f096b02d5b2&scene=27#wechat_redirect) 
+- [2020-03-19-JavaScript-执行效率不行？因为你还没用-V8丨极客时间](https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f) 
 - [2020-03-17-NodeJs入门,带你获取头条热搜形成好看的标签云](https://www.ershicimi.com/p/1c8b05ff1207f0030e45943937747a57) 
 - [2020-03-15-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271) 
 - [2020-01-22-把会话放在Node层-我们这样做的很开心😋](https://juejin.im/post/5e28267be51d45020e180f95) 

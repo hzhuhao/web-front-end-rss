@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-19 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-19 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -967,6 +967,9 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-03-19-78%-研发团队都面临这些“死亡”问题，你知道该如何解决吗？](https://www.ershicimi.com/p/c224472db98a1625776e338b2ef33aca) 
+- [2020-03-19-什么时候，你会觉得自己离微软更近？](https://www.ershicimi.com/p/4f0509308f8b07cbe42363c5cbd44536) 
+- [2020-03-19-为什么-Windows-内核比其他系统慢](https://www.ershicimi.com/p/0570cd699d51c9fec60a1373dc9ce420) 
 - [2020-03-18-华为硬杠谷歌，开发者“夹缝求生”](https://www.ershicimi.com/p/bff291da6ad805f08061c82d067467ff) 
 - [2020-03-18-狂奔之后-RPA-企业开始精耕细作：建生态、补短板、推进市场落地](https://www.ershicimi.com/p/8f9ce9670fd2f8f846ba58a45ed70489) 
 - [2020-03-18-Yunong-Xiao：工程师快速成长指北](https://www.ershicimi.com/p/b4995662be5b18e36ed584e6ac2f6323) 
