@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 18:00:24，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 22:00:26，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -24,10 +24,10 @@
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [互联网架构师](#互联网架构师)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -318,7 +318,7 @@
 </summary>
 
 
-- [2020-03-20-奇舞周刊第-342-期：技术人如何更好地把控发展趋势](https://www.ershicimi.com/p/a072ec76d99b26912f593aea76fc5aa4) ![](assets/new.png)  
+- [2020-03-20-奇舞周刊第-342-期：技术人如何更好地把控发展趋势](https://www.ershicimi.com/p/a072ec76d99b26912f593aea76fc5aa4)  
 - [2020-03-19-前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec)  
 - [2020-03-18-深入理解Javacript从作用域作用域链开始](https://www.ershicimi.com/p/9830daf27c6e0bbf3001439c59e9fa82)  
 - [2020-03-17-从构建进程间缓存设计谈Webpack5-优化和工作原理](https://www.ershicimi.com/p/b4e738677e55f4ff75cf4dd4d68bd7de)  
@@ -380,9 +380,9 @@
 </summary>
 
 
-- [2020-03-20-PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740) ![](assets/new.png)  
-- [2020-03-20-二货同事！写上千行的类！这样的代码让我生不如死！](https://www.ershicimi.com/p/162ab72a9906a2962efa05d8bc24be75) ![](assets/new.png)  
-- [2020-03-20-厉害了！如何在-Gihub-快速搜索开源项目？](https://www.ershicimi.com/p/651d560e84ae44e36d6845fe7e1926fe) ![](assets/new.png)  
+- [2020-03-20-PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740)  
+- [2020-03-20-二货同事！写上千行的类！这样的代码让我生不如死！](https://www.ershicimi.com/p/162ab72a9906a2962efa05d8bc24be75)  
+- [2020-03-20-厉害了！如何在-Gihub-快速搜索开源项目？](https://www.ershicimi.com/p/651d560e84ae44e36d6845fe7e1926fe)  
 - [2020-03-19-今天-Java-14-正式发布了！放弃-Java-8-行吗？](https://www.ershicimi.com/p/72bd2dbc95f3adf5899380e7c129ff82)  
 - [2020-03-19-前后端分离开发，RESTful-接口应该这样设计](https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5)  
 - [2020-03-19-面试要10K，HR说你只值7K，怎么斗得过？](https://www.ershicimi.com/p/55df2e45eec79ac7a8adc3a77b3ed894)  
@@ -411,6 +411,11 @@
 </summary>
 
 
+- [2020-03-20-怀疑开发者在“造核弹”？GitHub不断封禁开源项目](https://www.ershicimi.com/p/2fbbc435d35fb179c4e8d6363d164f27) ![](assets/new.png)  
+- [2020-03-20-InfoQ-Pro-重磅福利来袭，周边大礼包免费领，先到先得！](https://www.ershicimi.com/p/d12e73ef30e9f8be66859a5903988cde) ![](assets/new.png)  
+- [2020-03-20-别再说你懂技术团队管理-|-GTLC](https://www.ershicimi.com/p/50cb914ff29861a20ebf2c3dbf4c3c7f) ![](assets/new.png)  
+- [2020-03-20-为什么你写的代码别人看不懂？](https://www.ershicimi.com/p/c456b96d119b9a44e04ec5aa3873ba29) ![](assets/new.png)  
+- [2020-03-20-说到做到！RISC-V基金会正式落户瑞士，躲避美国潜在限制](https://www.ershicimi.com/p/bfd086ebb0486486493af6e44f92e88b) ![](assets/new.png)  
 - [2020-03-19-JavaScript-执行效率不行？因为你还没用-V8丨极客时间](https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f)  
 - [2020-03-19-78%-研发团队都面临这些“死亡”问题，你知道该如何解决吗？](https://www.ershicimi.com/p/c224472db98a1625776e338b2ef33aca)  
 - [2020-03-19-什么时候，你会觉得自己离微软更近？](https://www.ershicimi.com/p/4f0509308f8b07cbe42363c5cbd44536)  
@@ -426,11 +431,6 @@
 - [2020-03-17-大疆禁飞、TikTok-禁装，视野之外的“华为”们如何出海？](https://www.ershicimi.com/p/f87b2ee1bf5885c4282a489bd2509c99)  
 - [2020-03-17-Facebook-重写-iOS-版-Messenger：启动速度快-2-倍，核心代码减少-84%](https://www.ershicimi.com/p/c51256a895127f2ac6ad0e702e1850d3)  
 - [2020-03-16-极客时间企业版免费开放全部课程，邀请研发团队试学](https://www.ershicimi.com/p/23f7d1a603445ae42c34216263ca7b5f)  
-- [2020-03-16-升级遗留代码的最佳实践](https://www.ershicimi.com/p/602556a0366043e88b195f8ad25759a0)  
-- [2020-03-16-好算法距离好产品有多远？丨QCon](https://www.ershicimi.com/p/7c193dff943560e4348f025b19a49b21)  
-- [2020-03-16-英特尔CEO自救：我太难了](https://www.ershicimi.com/p/aaf884cddffe4c161fa15d87f63786ee)  
-- [2020-03-16-比特币崩盘后：别人恐惧我贪婪？](https://www.ershicimi.com/p/599e535db1f6142027051dfb30a6c8fc)  
-- [2020-03-15-让比尔·盖茨放心退出董事会的纳德拉，是如何与两位前任-CEO“对抗”的？](https://www.ershicimi.com/p/d8e24a74ce9c29bcb15337d2b0a4d007)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

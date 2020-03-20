@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-20 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-20 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -28,6 +28,7 @@
 - [2020-03-04-高频使用的-Git-命令](https://www.ershicimi.com/p/ba494a49d73657938ddd3e960d3b0d0b) 
 - [2020-01-09-1-月份-Github-上最热门最有价值的开源项目](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489569&idx=1&sn=d837aa8d3b2920172acf0b86c8dfd82b&chksm=ea5cd547dd2b5c513337c8303bb6e338b15aa47afb1fefe867ae7cbf6a62a34991047aa8bfe2&scene=27#wechat_redirect) 
 - [2020-01-09-如何设计-QQ、微信、微博、Github-等等，第三方账号登陆-？（附表设计）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489569&idx=3&sn=e2ee31a44db15f87ce4553bc4cc66d4c&chksm=ea5cd547dd2b5c513393d2f4086ad7eb3adffac96d1dfa0b333b71f8c041e025c116390f9fce&scene=27#wechat_redirect) 
+- [2020-03-20-怀疑开发者在“造核弹”？GitHub不断封禁开源项目](https://www.ershicimi.com/p/2fbbc435d35fb179c4e8d6363d164f27) 
 - [2020-03-17-别再推荐Git-Flow了](https://www.ershicimi.com/p/a26a3c86709c9316ff80d965901d1ac8) 
 - [2020-01-27-武汉火神山医院向全国公开招募IT运维；-wuhan2020开源项目登录GitHub；国务院凌晨通知春](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023926&idx=1&sn=5881682fd6d2a8c45dcbdbb640eb1325&chksm=bdbe92658ac91b73916725d02e6ed6990d00630f13fa69082cb21b61783912eedf7c5ae35971&scene=27#wechat_redirect) 
 - [2019-12-29-用文言文编程？Github“万星”代码背后，到底是何方神圣](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=2&sn=96af72c8510764c91c6e3dbd50f37a15&chksm=bdbe9f8a8ac9169c62d37307343da1a3a788fd52402f30a5b1e46eee8cf7c9db9807b552011b&scene=27#wechat_redirect) 
