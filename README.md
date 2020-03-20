@@ -11,23 +11,23 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-19 22:00:26，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 12:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -132,6 +132,7 @@
 </summary>
 
 
+- [2020-03-19-2021届前端实习生内推](https://fed.taobao.org/blog/taofed/do71ct/2021-fontend-interpolate) ![](assets/new.png)  
 - [2020-03-02-一个前端智能化的实践](https://fed.taobao.org/blog/taofed/do71ct/practice-in-frontend)  
 - [2020-02-19-初识前端智能化](https://fed.taobao.org/blog/taofed/do71ct/start-to-know-intelligense)  
 - [2020-02-18-前端与-Serverless-同行，哇哦视频这半年](https://fed.taobao.org/blog/taofed/do71ct/ftontend-and-serverless-forward)  
@@ -151,7 +152,6 @@
 - [2019-06-06-大话-JavaScript-动画](https://fed.taobao.org/blog/taofed/do71ct/js-animation-base)  
 - [2019-05-29-前端修炼小册-开放申请啦](https://fed.taobao.org/blog/taofed/do71ct/fed-learning-quizzes-apply)  
 - [2019-05-18-使用-React-Hooks-代替-Redux](https://fed.taobao.org/blog/taofed/do71ct/use-the-react-hooks-instead-of-the-redux)  
-- [2019-04-16-我们是如何管理一个-1w+-stars-的开源仓库的](https://fed.taobao.org/blog/taofed/do71ct/how-to-manager-a-1w-starts-repo)  
 - [......【查看更多】......](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -194,6 +194,7 @@
 </summary>
 
 
+- [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html) ![](assets/new.png)  
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)  
 - [2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)  
 - [2020-02-28-科技爱好者周刊：第-96-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html)  
@@ -213,7 +214,6 @@
 - [2019-12-20-科技爱好者周刊：第-87-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)  
 - [2019-12-19-一个老程序员的30年生涯回顾（译文）](http://www.ruanyifeng.com/blog/2019/12/30-years-software-career.html)  
 - [2019-12-17-H5-手机-App-开发入门：技术篇](http://www.ruanyifeng.com/blog/2019/12/mobile-app-technology-stack.html)  
-- [2019-12-13-科技爱好者周刊：第-86-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-86.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,11 +411,11 @@
 </summary>
 
 
-- [2020-03-19-JavaScript-执行效率不行？因为你还没用-V8丨极客时间](https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f) ![](assets/new.png)  
-- [2020-03-19-78%-研发团队都面临这些“死亡”问题，你知道该如何解决吗？](https://www.ershicimi.com/p/c224472db98a1625776e338b2ef33aca) ![](assets/new.png)  
-- [2020-03-19-什么时候，你会觉得自己离微软更近？](https://www.ershicimi.com/p/4f0509308f8b07cbe42363c5cbd44536) ![](assets/new.png)  
-- [2020-03-19-为什么-Windows-内核比其他系统慢](https://www.ershicimi.com/p/0570cd699d51c9fec60a1373dc9ce420) ![](assets/new.png)  
-- [2020-03-19-滴滴离线索引快速构建FastIndex架构实践](https://www.ershicimi.com/p/8a038adbfe81be5a4dfd885f545d015f) ![](assets/new.png)  
+- [2020-03-19-JavaScript-执行效率不行？因为你还没用-V8丨极客时间](https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f)  
+- [2020-03-19-78%-研发团队都面临这些“死亡”问题，你知道该如何解决吗？](https://www.ershicimi.com/p/c224472db98a1625776e338b2ef33aca)  
+- [2020-03-19-什么时候，你会觉得自己离微软更近？](https://www.ershicimi.com/p/4f0509308f8b07cbe42363c5cbd44536)  
+- [2020-03-19-为什么-Windows-内核比其他系统慢](https://www.ershicimi.com/p/0570cd699d51c9fec60a1373dc9ce420)  
+- [2020-03-19-滴滴离线索引快速构建FastIndex架构实践](https://www.ershicimi.com/p/8a038adbfe81be5a4dfd885f545d015f)  
 - [2020-03-18-华为硬杠谷歌，开发者“夹缝求生”](https://www.ershicimi.com/p/bff291da6ad805f08061c82d067467ff)  
 - [2020-03-18-狂奔之后-RPA-企业开始精耕细作：建生态、补短板、推进市场落地](https://www.ershicimi.com/p/8f9ce9670fd2f8f846ba58a45ed70489)  
 - [2020-03-18-Yunong-Xiao：工程师快速成长指北](https://www.ershicimi.com/p/b4995662be5b18e36ed584e6ac2f6323)  
