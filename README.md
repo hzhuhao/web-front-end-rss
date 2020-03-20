@@ -11,22 +11,22 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-20 12:00:27，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-20 18:00:24，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -132,7 +132,7 @@
 </summary>
 
 
-- [2020-03-19-2021届前端实习生内推](https://fed.taobao.org/blog/taofed/do71ct/2021-fontend-interpolate) ![](assets/new.png)  
+- [2020-03-19-2021届前端实习生内推](https://fed.taobao.org/blog/taofed/do71ct/2021-fontend-interpolate)  
 - [2020-03-02-一个前端智能化的实践](https://fed.taobao.org/blog/taofed/do71ct/practice-in-frontend)  
 - [2020-02-19-初识前端智能化](https://fed.taobao.org/blog/taofed/do71ct/start-to-know-intelligense)  
 - [2020-02-18-前端与-Serverless-同行，哇哦视频这半年](https://fed.taobao.org/blog/taofed/do71ct/ftontend-and-serverless-forward)  
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html) ![](assets/new.png)  
+- [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html)  
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)  
 - [2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)  
 - [2020-02-28-科技爱好者周刊：第-96-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html)  
@@ -318,6 +318,7 @@
 </summary>
 
 
+- [2020-03-20-奇舞周刊第-342-期：技术人如何更好地把控发展趋势](https://www.ershicimi.com/p/a072ec76d99b26912f593aea76fc5aa4) ![](assets/new.png)  
 - [2020-03-19-前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec)  
 - [2020-03-18-深入理解Javacript从作用域作用域链开始](https://www.ershicimi.com/p/9830daf27c6e0bbf3001439c59e9fa82)  
 - [2020-03-17-从构建进程间缓存设计谈Webpack5-优化和工作原理](https://www.ershicimi.com/p/b4e738677e55f4ff75cf4dd4d68bd7de)  
@@ -337,7 +338,6 @@
 - [2020-02-27-Webpack-插件开发如此简单！](https://www.ershicimi.com/p/46505f3b91fc3f63925c3362ad89d369)  
 - [2020-02-26-前端高级进阶：如何更好地优化打包资源](https://www.ershicimi.com/p/f75535aab170a223ac5b638cb2a4f5f4)  
 - [2020-02-25-一个白学家眼里的-WebAssembly](https://www.ershicimi.com/p/1b4f375925b36cebbe42a4e98af49ddb)  
-- [2020-01-24-往年是快乐，今年祝你平安健康](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591195&idx=1&sn=8b40d40ccbebc1d7419d23438bd9d28a&chksm=8891dfffbfe656e971c5e8a27a03f1b69825c3f9b146cdd94e9dcd6399ac0273c2c59a4bf7fd&scene=27#wechat_redirect)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,6 +380,9 @@
 </summary>
 
 
+- [2020-03-20-PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740) ![](assets/new.png)  
+- [2020-03-20-二货同事！写上千行的类！这样的代码让我生不如死！](https://www.ershicimi.com/p/162ab72a9906a2962efa05d8bc24be75) ![](assets/new.png)  
+- [2020-03-20-厉害了！如何在-Gihub-快速搜索开源项目？](https://www.ershicimi.com/p/651d560e84ae44e36d6845fe7e1926fe) ![](assets/new.png)  
 - [2020-03-19-今天-Java-14-正式发布了！放弃-Java-8-行吗？](https://www.ershicimi.com/p/72bd2dbc95f3adf5899380e7c129ff82)  
 - [2020-03-19-前后端分离开发，RESTful-接口应该这样设计](https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5)  
 - [2020-03-19-面试要10K，HR说你只值7K，怎么斗得过？](https://www.ershicimi.com/p/55df2e45eec79ac7a8adc3a77b3ed894)  
@@ -397,9 +400,6 @@
 - [2020-03-15-我私藏的一个超级无敌好用的-Java-工具类库](https://www.ershicimi.com/p/874a8bb8235fb8e43b3dd433d2a4e6d7)  
 - [2020-03-14-自从阿里拿下-Flink-以后,-你还不懂-Flink-就-out-了](https://www.ershicimi.com/p/d7d96d69678b00991ed783140c19cb89)  
 - [2020-03-14-真不是开玩笑：同事因在涉及金钱交易中使用double造成无法挽回的损失，已跑路](https://www.ershicimi.com/p/5f0150862e92aa4fb6cd9f36138f2228)  
-- [2020-03-14-Github-3.4k星，200余行代码，让你实时从视频中隐身](https://www.ershicimi.com/p/fbb11f083b57af2576eedde5b761fefa)  
-- [2020-03-13-进入大厂的面试经验详细总结（P7-拿-offer）](https://www.ershicimi.com/p/babb5685065e5967bebd16a93f3566e6)  
-- [2020-03-13-IDEA-的这款插件真是逆天了，代码那都不是事！](https://www.ershicimi.com/p/3ebc9958db2bb2ea44536f37853e2ffc)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
