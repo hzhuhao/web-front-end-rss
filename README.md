@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-21 12:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-21 22:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -101,8 +101,8 @@
 </summary>
 
 
-- [2020-03-19-2020年前端框架性能对比和评测](https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e) ![](assets/new.png)  
-- [2020-03-19-端侧AI：从探索尝试到逐步展开](https://www.ershicimi.com/p/ddfd97004ec9bed91d8408ca48a90893) ![](assets/new.png)  
+- [2020-03-19-2020年前端框架性能对比和评测](https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e)  
+- [2020-03-19-端侧AI：从探索尝试到逐步展开](https://www.ershicimi.com/p/ddfd97004ec9bed91d8408ca48a90893)  
 - [2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93)  
 - [2020-03-18-构建前端安全生产体系，最快5分钟定位故障](https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20)  
 - [2020-03-18-六个提升前端开发效率的工具](https://www.ershicimi.com/p/45a00d1b92ba5c0b528d3e564d10a2ef)  
@@ -163,6 +163,7 @@
 </summary>
 
 
+- [2020-03-21-CSS-text-decoration实现宽度100%波浪线效果](https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/) ![](assets/new.png)  
 - [2020-03-18-CSS-overflow-wrap新属性值anywhere是干嘛用的？](https://www.zhangxinxu.com/wordpress/2020/03/css-overflow-wrap-anywhere/)  
 - [2020-03-12-关于CSS-emoji字体和OpenType-SVG我所知道的一些事](https://www.zhangxinxu.com/wordpress/2020/03/css-emoji-opentype-svg-fonts/)  
 - [2020-03-08-检测DOM尺寸变化JS-API-ResizeObserver简介](https://www.zhangxinxu.com/wordpress/2020/03/dom-resize-api-resizeobserver/)  
@@ -182,7 +183,6 @@
 - [2019-12-07-CSS-repeat函数详细介绍](https://www.zhangxinxu.com/wordpress/2019/12/css-repeat/)  
 - [2019-11-30-CSS-minmax函数简介](https://www.zhangxinxu.com/wordpress/2019/11/css-grid-minmax/)  
 - [2019-11-17-我们一起学习CSS-image-set](https://www.zhangxinxu.com/wordpress/2019/11/css-image-set/)  
-- [2019-11-15-CSS-backdrop-filter简介与苹果iOS毛玻璃效果](https://www.zhangxinxu.com/wordpress/2019/11/css-backdrop-filter/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
