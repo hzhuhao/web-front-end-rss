@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-23 06:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-23 12:00:26，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,9 +26,9 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -101,6 +101,12 @@
 </summary>
 
 
+- [2020-03-22-前端周报：5.38亿微博用户信息泄露，售价不到万元；45天全国10万公司申请注销；微软称使用Win](https://www.ershicimi.com/p/0ac62bdfd0f282e690da123b0041f334) ![](assets/new.png)  
+- [2020-03-22-Paddle-Lite-v2.3正式发布，新特性解读](https://www.ershicimi.com/p/d38daacb5d61e8be7989f27c5b7cb3bb) ![](assets/new.png)  
+- [2020-03-22-别再关注框架，关注核心能力丨极客大学](https://www.ershicimi.com/p/09f9025cd09d722a32a633cfd7ca42b6) ![](assets/new.png)  
+- [2020-03-20-手淘-App-如何落地-Swift-？一边探索实践，一边“打怪升级”](https://www.ershicimi.com/p/81beae26d80147abc8b6d6dd3471971c) ![](assets/new.png)  
+- [2020-03-20-uni-app黑魔法：小程序自定义组件运行到H5平台](https://www.ershicimi.com/p/075a95dc694f97f40430ed95ed247211) ![](assets/new.png)  
+- [2020-03-20-所谓前端工程化，究竟是什么？-|-极客大学](https://www.ershicimi.com/p/5a4d6d9d1a3ba2fee107f59e2a966d6c) ![](assets/new.png)  
 - [2020-03-19-2020年前端框架性能对比和评测](https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e)  
 - [2020-03-19-端侧AI：从探索尝试到逐步展开](https://www.ershicimi.com/p/ddfd97004ec9bed91d8408ca48a90893)  
 - [2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93)  
@@ -115,12 +121,6 @@
 - [2020-03-14-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/3248cd8bc832e226ce2cf7c292a8a12b)  
 - [2020-03-13-Facebook重写iOS版的Messenger，启动速度快2倍，核心代码减少84%](https://www.ershicimi.com/p/b6f65205b280ccc8091765417ecf2c54)  
 - [2020-03-13-dna-：一个-Dart-到-Native-的超级通道](https://www.ershicimi.com/p/78ba18011f5411f62e0c6488412bc7d4)  
-- [2020-03-13-如何解决前端工程问题，摆脱“切图仔”？-|-极客大学](https://www.ershicimi.com/p/dad33357cc38f723897e97c64e717e0e)  
-- [2020-03-12-张鑫旭：我对前端从业人员分布与技术风向的一点看法](https://www.ershicimi.com/p/f82936486b8344bff7e176df157c1a0d)  
-- [2020-03-12-Wasm-在物联网、云和多媒体领域发展现状（首届-WebAssembly-Sumimit-解析下篇）](https://www.ershicimi.com/p/7981343de570f17ccd1d2af9afac9386)  
-- [2020-03-11-从首届-WebAssembly-Summit-看-Wasm-未来发展方向——安全性、性能和浏览器引擎](https://www.ershicimi.com/p/e40a9ef7f17cdea3046e7e5283f4695b)  
-- [2020-03-11-苹果开源ArgumentParser：为Swift加个工具？](https://www.ershicimi.com/p/b913fe5c75ef43643dfac31f8f71c6b8)  
-- [2020-03-11-如何将研发团队的学习成本降至每年300元/人？|-极客时间](https://www.ershicimi.com/p/58a25aefbbb0f08703454ae6d8394538)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,6 +380,12 @@
 </summary>
 
 
+- [2020-03-22-4种软件架构，看看你属于哪个层次！](https://www.ershicimi.com/p/83abbfd8bc742a2b31acd5a3e3527610) ![](assets/new.png)  
+- [2020-03-22-来自微信官方：微信支付跨平台软件架构首次曝光](https://www.ershicimi.com/p/6748235c9254f9f2a8f4fcd68e34fe44) ![](assets/new.png)  
+- [2020-03-22-GitHub-热榜：文字识别神器，超轻量级中文-OCR！一个超级厉害的开源库](https://www.ershicimi.com/p/ba81af60a36c1d620a728429394e29e7) ![](assets/new.png)  
+- [2020-03-21-IDEA新特性真牛逼：提前知道代码怎么走！](https://www.ershicimi.com/p/3ce8db60c74098906aca8e8967d0dcc1) ![](assets/new.png)  
+- [2020-03-21-硬核干货：你从普通码农到架构师的封神之路](https://www.ershicimi.com/p/d50955f7ea51bf9b130c80828e27decc) ![](assets/new.png)  
+- [2020-03-21-Netty、Kafka中的零拷贝技术到底有多牛?](https://www.ershicimi.com/p/1480e8425cfd31c9dea1ca3c50062850) ![](assets/new.png)  
 - [2020-03-20-PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740)  
 - [2020-03-20-二货同事！写上千行的类！这样的代码让我生不如死！](https://www.ershicimi.com/p/162ab72a9906a2962efa05d8bc24be75)  
 - [2020-03-20-厉害了！如何在-Gihub-快速搜索开源项目？](https://www.ershicimi.com/p/651d560e84ae44e36d6845fe7e1926fe)  
@@ -394,12 +400,6 @@
 - [2020-03-17-一行代码让纯文本编辑器秒变-Markdown-编辑器](https://www.ershicimi.com/p/a513f566999ed536bea4da4ec5080063)  
 - [2020-03-16-什么才是真正的架构设计？](https://www.ershicimi.com/p/3be7db3547b32e7b04faccade1a4f03d)  
 - [2020-03-16-手把手教你SpringBoot+MyBatis+Shiro-搭建项目框架](https://www.ershicimi.com/p/2c4bb7dfa2b3422efc7032cfb1101a46)  
-- [2020-03-16-老板放过我吧！我Java8还没用呢，又让我学习Java14](https://www.ershicimi.com/p/9cfc675ef4a8ec391f416ea095797683)  
-- [2020-03-15-去阿里面试，被一道-Spring-面试题难倒了](https://www.ershicimi.com/p/515a4114c386bf168601964c6bd26123)  
-- [2020-03-15-用户密码到底要怎么加密存储？](https://www.ershicimi.com/p/2bd9db9e63c3733cc32e2b9ff1672c80)  
-- [2020-03-15-我私藏的一个超级无敌好用的-Java-工具类库](https://www.ershicimi.com/p/874a8bb8235fb8e43b3dd433d2a4e6d7)  
-- [2020-03-14-自从阿里拿下-Flink-以后,-你还不懂-Flink-就-out-了](https://www.ershicimi.com/p/d7d96d69678b00991ed783140c19cb89)  
-- [2020-03-14-真不是开玩笑：同事因在涉及金钱交易中使用double造成无法挽回的损失，已跑路](https://www.ershicimi.com/p/5f0150862e92aa4fb6cd9f36138f2228)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,6 +411,14 @@
 </summary>
 
 
+- [2020-03-22-阿里双11淘系技术掌门人：一场不亚于移动化的变革已经发生](https://www.ershicimi.com/p/6c38baf41d242cbabaab5ce034fd870f) ![](assets/new.png)  
+- [2020-03-22-一年薅走1000-亿人民币？羊毛党：我也是受害者丨Q事界](https://www.ershicimi.com/p/ecc5c7c86634039ef8fb6db8b6be5116) ![](assets/new.png)  
+- [2020-03-22-微服务失败的-11-个原因](https://www.ershicimi.com/p/041a76eebf06aeef3e78f3bc1f24b975) ![](assets/new.png)  
+- [2020-03-22-Service-Mesh-化繁为简：基于-Istiod-回归单体设计](https://www.ershicimi.com/p/931492608ed9349d0d52a934e59bf74f) ![](assets/new.png)  
+- [2020-03-21-“盗版微信”通过反编译手段与正版通讯；45天全国10万公司申请注销；Netflix、YouTube降](https://www.ershicimi.com/p/6b1efac54d2568675ee910af0b902737) ![](assets/new.png)  
+- [2020-03-21-朋友圈值得看的文章，一半出自这-8-个优质公号](https://www.ershicimi.com/p/4017934a3b05d8fd3d85579261967b0f) ![](assets/new.png)  
+- [2020-03-21-2020-年前端框架性能对比和评测](https://www.ershicimi.com/p/72e3bfb173735c7d04032567f1023f8a) ![](assets/new.png)  
+- [2020-03-21-美联储联手九大央行救市，甚至还想“直升机撒钱”](https://www.ershicimi.com/p/e290729489b0bc3a0f2e0f162d65d002) ![](assets/new.png)  
 - [2020-03-20-怀疑开发者在“造核弹”？GitHub不断封禁开源项目](https://www.ershicimi.com/p/2fbbc435d35fb179c4e8d6363d164f27)  
 - [2020-03-20-InfoQ-Pro-重磅福利来袭，周边大礼包免费领，先到先得！](https://www.ershicimi.com/p/d12e73ef30e9f8be66859a5903988cde)  
 - [2020-03-20-别再说你懂技术团队管理-|-GTLC](https://www.ershicimi.com/p/50cb914ff29861a20ebf2c3dbf4c3c7f)  
@@ -423,14 +431,6 @@
 - [2020-03-19-滴滴离线索引快速构建FastIndex架构实践](https://www.ershicimi.com/p/8a038adbfe81be5a4dfd885f545d015f)  
 - [2020-03-18-华为硬杠谷歌，开发者“夹缝求生”](https://www.ershicimi.com/p/bff291da6ad805f08061c82d067467ff)  
 - [2020-03-18-狂奔之后-RPA-企业开始精耕细作：建生态、补短板、推进市场落地](https://www.ershicimi.com/p/8f9ce9670fd2f8f846ba58a45ed70489)  
-- [2020-03-18-Yunong-Xiao：工程师快速成长指北](https://www.ershicimi.com/p/b4995662be5b18e36ed584e6ac2f6323)  
-- [2020-03-18-TigerGraph-图技术部署及实战落地丨课程回顾](https://www.ershicimi.com/p/5ea19faa8beb00f179e8faebe4b70723)  
-- [2020-03-18-干了10年软件工程师，我学到10个教训](https://www.ershicimi.com/p/dd0bac387a8c5f3b6931cebee482a1d5)  
-- [2020-03-17-刚刚！GitHub宣布正式收购npm](https://www.ershicimi.com/p/c141516d536348a27f1d2d814a372140)  
-- [2020-03-17-别再推荐Git-Flow了](https://www.ershicimi.com/p/a26a3c86709c9316ff80d965901d1ac8)  
-- [2020-03-17-大疆禁飞、TikTok-禁装，视野之外的“华为”们如何出海？](https://www.ershicimi.com/p/f87b2ee1bf5885c4282a489bd2509c99)  
-- [2020-03-17-Facebook-重写-iOS-版-Messenger：启动速度快-2-倍，核心代码减少-84%](https://www.ershicimi.com/p/c51256a895127f2ac6ad0e702e1850d3)  
-- [2020-03-16-极客时间企业版免费开放全部课程，邀请研发团队试学](https://www.ershicimi.com/p/23f7d1a603445ae42c34216263ca7b5f)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -442,7 +442,7 @@
 </summary>
 
 
-- [2020-03-20-CSS---::​​-before-和-::-after](https://www.ershicimi.com/p/9a1f90f5a5f2150caacb5a84c0dd69ca) ![](assets/new.png)  
+- [2020-03-20-CSS---::​​-before-和-::-after](https://www.ershicimi.com/p/9a1f90f5a5f2150caacb5a84c0dd69ca)  
 - [2020-03-19-微软通过-Github-收购-npm，加上-TS、新版-Edge、Vscode-，拿下-js-语言的](https://www.ershicimi.com/p/6703a3a49d5f30b4cb9eec23a650d889)  
 - [2020-03-19-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/744a0d889bcad0a9fb985753beb58855)  
 - [2020-03-19-网络常见的-9-大命令，非常实用！](https://www.ershicimi.com/p/d7b3bef74b2cad8d75fdcb5dccf157f9)  

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-23 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-23 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -26,6 +26,7 @@
 - [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
 - [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
 - [2020-03-04-高频使用的-Git-命令](https://www.ershicimi.com/p/ba494a49d73657938ddd3e960d3b0d0b) 
+- [2020-03-22-GitHub-热榜：文字识别神器，超轻量级中文-OCR！一个超级厉害的开源库](https://www.ershicimi.com/p/ba81af60a36c1d620a728429394e29e7) 
 - [2020-01-09-1-月份-Github-上最热门最有价值的开源项目](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489569&idx=1&sn=d837aa8d3b2920172acf0b86c8dfd82b&chksm=ea5cd547dd2b5c513337c8303bb6e338b15aa47afb1fefe867ae7cbf6a62a34991047aa8bfe2&scene=27#wechat_redirect) 
 - [2020-01-09-如何设计-QQ、微信、微博、Github-等等，第三方账号登陆-？（附表设计）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489569&idx=3&sn=e2ee31a44db15f87ce4553bc4cc66d4c&chksm=ea5cd547dd2b5c513393d2f4086ad7eb3adffac96d1dfa0b333b71f8c041e025c116390f9fce&scene=27#wechat_redirect) 
 - [2020-03-20-怀疑开发者在“造核弹”？GitHub不断封禁开源项目](https://www.ershicimi.com/p/2fbbc435d35fb179c4e8d6363d164f27) 

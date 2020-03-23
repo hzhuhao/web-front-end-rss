@@ -7484,6 +7484,36 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "前端周报：5.38亿微博用户信息泄露，售价不到万元；45天全国10万公司申请注销；微软称使用Win",
+        "link": "https://www.ershicimi.com/p/0ac62bdfd0f282e690da123b0041f334",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "Paddle Lite v2.3正式发布，新特性解读",
+        "link": "https://www.ershicimi.com/p/d38daacb5d61e8be7989f27c5b7cb3bb",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "别再关注框架，关注核心能力丨极客大学",
+        "link": "https://www.ershicimi.com/p/09f9025cd09d722a32a633cfd7ca42b6",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "手淘 App 如何落地 Swift ？一边探索实践，一边“打怪升级”",
+        "link": "https://www.ershicimi.com/p/81beae26d80147abc8b6d6dd3471971c",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "uni-app黑魔法：小程序自定义组件运行到H5平台",
+        "link": "https://www.ershicimi.com/p/075a95dc694f97f40430ed95ed247211",
+        "date": "2020-03-20"
+      },
+      {
+        "title": "所谓前端工程化，究竟是什么？ | 极客大学",
+        "link": "https://www.ershicimi.com/p/5a4d6d9d1a3ba2fee107f59e2a966d6c",
+        "date": "2020-03-20"
+      },
+      {
         "title": "2020年前端框架性能对比和评测",
         "link": "https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e",
         "date": "2020-03-19"
@@ -14347,6 +14377,36 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "4种软件架构，看看你属于哪个层次！",
+        "link": "https://www.ershicimi.com/p/83abbfd8bc742a2b31acd5a3e3527610",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "来自微信官方：微信支付跨平台软件架构首次曝光",
+        "link": "https://www.ershicimi.com/p/6748235c9254f9f2a8f4fcd68e34fe44",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "GitHub 热榜：文字识别神器，超轻量级中文 OCR！一个超级厉害的开源库",
+        "link": "https://www.ershicimi.com/p/ba81af60a36c1d620a728429394e29e7",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "IDEA新特性真牛逼：提前知道代码怎么走！",
+        "link": "https://www.ershicimi.com/p/3ce8db60c74098906aca8e8967d0dcc1",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "硬核干货：你从普通码农到架构师的封神之路",
+        "link": "https://www.ershicimi.com/p/d50955f7ea51bf9b130c80828e27decc",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "Netty、Kafka中的零拷贝技术到底有多牛?",
+        "link": "https://www.ershicimi.com/p/1480e8425cfd31c9dea1ca3c50062850",
+        "date": "2020-03-21"
+      },
+      {
         "title": "PostMan居然要被干掉了！IDEA这款插件太实用了…",
         "link": "https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740",
         "date": "2020-03-20"
@@ -15138,6 +15198,46 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "阿里双11淘系技术掌门人：一场不亚于移动化的变革已经发生",
+        "link": "https://www.ershicimi.com/p/6c38baf41d242cbabaab5ce034fd870f",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "一年薅走1000 亿人民币？羊毛党：我也是受害者丨Q事界",
+        "link": "https://www.ershicimi.com/p/ecc5c7c86634039ef8fb6db8b6be5116",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "微服务失败的 11 个原因",
+        "link": "https://www.ershicimi.com/p/041a76eebf06aeef3e78f3bc1f24b975",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "Service Mesh 化繁为简：基于 Istiod 回归单体设计",
+        "link": "https://www.ershicimi.com/p/931492608ed9349d0d52a934e59bf74f",
+        "date": "2020-03-22"
+      },
+      {
+        "title": "“盗版微信”通过反编译手段与正版通讯；45天全国10万公司申请注销；Netflix、YouTube降",
+        "link": "https://www.ershicimi.com/p/6b1efac54d2568675ee910af0b902737",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "朋友圈值得看的文章，一半出自这 8 个优质公号",
+        "link": "https://www.ershicimi.com/p/4017934a3b05d8fd3d85579261967b0f",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "2020 年前端框架性能对比和评测",
+        "link": "https://www.ershicimi.com/p/72e3bfb173735c7d04032567f1023f8a",
+        "date": "2020-03-21"
+      },
+      {
+        "title": "美联储联手九大央行救市，甚至还想“直升机撒钱”",
+        "link": "https://www.ershicimi.com/p/e290729489b0bc3a0f2e0f162d65d002",
+        "date": "2020-03-21"
+      },
       {
         "title": "怀疑开发者在“造核弹”？GitHub不断封禁开源项目",
         "link": "https://www.ershicimi.com/p/2fbbc435d35fb179c4e8d6363d164f27",
