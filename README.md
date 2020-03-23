@@ -11,17 +11,17 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-23 22:00:31，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-24 06:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
-- [前端里](#前端里)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -70,8 +70,8 @@
 </summary>
 
 
-- [2020-03-22-高性能前端架构解决方案](https://www.ershicimi.com/p/9667dec8beb32941546f715d12ceb500) ![](assets/new.png)  
-- [2020-03-21-从-0-开始发布一个无依赖、高质量的-npm-包](https://www.ershicimi.com/p/15f2b68dae19718e02048523a2cc4464) ![](assets/new.png)  
+- [2020-03-22-高性能前端架构解决方案](https://www.ershicimi.com/p/9667dec8beb32941546f715d12ceb500)  
+- [2020-03-21-从-0-开始发布一个无依赖、高质量的-npm-包](https://www.ershicimi.com/p/15f2b68dae19718e02048523a2cc4464)  
 - [2020-03-19-React-Router-v6-新特性解读及迁移指南](https://www.ershicimi.com/p/db54568cc3a136c43b05b1c55ea553b1)  
 - [2020-03-18-带你深度解锁Webpack系列优化篇](https://www.ershicimi.com/p/f929dce2e7c5b5bd7cef66cd445681be)  
 - [2020-03-17-微软旗下-GitHub-收购-npm](https://www.ershicimi.com/p/3cdb4e4ca0746a4cf3c1be8cadf304ee)  
@@ -194,6 +194,7 @@
 </summary>
 
 
+- [2020-03-23-尤瓦尔·赫拉利《冠状病毒之后的世界》](http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html) ![](assets/new.png)  
 - [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html)  
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)  
 - [2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)  
@@ -213,7 +214,6 @@
 - [2019-12-22-GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html)  
 - [2019-12-20-科技爱好者周刊：第-87-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)  
 - [2019-12-19-一个老程序员的30年生涯回顾（译文）](http://www.ruanyifeng.com/blog/2019/12/30-years-software-career.html)  
-- [2019-12-17-H5-手机-App-开发入门：技术篇](http://www.ruanyifeng.com/blog/2019/12/mobile-app-technology-stack.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -225,6 +225,7 @@
 </summary>
 
 
+- [2020-03-23-AntV-统计图表-G2Plot-1.0-发布](http://www.yyyweb.com/5357.html) ![](assets/new.png)  
 - [2020-03-08-24-个-ES6-方法，解决实际开发的-JS-问题](http://www.yyyweb.com/5354.html)  
 - [2020-03-08-Ant-Design-4.0-正式版来了！](http://www.yyyweb.com/5352.html)  
 - [2020-01-20-Taro-2.0：拥抱社区，拥抱变化](http://www.yyyweb.com/5350.html)  
@@ -244,7 +245,6 @@
 - [2019-09-09-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5305.html)  
 - [2019-08-30-Serverless-For-Frontend-前世今生](http://www.yyyweb.com/5303.html)  
 - [2019-08-30-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5302.html)  
-- [2019-07-08-技术三板斧：技术规划、管理、架构的思考](http://www.yyyweb.com/5299.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
