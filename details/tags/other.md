@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -216,6 +216,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-03-23-为什么说你一定要懂源码？！](https://www.ershicimi.com/p/337cf977fd7747691170f8ae751b3851) 
 - [2020-03-16-2020-年需要学习的-8-个前端关键技能](https://www.ershicimi.com/p/d1cd86723fa7f6c2b827f22ce6165b1e) 
 - [2020-03-09-“不降薪就裸辞”，高薪开发者如何打破复工魔咒？](https://www.ershicimi.com/p/e9959abfd14f1397615cf53f0db42224) 
 - [2020-03-08-如何轻松拿到淘宝前端-offer](https://www.ershicimi.com/p/b0fb269a4d1d725ba66a25a19095979f) 
@@ -364,6 +365,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-03-23-2020如何斩获大厂Offer？-|-极客大学](https://www.ershicimi.com/p/3e039eb849e321d6d42c3e5c77af25bb) 
 - [2020-03-22-前端周报：5.38亿微博用户信息泄露，售价不到万元；45天全国10万公司申请注销；微软称使用Win](https://www.ershicimi.com/p/0ac62bdfd0f282e690da123b0041f334) 
 - [2020-03-22-Paddle-Lite-v2.3正式发布，新特性解读](https://www.ershicimi.com/p/d38daacb5d61e8be7989f27c5b7cb3bb) 
 - [2020-03-22-别再关注框架，关注核心能力丨极客大学](https://www.ershicimi.com/p/09f9025cd09d722a32a633cfd7ca42b6) 
@@ -991,6 +993,15 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-03-24-我生命的最后一刻，希望还在计算机前｜TGO-深焦](https://www.ershicimi.com/p/442a909c4b3476bac1bf1ff20bd698f9) 
+- [2020-03-24-“死在黎明前”的无人驾驶公司：我等不到技术突破了](https://www.ershicimi.com/p/77f021168a85d29db4f0f8fc63eb36c0) 
+- [2020-03-24-最好的代码是没有代码](https://www.ershicimi.com/p/1fa464cfc3bcbf05604d7cf4d828f61a) 
+- [2020-03-24-为什么系统越简单，宕机时间越少？](https://www.ershicimi.com/p/8192fe68629e85e33e4f971f3a5e8bfd) 
+- [2020-03-23-今年薪资普涨不可能了，有人欢喜有人忧](https://www.ershicimi.com/p/3e2fc64b23ce00a3de6228f27bc7b463) 
+- [2020-03-23-辅佐两位接班人，护航微软20年后，比尔·盖茨为何安心放手？](https://www.ershicimi.com/p/bc2444b9fb7f7c236c4860bc7f10a8d8) 
+- [2020-03-23-20-年老程序员告诉你的-20-条编码原则](https://www.ershicimi.com/p/4e3f8fe8aec496dd01bafbd9757aacb2) 
+- [2020-03-23-5G引爆互联网文娱变革，20+技术大咖解读行业的新风口！](https://www.ershicimi.com/p/0d4ffdf1056cc237e65b4786eb7dd05b) 
+- [2020-03-23-六个提升前端开发效率的工具](https://www.ershicimi.com/p/89bd7c7eaded2026375772af591628ab) 
 - [2020-03-22-阿里双11淘系技术掌门人：一场不亚于移动化的变革已经发生](https://www.ershicimi.com/p/6c38baf41d242cbabaab5ce034fd870f) 
 - [2020-03-22-一年薅走1000-亿人民币？羊毛党：我也是受害者丨Q事界](https://www.ershicimi.com/p/ecc5c7c86634039ef8fb6db8b6be5116) 
 - [2020-03-22-微服务失败的-11-个原因](https://www.ershicimi.com/p/041a76eebf06aeef3e78f3bc1f24b975) 

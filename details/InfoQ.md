@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-03-23 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-03-24-“面试造火箭，工作拧螺丝”，真的是这样么？-|-极客大学](https://www.ershicimi.com/p/7981748e763e9c083752dc1b78ec44b1) 
+- [2020-03-24-我生命的最后一刻，希望还在计算机前｜TGO-深焦](https://www.ershicimi.com/p/442a909c4b3476bac1bf1ff20bd698f9) 
+- [2020-03-24-“死在黎明前”的无人驾驶公司：我等不到技术突破了](https://www.ershicimi.com/p/77f021168a85d29db4f0f8fc63eb36c0) 
+- [2020-03-24-最好的代码是没有代码](https://www.ershicimi.com/p/1fa464cfc3bcbf05604d7cf4d828f61a) 
+- [2020-03-24-为什么系统越简单，宕机时间越少？](https://www.ershicimi.com/p/8192fe68629e85e33e4f971f3a5e8bfd) 
+- [2020-03-23-今年薪资普涨不可能了，有人欢喜有人忧](https://www.ershicimi.com/p/3e2fc64b23ce00a3de6228f27bc7b463) 
+- [2020-03-23-辅佐两位接班人，护航微软20年后，比尔·盖茨为何安心放手？](https://www.ershicimi.com/p/bc2444b9fb7f7c236c4860bc7f10a8d8) 
+- [2020-03-23-20-年老程序员告诉你的-20-条编码原则](https://www.ershicimi.com/p/4e3f8fe8aec496dd01bafbd9757aacb2) 
+- [2020-03-23-5G引爆互联网文娱变革，20+技术大咖解读行业的新风口！](https://www.ershicimi.com/p/0d4ffdf1056cc237e65b4786eb7dd05b) 
+- [2020-03-23-六个提升前端开发效率的工具](https://www.ershicimi.com/p/89bd7c7eaded2026375772af591628ab) 
 - [2020-03-22-阿里双11淘系技术掌门人：一场不亚于移动化的变革已经发生](https://www.ershicimi.com/p/6c38baf41d242cbabaab5ce034fd870f) 
 - [2020-03-22-一年薅走1000-亿人民币？羊毛党：我也是受害者丨Q事界](https://www.ershicimi.com/p/ecc5c7c86634039ef8fb6db8b6be5116) 
 - [2020-03-22-微服务失败的-11-个原因](https://www.ershicimi.com/p/041a76eebf06aeef3e78f3bc1f24b975) 
