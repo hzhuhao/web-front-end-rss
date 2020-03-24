@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -84,6 +84,7 @@
 - [2016-11-14-Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/) 
 - [2016-09-22-通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/) 
 - [2016-02-26-使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/) 
+- [2020-03-23-简单实用的webpack-html-include-loader（附开发详解）](https://www.ershicimi.com/p/5d094f74ecf3bd6f5c9a745f3ca1ba69) 
 - [2020-03-17-从构建进程间缓存设计谈Webpack5-优化和工作原理](https://www.ershicimi.com/p/b4e738677e55f4ff75cf4dd4d68bd7de) 
 - [2020-03-11-webpack-中实现自动识别-CSS-Modules](https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e) 
 - [2020-02-27-Webpack-插件开发如此简单！](https://www.ershicimi.com/p/46505f3b91fc3f63925c3362ad89d369) 
