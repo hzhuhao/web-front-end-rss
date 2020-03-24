@@ -12664,6 +12664,11 @@
     "link": "https://jdc.jd.com",
     "items": [
       {
+        "title": "NutUI CLI源码解析",
+        "link": "https://jdc.jd.com/archives/213013",
+        "date": "2020-03-24"
+      },
+      {
         "title": "NutUI 3.0 中单元测试的探索和实践",
         "link": "https://jdc.jd.com/archives/213007",
         "date": "2020-03-10"
@@ -14401,6 +14406,36 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "最新Fastjson再爆安全黑洞！可获取服务器权限,快升级！（扩散！！！）",
+        "link": "https://www.ershicimi.com/p/dd15084041de5379f1a863ee77f17cbd",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "微信技术总监：一亿用户背后的架构秘密",
+        "link": "https://www.ershicimi.com/p/2dc879e0c65d7734cb6a179b1a71af1a",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "瞬间几千次的重复提交，我用 SpringBoot+Redis 扛住了",
+        "link": "https://www.ershicimi.com/p/c7cd059a9006cb4389eef4d67e11a320",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "恕我直言，你完全没有把IDEA的Diagram功能发挥出来...",
+        "link": "https://www.ershicimi.com/p/36d96fa438c20d0efe32fc0335e44d42",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "微服务、SOA 和 API对比与分析",
+        "link": "https://www.ershicimi.com/p/c7d60d0da12ef25260ffcef46e15f84a",
+        "date": "2020-03-23"
+      },
+      {
+        "title": "干货阿里巴巴 开源软件列表",
+        "link": "https://www.ershicimi.com/p/a99441b2e7a5bdcb69d5559db6ce2814",
+        "date": "2020-03-23"
+      },
       {
         "title": "4种软件架构，看看你属于哪个层次！",
         "link": "https://www.ershicimi.com/p/83abbfd8bc742a2b31acd5a3e3527610",
@@ -16380,6 +16415,16 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "震惊,canvas文字粒子效果，只需要100行代码，简单易懂。",
+        "link": "https://www.ershicimi.com/p/b757bc8f2630444360ebf086aceb239a",
+        "date": "2020-03-24"
+      },
+      {
+        "title": "55个提高你CSS开发效率的必备片段",
+        "link": "https://www.ershicimi.com/p/60587f9fd047b61327517cec0c2ea573",
+        "date": "2020-03-23"
+      },
       {
         "title": "CSS - ::​​ before 和 :: after",
         "link": "https://www.ershicimi.com/p/9a1f90f5a5f2150caacb5a84c0dd69ca",

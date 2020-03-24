@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Canvas、SVG、图像
 
@@ -37,4 +37,5 @@
 - [2016-06-23-探究WebP一些事儿](https://aotu.io/notes/2016/06/23/explore-something-of-webp/) 
 - [2016-04-13-Canvas虹膜消除转场](https://aotu.io/notes/2016/04/13/Iris-Wipe/) 
 - [2015-11-20-SVG-I-Know](https://aotu.io/notes/2015/11/20/svg-I-know/) 
+- [2020-03-24-震惊,canvas文字粒子效果，只需要100行代码，简单易懂。](https://www.ershicimi.com/p/b757bc8f2630444360ebf086aceb239a) 
 - [2020-01-22-一个仅需原生api的canvas交互库⭐️](https://juejin.im/post/5e27eebaf265da3e12182a0a) 

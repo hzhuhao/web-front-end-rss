@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-24 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-24 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -750,6 +750,7 @@
 - [2018-10-28-在业务提升：创建领域特定语言（DSL）](http://www.yyyweb.com/5166.html) 
 - [2018-09-26-基于-BFF-隔离的前后端分离演进](http://www.yyyweb.com/5125.html) 
 - [2018-08-07-玉伯：如何从前端技术进化到体验科技？](http://www.yyyweb.com/5127.html) 
+- [2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
 - [2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
 - [2019-06-28-用户说的都是真的吗？这些陷阱要避开](https://jdc.jd.com/archives/212987) 
 - [2019-01-28-8个常见的研究者认知偏误陷阱](https://jdc.jd.com/archives/212946) 
@@ -860,6 +861,11 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-03-24-微信技术总监：一亿用户背后的架构秘密](https://www.ershicimi.com/p/2dc879e0c65d7734cb6a179b1a71af1a) 
+- [2020-03-24-瞬间几千次的重复提交，我用-SpringBoot+Redis-扛住了](https://www.ershicimi.com/p/c7cd059a9006cb4389eef4d67e11a320) 
+- [2020-03-23-恕我直言，你完全没有把IDEA的Diagram功能发挥出来...](https://www.ershicimi.com/p/36d96fa438c20d0efe32fc0335e44d42) 
+- [2020-03-23-微服务、SOA-和-API对比与分析](https://www.ershicimi.com/p/c7d60d0da12ef25260ffcef46e15f84a) 
+- [2020-03-23-干货阿里巴巴-开源软件列表](https://www.ershicimi.com/p/a99441b2e7a5bdcb69d5559db6ce2814) 
 - [2020-03-22-4种软件架构，看看你属于哪个层次！](https://www.ershicimi.com/p/83abbfd8bc742a2b31acd5a3e3527610) 
 - [2020-03-22-来自微信官方：微信支付跨平台软件架构首次曝光](https://www.ershicimi.com/p/6748235c9254f9f2a8f4fcd68e34fe44) 
 - [2020-03-21-IDEA新特性真牛逼：提前知道代码怎么走！](https://www.ershicimi.com/p/3ce8db60c74098906aca8e8967d0dcc1) 
