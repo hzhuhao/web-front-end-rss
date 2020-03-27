@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-24 22:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-27 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,12 +20,12 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
-- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
+- [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
@@ -194,6 +194,7 @@
 </summary>
 
 
+- [2020-03-27-科技爱好者周刊：第-100-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html) ![](assets/new.png)  
 - [2020-03-23-尤瓦尔·赫拉利《冠状病毒之后的世界》](http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html)  
 - [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html)  
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)  
@@ -213,7 +214,6 @@
 - [2019-12-24-如何撤销-Git-操作？](http://www.ruanyifeng.com/blog/2019/12/git-undo.html)  
 - [2019-12-22-GitHub-Actions-教程：定时发送天气邮件](http://www.ruanyifeng.com/blog/2019/12/github_actions.html)  
 - [2019-12-20-科技爱好者周刊：第-87-期](http://www.ruanyifeng.com/blog/2019/12/weekly-issue-87.html)  
-- [2019-12-19-一个老程序员的30年生涯回顾（译文）](http://www.ruanyifeng.com/blog/2019/12/30-years-software-career.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -318,7 +318,7 @@
 </summary>
 
 
-- [2020-03-23-简单实用的webpack-html-include-loader（附开发详解）](https://www.ershicimi.com/p/5d094f74ecf3bd6f5c9a745f3ca1ba69) ![](assets/new.png)  
+- [2020-03-23-简单实用的webpack-html-include-loader（附开发详解）](https://www.ershicimi.com/p/5d094f74ecf3bd6f5c9a745f3ca1ba69)  
 - [2020-03-22-CSS-的“层”峦“叠”翠---一文掌握z-index用法​​​​​​​](https://www.ershicimi.com/p/2da58c7c7b96cbd4b1d7d126ace788ae)  
 - [2020-03-20-奇舞周刊第-342-期：技术人如何更好地把控发展趋势](https://www.ershicimi.com/p/a072ec76d99b26912f593aea76fc5aa4)  
 - [2020-03-19-前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec)  
@@ -349,8 +349,8 @@
 </summary>
 
 
-- [2020-03-24-网络常见的-9-大命令，非常实用！](https://www.ershicimi.com/p/2d459a6aff10d7260d628160f165dfa8) ![](assets/new.png)  
-- [2020-03-23-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/f2abf0d1cd605d7363dea907fc73e331) ![](assets/new.png)  
+- [2020-03-24-网络常见的-9-大命令，非常实用！](https://www.ershicimi.com/p/2d459a6aff10d7260d628160f165dfa8)  
+- [2020-03-23-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/f2abf0d1cd605d7363dea907fc73e331)  
 - [2020-03-18-npm-is-joining-GitHub](https://www.ershicimi.com/p/40e5a64fcae42bbe5088577ee6b3684c)  
 - [2020-03-11-如何轻松拿到淘宝前端-offer](https://www.ershicimi.com/p/cd16415b005856ba512a52e53dc680c1)  
 - [2020-03-06-Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725)  
