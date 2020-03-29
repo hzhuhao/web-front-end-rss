@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-27 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-29 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -865,6 +865,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-03-26-淘宝昨现重大线上bug，S1级事故，疑似程序员故意埋雷](https://www.ershicimi.com/p/be24f92f5d6ead667db2cb28f61e6eaf) 
+- [2020-03-26-为什么代码规范要求SQL语句不要过多的join？](https://www.ershicimi.com/p/c02d1e9ba08b2f8f1c4319fbc783a90e) 
+- [2020-03-26-100-个网络基础知识普及，看完成半个网络高手！](https://www.ershicimi.com/p/de4d06750d334b86a88bf9d5d68c8aa2) 
 - [2020-03-24-微信技术总监：一亿用户背后的架构秘密](https://www.ershicimi.com/p/2dc879e0c65d7734cb6a179b1a71af1a) 
 - [2020-03-24-瞬间几千次的重复提交，我用-SpringBoot+Redis-扛住了](https://www.ershicimi.com/p/c7cd059a9006cb4389eef4d67e11a320) 
 - [2020-03-23-恕我直言，你完全没有把IDEA的Diagram功能发挥出来...](https://www.ershicimi.com/p/36d96fa438c20d0efe32fc0335e44d42) 

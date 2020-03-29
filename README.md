@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-03-27 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-03-29 22:00:25，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,13 +20,13 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2020-03-27-科技爱好者周刊：第-100-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html) ![](assets/new.png)  
+- [2020-03-27-科技爱好者周刊：第-100-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-100.html)  
 - [2020-03-23-尤瓦尔·赫拉利《冠状病毒之后的世界》](http://www.ruanyifeng.com/blog/2020/03/the-world-after-coronavirus.html)  
 - [2020-03-20-科技爱好者周刊：第-99-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-99.html)  
 - [2020-03-13-科技爱好者周刊：第-98-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-98.html)  
@@ -380,6 +380,15 @@
 </summary>
 
 
+- [2020-03-27-CTO发飙：不要在Java代码中写set/get方法了，逮一次罚款***](https://www.ershicimi.com/p/8e96c677968dc184c678622f25b1e0e2) ![](assets/new.png)  
+- [2020-03-27-一份来自亚马逊技术专家的Google面试指南，GitHub收获9.8万星，已翻译成中文](https://www.ershicimi.com/p/bd547a130c504a62dbc182c76b16755d) ![](assets/new.png)  
+- [2020-03-27-MySQL常用优化指南，及大表优化思路（值得收藏）](https://www.ershicimi.com/p/ab46d74ace692a04d7ef3173fb7c1acc) ![](assets/new.png)  
+- [2020-03-26-淘宝昨现重大线上bug，S1级事故，疑似程序员故意埋雷](https://www.ershicimi.com/p/be24f92f5d6ead667db2cb28f61e6eaf) ![](assets/new.png)  
+- [2020-03-26-为什么代码规范要求SQL语句不要过多的join？](https://www.ershicimi.com/p/c02d1e9ba08b2f8f1c4319fbc783a90e) ![](assets/new.png)  
+- [2020-03-26-100-个网络基础知识普及，看完成半个网络高手！](https://www.ershicimi.com/p/de4d06750d334b86a88bf9d5d68c8aa2) ![](assets/new.png)  
+- [2020-03-25-现在的Java面试已经和2年前完全不一样了！](https://www.ershicimi.com/p/18050e776d917b16f457aa282b4c19fe) ![](assets/new.png)  
+- [2020-03-25-面试问Redis锁，我脸都绿了......](https://www.ershicimi.com/p/e430350e5611b8377cfe7082a5ad2a69) ![](assets/new.png)  
+- [2020-03-25-Java项目构建基础：统一结果，统一异常，统一日志](https://www.ershicimi.com/p/e96c39260684a49f9468f2fb54649c0d) ![](assets/new.png)  
 - [2020-03-24-最新Fastjson再爆安全黑洞！可获取服务器权限,快升级！（扩散！！！）](https://www.ershicimi.com/p/dd15084041de5379f1a863ee77f17cbd)  
 - [2020-03-24-微信技术总监：一亿用户背后的架构秘密](https://www.ershicimi.com/p/2dc879e0c65d7734cb6a179b1a71af1a)  
 - [2020-03-24-瞬间几千次的重复提交，我用-SpringBoot+Redis-扛住了](https://www.ershicimi.com/p/c7cd059a9006cb4389eef4d67e11a320)  
@@ -391,15 +400,6 @@
 - [2020-03-22-GitHub-热榜：文字识别神器，超轻量级中文-OCR！一个超级厉害的开源库](https://www.ershicimi.com/p/ba81af60a36c1d620a728429394e29e7)  
 - [2020-03-21-IDEA新特性真牛逼：提前知道代码怎么走！](https://www.ershicimi.com/p/3ce8db60c74098906aca8e8967d0dcc1)  
 - [2020-03-21-硬核干货：你从普通码农到架构师的封神之路](https://www.ershicimi.com/p/d50955f7ea51bf9b130c80828e27decc)  
-- [2020-03-21-Netty、Kafka中的零拷贝技术到底有多牛?](https://www.ershicimi.com/p/1480e8425cfd31c9dea1ca3c50062850)  
-- [2020-03-20-PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740)  
-- [2020-03-20-二货同事！写上千行的类！这样的代码让我生不如死！](https://www.ershicimi.com/p/162ab72a9906a2962efa05d8bc24be75)  
-- [2020-03-20-厉害了！如何在-Gihub-快速搜索开源项目？](https://www.ershicimi.com/p/651d560e84ae44e36d6845fe7e1926fe)  
-- [2020-03-19-今天-Java-14-正式发布了！放弃-Java-8-行吗？](https://www.ershicimi.com/p/72bd2dbc95f3adf5899380e7c129ff82)  
-- [2020-03-19-前后端分离开发，RESTful-接口应该这样设计](https://www.ershicimi.com/p/54d9d50954ff6eeace597b9ffc1291f5)  
-- [2020-03-19-面试要10K，HR说你只值7K，怎么斗得过？](https://www.ershicimi.com/p/55df2e45eec79ac7a8adc3a77b3ed894)  
-- [2020-03-18-一款SQL自动检查神器，再也不用担心SQL出错了，自动补全、回滚等功能大全](https://www.ershicimi.com/p/c07b220c97134db570ee7447fe703782)  
-- [2020-03-18-大厂面试篇：五轮面试，阿里offer到手！](https://www.ershicimi.com/p/1c37cf81058c04e73544736de52318eb)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

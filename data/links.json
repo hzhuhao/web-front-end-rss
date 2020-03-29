@@ -14452,6 +14452,51 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "CTO发飙：不要在Java代码中写set/get方法了，逮一次罚款***",
+        "link": "https://www.ershicimi.com/p/8e96c677968dc184c678622f25b1e0e2",
+        "date": "2020-03-27"
+      },
+      {
+        "title": "一份来自亚马逊技术专家的Google面试指南，GitHub收获9.8万星，已翻译成中文",
+        "link": "https://www.ershicimi.com/p/bd547a130c504a62dbc182c76b16755d",
+        "date": "2020-03-27"
+      },
+      {
+        "title": "MySQL常用优化指南，及大表优化思路（值得收藏）",
+        "link": "https://www.ershicimi.com/p/ab46d74ace692a04d7ef3173fb7c1acc",
+        "date": "2020-03-27"
+      },
+      {
+        "title": "淘宝昨现重大线上bug，S1级事故，疑似程序员故意埋雷",
+        "link": "https://www.ershicimi.com/p/be24f92f5d6ead667db2cb28f61e6eaf",
+        "date": "2020-03-26"
+      },
+      {
+        "title": "为什么代码规范要求SQL语句不要过多的join？",
+        "link": "https://www.ershicimi.com/p/c02d1e9ba08b2f8f1c4319fbc783a90e",
+        "date": "2020-03-26"
+      },
+      {
+        "title": "100 个网络基础知识普及，看完成半个网络高手！",
+        "link": "https://www.ershicimi.com/p/de4d06750d334b86a88bf9d5d68c8aa2",
+        "date": "2020-03-26"
+      },
+      {
+        "title": "现在的Java面试已经和2年前完全不一样了！",
+        "link": "https://www.ershicimi.com/p/18050e776d917b16f457aa282b4c19fe",
+        "date": "2020-03-25"
+      },
+      {
+        "title": "面试问Redis锁，我脸都绿了......",
+        "link": "https://www.ershicimi.com/p/e430350e5611b8377cfe7082a5ad2a69",
+        "date": "2020-03-25"
+      },
+      {
+        "title": "Java项目构建基础：统一结果，统一异常，统一日志",
+        "link": "https://www.ershicimi.com/p/e96c39260684a49f9468f2fb54649c0d",
+        "date": "2020-03-25"
+      },
+      {
         "title": "最新Fastjson再爆安全黑洞！可获取服务器权限,快升级！（扩散！！！）",
         "link": "https://www.ershicimi.com/p/dd15084041de5379f1a863ee77f17cbd",
         "date": "2020-03-24"

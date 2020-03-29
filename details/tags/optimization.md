@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-27 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-29 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -68,6 +68,7 @@
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
 - [2020-02-26-前端高级进阶：如何更好地优化打包资源](https://www.ershicimi.com/p/f75535aab170a223ac5b638cb2a4f5f4) 
+- [2020-03-27-MySQL常用优化指南，及大表优化思路（值得收藏）](https://www.ershicimi.com/p/ab46d74ace692a04d7ef3173fb7c1acc) 
 - [2020-03-12-去阿里面试被问：如果是MySQL引起的CPU消耗过大，你会如何优化？](https://www.ershicimi.com/p/d22370ee376abfa42ab3f34454bd179f) 
 - [2020-03-10-记录一次MySQL两千万数据的大表优化解决过程，提供三种解决方案](https://www.ershicimi.com/p/f51769e3d6546cd7186b74756ebf55d7) 
 - [2020-01-20-一次SQL查询优化原理分析（900W+数据，从17s到300ms）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489676&idx=4&sn=4be19f8c10cc05fecc2589af5a828e94&chksm=ea5cd5eadd2b5cfcf9722a42c73edde3ed4a1ae665403608ee5ce3c3112298ce876b79db9d7c&scene=27#wechat_redirect) 

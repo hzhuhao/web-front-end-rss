@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-27 12:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-03-29 22:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -236,6 +236,15 @@
 - [【前端日刊】2020-03-06-Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725) 
 - [【前端日刊】2020-03-04-高频使用的-Git-命令](https://www.ershicimi.com/p/ba494a49d73657938ddd3e960d3b0d0b) 
 - [【前端日刊】2020-03-03-重磅！微信官方推出-Web-前端和小程序统一框架](https://www.ershicimi.com/p/fafa51d57615018ca009e957ce9ea338) 
+- [【互联网架构师】2020-03-27-CTO发飙：不要在Java代码中写set/get方法了，逮一次罚款***](https://www.ershicimi.com/p/8e96c677968dc184c678622f25b1e0e2) 
+- [【互联网架构师】2020-03-27-一份来自亚马逊技术专家的Google面试指南，GitHub收获9.8万星，已翻译成中文](https://www.ershicimi.com/p/bd547a130c504a62dbc182c76b16755d) 
+- [【互联网架构师】2020-03-27-MySQL常用优化指南，及大表优化思路（值得收藏）](https://www.ershicimi.com/p/ab46d74ace692a04d7ef3173fb7c1acc) 
+- [【互联网架构师】2020-03-26-淘宝昨现重大线上bug，S1级事故，疑似程序员故意埋雷](https://www.ershicimi.com/p/be24f92f5d6ead667db2cb28f61e6eaf) 
+- [【互联网架构师】2020-03-26-为什么代码规范要求SQL语句不要过多的join？](https://www.ershicimi.com/p/c02d1e9ba08b2f8f1c4319fbc783a90e) 
+- [【互联网架构师】2020-03-26-100-个网络基础知识普及，看完成半个网络高手！](https://www.ershicimi.com/p/de4d06750d334b86a88bf9d5d68c8aa2) 
+- [【互联网架构师】2020-03-25-现在的Java面试已经和2年前完全不一样了！](https://www.ershicimi.com/p/18050e776d917b16f457aa282b4c19fe) 
+- [【互联网架构师】2020-03-25-面试问Redis锁，我脸都绿了......](https://www.ershicimi.com/p/e430350e5611b8377cfe7082a5ad2a69) 
+- [【互联网架构师】2020-03-25-Java项目构建基础：统一结果，统一异常，统一日志](https://www.ershicimi.com/p/e96c39260684a49f9468f2fb54649c0d) 
 - [【互联网架构师】2020-03-24-最新Fastjson再爆安全黑洞！可获取服务器权限,快升级！（扩散！！！）](https://www.ershicimi.com/p/dd15084041de5379f1a863ee77f17cbd) 
 - [【互联网架构师】2020-03-24-微信技术总监：一亿用户背后的架构秘密](https://www.ershicimi.com/p/2dc879e0c65d7734cb6a179b1a71af1a) 
 - [【互联网架构师】2020-03-24-瞬间几千次的重复提交，我用-SpringBoot+Redis-扛住了](https://www.ershicimi.com/p/c7cd059a9006cb4389eef4d67e11a320) 
