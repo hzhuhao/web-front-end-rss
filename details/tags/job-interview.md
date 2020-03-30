@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-03-29 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-03-30 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -120,6 +120,7 @@
 - [2018-09-28-【招聘】锦江WeHotel全球旅行产业平台（广州）前端招聘专场来袭](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=2&sn=a02146acd6eb3280f5331af877a150f3#wechat_redirect) 
 - [2018-09-27-【招聘】天猫-IoT招前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=2&sn=4a7636d6d573759045b17b51ff5b1f0d#wechat_redirect) 
 - [2018-09-25-【招聘】上海Airwallex（空中云汇）招初、中、高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=2&sn=3a175e3048758343f7c98daaefcc3c4f#wechat_redirect) 
+- [2020-03-24-从一道面试题引发的原理性探究](https://www.ershicimi.com/p/b1b26986dae0f48a333782259e4f3aab) 
 - [2020-03-16-前端面试官：你知道-source-map-的原理吗？](https://www.ershicimi.com/p/bbd4d4c5cfdd022d4e3662188c8a8aa5) 
 - [2020-01-30-2020年-大前端冲刺大厂面试题集锦](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557805&idx=1&sn=ad6ef23f5d78c3d70b78289a33fb4bba&chksm=8025586cb752d17ac794fd1a324b2aa7cc16dcc72b36da93041f0f5bc916902364929f630e71&scene=27#wechat_redirect) 
 - [2020-01-21-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557782&idx=1&sn=49599a54901aa9276a0fa79bf8eb3331&chksm=80255857b752d141c69b08c2ecfc24a334de51d854760642f04d5df2fc785178e0b12af15cf9&scene=27#wechat_redirect) 
