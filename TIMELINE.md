@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-03 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-08 18:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,7 +122,9 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/) 
 - [【阮一峰的网络日志】2020-04-03-科技爱好者周刊：第-101-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html) 
+- [【Aotu-|-凹凸实验室】2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
@@ -228,6 +230,7 @@
 - [【前端里】2020-03-08-Ant-Design-4.0-正式版来了！](http://www.yyyweb.com/5352.html) 
 - [【JDC-|-京东设计中心】2020-03-24-NutUI-CLI源码解析](https://jdc.jd.com/archives/213013) 
 - [【JDC-|-京东设计中心】2020-03-10-NutUI-3.0-中单元测试的探索和实践](https://jdc.jd.com/archives/213007) 
+- [【Aotu-|-凹凸实验室】2020-03-25-如何打造高性能小程序门户](https://aotu.io/notes/2020/03/25/high-performance-miniprogram/) 
 - [【Aotu-|-凹凸实验室】2020-03-17-直播回顾·程序媛的成长蜕变](https://aotu.io/notes/2020/03/17/technological-growth/) 
 - [【奇舞周刊】2020-03-23-简单实用的webpack-html-include-loader（附开发详解）](https://www.ershicimi.com/p/5d094f74ecf3bd6f5c9a745f3ca1ba69) 
 - [【奇舞周刊】2020-03-22-CSS-的“层”峦“叠”翠---一文掌握z-index用法​​​​​​​](https://www.ershicimi.com/p/2da58c7c7b96cbd4b1d7d126ace788ae) 

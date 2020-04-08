@@ -11083,6 +11083,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "AVIF图片格式简介",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/",
+        "date": "2020-04-08"
+      },
+      {
         "title": "CSS text-decoration实现宽度100%波浪线效果",
         "link": "https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/",
         "date": "2020-03-21"
@@ -12880,6 +12885,16 @@
     "title": "Aotu-|-凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "Electron 在 Taro IDE 的开发实践",
+        "link": "https://aotu.io/notes/2020/04/07/electron-in-taro-ide/",
+        "date": "2020-04-07"
+      },
+      {
+        "title": "如何打造高性能小程序门户",
+        "link": "https://aotu.io/notes/2020/03/25/high-performance-miniprogram/",
+        "date": "2020-03-25"
+      },
       {
         "title": "直播回顾·程序媛的成长蜕变",
         "link": "https://aotu.io/notes/2020/03/17/technological-growth/",
