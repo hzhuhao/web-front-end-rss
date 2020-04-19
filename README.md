@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-17 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-19 22:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,8 +20,8 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
-- [前端里](#前端里)  
+- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [前端里](#前端里)![](assets/dot.png)   
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2020-04-17-科技爱好者周刊：第-103-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html) ![](assets/new.png)  
+- [2020-04-17-科技爱好者周刊：第-103-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html)  
 - [2020-04-16-《Bash-脚本教程》发布了](http://www.ruanyifeng.com/blog/2020/04/bash-tutorial.html)  
 - [2020-04-10-科技爱好者周刊：第-102-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-102.html)  
 - [2020-04-03-科技爱好者周刊：第-101-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-101.html)  
@@ -225,6 +225,7 @@
 </summary>
 
 
+- [2020-04-19-Vue-3.0-Beta-版本发布，全家桶抢先体验](http://www.yyyweb.com/5359.html) ![](assets/new.png)  
 - [2020-03-23-AntV-统计图表-G2Plot-1.0-发布](http://www.yyyweb.com/5357.html)  
 - [2020-03-08-24-个-ES6-方法，解决实际开发的-JS-问题](http://www.yyyweb.com/5354.html)  
 - [2020-03-08-Ant-Design-4.0-正式版来了！](http://www.yyyweb.com/5352.html)  
@@ -244,7 +245,6 @@
 - [2019-09-09-互联网时代研发效能的挑战和应对之道](http://www.yyyweb.com/5306.html)  
 - [2019-09-09-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5305.html)  
 - [2019-08-30-Serverless-For-Frontend-前世今生](http://www.yyyweb.com/5303.html)  
-- [2019-08-30-可能是你见过最完善的微前端解决方案](http://www.yyyweb.com/5302.html)  
 - [......【查看更多】......](./details/前端里.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
