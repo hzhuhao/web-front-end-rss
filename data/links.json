@@ -13923,6 +13923,56 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "前端最佳实践之可维护性",
+        "link": "https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "快来定制模版，你想要的大屏即视都会有",
+        "link": "https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "这个四月，还有哪个小可爱不知道来这里学前端",
+        "link": "https://www.ershicimi.com/p/2bd6aaec9de625039a3819f7d630e682",
+        "date": "2020-04-25"
+      },
+      {
+        "title": "奇舞周刊第 347 期:  一个好的组件应该是什么样的？",
+        "link": "https://www.ershicimi.com/p/79b116b03ee4f7c1ef45bb9dd0a91f4f",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "这个四月，还有哪个小可爱不知道来这里学前端",
+        "link": "https://www.ershicimi.com/p/6d1950a168cefc5f1fba9705142a80bc",
+        "date": "2020-04-24"
+      },
+      {
+        "title": "一起围观由React Hooks防抖引发的面试翻车现场",
+        "link": "https://www.ershicimi.com/p/a142db5b61bd9102270021781455184e",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "这个四月，还有哪个小可爱不知道来这里学前端",
+        "link": "https://www.ershicimi.com/p/22c5fd7f0638ef56777316d148f20275",
+        "date": "2020-04-23"
+      },
+      {
+        "title": "从0实现React 系列(一)：React的架构设计",
+        "link": "https://www.ershicimi.com/p/652b0478e83dcb5555e200687a4abe7a",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "这个四月，还有哪个小可爱不知道来这里学前端",
+        "link": "https://www.ershicimi.com/p/950b239b14fa52a8e83a7d1293579745",
+        "date": "2020-04-22"
+      },
+      {
+        "title": "《JavaScript 20 年》中文版之语言诞生",
+        "link": "https://www.ershicimi.com/p/608c0bb8dacd863fcb49ae55679e565e",
+        "date": "2020-04-21"
+      },
+      {
         "title": "简单实用的webpack-html-include-loader（附开发详解）",
         "link": "https://www.ershicimi.com/p/5d094f74ecf3bd6f5c9a745f3ca1ba69",
         "date": "2020-03-23"
@@ -15453,6 +15503,56 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "字节跳动社交之心不死",
+        "link": "https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "这是一篇实践者对 Go 语言的微吐槽",
+        "link": "https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "进击的中台，怎样影响一个企业的成败丨QCon",
+        "link": "https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "企业怎么入局5G新基建？7位大咖聊聊变中求胜之道",
+        "link": "https://www.ershicimi.com/p/00e193671a4c7a9eeac05bdb536a8be8",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "8 个 DevOps 自动化工具，帮你做出持续改进",
+        "link": "https://www.ershicimi.com/p/fe5a5ec55569c3bfc2daf81445584bf8",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "Go语言泛型问题一直被呼喊，从未被解决 | 年度开发者调查报告",
+        "link": "https://www.ershicimi.com/p/29179dd87436d824fd9288921e0b11f7",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "8 亿用户的网易云音乐是怎样建设数据中台的？",
+        "link": "https://www.ershicimi.com/p/180cc2d88cae0ba197ea42289ecddef0",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验",
+        "link": "https://www.ershicimi.com/p/bd32f76e124e959e70f1f4dfc980f184",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "《工业智能白皮书》正式发布（附完整报告下载方式）",
+        "link": "https://www.ershicimi.com/p/904e7062db2d1d15b5361a9106c2483b",
+        "date": "2020-04-26"
+      },
+      {
+        "title": "GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/",
+        "link": "https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4",
+        "date": "2020-04-25"
+      },
       {
         "title": "“面试造火箭，工作拧螺丝”，真的是这样么？ | 极客大学",
         "link": "https://www.ershicimi.com/p/7981748e763e9c083752dc1b78ec44b1",

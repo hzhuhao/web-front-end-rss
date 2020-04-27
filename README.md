@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-24 22:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-27 22:00:26，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,14 +20,14 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html) ![](assets/new.png)  
+- [2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html)  
 - [2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html)  
 - [2020-04-17-科技爱好者周刊：第-103-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html)  
 - [2020-04-16-《Bash-脚本教程》发布了](http://www.ruanyifeng.com/blog/2020/04/bash-tutorial.html)  
@@ -318,6 +318,16 @@
 </summary>
 
 
+- [2020-04-27-前端最佳实践之可维护性](https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be) ![](assets/new.png)  
+- [2020-04-26-快来定制模版，你想要的大屏即视都会有](https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253) ![](assets/new.png)  
+- [2020-04-25-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/2bd6aaec9de625039a3819f7d630e682) ![](assets/new.png)  
+- [2020-04-24-奇舞周刊第-347-期:-一个好的组件应该是什么样的？](https://www.ershicimi.com/p/79b116b03ee4f7c1ef45bb9dd0a91f4f) ![](assets/new.png)  
+- [2020-04-24-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/6d1950a168cefc5f1fba9705142a80bc) ![](assets/new.png)  
+- [2020-04-23-一起围观由React-Hooks防抖引发的面试翻车现场](https://www.ershicimi.com/p/a142db5b61bd9102270021781455184e) ![](assets/new.png)  
+- [2020-04-23-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/22c5fd7f0638ef56777316d148f20275) ![](assets/new.png)  
+- [2020-04-22-从0实现React-系列一：React的架构设计](https://www.ershicimi.com/p/652b0478e83dcb5555e200687a4abe7a) ![](assets/new.png)  
+- [2020-04-22-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/950b239b14fa52a8e83a7d1293579745) ![](assets/new.png)  
+- [2020-04-21-《JavaScript-20-年》中文版之语言诞生](https://www.ershicimi.com/p/608c0bb8dacd863fcb49ae55679e565e) ![](assets/new.png)  
 - [2020-03-23-简单实用的webpack-html-include-loader（附开发详解）](https://www.ershicimi.com/p/5d094f74ecf3bd6f5c9a745f3ca1ba69)  
 - [2020-03-22-CSS-的“层”峦“叠”翠---一文掌握z-index用法​​​​​​​](https://www.ershicimi.com/p/2da58c7c7b96cbd4b1d7d126ace788ae)  
 - [2020-03-20-奇舞周刊第-342-期：技术人如何更好地把控发展趋势](https://www.ershicimi.com/p/a072ec76d99b26912f593aea76fc5aa4)  
@@ -328,16 +338,6 @@
 - [2020-03-14-【前端冷知识】动画：你知道的和你不知道的](https://www.ershicimi.com/p/4e7735aa77adea588ebff24507546bf0)  
 - [2020-03-13-奇舞周刊第-341-期：前端基础建设](https://www.ershicimi.com/p/fd61f3e48c9ff7f8269e084904686752)  
 - [2020-03-11-webpack-中实现自动识别-CSS-Modules](https://www.ershicimi.com/p/095b04d5c0e3bf5f207c53c5c7cf8f1e)  
-- [2020-03-10-从-JS-引擎到-JS-运行时（上）](https://www.ershicimi.com/p/b7babd35a7cdbcd8d1dbe3516dddb6d9)  
-- [2020-03-09-疫情专题之ECharts-经验总结](https://www.ershicimi.com/p/7ba1a911b92345fdd4cee5c3efb65095)  
-- [2020-03-07-忍法，scroll-翻滚之术！](https://www.ershicimi.com/p/23227d5542faae5371b2bb0467ad53d3)  
-- [2020-03-06-奇舞周刊第-340-期：前端进阶十日谈](https://www.ershicimi.com/p/627a36d8c608b030a5a640d9e71a6cf6)  
-- [2020-03-04-《精通CSS》第5章-漂亮的盒子](https://www.ershicimi.com/p/1425a58958ece7634d456f6bb1f01e3f)  
-- [2020-03-03-一文道尽软件架构及前端架构演进](https://www.ershicimi.com/p/a69f10e39ed50ebd90bfe2aed911c8e8)  
-- [2020-03-02-Rome：Facebook最新JS工具上手](https://www.ershicimi.com/p/58920f643b74f80afbb32380008a3c63)  
-- [2020-02-29-辩证的眼光搞懂-JWT-这个知识点](https://www.ershicimi.com/p/4b237b5ecf96e2c848ff2b685e9adb4b)  
-- [2020-02-28-奇舞周刊第-339-期：颜色的原理和应用](https://www.ershicimi.com/p/fcccbcc7bb93ee923481ff8d4524c2a8)  
-- [2020-02-27-Webpack-插件开发如此简单！](https://www.ershicimi.com/p/46505f3b91fc3f63925c3362ad89d369)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,6 +411,16 @@
 </summary>
 
 
+- [2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe) ![](assets/new.png)  
+- [2020-04-27-这是一篇实践者对-Go-语言的微吐槽](https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746) ![](assets/new.png)  
+- [2020-04-27-进击的中台，怎样影响一个企业的成败丨QCon](https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8) ![](assets/new.png)  
+- [2020-04-27-企业怎么入局5G新基建？7位大咖聊聊变中求胜之道](https://www.ershicimi.com/p/00e193671a4c7a9eeac05bdb536a8be8) ![](assets/new.png)  
+- [2020-04-27-8-个-DevOps-自动化工具，帮你做出持续改进](https://www.ershicimi.com/p/fe5a5ec55569c3bfc2daf81445584bf8) ![](assets/new.png)  
+- [2020-04-26-Go语言泛型问题一直被呼喊，从未被解决-|-年度开发者调查报告](https://www.ershicimi.com/p/29179dd87436d824fd9288921e0b11f7) ![](assets/new.png)  
+- [2020-04-26-8-亿用户的网易云音乐是怎样建设数据中台的？](https://www.ershicimi.com/p/180cc2d88cae0ba197ea42289ecddef0) ![](assets/new.png)  
+- [2020-04-26-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/bd32f76e124e959e70f1f4dfc980f184) ![](assets/new.png)  
+- [2020-04-26-《工业智能白皮书》正式发布（附完整报告下载方式）](https://www.ershicimi.com/p/904e7062db2d1d15b5361a9106c2483b) ![](assets/new.png)  
+- [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4) ![](assets/new.png)  
 - [2020-03-24-“面试造火箭，工作拧螺丝”，真的是这样么？-|-极客大学](https://www.ershicimi.com/p/7981748e763e9c083752dc1b78ec44b1)  
 - [2020-03-24-我生命的最后一刻，希望还在计算机前｜TGO-深焦](https://www.ershicimi.com/p/442a909c4b3476bac1bf1ff20bd698f9)  
 - [2020-03-24-“死在黎明前”的无人驾驶公司：我等不到技术突破了](https://www.ershicimi.com/p/77f021168a85d29db4f0f8fc63eb36c0)  
@@ -421,16 +431,6 @@
 - [2020-03-23-20-年老程序员告诉你的-20-条编码原则](https://www.ershicimi.com/p/4e3f8fe8aec496dd01bafbd9757aacb2)  
 - [2020-03-23-5G引爆互联网文娱变革，20+技术大咖解读行业的新风口！](https://www.ershicimi.com/p/0d4ffdf1056cc237e65b4786eb7dd05b)  
 - [2020-03-23-六个提升前端开发效率的工具](https://www.ershicimi.com/p/89bd7c7eaded2026375772af591628ab)  
-- [2020-03-22-阿里双11淘系技术掌门人：一场不亚于移动化的变革已经发生](https://www.ershicimi.com/p/6c38baf41d242cbabaab5ce034fd870f)  
-- [2020-03-22-一年薅走1000-亿人民币？羊毛党：我也是受害者丨Q事界](https://www.ershicimi.com/p/ecc5c7c86634039ef8fb6db8b6be5116)  
-- [2020-03-22-微服务失败的-11-个原因](https://www.ershicimi.com/p/041a76eebf06aeef3e78f3bc1f24b975)  
-- [2020-03-22-Service-Mesh-化繁为简：基于-Istiod-回归单体设计](https://www.ershicimi.com/p/931492608ed9349d0d52a934e59bf74f)  
-- [2020-03-21-“盗版微信”通过反编译手段与正版通讯；45天全国10万公司申请注销；Netflix、YouTube降](https://www.ershicimi.com/p/6b1efac54d2568675ee910af0b902737)  
-- [2020-03-21-朋友圈值得看的文章，一半出自这-8-个优质公号](https://www.ershicimi.com/p/4017934a3b05d8fd3d85579261967b0f)  
-- [2020-03-21-2020-年前端框架性能对比和评测](https://www.ershicimi.com/p/72e3bfb173735c7d04032567f1023f8a)  
-- [2020-03-21-美联储联手九大央行救市，甚至还想“直升机撒钱”](https://www.ershicimi.com/p/e290729489b0bc3a0f2e0f162d65d002)  
-- [2020-03-20-怀疑开发者在“造核弹”？GitHub不断封禁开源项目](https://www.ershicimi.com/p/2fbbc435d35fb179c4e8d6363d164f27)  
-- [2020-03-20-InfoQ-Pro-重磅福利来袭，周边大礼包免费领，先到先得！](https://www.ershicimi.com/p/d12e73ef30e9f8be66859a5903988cde)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

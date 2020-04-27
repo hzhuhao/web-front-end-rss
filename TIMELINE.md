@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-04-24 22:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-04-27 22:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -136,6 +136,26 @@
 - [【前端里】2020-04-19-Flutter-VS-React-Native-VS-Native-性能PK](http://www.yyyweb.com/5360.html) 
 - [【前端里】2020-04-19-Vue-3.0-Beta-版本发布，全家桶抢先体验](http://www.yyyweb.com/5359.html) 
 - [【Aotu-|-凹凸实验室】2020-04-07-Electron-在-Taro-IDE-的开发实践](https://aotu.io/notes/2020/04/07/electron-in-taro-ide/) 
+- [【奇舞周刊】2020-04-27-前端最佳实践之可维护性](https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be) 
+- [【奇舞周刊】2020-04-26-快来定制模版，你想要的大屏即视都会有](https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253) 
+- [【奇舞周刊】2020-04-25-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/2bd6aaec9de625039a3819f7d630e682) 
+- [【奇舞周刊】2020-04-24-奇舞周刊第-347-期:-一个好的组件应该是什么样的？](https://www.ershicimi.com/p/79b116b03ee4f7c1ef45bb9dd0a91f4f) 
+- [【奇舞周刊】2020-04-24-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/6d1950a168cefc5f1fba9705142a80bc) 
+- [【奇舞周刊】2020-04-23-一起围观由React-Hooks防抖引发的面试翻车现场](https://www.ershicimi.com/p/a142db5b61bd9102270021781455184e) 
+- [【奇舞周刊】2020-04-23-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/22c5fd7f0638ef56777316d148f20275) 
+- [【奇舞周刊】2020-04-22-从0实现React-系列一：React的架构设计](https://www.ershicimi.com/p/652b0478e83dcb5555e200687a4abe7a) 
+- [【奇舞周刊】2020-04-22-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/950b239b14fa52a8e83a7d1293579745) 
+- [【奇舞周刊】2020-04-21-《JavaScript-20-年》中文版之语言诞生](https://www.ershicimi.com/p/608c0bb8dacd863fcb49ae55679e565e) 
+- [【InfoQ】2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe) 
+- [【InfoQ】2020-04-27-这是一篇实践者对-Go-语言的微吐槽](https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746) 
+- [【InfoQ】2020-04-27-进击的中台，怎样影响一个企业的成败丨QCon](https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8) 
+- [【InfoQ】2020-04-27-企业怎么入局5G新基建？7位大咖聊聊变中求胜之道](https://www.ershicimi.com/p/00e193671a4c7a9eeac05bdb536a8be8) 
+- [【InfoQ】2020-04-27-8-个-DevOps-自动化工具，帮你做出持续改进](https://www.ershicimi.com/p/fe5a5ec55569c3bfc2daf81445584bf8) 
+- [【InfoQ】2020-04-26-Go语言泛型问题一直被呼喊，从未被解决-|-年度开发者调查报告](https://www.ershicimi.com/p/29179dd87436d824fd9288921e0b11f7) 
+- [【InfoQ】2020-04-26-8-亿用户的网易云音乐是怎样建设数据中台的？](https://www.ershicimi.com/p/180cc2d88cae0ba197ea42289ecddef0) 
+- [【InfoQ】2020-04-26-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/bd32f76e124e959e70f1f4dfc980f184) 
+- [【InfoQ】2020-04-26-《工业智能白皮书》正式发布（附完整报告下载方式）](https://www.ershicimi.com/p/904e7062db2d1d15b5361a9106c2483b) 
+- [【InfoQ】2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>
