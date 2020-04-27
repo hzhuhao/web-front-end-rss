@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-04-27 22:00:26，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-04-28 06:00:23，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,14 +20,14 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -194,6 +194,7 @@
 </summary>
 
 
+- [2020-04-27-git-cherry-pick-教程](http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html) ![](assets/new.png)  
 - [2020-04-24-科技爱好者周刊：第-104-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-104.html)  
 - [2020-04-20-家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html)  
 - [2020-04-17-科技爱好者周刊：第-103-期](http://www.ruanyifeng.com/blog/2020/04/weekly-issue-103.html)  
@@ -213,7 +214,6 @@
 - [2020-01-16-我对中国科技行业的看法（译文）](http://www.ruanyifeng.com/blog/2020/01/china-technology-review.html)  
 - [2020-01-14-FFmpeg-视频处理入门教程](http://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)  
 - [2020-01-10-科技爱好者周刊：第-90-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-90.html)  
-- [2020-01-08-如何写一份有效的技术简历？](http://www.ruanyifeng.com/blog/2020/01/technical-resume.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -318,16 +318,16 @@
 </summary>
 
 
-- [2020-04-27-前端最佳实践之可维护性](https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be) ![](assets/new.png)  
-- [2020-04-26-快来定制模版，你想要的大屏即视都会有](https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253) ![](assets/new.png)  
-- [2020-04-25-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/2bd6aaec9de625039a3819f7d630e682) ![](assets/new.png)  
-- [2020-04-24-奇舞周刊第-347-期:-一个好的组件应该是什么样的？](https://www.ershicimi.com/p/79b116b03ee4f7c1ef45bb9dd0a91f4f) ![](assets/new.png)  
-- [2020-04-24-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/6d1950a168cefc5f1fba9705142a80bc) ![](assets/new.png)  
-- [2020-04-23-一起围观由React-Hooks防抖引发的面试翻车现场](https://www.ershicimi.com/p/a142db5b61bd9102270021781455184e) ![](assets/new.png)  
-- [2020-04-23-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/22c5fd7f0638ef56777316d148f20275) ![](assets/new.png)  
-- [2020-04-22-从0实现React-系列一：React的架构设计](https://www.ershicimi.com/p/652b0478e83dcb5555e200687a4abe7a) ![](assets/new.png)  
-- [2020-04-22-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/950b239b14fa52a8e83a7d1293579745) ![](assets/new.png)  
-- [2020-04-21-《JavaScript-20-年》中文版之语言诞生](https://www.ershicimi.com/p/608c0bb8dacd863fcb49ae55679e565e) ![](assets/new.png)  
+- [2020-04-27-前端最佳实践之可维护性](https://www.ershicimi.com/p/38b8b3db51fc2e5c7d239451f53b72be)  
+- [2020-04-26-快来定制模版，你想要的大屏即视都会有](https://www.ershicimi.com/p/6b03ca2230f029bd551f2eb970588253)  
+- [2020-04-25-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/2bd6aaec9de625039a3819f7d630e682)  
+- [2020-04-24-奇舞周刊第-347-期:-一个好的组件应该是什么样的？](https://www.ershicimi.com/p/79b116b03ee4f7c1ef45bb9dd0a91f4f)  
+- [2020-04-24-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/6d1950a168cefc5f1fba9705142a80bc)  
+- [2020-04-23-一起围观由React-Hooks防抖引发的面试翻车现场](https://www.ershicimi.com/p/a142db5b61bd9102270021781455184e)  
+- [2020-04-23-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/22c5fd7f0638ef56777316d148f20275)  
+- [2020-04-22-从0实现React-系列一：React的架构设计](https://www.ershicimi.com/p/652b0478e83dcb5555e200687a4abe7a)  
+- [2020-04-22-这个四月，还有哪个小可爱不知道来这里学前端](https://www.ershicimi.com/p/950b239b14fa52a8e83a7d1293579745)  
+- [2020-04-21-《JavaScript-20-年》中文版之语言诞生](https://www.ershicimi.com/p/608c0bb8dacd863fcb49ae55679e565e)  
 - [2020-03-23-简单实用的webpack-html-include-loader（附开发详解）](https://www.ershicimi.com/p/5d094f74ecf3bd6f5c9a745f3ca1ba69)  
 - [2020-03-22-CSS-的“层”峦“叠”翠---一文掌握z-index用法​​​​​​​](https://www.ershicimi.com/p/2da58c7c7b96cbd4b1d7d126ace788ae)  
 - [2020-03-20-奇舞周刊第-342-期：技术人如何更好地把控发展趋势](https://www.ershicimi.com/p/a072ec76d99b26912f593aea76fc5aa4)  
@@ -411,16 +411,16 @@
 </summary>
 
 
-- [2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe) ![](assets/new.png)  
-- [2020-04-27-这是一篇实践者对-Go-语言的微吐槽](https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746) ![](assets/new.png)  
-- [2020-04-27-进击的中台，怎样影响一个企业的成败丨QCon](https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8) ![](assets/new.png)  
-- [2020-04-27-企业怎么入局5G新基建？7位大咖聊聊变中求胜之道](https://www.ershicimi.com/p/00e193671a4c7a9eeac05bdb536a8be8) ![](assets/new.png)  
-- [2020-04-27-8-个-DevOps-自动化工具，帮你做出持续改进](https://www.ershicimi.com/p/fe5a5ec55569c3bfc2daf81445584bf8) ![](assets/new.png)  
-- [2020-04-26-Go语言泛型问题一直被呼喊，从未被解决-|-年度开发者调查报告](https://www.ershicimi.com/p/29179dd87436d824fd9288921e0b11f7) ![](assets/new.png)  
-- [2020-04-26-8-亿用户的网易云音乐是怎样建设数据中台的？](https://www.ershicimi.com/p/180cc2d88cae0ba197ea42289ecddef0) ![](assets/new.png)  
-- [2020-04-26-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/bd32f76e124e959e70f1f4dfc980f184) ![](assets/new.png)  
-- [2020-04-26-《工业智能白皮书》正式发布（附完整报告下载方式）](https://www.ershicimi.com/p/904e7062db2d1d15b5361a9106c2483b) ![](assets/new.png)  
-- [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4) ![](assets/new.png)  
+- [2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe)  
+- [2020-04-27-这是一篇实践者对-Go-语言的微吐槽](https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746)  
+- [2020-04-27-进击的中台，怎样影响一个企业的成败丨QCon](https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8)  
+- [2020-04-27-企业怎么入局5G新基建？7位大咖聊聊变中求胜之道](https://www.ershicimi.com/p/00e193671a4c7a9eeac05bdb536a8be8)  
+- [2020-04-27-8-个-DevOps-自动化工具，帮你做出持续改进](https://www.ershicimi.com/p/fe5a5ec55569c3bfc2daf81445584bf8)  
+- [2020-04-26-Go语言泛型问题一直被呼喊，从未被解决-|-年度开发者调查报告](https://www.ershicimi.com/p/29179dd87436d824fd9288921e0b11f7)  
+- [2020-04-26-8-亿用户的网易云音乐是怎样建设数据中台的？](https://www.ershicimi.com/p/180cc2d88cae0ba197ea42289ecddef0)  
+- [2020-04-26-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/bd32f76e124e959e70f1f4dfc980f184)  
+- [2020-04-26-《工业智能白皮书》正式发布（附完整报告下载方式）](https://www.ershicimi.com/p/904e7062db2d1d15b5361a9106c2483b)  
+- [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4)  
 - [2020-03-24-“面试造火箭，工作拧螺丝”，真的是这样么？-|-极客大学](https://www.ershicimi.com/p/7981748e763e9c083752dc1b78ec44b1)  
 - [2020-03-24-我生命的最后一刻，希望还在计算机前｜TGO-深焦](https://www.ershicimi.com/p/442a909c4b3476bac1bf1ff20bd698f9)  
 - [2020-03-24-“死在黎明前”的无人驾驶公司：我等不到技术突破了](https://www.ershicimi.com/p/77f021168a85d29db4f0f8fc63eb36c0)  
