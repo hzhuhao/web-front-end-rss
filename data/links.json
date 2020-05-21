@@ -11088,6 +11088,16 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "快速了解CSS display:flow-root声明",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "借助CSS mask遮罩显著优化PNG图片的尺寸",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/",
+        "date": "2020-05-08"
+      },
+      {
         "title": "CSS conic-gradient()锥形渐变简介",
         "link": "https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/",
         "date": "2020-04-20"
@@ -11694,6 +11704,21 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊：第 107 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html",
+        "date": "2020-05-15"
+      },
+      {
+        "title": "科技爱好者周刊：第 106 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/05/weekly-issue-106.html",
+        "date": "2020-05-08"
+      },
+      {
+        "title": "科技爱好者周刊：第 105 期",
+        "link": "http://www.ruanyifeng.com/blog/2020/04/weekly-issue-105.html",
+        "date": "2020-04-30"
+      },
       {
         "title": "git cherry-pick 教程",
         "link": "http://www.ruanyifeng.com/blog/2020/04/git-cherry-pick.html",
@@ -12950,6 +12975,41 @@
     "title": "Aotu-|-凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "一个学习 Koa 源码的例子",
+        "link": "https://aotu.io/notes/2020/05/19/koa-demo/",
+        "date": "2020-05-19"
+      },
+      {
+        "title": "大规格文件的上传优化",
+        "link": "https://aotu.io/notes/2020/05/12/file-upload/",
+        "date": "2020-05-12"
+      },
+      {
+        "title": "京喜前端自动化测试之路",
+        "link": "https://aotu.io/notes/2020/05/06/jingxi-automated-testing/",
+        "date": "2020-05-06"
+      },
+      {
+        "title": "京东小程序 Taro 开发对比原生开发测评",
+        "link": "https://aotu.io/notes/2020/04/27/taro-vs-jd/",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "使用 Taro 快速开发京东小程序",
+        "link": "https://aotu.io/notes/2020/04/27/taro-build-jd/",
+        "date": "2020-04-27"
+      },
+      {
+        "title": "智能可视化搭建系统 Atom 服务架构演变",
+        "link": "https://aotu.io/notes/2020/04/21/atom-services-upgrade/",
+        "date": "2020-04-21"
+      },
+      {
+        "title": "Taro Next H5 跨框架组件库实践",
+        "link": "https://aotu.io/notes/2020/04/13/2020-4-13-taro-components/",
+        "date": "2020-04-13"
+      },
       {
         "title": "Electron 在 Taro IDE 的开发实践",
         "link": "https://aotu.io/notes/2020/04/07/electron-in-taro-ide/",
