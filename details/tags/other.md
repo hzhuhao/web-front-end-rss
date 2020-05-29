@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -365,6 +365,10 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-05-29-Android-Studio-4.0发布：全新的-Motion-编辑器及众多更新](https://www.ershicimi.com/p/14f666e03304c01d8fd48334908ce54b) 
+- [2020-05-28-提高10倍打包速度的神奇工具：Snowpack-2.0发布，再也不需要打包器！](https://www.ershicimi.com/p/73af0f0ccd56559288e320c697d43ba0) 
+- [2020-05-28-每个程序员都曾犯过的10大经典错误](https://www.ershicimi.com/p/6bfeb784f67f85a586ee6430ad85bac7) 
+- [2020-05-26-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/d9e89d323a37f1eea70d4bdc0617bd91) 
 - [2020-03-23-2020如何斩获大厂Offer？-|-极客大学](https://www.ershicimi.com/p/3e039eb849e321d6d42c3e5c77af25bb) 
 - [2020-03-22-前端周报：5.38亿微博用户信息泄露，售价不到万元；45天全国10万公司申请注销；微软称使用Win](https://www.ershicimi.com/p/0ac62bdfd0f282e690da123b0041f334) 
 - [2020-03-22-Paddle-Lite-v2.3正式发布，新特性解读](https://www.ershicimi.com/p/d38daacb5d61e8be7989f27c5b7cb3bb) 
@@ -1019,6 +1023,14 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-05-27-微软发布新品被指剽窃！交涉无果，两年开源项目被迫终结](https://www.ershicimi.com/p/acf2e95561a6c1bcb66d23b91b5b70d6) 
+- [2020-05-27-小鹏汽车技术中台实践：云平台篇](https://www.ershicimi.com/p/166c18e9565b3c68ba2e6f9bd2c52380) 
+- [2020-05-27-快手端到端语音识别技术的探索与实践-|-AICon](https://www.ershicimi.com/p/ef99358e5244fff82f8969447c38ac75) 
+- [2020-05-27-华为5年100万鲲鹏开发者，四川鲲鹏开发者嘉年华来了！](https://www.ershicimi.com/p/2865d5892c426ec8b12db3d48705a741) 
+- [2020-05-26-软件设计做不好，开发-Bug-改到崩溃！如何让你的代码可维护、可拓展？|-极客时间](https://www.ershicimi.com/p/f68a47b50e5c52dbb33c5207cf5020fd) 
+- [2020-05-26-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/217a1b1ff79976727f03ea44db17d6ad) 
+- [2020-05-26-应用程序水平伸缩的最佳实践](https://www.ershicimi.com/p/8c2197164fbba421d00732638a2c84f6) 
+- [2020-05-26-中国金融行业的“用户保卫战”](https://www.ershicimi.com/p/fadfccdc4cd7515efc2c9ff08f0ff407) 
 - [2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe) 
 - [2020-04-27-这是一篇实践者对-Go-语言的微吐槽](https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746) 
 - [2020-04-27-进击的中台，怎样影响一个企业的成败丨QCon](https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8) 

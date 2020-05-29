@@ -11,23 +11,23 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-29 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 22:00:26，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -101,6 +101,16 @@
 </summary>
 
 
+- [2020-05-29-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/084667a962587d4c037a219f7d8f6ebe) ![](assets/new.png)  
+- [2020-05-29-Android-Studio-4.0发布：全新的-Motion-编辑器及众多更新](https://www.ershicimi.com/p/14f666e03304c01d8fd48334908ce54b) ![](assets/new.png)  
+- [2020-05-29-云计算的下一站：Serverless的2020发展前瞻](https://www.ershicimi.com/p/60507f254900970de79962608e6a7ffc) ![](assets/new.png)  
+- [2020-05-28-提高10倍打包速度的神奇工具：Snowpack-2.0发布，再也不需要打包器！](https://www.ershicimi.com/p/73af0f0ccd56559288e320c697d43ba0) ![](assets/new.png)  
+- [2020-05-28-每个程序员都曾犯过的10大经典错误](https://www.ershicimi.com/p/6bfeb784f67f85a586ee6430ad85bac7) ![](assets/new.png)  
+- [2020-05-27-受够了JavaScript的小毛病，我将整个应用移植到了TypeScript](https://www.ershicimi.com/p/f6b0c5a1a8805d63fdd72394bf8fa831) ![](assets/new.png)  
+- [2020-05-27-Pug-3.0.0发布，不再支持-Node.js-6/8](https://www.ershicimi.com/p/7c938dd91be8bab63129e00cde37504f) ![](assets/new.png)  
+- [2020-05-27-移动端风头正旺，但我选择开发-PC-端小程序](https://www.ershicimi.com/p/23165ab3e116591bf793395719891d9b) ![](assets/new.png)  
+- [2020-05-26-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/d9e89d323a37f1eea70d4bdc0617bd91) ![](assets/new.png)  
+- [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee) ![](assets/new.png)  
 - [2020-03-23-TypeScript被吹过头了？](https://www.ershicimi.com/p/b2bcfe68c2f7978da1ddf75b36ea8049)  
 - [2020-03-23-从React的视角谈谈Rust和GTK](https://www.ershicimi.com/p/ba5befcbc925ecd87c74e96be27afd1f)  
 - [2020-03-23-2020如何斩获大厂Offer？-|-极客大学](https://www.ershicimi.com/p/3e039eb849e321d6d42c3e5c77af25bb)  
@@ -111,16 +121,6 @@
 - [2020-03-20-uni-app黑魔法：小程序自定义组件运行到H5平台](https://www.ershicimi.com/p/075a95dc694f97f40430ed95ed247211)  
 - [2020-03-20-所谓前端工程化，究竟是什么？-|-极客大学](https://www.ershicimi.com/p/5a4d6d9d1a3ba2fee107f59e2a966d6c)  
 - [2020-03-19-2020年前端框架性能对比和评测](https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e)  
-- [2020-03-19-端侧AI：从探索尝试到逐步展开](https://www.ershicimi.com/p/ddfd97004ec9bed91d8408ca48a90893)  
-- [2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93)  
-- [2020-03-18-构建前端安全生产体系，最快5分钟定位故障](https://www.ershicimi.com/p/0019ec8f55a5e53132cd874c26ed6b20)  
-- [2020-03-18-六个提升前端开发效率的工具](https://www.ershicimi.com/p/45a00d1b92ba5c0b528d3e564d10a2ef)  
-- [2020-03-17-GitHub正式收购npm，这对开发者意味着什么？](https://www.ershicimi.com/p/66074e483f5188b85da118933f22bde5)  
-- [2020-03-17-工程师快速成长指北](https://www.ershicimi.com/p/d4ae1cb123b2c94496af66d94f298bee)  
-- [2020-03-16-性能提升三倍！优酷Node.js重构之路](https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38)  
-- [2020-03-16-极客大学前端进阶训练营有偿招募兼职助教](https://www.ershicimi.com/p/9a727df8a54312ef1f34ab9840662652)  
-- [2020-03-16-“宅经济”催化下的泛娱乐行业，未来将引爆哪些增长点？](https://www.ershicimi.com/p/e76e28083b0366a8f6f30fe04a706dc8)  
-- [2020-03-15-前端周报：微信封杀QQ小程序；AWS推出基于Linux的开源操作系统；Firefox74发布：取消对](https://www.ershicimi.com/p/f557b4b08a8c29880e757f5ab100f37b)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html) ![](assets/new.png)  
+- [2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html)  
 - [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html)  
 - [2020-05-22-科技爱好者周刊：第-108-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html)  
 - [2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)  
@@ -411,6 +411,16 @@
 </summary>
 
 
+- [2020-05-27-微软发布新品被指剽窃！交涉无果，两年开源项目被迫终结](https://www.ershicimi.com/p/acf2e95561a6c1bcb66d23b91b5b70d6) ![](assets/new.png)  
+- [2020-05-27-小鹏汽车技术中台实践：云平台篇](https://www.ershicimi.com/p/166c18e9565b3c68ba2e6f9bd2c52380) ![](assets/new.png)  
+- [2020-05-27-快手端到端语音识别技术的探索与实践-|-AICon](https://www.ershicimi.com/p/ef99358e5244fff82f8969447c38ac75) ![](assets/new.png)  
+- [2020-05-27-华为5年100万鲲鹏开发者，四川鲲鹏开发者嘉年华来了！](https://www.ershicimi.com/p/2865d5892c426ec8b12db3d48705a741) ![](assets/new.png)  
+- [2020-05-27-GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775) ![](assets/new.png)  
+- [2020-05-26-软件设计做不好，开发-Bug-改到崩溃！如何让你的代码可维护、可拓展？|-极客时间](https://www.ershicimi.com/p/f68a47b50e5c52dbb33c5207cf5020fd) ![](assets/new.png)  
+- [2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a) ![](assets/new.png)  
+- [2020-05-26-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/217a1b1ff79976727f03ea44db17d6ad) ![](assets/new.png)  
+- [2020-05-26-应用程序水平伸缩的最佳实践](https://www.ershicimi.com/p/8c2197164fbba421d00732638a2c84f6) ![](assets/new.png)  
+- [2020-05-26-中国金融行业的“用户保卫战”](https://www.ershicimi.com/p/fadfccdc4cd7515efc2c9ff08f0ff407) ![](assets/new.png)  
 - [2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe)  
 - [2020-04-27-这是一篇实践者对-Go-语言的微吐槽](https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746)  
 - [2020-04-27-进击的中台，怎样影响一个企业的成败丨QCon](https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8)  
@@ -421,16 +431,6 @@
 - [2020-04-26-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/bd32f76e124e959e70f1f4dfc980f184)  
 - [2020-04-26-《工业智能白皮书》正式发布（附完整报告下载方式）](https://www.ershicimi.com/p/904e7062db2d1d15b5361a9106c2483b)  
 - [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4)  
-- [2020-03-24-“面试造火箭，工作拧螺丝”，真的是这样么？-|-极客大学](https://www.ershicimi.com/p/7981748e763e9c083752dc1b78ec44b1)  
-- [2020-03-24-我生命的最后一刻，希望还在计算机前｜TGO-深焦](https://www.ershicimi.com/p/442a909c4b3476bac1bf1ff20bd698f9)  
-- [2020-03-24-“死在黎明前”的无人驾驶公司：我等不到技术突破了](https://www.ershicimi.com/p/77f021168a85d29db4f0f8fc63eb36c0)  
-- [2020-03-24-最好的代码是没有代码](https://www.ershicimi.com/p/1fa464cfc3bcbf05604d7cf4d828f61a)  
-- [2020-03-24-为什么系统越简单，宕机时间越少？](https://www.ershicimi.com/p/8192fe68629e85e33e4f971f3a5e8bfd)  
-- [2020-03-23-今年薪资普涨不可能了，有人欢喜有人忧](https://www.ershicimi.com/p/3e2fc64b23ce00a3de6228f27bc7b463)  
-- [2020-03-23-辅佐两位接班人，护航微软20年后，比尔·盖茨为何安心放手？](https://www.ershicimi.com/p/bc2444b9fb7f7c236c4860bc7f10a8d8)  
-- [2020-03-23-20-年老程序员告诉你的-20-条编码原则](https://www.ershicimi.com/p/4e3f8fe8aec496dd01bafbd9757aacb2)  
-- [2020-03-23-5G引爆互联网文娱变革，20+技术大咖解读行业的新风口！](https://www.ershicimi.com/p/0d4ffdf1056cc237e65b4786eb7dd05b)  
-- [2020-03-23-六个提升前端开发效率的工具](https://www.ershicimi.com/p/89bd7c7eaded2026375772af591628ab)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-05-29 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -109,6 +109,7 @@
 - [2018-09-25-使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect) 
 - [2018-09-24-一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect) 
 - [2018-09-21-前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect) 
+- [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee) 
 - [2020-03-09-提升前端开发效率：你应该知道的10个Chrome扩展程序](https://www.ershicimi.com/p/3cc0a6d24d481d2366b32777b217e182) 
 - [2020-01-16-16-个好用的-Code-Review-工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493621&idx=2&sn=f1ee140581b07f7bd19481a8bcbcabeb&chksm=f95252b6ce25dba0cd863a50be882ae80c5c84e55833763e207a0f4f3d5e8b655ad5d8d7752f&scene=27#wechat_redirect) 
 - [2020-01-02-浏览器中原生运行的第四种语言诞生：WebAssembly-1.0-成为-W3C-的推荐标准](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493526&idx=2&sn=cb74f9c0e51c99fa4fd7e51174a3a87a&chksm=f95252d5ce25dbc37da8cf561f9840a0b3706b9b7814a1f653bca01d6926377f56cf0ced3481&scene=27#wechat_redirect) 
@@ -167,6 +168,7 @@
 - [2019-12-30-4-种数据库缓存最终一致性的优缺点对比？最终选择方案四！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489465&idx=1&sn=2f3a74f8ba7056e973c0657a6492f652&chksm=ea5cdadfdd2b53c9dd49126c962029b4548a0c8a2fc3e96e06de8271b1fa00ccd05e0ded5857&scene=27#wechat_redirect) 
 - [2019-12-29-每个公司都会用的短-URL-服务，怎么设计与实现？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=2&sn=b1b7f944fb39fd1cdfeae2d6b6099dca&chksm=ea5cdad7dd2b53c18db3a7872c7d0e1f40a7c9c1a46356761d8557e8dbdfd2bd0851d12246b0&scene=27#wechat_redirect) 
 - [2019-12-24-去宇宙条面试被问：HashMap-为什么线程不安全？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=3&sn=f0fdc5e0f9b13249bb67020d018238f1&chksm=ea5cdaeddd2b53fbe3f84d4822fcc8f1b83c79e0d979e9c35d58e07a2cd5b7afe7f2425a8bd0&scene=27#wechat_redirect) 
+- [2020-05-26-Google-也要放弃-C/C++？Chrome-代码库中-70%-的安全漏洞是内存问题](https://www.ershicimi.com/p/ff3bdc0ba7afe1c9f69b8a6db1450f0a) 
 - [2020-03-13-开发安全、高质量代码的-5-款顶级-Python-工具](https://www.ershicimi.com/p/e678192564c381f9f234fb2d2c5a6997) 
 - [2020-02-01-北京市政府发文：各企业2月10日到单位上班；辟谣双黄连口服液可抑制新型冠状病毒；Safari将终止支](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023984&idx=1&sn=f15ca259209df3a46c72ffa4ba02fcd0&chksm=bdbe92238ac91b35fdf29b8350196dd4fab4656465e348fd2e8bb8a6198c349f66946a466053&scene=27#wechat_redirect) 
 - [2020-01-18-“木兰”被爆内核实为Python，成又一个“红芯浏览器”；快手公布春晚红包细节；“阿里他爸”清仓阿里](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023723&idx=1&sn=c591995f599a156eb52998b3e08265d7&chksm=bdbe91388ac9182e7719b3acf3fb8370d20d4698690e3e43ec7afc617205aedea7fb7df1c788&scene=27#wechat_redirect) 
