@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-05-28 06:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-05-29 12:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,8 +19,8 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -163,7 +163,7 @@
 </summary>
 
 
-- [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/) ![](assets/new.png)  
+- [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)  
 - [2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)  
 - [2020-05-08-借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/)  
 - [2020-04-20-CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/)  
@@ -194,6 +194,7 @@
 </summary>
 
 
+- [2020-05-29-科技爱好者周刊（第-109-期）：播客的价值](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-109.html) ![](assets/new.png)  
 - [2020-05-27-软件吃软件，编程工作会越来越多吗？](http://www.ruanyifeng.com/blog/2020/05/will-programmers-increase.html)  
 - [2020-05-22-科技爱好者周刊：第-108-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-108.html)  
 - [2020-05-15-科技爱好者周刊：第-107-期](http://www.ruanyifeng.com/blog/2020/05/weekly-issue-107.html)  
@@ -213,7 +214,6 @@
 - [2020-03-06-科技爱好者周刊：第-97-期](http://www.ruanyifeng.com/blog/2020/03/weekly-issue-97.html)  
 - [2020-02-28-科技爱好者周刊：第-96-期](http://www.ruanyifeng.com/blog/2020/02/weekly-issue-96.html)  
 - [2020-02-27-我的外包经验：印度、中国和菲律宾（译文）](http://www.ruanyifeng.com/blog/2020/02/software-outsourcing.html)  
-- [2020-01-31-科技爱好者周刊：第-92-期](http://www.ruanyifeng.com/blog/2020/01/weekly-issue-92.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
