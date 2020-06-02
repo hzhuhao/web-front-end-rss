@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-05-29 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-02 22:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -216,6 +216,10 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06) 
+- [2020-05-29-你们今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/5f11a5b908c90fe02d2e9b3a58c4dc20) 
+- [2020-05-29-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/e5b8de4f06161cf4df209165a0fcee3f) 
+- [2020-05-28-前22年的Loser，后4年和自己赛跑的人-|-最惨前端面经](https://www.ershicimi.com/p/f8943b556d233564c92bcef717ab1caf) 
 - [2020-03-23-为什么说你一定要懂源码？！](https://www.ershicimi.com/p/337cf977fd7747691170f8ae751b3851) 
 - [2020-03-16-2020-年需要学习的-8-个前端关键技能](https://www.ershicimi.com/p/d1cd86723fa7f6c2b827f22ce6165b1e) 
 - [2020-03-09-“不降薪就裸辞”，高薪开发者如何打破复工魔咒？](https://www.ershicimi.com/p/e9959abfd14f1397615cf53f0db42224) 
