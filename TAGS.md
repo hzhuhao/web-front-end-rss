@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-06-02 22:00:30。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-04 06:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -415,9 +415,9 @@
 - [【Taobao-FED-|-淘宝前端团队】WebGL-纹理详解](https://fed.taobao.org/blog/2018/12/17/webgl-texture/)
 - [【Taobao-FED-|-淘宝前端团队】G3D-——-Hybrid-环境下的-WebGL-3D-渲染引擎](https://fed.taobao.org/blog/2018/03/05/intro-to-g3d/)
 - [【Taobao-FED-|-淘宝前端团队】GCanvas-渲染引擎介绍](https://fed.taobao.org/blog/2017/07/27/gcanvas/)
+- [【张鑫旭-鑫空间-鑫生活】SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)
 - [【张鑫旭-鑫空间-鑫生活】搞懂SVG/Canvas中nonzero和evenodd填充规则](https://www.zhangxinxu.com/wordpress/2018/10/nonzero-evenodd-fill-mode-rule/)
 - [【前端里】再谈-SVG-vs-Image-vs-Iconfont](http://www.yyyweb.com/5228.html)
-- [【JDC-|-京东设计中心】WebGL入门与进阶3](https://jdc.jd.com/archives/212370)
 - [......【查看更多】......](./details/tags/canvas-image.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
