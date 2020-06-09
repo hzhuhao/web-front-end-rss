@@ -11,15 +11,15 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-08 06:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-09 12:00:28，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
@@ -101,6 +101,16 @@
 </summary>
 
 
+- [2020-06-07-前端周报：微信正式支持修改微信号；一张壁纸使-Android-手机集体变砖；谷歌下架-Remove](https://www.ershicimi.com/p/feeee8a4829b36314f415477dafcd16c) ![](assets/new.png)  
+- [2020-06-05-白天写代码，晚上摆地摊！9年前摆地摊学会了这些道理...](https://www.ershicimi.com/p/7ddcca8818dbec5d1d22014e0d540145) ![](assets/new.png)  
+- [2020-06-05-最快的-Google-Fonts](https://www.ershicimi.com/p/bb6f16af0c80bc7dd22edfc631c01677) ![](assets/new.png)  
+- [2020-06-04-何时使用TypeScript：常见场景的详细介绍](https://www.ershicimi.com/p/cb9888412ccce5c44f4b27106cfb15be) ![](assets/new.png)  
+- [2020-06-04-9-个出色的-JavaScript-库推荐](https://www.ershicimi.com/p/8bc1ccda8600743e23363b9a7813ef0a) ![](assets/new.png)  
+- [2020-06-03-我们现在正处于JavaScript消亡的边缘？](https://www.ershicimi.com/p/d9a233e10a5f18afd0b2e2c7f11eb838) ![](assets/new.png)  
+- [2020-06-03-跨平台React构建：框架与工具推荐](https://www.ershicimi.com/p/0e2ec2453e65770510290bb99764e2e7) ![](assets/new.png)  
+- [2020-06-02-一张壁纸使Android手机集体变砖，目前尚无解决方法](https://www.ershicimi.com/p/c64615f1ecdeea56c8855da5df61d1f9) ![](assets/new.png)  
+- [2020-06-02-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf49ced3daa2d19b8f0a2210e954a185) ![](assets/new.png)  
+- [2020-06-01-手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3) ![](assets/new.png)  
 - [2020-05-29-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/084667a962587d4c037a219f7d8f6ebe)  
 - [2020-05-29-Android-Studio-4.0发布：全新的-Motion-编辑器及众多更新](https://www.ershicimi.com/p/14f666e03304c01d8fd48334908ce54b)  
 - [2020-05-29-云计算的下一站：Serverless的2020发展前瞻](https://www.ershicimi.com/p/60507f254900970de79962608e6a7ffc)  
@@ -111,16 +121,6 @@
 - [2020-05-27-移动端风头正旺，但我选择开发-PC-端小程序](https://www.ershicimi.com/p/23165ab3e116591bf793395719891d9b)  
 - [2020-05-26-2020-有哪些不容错过的前端技术趋势？](https://www.ershicimi.com/p/d9e89d323a37f1eea70d4bdc0617bd91)  
 - [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee)  
-- [2020-03-23-TypeScript被吹过头了？](https://www.ershicimi.com/p/b2bcfe68c2f7978da1ddf75b36ea8049)  
-- [2020-03-23-从React的视角谈谈Rust和GTK](https://www.ershicimi.com/p/ba5befcbc925ecd87c74e96be27afd1f)  
-- [2020-03-23-2020如何斩获大厂Offer？-|-极客大学](https://www.ershicimi.com/p/3e039eb849e321d6d42c3e5c77af25bb)  
-- [2020-03-22-前端周报：5.38亿微博用户信息泄露，售价不到万元；45天全国10万公司申请注销；微软称使用Win](https://www.ershicimi.com/p/0ac62bdfd0f282e690da123b0041f334)  
-- [2020-03-22-Paddle-Lite-v2.3正式发布，新特性解读](https://www.ershicimi.com/p/d38daacb5d61e8be7989f27c5b7cb3bb)  
-- [2020-03-22-别再关注框架，关注核心能力丨极客大学](https://www.ershicimi.com/p/09f9025cd09d722a32a633cfd7ca42b6)  
-- [2020-03-20-手淘-App-如何落地-Swift-？一边探索实践，一边“打怪升级”](https://www.ershicimi.com/p/81beae26d80147abc8b6d6dd3471971c)  
-- [2020-03-20-uni-app黑魔法：小程序自定义组件运行到H5平台](https://www.ershicimi.com/p/075a95dc694f97f40430ed95ed247211)  
-- [2020-03-20-所谓前端工程化，究竟是什么？-|-极客大学](https://www.ershicimi.com/p/5a4d6d9d1a3ba2fee107f59e2a966d6c)  
-- [2020-03-19-2020年前端框架性能对比和评测](https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -163,7 +163,7 @@
 </summary>
 
 
-- [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) ![](assets/new.png)  
+- [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)  
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)  
 - [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)  
 - [2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)  

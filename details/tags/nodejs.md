@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-08 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-09 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -47,6 +47,7 @@
 - [2018-10-21-细说后端模板渲染、客户端渲染、node-中间层、服务器端渲染（ssr）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555141&idx=2&sn=aa0860f6abfa0e77826e16a353f4ecd2#wechat_redirect) 
 - [2018-10-13-从-1-到完美，用-node-写一个命令行工具](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=3&sn=0344f314b50e9f75dd70c2cc15860e97#wechat_redirect) 
 - [2018-09-27-Node-错误处理之挖坑系列](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555002&idx=3&sn=165d89efffb7d08990e855533b5d0a94#wechat_redirect) 
+- [2020-06-01-手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3) 
 - [2020-05-27-Pug-3.0.0发布，不再支持-Node.js-6/8](https://www.ershicimi.com/p/7c938dd91be8bab63129e00cde37504f) 
 - [2020-03-18-JavaScript-执行效率不行？因为你还没用-V8-|-极客时间](https://www.ershicimi.com/p/292c010dc82b1bd942a44bfe5a28fd93) 
 - [2020-03-16-性能提升三倍！优酷Node.js重构之路](https://www.ershicimi.com/p/67084db893f0f9fe269e8381a62cce38) 
