@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-12 12:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-06-13 06:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -136,6 +136,7 @@
 - [【前端之巅】2020-06-02-一张壁纸使Android手机集体变砖，目前尚无解决方法](https://www.ershicimi.com/p/c64615f1ecdeea56c8855da5df61d1f9) 
 - [【前端之巅】2020-06-02-西瓜视频落地-Flutter，给你的避坑指南](https://www.ershicimi.com/p/cf49ced3daa2d19b8f0a2210e954a185) 
 - [【前端之巅】2020-06-01-手把手教你从Node快速迁移到Deno](https://www.ershicimi.com/p/8f4eef15ecf6daff99e914eaf45456e3) 
+- [【张鑫旭-鑫空间-鑫生活】2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/) 
 - [【阮一峰的网络日志】2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html) 
