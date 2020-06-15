@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-13 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 22:00:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -29,6 +29,7 @@
 - [2017-04-10-用-Git-钩子进行简单自动部署](https://aotu.io/notes/2017/04/10/githooks/) 
 - [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
 - [2020-03-04-高频使用的-Git-命令](https://www.ershicimi.com/p/ba494a49d73657938ddd3e960d3b0d0b) 
+- [2020-06-12-收藏啦~-Github上-10-个开源免费且优秀的后台控制面板](https://www.ershicimi.com/p/6826a1b7103be323ec17915bf5638b8b) 
 - [2020-03-27-一份来自亚马逊技术专家的Google面试指南，GitHub收获9.8万星，已翻译成中文](https://www.ershicimi.com/p/bd547a130c504a62dbc182c76b16755d) 
 - [2020-03-22-GitHub-热榜：文字识别神器，超轻量级中文-OCR！一个超级厉害的开源库](https://www.ershicimi.com/p/ba81af60a36c1d620a728429394e29e7) 
 - [2020-01-09-1-月份-Github-上最热门最有价值的开源项目](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489569&idx=1&sn=d837aa8d3b2920172acf0b86c8dfd82b&chksm=ea5cd547dd2b5c513337c8303bb6e338b15aa47afb1fefe867ae7cbf6a62a34991047aa8bfe2&scene=27#wechat_redirect) 

@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-06-13 06:00:26，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-06-15 22:00:32，:rocket: 更新条数: +20， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,15 +19,15 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -163,7 +163,7 @@
 </summary>
 
 
-- [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/) ![](assets/new.png)  
+- [2020-06-12-移动端双指缩放图片JS事件的实践心得](https://www.zhangxinxu.com/wordpress/2020/06/mobile-event-touches-zoom-sacle/)  
 - [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)  
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)  
 - [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)  
@@ -380,6 +380,16 @@
 </summary>
 
 
+- [2020-06-15-面试官给我挖坑：rm删除文件之后，空间就被释放了吗？](https://www.ershicimi.com/p/f3c67779316846ba8cee00e1ddb92568) ![](assets/new.png)  
+- [2020-06-15-Myeclipse-2020.5-版本首发！支持-Java14](https://www.ershicimi.com/p/bd871cfd3e9a14d8736f41da3f03b753) ![](assets/new.png)  
+- [2020-06-15-面试：HashMap-夺命二十一问！](https://www.ershicimi.com/p/f88e16eff4ed2f64f44e36ce7a5ecd9f) ![](assets/new.png)  
+- [2020-06-14-程序员为了写出一款手游，远赴岛国，结果全公司被抓！](https://www.ershicimi.com/p/7b892ee4588d54618bb90f35f09676a9) ![](assets/new.png)  
+- [2020-06-14-为什么-Redis-单线程能达到百万+QPS？](https://www.ershicimi.com/p/93daf93e178a1b1a14d26ed261987272) ![](assets/new.png)  
+- [2020-06-14-学会-IDEA-REST-Client后，postman就可以丢掉了...](https://www.ershicimi.com/p/57208dd30c35ddf99bac2ee9fd643591) ![](assets/new.png)  
+- [2020-06-13-我们公司为什么要放弃Lombok？因为它让你的代码处于了“亚健康”状态](https://www.ershicimi.com/p/007ab5418c0656bccf84a7169a33c7ff) ![](assets/new.png)  
+- [2020-06-13-为什么-SQL-语句不要过多的-join？](https://www.ershicimi.com/p/a7d6245c580c63e1355e951bd3e1d2a5) ![](assets/new.png)  
+- [2020-06-13-Aloha：一个分布式任务调度框架](https://www.ershicimi.com/p/510c97186758e82a9b7c5194614c8802) ![](assets/new.png)  
+- [2020-06-12-收藏啦~-Github上-10-个开源免费且优秀的后台控制面板](https://www.ershicimi.com/p/6826a1b7103be323ec17915bf5638b8b) ![](assets/new.png)  
 - [2020-03-27-CTO发飙：不要在Java代码中写set/get方法了，逮一次罚款***](https://www.ershicimi.com/p/8e96c677968dc184c678622f25b1e0e2)  
 - [2020-03-27-一份来自亚马逊技术专家的Google面试指南，GitHub收获9.8万星，已翻译成中文](https://www.ershicimi.com/p/bd547a130c504a62dbc182c76b16755d)  
 - [2020-03-27-MySQL常用优化指南，及大表优化思路（值得收藏）](https://www.ershicimi.com/p/ab46d74ace692a04d7ef3173fb7c1acc)  
@@ -390,16 +400,6 @@
 - [2020-03-25-面试问Redis锁，我脸都绿了......](https://www.ershicimi.com/p/e430350e5611b8377cfe7082a5ad2a69)  
 - [2020-03-25-Java项目构建基础：统一结果，统一异常，统一日志](https://www.ershicimi.com/p/e96c39260684a49f9468f2fb54649c0d)  
 - [2020-03-24-最新Fastjson再爆安全黑洞！可获取服务器权限,快升级！（扩散！！！）](https://www.ershicimi.com/p/dd15084041de5379f1a863ee77f17cbd)  
-- [2020-03-24-微信技术总监：一亿用户背后的架构秘密](https://www.ershicimi.com/p/2dc879e0c65d7734cb6a179b1a71af1a)  
-- [2020-03-24-瞬间几千次的重复提交，我用-SpringBoot+Redis-扛住了](https://www.ershicimi.com/p/c7cd059a9006cb4389eef4d67e11a320)  
-- [2020-03-23-恕我直言，你完全没有把IDEA的Diagram功能发挥出来...](https://www.ershicimi.com/p/36d96fa438c20d0efe32fc0335e44d42)  
-- [2020-03-23-微服务、SOA-和-API对比与分析](https://www.ershicimi.com/p/c7d60d0da12ef25260ffcef46e15f84a)  
-- [2020-03-23-干货阿里巴巴-开源软件列表](https://www.ershicimi.com/p/a99441b2e7a5bdcb69d5559db6ce2814)  
-- [2020-03-22-4种软件架构，看看你属于哪个层次！](https://www.ershicimi.com/p/83abbfd8bc742a2b31acd5a3e3527610)  
-- [2020-03-22-来自微信官方：微信支付跨平台软件架构首次曝光](https://www.ershicimi.com/p/6748235c9254f9f2a8f4fcd68e34fe44)  
-- [2020-03-22-GitHub-热榜：文字识别神器，超轻量级中文-OCR！一个超级厉害的开源库](https://www.ershicimi.com/p/ba81af60a36c1d620a728429394e29e7)  
-- [2020-03-21-IDEA新特性真牛逼：提前知道代码怎么走！](https://www.ershicimi.com/p/3ce8db60c74098906aca8e8967d0dcc1)  
-- [2020-03-21-硬核干货：你从普通码农到架构师的封神之路](https://www.ershicimi.com/p/d50955f7ea51bf9b130c80828e27decc)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,6 +411,16 @@
 </summary>
 
 
+- [2020-06-15-程序员退休后，各种编程语言的遗留系统怎么办？](https://www.ershicimi.com/p/b8704fcbcb43bb34b20310c98e359260) ![](assets/new.png)  
+- [2020-06-15-Java-微服务实用指南（一）](https://www.ershicimi.com/p/1800b4fc8257f61071845fa8687bb657) ![](assets/new.png)  
+- [2020-06-15-都说大数据和-AI-要结合，那系统架构该怎么搭？|-ArchSummit](https://www.ershicimi.com/p/dbe07ebe256761e3628f73bec3d2d6a7) ![](assets/new.png)  
+- [2020-06-15-超高并发常态化，系统如何才能挺住不“崩”？这场“实践课”带你解锁答案-|-Q推荐](https://www.ershicimi.com/p/c94d80410d33e74f946485f768f336e8) ![](assets/new.png)  
+- [2020-06-15-人力节省50%，研发效能提升40%，阿里Serverless架构落地实践](https://www.ershicimi.com/p/edf269b408f44fb1656511dc139d04e8) ![](assets/new.png)  
+- [2020-06-14-Starlink送“数据中心”上天：九次共发射36000台Linux计算机，每天产生数据超5TB](https://www.ershicimi.com/p/7c75ae6557ecd4ccdf6ce186151ff530) ![](assets/new.png)  
+- [2020-06-14-用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299) ![](assets/new.png)  
+- [2020-06-14-写了-5-年-Java，这些坑还是没躲过……-|-极客时间](https://www.ershicimi.com/p/066319e15d4f20b4c24c7c3a7d81d44e) ![](assets/new.png)  
+- [2020-06-14-低门槛+高效率，Python助力CUDA轻松实践-|-Q推荐](https://www.ershicimi.com/p/4140e6cb92781f4c8a7f19bfe899f0f8) ![](assets/new.png)  
+- [2020-06-14-分析了上千张照片发现：R-语言程序员最快乐，Java-开发者最年轻](https://www.ershicimi.com/p/9fe49a6797ef7e8df81ea8f989623eb3) ![](assets/new.png)  
 - [2020-05-27-微软发布新品被指剽窃！交涉无果，两年开源项目被迫终结](https://www.ershicimi.com/p/acf2e95561a6c1bcb66d23b91b5b70d6)  
 - [2020-05-27-小鹏汽车技术中台实践：云平台篇](https://www.ershicimi.com/p/166c18e9565b3c68ba2e6f9bd2c52380)  
 - [2020-05-27-快手端到端语音识别技术的探索与实践-|-AICon](https://www.ershicimi.com/p/ef99358e5244fff82f8969447c38ac75)  
@@ -421,16 +431,6 @@
 - [2020-05-26-程序员在翻车时的30种常见反应](https://www.ershicimi.com/p/217a1b1ff79976727f03ea44db17d6ad)  
 - [2020-05-26-应用程序水平伸缩的最佳实践](https://www.ershicimi.com/p/8c2197164fbba421d00732638a2c84f6)  
 - [2020-05-26-中国金融行业的“用户保卫战”](https://www.ershicimi.com/p/fadfccdc4cd7515efc2c9ff08f0ff407)  
-- [2020-04-27-字节跳动社交之心不死](https://www.ershicimi.com/p/fda45ecee96341b488536a7ee9a064fe)  
-- [2020-04-27-这是一篇实践者对-Go-语言的微吐槽](https://www.ershicimi.com/p/da1c331184c34191fcd93545dc8b4746)  
-- [2020-04-27-进击的中台，怎样影响一个企业的成败丨QCon](https://www.ershicimi.com/p/181996cbff35f04a8d12ced2902859e8)  
-- [2020-04-27-企业怎么入局5G新基建？7位大咖聊聊变中求胜之道](https://www.ershicimi.com/p/00e193671a4c7a9eeac05bdb536a8be8)  
-- [2020-04-27-8-个-DevOps-自动化工具，帮你做出持续改进](https://www.ershicimi.com/p/fe5a5ec55569c3bfc2daf81445584bf8)  
-- [2020-04-26-Go语言泛型问题一直被呼喊，从未被解决-|-年度开发者调查报告](https://www.ershicimi.com/p/29179dd87436d824fd9288921e0b11f7)  
-- [2020-04-26-8-亿用户的网易云音乐是怎样建设数据中台的？](https://www.ershicimi.com/p/180cc2d88cae0ba197ea42289ecddef0)  
-- [2020-04-26-代码行数减少30-90%！多邻国从Java迁移到Kotlin的奇妙体验](https://www.ershicimi.com/p/bd32f76e124e959e70f1f4dfc980f184)  
-- [2020-04-26-《工业智能白皮书》正式发布（附完整报告下载方式）](https://www.ershicimi.com/p/904e7062db2d1d15b5361a9106c2483b)  
-- [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

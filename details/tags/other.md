@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-13 06:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 22:00:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -900,6 +900,12 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-06-15-Myeclipse-2020.5-版本首发！支持-Java14](https://www.ershicimi.com/p/bd871cfd3e9a14d8736f41da3f03b753) 
+- [2020-06-14-程序员为了写出一款手游，远赴岛国，结果全公司被抓！](https://www.ershicimi.com/p/7b892ee4588d54618bb90f35f09676a9) 
+- [2020-06-14-为什么-Redis-单线程能达到百万+QPS？](https://www.ershicimi.com/p/93daf93e178a1b1a14d26ed261987272) 
+- [2020-06-13-我们公司为什么要放弃Lombok？因为它让你的代码处于了“亚健康”状态](https://www.ershicimi.com/p/007ab5418c0656bccf84a7169a33c7ff) 
+- [2020-06-13-为什么-SQL-语句不要过多的-join？](https://www.ershicimi.com/p/a7d6245c580c63e1355e951bd3e1d2a5) 
+- [2020-06-13-Aloha：一个分布式任务调度框架](https://www.ershicimi.com/p/510c97186758e82a9b7c5194614c8802) 
 - [2020-03-26-淘宝昨现重大线上bug，S1级事故，疑似程序员故意埋雷](https://www.ershicimi.com/p/be24f92f5d6ead667db2cb28f61e6eaf) 
 - [2020-03-26-为什么代码规范要求SQL语句不要过多的join？](https://www.ershicimi.com/p/c02d1e9ba08b2f8f1c4319fbc783a90e) 
 - [2020-03-26-100-个网络基础知识普及，看完成半个网络高手！](https://www.ershicimi.com/p/de4d06750d334b86a88bf9d5d68c8aa2) 
@@ -1033,6 +1039,14 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-06-15-程序员退休后，各种编程语言的遗留系统怎么办？](https://www.ershicimi.com/p/b8704fcbcb43bb34b20310c98e359260) 
+- [2020-06-15-Java-微服务实用指南（一）](https://www.ershicimi.com/p/1800b4fc8257f61071845fa8687bb657) 
+- [2020-06-15-都说大数据和-AI-要结合，那系统架构该怎么搭？|-ArchSummit](https://www.ershicimi.com/p/dbe07ebe256761e3628f73bec3d2d6a7) 
+- [2020-06-15-超高并发常态化，系统如何才能挺住不“崩”？这场“实践课”带你解锁答案-|-Q推荐](https://www.ershicimi.com/p/c94d80410d33e74f946485f768f336e8) 
+- [2020-06-14-Starlink送“数据中心”上天：九次共发射36000台Linux计算机，每天产生数据超5TB](https://www.ershicimi.com/p/7c75ae6557ecd4ccdf6ce186151ff530) 
+- [2020-06-14-写了-5-年-Java，这些坑还是没躲过……-|-极客时间](https://www.ershicimi.com/p/066319e15d4f20b4c24c7c3a7d81d44e) 
+- [2020-06-14-低门槛+高效率，Python助力CUDA轻松实践-|-Q推荐](https://www.ershicimi.com/p/4140e6cb92781f4c8a7f19bfe899f0f8) 
+- [2020-06-14-分析了上千张照片发现：R-语言程序员最快乐，Java-开发者最年轻](https://www.ershicimi.com/p/9fe49a6797ef7e8df81ea8f989623eb3) 
 - [2020-05-27-微软发布新品被指剽窃！交涉无果，两年开源项目被迫终结](https://www.ershicimi.com/p/acf2e95561a6c1bcb66d23b91b5b70d6) 
 - [2020-05-27-小鹏汽车技术中台实践：云平台篇](https://www.ershicimi.com/p/166c18e9565b3c68ba2e6f9bd2c52380) 
 - [2020-05-27-快手端到端语音识别技术的探索与实践-|-AICon](https://www.ershicimi.com/p/ef99358e5244fff82f8969447c38ac75) 

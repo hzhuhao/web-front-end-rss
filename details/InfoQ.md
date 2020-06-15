@@ -1,10 +1,20 @@
-:alarm_clock: 更新时间: 2020-05-29 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-15 22:00:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-06-15-程序员退休后，各种编程语言的遗留系统怎么办？](https://www.ershicimi.com/p/b8704fcbcb43bb34b20310c98e359260) 
+- [2020-06-15-Java-微服务实用指南（一）](https://www.ershicimi.com/p/1800b4fc8257f61071845fa8687bb657) 
+- [2020-06-15-都说大数据和-AI-要结合，那系统架构该怎么搭？|-ArchSummit](https://www.ershicimi.com/p/dbe07ebe256761e3628f73bec3d2d6a7) 
+- [2020-06-15-超高并发常态化，系统如何才能挺住不“崩”？这场“实践课”带你解锁答案-|-Q推荐](https://www.ershicimi.com/p/c94d80410d33e74f946485f768f336e8) 
+- [2020-06-15-人力节省50%，研发效能提升40%，阿里Serverless架构落地实践](https://www.ershicimi.com/p/edf269b408f44fb1656511dc139d04e8) 
+- [2020-06-14-Starlink送“数据中心”上天：九次共发射36000台Linux计算机，每天产生数据超5TB](https://www.ershicimi.com/p/7c75ae6557ecd4ccdf6ce186151ff530) 
+- [2020-06-14-用了6个月的GraphQL，真香！](https://www.ershicimi.com/p/989044c796f559f65862c70ce36f9299) 
+- [2020-06-14-写了-5-年-Java，这些坑还是没躲过……-|-极客时间](https://www.ershicimi.com/p/066319e15d4f20b4c24c7c3a7d81d44e) 
+- [2020-06-14-低门槛+高效率，Python助力CUDA轻松实践-|-Q推荐](https://www.ershicimi.com/p/4140e6cb92781f4c8a7f19bfe899f0f8) 
+- [2020-06-14-分析了上千张照片发现：R-语言程序员最快乐，Java-开发者最年轻](https://www.ershicimi.com/p/9fe49a6797ef7e8df81ea8f989623eb3) 
 - [2020-05-27-微软发布新品被指剽窃！交涉无果，两年开源项目被迫终结](https://www.ershicimi.com/p/acf2e95561a6c1bcb66d23b91b5b70d6) 
 - [2020-05-27-小鹏汽车技术中台实践：云平台篇](https://www.ershicimi.com/p/166c18e9565b3c68ba2e6f9bd2c52380) 
 - [2020-05-27-快手端到端语音识别技术的探索与实践-|-AICon](https://www.ershicimi.com/p/ef99358e5244fff82f8969447c38ac75) 
