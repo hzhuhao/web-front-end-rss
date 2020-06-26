@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-06-24 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-06-26 22:00:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -216,6 +216,10 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-06-22-资深前端工程师：裁人后总结了-7-个必备技能](https://www.ershicimi.com/p/093548bf9e4abe2fd87a57eddf760474) 
+- [2020-06-21-萌妹子语音陪你写代码，一个神奇的-VSCode-插件](https://www.ershicimi.com/p/0a861f117efd595923c6cf5a094abd26) 
+- [2020-06-19-10-个打开了我新世界大门的-WebAPI](https://www.ershicimi.com/p/9036cfe71e7a0ef0ba5431236cfdb7c6) 
+- [2020-06-18-开发穿这个，会不会引起测试部的众怒？](https://www.ershicimi.com/p/08cafd606a324e9b321624c77a2add6d) 
 - [2020-06-01-微信又添新功能，这个群可以学英语，而且全程免费！](https://www.ershicimi.com/p/32640e83a9510118275a7a0bc8622d06) 
 - [2020-05-29-你们今年还敢和老板谈加薪吗？](https://www.ershicimi.com/p/5f11a5b908c90fe02d2e9b3a58c4dc20) 
 - [2020-05-29-微前端在小米-CRM-系统的实践](https://www.ershicimi.com/p/e5b8de4f06161cf4df209165a0fcee3f) 
