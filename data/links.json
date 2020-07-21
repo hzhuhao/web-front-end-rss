@@ -11288,6 +11288,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "深入理解CSS background-blend-mode的作用机制",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/07/css-background-blend-mode/",
+        "date": "2020-07-22"
+      },
+      {
         "title": "巧用CSS cross-fade()实现背景图像半透明效果",
         "link": "https://www.zhangxinxu.com/wordpress/2020/07/css-cross-fade-background-image-opacity/",
         "date": "2020-07-06"
