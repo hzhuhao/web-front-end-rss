@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 12:37:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -25,6 +25,8 @@
 - [2019-01-15-【招聘】蚂蚁金服微贷事业部招前端／Node／互动游戏方向工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231036&idx=3&sn=d5a1c7bbc2c6e439905d588e5c2eab48#wechat_redirect) 
 - [2019-01-05-【英】19-ways-to-become-a-better-Node.js-developer-in-2019](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230906&idx=2&sn=5164464105e3088eddd8e4c4d9a79969#wechat_redirect) 
 - [2018-12-20-【图书】Koa与Node.js开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230754&idx=2&sn=f8cdd8e34e6813f0949d2fdf3c7524e4#wechat_redirect) 
+- [2020-07-31-Node.js-在大前端领域的应用分析](https://www.ershicimi.com/p/f5da40b42227acbb1f3a4eab0e1e9971) 
+- [2020-07-27-Node-中如何引入一个模块及其细节](https://www.ershicimi.com/p/c2412e15ccf9a2a007f1c9afe0073f45) 
 - [2020-03-09-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/9e02cdb47e1588922a43c15c2fdd7734) 
 - [2020-01-31-面试官问:Node-与底层之间如何执行异步-I/O-调用？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557806&idx=1&sn=38d7d332afa164d360c871ae60506912&chksm=8025586fb752d17913a6fd536e25d10bb57d72af7783f9bd1fa48e0eb44fe339bbfc8e4d2a83&scene=27#wechat_redirect) 
 - [2020-01-23-通过-Node.js-的-Cluster-模块源码，深入-PM2-原理](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557791&idx=1&sn=1497cfb097553c4f011f2fd145e5a0c1&chksm=8025585eb752d1480045f861c516c8b85b6669633b544fdf3f02325122961566d0c9c5cbbc3b&scene=27#wechat_redirect) 
@@ -112,6 +114,7 @@
 - [2020-01-03-奇舞周刊第-334-期:-llhttp-是如何使-Node.js-性能翻倍的？](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590897&idx=1&sn=f12379a4d63aa834ad3d920039d35147&chksm=8891de95bfe657835c4f27126c0494520c3b16ee2db877aad2d5d4d5f8634e675b4a60b457d7&scene=27#wechat_redirect) 
 - [2020-01-02-Docker-搭建你的第一个-Node-项目到服务器](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=1&sn=0aa80a7c9549af69a64332bb92a94804&chksm=8891de89bfe6579f09d3cd9a116b63ae2a90409d4e9a8b4359a61fca32d955c47f096b02d5b2&scene=27#wechat_redirect) 
 - [2020-03-19-JavaScript-执行效率不行？因为你还没用-V8丨极客时间](https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f) 
+- [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
 - [2020-03-17-NodeJs入门,带你获取头条热搜形成好看的标签云](https://www.ershicimi.com/p/1c8b05ff1207f0030e45943937747a57) 
 - [2020-03-15-Node.js-CLI-工具最佳实践](https://www.ershicimi.com/p/39af36d59451db223370ef7a8678a271) 
 - [2020-01-22-把会话放在Node层-我们这样做的很开心😋](https://juejin.im/post/5e28267be51d45020e180f95) 

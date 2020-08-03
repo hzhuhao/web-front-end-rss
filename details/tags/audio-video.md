@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 12:37:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -26,6 +26,7 @@
 - [2019-01-10-第二届-SEE-Conf-2019-精彩回顾（附-PPT-及视频）](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230950&idx=3&sn=ea51abc76cc8d36f1a6d75b499e32422#wechat_redirect) 
 - [2018-12-14-【视频】应用多端统一的实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230700&idx=2&sn=21e0640b1c33e7722a3f904538ab1533#wechat_redirect) 
 - [2018-12-11-【视频】让自己的-Web-应用具备较高的可访问性](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230673&idx=2&sn=9993e9887b032a6c489fb69fa66ad21b#wechat_redirect) 
+- [2020-07-18-玩转前端-Video-播放器](https://www.ershicimi.com/p/ce924b5b1c0f33a515d00e155fdf4cc6) 
 - [2020-01-26-Web-视频播放前前后后那些事](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557793&idx=1&sn=a70ce12286324dfd0dc3ce1f3bb0b971&chksm=80255860b752d1764fc9f7413aa5d14c61fd58782fa0c175a53a9c46993f84c2274efad68083&scene=27#wechat_redirect) 
 - [2020-01-06-前端代码是怎样智能生成的-图像分离篇](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493562&idx=2&sn=f7f7c0952ce807753f36c210364a833a&chksm=f95252f9ce25dbef2f0297bc4cabacf7dbc06098abc6f32b4f0fbd728716b1d178bb7b76d15d&scene=27#wechat_redirect) 
 - [2019-12-03-腾讯在线教育的Web音视频架构方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493279&idx=2&sn=d0627948f62c0a67c8824ffb72fce8aa&chksm=f95253dcce25dacacc3607d0965e2f40465974cfc2af909cb8f303305d4291f79f5670231254&scene=27#wechat_redirect) 
@@ -61,8 +62,10 @@
 - [2018-06-06-图像处理---ImageMagick-简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/) 
 - [2016-10-08-A-Frame-WebVR试玩报告](https://aotu.io/notes/2016/10/08/aframe/) 
 - [2016-08-24-浅谈-WebVR](https://aotu.io/notes/2016/08/24/2016-8-24-webvr/) 
+- [2020-07-24-最硬核的前端面试题直播解析，来了！](https://www.ershicimi.com/p/bec87f26283974019866b0161be18d3b) 
 - [2020-01-16-腾讯最新开源内部跨端框架Hippy，QQ、腾讯视频等18项业务都在用](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484397&idx=1&sn=e6fe2b03a3b998e618ee097e656bd177&chksm=eb1cc607dc6b4f11402459391173d1ad329d275fe32fb7cae68e395c25134d1b79018228057c&scene=27#wechat_redirect) 
 - [2020-03-14-Github-3.4k星，200余行代码，让你实时从视频中隐身](https://www.ershicimi.com/p/fbb11f083b57af2576eedde5b761fefa) 
+- [2020-07-29-字节跳动、优酷、作业帮三位大咖的公开课：如何搞定这些直播技术难题？](https://www.ershicimi.com/p/ba6192895405ab0f54a4ab332d5369da) 
 - [2020-01-28-趣谈C++：它的诞生只是个意外-|-二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023929&idx=2&sn=237d164a9b9cb4d4631b4e65a7e08528&chksm=bdbe926a8ac91b7ce85841f09c967ac6c62d7bf3d955893fa7affd225ca65571b4693cfe0264&scene=27#wechat_redirect) 
 - [2020-01-03-“创造，就值得被肯定”，一名程序员的艺术人生丨二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023426&idx=1&sn=a27fff1d7af3c81a667fd1cde2db8a84&chksm=bdbe90118ac91907a7dfedff7c6a500acc70e6f8f74ff85e4d2b6c53d361654b44867cf015c4&scene=27#wechat_redirect) 
 - [2019-12-27-24岁的程序员，似乎已经看到了30岁后的自己-|-二叉树视频](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023248&idx=2&sn=e7380397ef3b160211daeefcc8d100ab&chksm=bdbe9fc38ac916d5cfaaeea15512c8f3f68c335efaff4c9cc3982473842956772bc0e46bca99&scene=27#wechat_redirect) 

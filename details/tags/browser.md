@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 12:37:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,6 +42,8 @@
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) 
 - [2018-09-27-【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect) 
 - [2018-09-19-【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect) 
+- [2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) 
+- [2020-07-21-Chrome-84-正式发布，支持私有方法、用户空闲检测！](https://www.ershicimi.com/p/cac08fdc3497da86b50435575c59e7f3) 
 - [2020-03-11-又来了！Google-和微软在浏览器上的互掐](https://www.ershicimi.com/p/5bc6084825cf2a06eb65efcb3a83c965) 
 - [2020-02-04-还分不清-Cookie、Session、Token、JWT？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557820&idx=1&sn=dd9595e42c7cfd8f7c5dd4dba2075687&chksm=8025587db752d16bfcf0cb4286d9d2b79488218596e2a6130ae6c7eec668d7dd56cd9ea2da27&scene=27#wechat_redirect) 
 - [2020-02-03-复制黏贴上传图片和跨浏览器自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557815&idx=1&sn=ccd54c51dea2edb343a102ee7cada326&chksm=80255876b752d160b47304c3f31923fcfd294aa9b97f6ae207bc8b265802fd153507d51f9b93&scene=27#wechat_redirect) 
@@ -109,6 +111,7 @@
 - [2018-09-25-使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect) 
 - [2018-09-24-一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect) 
 - [2018-09-21-前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect) 
+- [2020-07-29-17款最好用的跨浏览器测试工具](https://www.ershicimi.com/p/cc92c52092446f5603bab49e2e665abf) 
 - [2020-05-26-8款最强大的远程调试工具](https://www.ershicimi.com/p/2c8fb70328b1adb298106066a6b6fbee) 
 - [2020-03-09-提升前端开发效率：你应该知道的10个Chrome扩展程序](https://www.ershicimi.com/p/3cc0a6d24d481d2366b32777b217e182) 
 - [2020-01-16-16-个好用的-Code-Review-工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493621&idx=2&sn=f1ee140581b07f7bd19481a8bcbcabeb&chksm=f95252b6ce25dba0cd863a50be882ae80c5c84e55833763e207a0f4f3d5e8b655ad5d8d7752f&scene=27#wechat_redirect) 
@@ -156,9 +159,12 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2020-07-29-你不知道的-WebSocket](https://www.ershicimi.com/p/0bf0b89f8923693b8f12f689dd14f1d0) 
 - [2020-03-19-前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec) 
 - [2020-01-19-前端安全—你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591159&idx=1&sn=68abf498d83a849f9fb2099f1642df20&chksm=8891df93bfe6568550651cb5a32f3c0d30585818dae614772298b4c9913cb4fd2bfd3241f8f5&scene=27#wechat_redirect) 
+- [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-13-Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba) 
+- [2020-07-30-用-HTTPS-就安全了？HTTPS-会被抓包吗？](https://www.ershicimi.com/p/b202f13b5ada16d52945a7a65fe73473) 
 - [2020-06-14-学会-IDEA-REST-Client后，postman就可以丢掉了...](https://www.ershicimi.com/p/57208dd30c35ddf99bac2ee9fd643591) 
 - [2020-03-27-CTO发飙：不要在Java代码中写set/get方法了，逮一次罚款***](https://www.ershicimi.com/p/8e96c677968dc184c678622f25b1e0e2) 
 - [2020-03-20-PostMan居然要被干掉了！IDEA这款插件太实用了…](https://www.ershicimi.com/p/e085d0a6b47f1ff2885ef93a932f8740) 

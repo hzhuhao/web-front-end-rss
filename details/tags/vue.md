@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 12:37:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -113,6 +113,8 @@
 - [2018-10-02-Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect) 
 - [2018-09-30-深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect) 
 - [2018-09-22-自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect) 
+- [2020-07-30-手把手教你用-Tauri+Vue-创建小型桌面应用](https://www.ershicimi.com/p/29353c8bcfb02587cffd2de0a4624379) 
+- [2020-07-24-祖传代码迁移到Vue的另一种解题思路](https://www.ershicimi.com/p/260d50f555f53608fb15dc44129d2a32) 
 - [2020-05-29-尤雨溪自述：打造Vue-3背后的故事](https://www.ershicimi.com/p/084667a962587d4c037a219f7d8f6ebe) 
 - [2020-03-06-只会-Vue-的前端工程师是没有前途的](https://www.ershicimi.com/p/a18cc45de4e8127f298c559efb9ebb04) 
 - [2020-02-03-2020年11大顶级VueJS开发工具](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493683&idx=1&sn=2b7c76e04c4792d4416932003c909ef4&chksm=f9525d70ce25d466c85a597d2b6306b2b18184ccd01eb3dbc4b072165bcd3844d15c81bbfddf&scene=27#wechat_redirect) 
@@ -164,6 +166,8 @@
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
 - [2020-03-16-Vuex调用接口的三个阶段](https://www.ershicimi.com/p/fd163fbed488bf0a41be3cac1be11694) 
 - [2019-12-23-『-Vue小Case-』--如何动态绑定多个事件（内附源码解析）](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590833&idx=1&sn=d5944efeddc638f7096cb4bab8086fa7&chksm=8891de55bfe6574324c2bb0cbd4fc47f648cd35a8a4fbbbfe940184f4c3bcfab8427a79bb02c&scene=27#wechat_redirect) 
+- [2020-07-07-【必看】58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/d65a388f1ee86e2e41227b42f85d95f6) 
+- [2020-06-11-前端进阶实战：用Vue.js实现"用户管理"](https://www.ershicimi.com/p/3fba399a66151353b587960d8093a0b8) 
 - [2020-02-25-Vue-3.0将正式发布，对我们有哪些改变？](https://www.ershicimi.com/p/2f5688f513ddfee39e89de69b1c0624d) 
 - [2020-02-24-Vue+Electron开发跨平台桌面应用](https://www.ershicimi.com/p/52d9e6ab84d1ceb2a08483b995b82a96) 
 - [2020-01-14-2020年人人都会Vue了，面试官还能考什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484393&idx=1&sn=83972cbd129e943091693c5ad74589a7&chksm=eb1cc603dc6b4f15d6496af5d061d38ec9cffb4eff2f893033eaf9429b6d0fe8692ae6120889&scene=27#wechat_redirect) 
@@ -171,6 +175,9 @@
 - [2019-12-07-Vue-CLI-首屏优化技巧](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484348&idx=1&sn=5a01f3b9c2e843dba222a2032d8b61cc&chksm=eb1cc656dc6b4f40c93b69306ebebb6960bc5f604d586311f4ba9b5a11d358d1400a60b8087c&scene=27#wechat_redirect) 
 - [2020-02-04-2020年-11-大顶级-VueJS-开发工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024037&idx=4&sn=62781eb957fd57e11d4716ec9ab222b5&chksm=bdbe92f68ac91be09e8a9e37b5070a810902bbd4c9be4cdebe17fb30501d4bceba95e01619e8&scene=27#wechat_redirect) 
 - [2020-01-17-尤雨溪-VueConf-演讲：Vue-3.0-的新特性和设计理念](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023703&idx=5&sn=b4090f12119d99c1a9f0b4b81808f767&chksm=bdbe91048ac918128fce7fed5fcdfc3f2fe9b648a845ccb1f91d64c5756e99afa5790163a459&scene=27#wechat_redirect) 
+- [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1) 
+- [2020-07-07-最新Vue底层原理实现概述](https://www.ershicimi.com/p/3c77841e27ecefe480cb5383620d2dc1) 
+- [2020-07-06-尤大：预计-8-月发布正式版-Vue-3.0！你还不学学么？](https://www.ershicimi.com/p/43ab9298de5e0516e864f31966c11700) 
 - [2020-03-18-面试的时候，会用vue就够了吗？](https://www.ershicimi.com/p/64cef2047d223eed26d8ef73e163f41f) 
 - [2020-03-10-Vue如何实现疫情地图展示](https://www.ershicimi.com/p/85e575e25723862953d42ce443188b25) 
 - [2020-03-06-Vue+Element前端导入导出Excel](https://www.ershicimi.com/p/b0e581c5c5392d159554154679ef1e7f) 

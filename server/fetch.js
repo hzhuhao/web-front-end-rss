@@ -146,13 +146,16 @@ function isSameLink(link, compare){
 // 加快速度，使用本地的 RSSHub
 let useLocalRSSHub = process.argv.indexOf('LOCAL_RSSHub') > -1 || process.argv.indexOf('--LOCAL_RSSHub') > -1
 function replaceRss(rss){
-  if(!useLocalRSSHub) return rss
+//  if(!useLocalRSSHub) return rss
 
   if(/rsshub\.app/.test(rss)){
     console.log('https://rsshub.app ==> http://127.0.0.1:1200')
-  }
+   return rss.replace('https://rsshub.app', 'http://127.0.0.1:1200')
+  }else{
+ return rss
+}
   
-  return rss.replace('https://rsshub.app', 'http://127.0.0.1:1200')
+  // return rss.replace('https://rsshub.app', 'http://127.0.0.1:1200')
 }
 
 module.exports = Fetch;

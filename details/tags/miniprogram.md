@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 12:37:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -41,6 +41,7 @@
 - [2018-09-23-【第1402期】云开发初探-——-更简便的小程序开发模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229939&idx=1&sn=7da77cc15457721951a82477d68a6263#wechat_redirect) 
 - [2018-09-21-【第1400期】小程序的全栈开发新时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229914&idx=1&sn=c4da922ac376114079b5f54abc3c6eaa#wechat_redirect) 
 - [2018-09-21-多端统一开发框架-Taro-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229914&idx=2&sn=8815ff5cc983fb9021a988c3f46fa7b6#wechat_redirect) 
+- [2020-07-20-微信支持-H5-跳转-App、跳转小程序](https://www.ershicimi.com/p/797dfe20a3a6c99a7f963f9afc4b91d7) 
 - [2020-05-30-小程序瀑布流组件:支持翻页与图片懒加载](https://www.ershicimi.com/p/0b5fc7c665853c8160097d340656ffd3) 
 - [2019-04-03-微信小程序自定义单页面、全局导航栏](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556156&idx=1&sn=62b22ef692d38064bee1217c090f7886#rd) 
 - [2019-03-22-小程序多端框架全面测评](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556082&idx=1&sn=eedf543e7221568d13ffc00b92924700#rd) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-07-31 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-03 12:37:31。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -39,6 +39,7 @@
 - [2018-10-25-页面性能优化办法有哪些？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555172&idx=3&sn=cc7d562c522aff4e4c322ac84fbdf932#wechat_redirect) 
 - [2018-10-24-前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555159&idx=1&sn=76ae3e8f1f9af2e6bde171b7957540c2#wechat_redirect) 
 - [2018-09-28-上拉加载下拉刷新了解下](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=2&sn=fb35bd4e10d87fe8be823677f9340194#wechat_redirect) 
+- [2020-07-22-今日头条-Android-“秒”-级编译速度优化](https://www.ershicimi.com/p/03c5fb013e4698650a8216b81a2420b7) 
 - [2020-03-19-2020年前端框架性能对比和评测](https://www.ershicimi.com/p/509ddc5fb91782097765c9d39cd0d12e) 
 - [2020-03-11-从首届-WebAssembly-Summit-看-Wasm-未来发展方向——安全性、性能和浏览器引擎](https://www.ershicimi.com/p/e40a9ef7f17cdea3046e7e5283f4695b) 
 - [2020-03-05-抖音BoostMultiDex优化实践：Android低版本上APP首次启动时间减少80%](https://www.ershicimi.com/p/d0e387aee202f9da22ce42f59b932c74) 
@@ -68,7 +69,9 @@
 - [2016-03-16-前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/) 
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
+- [2020-07-18-聊一聊前端性能优化-CRP](https://www.ershicimi.com/p/5c14be4e893f3261a0add4d4f152b003) 
 - [2020-02-26-前端高级进阶：如何更好地优化打包资源](https://www.ershicimi.com/p/f75535aab170a223ac5b638cb2a4f5f4) 
+- [2020-08-01-Spring-Boot-项目如何做性能监控？](https://www.ershicimi.com/p/e4f5be331fa439d9662102d1ccee4826) 
 - [2020-03-27-MySQL常用优化指南，及大表优化思路（值得收藏）](https://www.ershicimi.com/p/ab46d74ace692a04d7ef3173fb7c1acc) 
 - [2020-03-12-去阿里面试被问：如果是MySQL引起的CPU消耗过大，你会如何优化？](https://www.ershicimi.com/p/d22370ee376abfa42ab3f34454bd179f) 
 - [2020-03-10-记录一次MySQL两千万数据的大表优化解决过程，提供三种解决方案](https://www.ershicimi.com/p/f51769e3d6546cd7186b74756ebf55d7) 
