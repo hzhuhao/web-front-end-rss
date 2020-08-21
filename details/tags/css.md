@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 13:59:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -176,6 +176,7 @@
 - [2019-08-30-Serverless-For-Frontend-前世今生](http://www.yyyweb.com/5303.html) 
 - [2018-11-08-动画：从-AE-到-Web，‘甩锅’给设计师](http://www.yyyweb.com/5201.html) 
 - [2018-11-16-【译】理解-CSS-布局和块级格式化上下文](https://jdc.jd.com/archives/212797) 
+- [2020-07-24-几种移动端多平台元素垂直居中解决方案总结](https://aotu.io/notes/2020/07/24/line-height-in-all-hardware/) 
 - [2019-08-05-serverless](https://aotu.io/notes/2019/08/05/serverless/) 
 - [2019-10-29-2019年，你是否可以抛弃-CSS-预处理器？](https://aotu.io/notes/2019/10/29/css-preprocessor/) 
 - [2018-03-06-动画：从-AE-到-Web](https://aotu.io/notes/2018/03/06/ae2web/) 
