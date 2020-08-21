@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-21 13:59:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-21 18:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -29,6 +29,7 @@
 - [2020-08-19-前端音视频的那些术语](https://www.ershicimi.com/p/3d3ff1bd4e9793540adf8258bbd84ab9) 
 - [2020-07-18-玩转前端-Video-播放器](https://www.ershicimi.com/p/ce924b5b1c0f33a515d00e155fdf4cc6) 
 - [2020-01-26-Web-视频播放前前后后那些事](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557793&idx=1&sn=a70ce12286324dfd0dc3ce1f3bb0b971&chksm=80255860b752d1764fc9f7413aa5d14c61fd58782fa0c175a53a9c46993f84c2274efad68083&scene=27#wechat_redirect) 
+- [2020-08-20-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/678351a2d3edbf0921c1ab972bc4510f) 
 - [2020-01-06-前端代码是怎样智能生成的-图像分离篇](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493562&idx=2&sn=f7f7c0952ce807753f36c210364a833a&chksm=f95252f9ce25dbef2f0297bc4cabacf7dbc06098abc6f32b4f0fbd728716b1d178bb7b76d15d&scene=27#wechat_redirect) 
 - [2019-12-03-腾讯在线教育的Web音视频架构方案](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493279&idx=2&sn=d0627948f62c0a67c8824ffb72fce8aa&chksm=f95253dcce25dacacc3607d0965e2f40465974cfc2af909cb8f303305d4291f79f5670231254&scene=27#wechat_redirect) 
 - [2019-11-12-音视频App爆发，这些Web架构方案你要了解](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493043&idx=2&sn=cf258780408e3921461092c85a59dc3c&chksm=f95250f0ce25d9e6cae5c395f12eb0640c21aab25614fbf693a5d1a10876c81e2276dc15a6ac&scene=27#wechat_redirect) 
