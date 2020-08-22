@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-22 18:00:12，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-23 06:00:10，:rocket: 更新条数: +15， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -27,8 +27,8 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [InfoQ](#infoq)![](assets/dot.png)   
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -101,9 +101,9 @@
 </summary>
 
 
-- [2020-08-21-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/e7ad2acd74eb2e87358052b888946c98) ![](assets/new.png)  
-- [2020-08-21-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/897ccf4dcb70ad9273484f14f16f3e19) ![](assets/new.png)  
-- [2020-08-21-吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-活动推荐](https://www.ershicimi.com/p/4c35ff4a1caac14804f16dd4e1b2b036) ![](assets/new.png)  
+- [2020-08-21-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/e7ad2acd74eb2e87358052b888946c98)  
+- [2020-08-21-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/897ccf4dcb70ad9273484f14f16f3e19)  
+- [2020-08-21-吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-活动推荐](https://www.ershicimi.com/p/4c35ff4a1caac14804f16dd4e1b2b036)  
 - [2020-08-20-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/678351a2d3edbf0921c1ab972bc4510f)  
 - [2020-08-20-5-种提高开发速度的方法](https://www.ershicimi.com/p/04457acfa3d94d74ba67f47b1ba5bded)  
 - [2020-08-19-我是怎样通过个人项目成长为高级-JavaScript-开发者的](https://www.ershicimi.com/p/dd5e699b03225c29d4b74f38f71ce072)  
@@ -411,26 +411,26 @@
 </summary>
 
 
+- [2020-08-22-阿里云平均日赚1.35亿；年收入超100万的人最不幸福；百度在美遭集体诉讼-|-Q资讯](https://www.ershicimi.com/p/8f58e190b33d8f59248d9473d4c01878) ![](assets/new.png)  
+- [2020-08-22-软件工程师除了写代码，还能做什么工作？](https://www.ershicimi.com/p/cee6565c86105b81587a66cb1d694f4c) ![](assets/new.png)  
+- [2020-08-22-一个经典的100%无服务器架构在AWS上是什么样？](https://www.ershicimi.com/p/a87c90822453500a4f3878f0dbd011bd) ![](assets/new.png)  
+- [2020-08-22-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/1c917ebcc94ef67dc4fe89f64b2d4659) ![](assets/new.png)  
+- [2020-08-21-我接手了一个“垃圾”系统，全栈优化后将性能提升了350倍](https://www.ershicimi.com/p/6aebfbb2b178ab388aa9df3cba9e5375) ![](assets/new.png)  
+- [2020-08-21-对话Dubbo唤醒者北纬：3.0将至，阿里核心电商业务也在用Dubbo](https://www.ershicimi.com/p/6125493dcf88353d98fdcfe993907d94) ![](assets/new.png)  
+- [2020-08-21-调查了近百位CXO：喊了这么久的数据中台建设成果如何？|-Q推荐](https://www.ershicimi.com/p/90e0e8b1e416f7e391ea81b1c47e2bbf) ![](assets/new.png)  
+- [2020-08-21-智能时代，AI如何落地助力企业智慧变革？|-Q推荐](https://www.ershicimi.com/p/f87d508a312a06a9e64f85e3c37243bc) ![](assets/new.png)  
+- [2020-08-21-REST-API工具推荐](https://www.ershicimi.com/p/cdbc54ac171925d52e15e0de797658c7) ![](assets/new.png)  
+- [2020-08-20-Zoom中国“大撤退”](https://www.ershicimi.com/p/07595bb966da6d91d6405f2dee744b2b) ![](assets/new.png)  
+- [2020-08-20-福利贴丨程序员的七夕骚话该怎么讲？附带千元大礼包](https://www.ershicimi.com/p/624f8b641495f2411cfc32297a44cedb) ![](assets/new.png)  
+- [2020-08-20-5000亿蛋糕等分！微软出海电商技术峰会为你深度解析「跨境电商盈利背后的技术利器」|-Q推荐](https://www.ershicimi.com/p/4ff320cb717710d36e1eea689e531aae) ![](assets/new.png)  
+- [2020-08-20-在不到一周的时间里，我“克隆”了-Twitter，没用一行代码](https://www.ershicimi.com/p/9a1f9bd1b83744c8304fa9224ac6f30e) ![](assets/new.png)  
+- [2020-08-20-通过移除-Nginx，Raygun-公司怎样将-TPS-提高了-44%？](https://www.ershicimi.com/p/3d7997a268c78d779f6f5acbe8d2d38c) ![](assets/new.png)  
 - [2020-08-19-苹果报复腾讯持股游戏商：全面封杀Epic-Games，祸及大量开发者](https://www.ershicimi.com/p/2b13a0a3c8e29ed8f24bfe731e5d1a42)  
 - [2020-08-19-有奖征稿-|-写作平台八月宠粉福利来袭，参与创作领取限时大奖～](https://www.ershicimi.com/p/16d2db6bf5812dd3f8a74ecbc0b10606)  
 - [2020-08-19-云原生落地难？对话VMware大咖，企业应用改造之路不再迷惘-|-大咖说](https://www.ershicimi.com/p/121dad4e1664c0e233a308d25e258111)  
 - [2020-08-19-“杀死”那个-IE-11-浏览器](https://www.ershicimi.com/p/8d90e9c15a75a2ac5926d44af5cb004a)  
 - [2020-08-19-Kotlin发布-1.4版本，高亮速度提升1.5-4倍，支持接口-SAM-转换](https://www.ershicimi.com/p/4749758858e93b72b4dd367b48760bd3)  
 - [2020-08-18-做技术，就得去大厂-|-极客时间](https://www.ershicimi.com/p/699675a511c296a79408dd777e6f39b9)  
-- [2020-08-18-10天上线、37小时后倒闭，一行代码毁掉一个价值十亿美金的明星项目](https://www.ershicimi.com/p/1b29fde07b71da7d05c934544a71a0fd)  
-- [2020-08-18-技术人的创新能力可以靠后天培养么？-|-Q推荐](https://www.ershicimi.com/p/a25867357ac8d2d920f7496f5ef74a13)  
-- [2020-08-18-一文看懂阿里文娱大数据-OLAP-选型](https://www.ershicimi.com/p/b365f656378c95edfe038decf123415d)  
-- [2020-08-18-“非常规”数据科学求职指南](https://www.ershicimi.com/p/d53cdbfcbebfe7c391ff6e390f080935)  
-- [2020-08-17-不想一辈子打工，我做了个月入-40-余万的-App](https://www.ershicimi.com/p/0c7e97963d87987bec007b8e4c59e4e2)  
-- [2020-08-17-VMware：重新定义多云环境应用现代化之路](https://www.ershicimi.com/p/003d649004bdb84324c360b9c64239a1)  
-- [2020-08-17-如何帮助IT研发团队成长，加速企业实现技术驱动业务增长？|-极客时间](https://www.ershicimi.com/p/194a3b48d6056faed4ca56b964748265)  
-- [2020-08-17-耗时三年，向-React-迁移的利与弊](https://www.ershicimi.com/p/8016a5d1c48048ab12b2882bbed8a693)  
-- [2020-08-17-5-种提高开发速度的方法](https://www.ershicimi.com/p/574eb97ffbcfbcde112b9b3b4db647cd)  
-- [2020-08-16-Java正在“Kotlin化”](https://www.ershicimi.com/p/8575408663a818b0898a691e51ea53ac)  
-- [2020-08-16-除了写好代码，开发人员更需要具备什么能力？](https://www.ershicimi.com/p/b1aeca93339ea5045a3c45855e8b00f8)  
-- [2020-08-16-团队每天-996-，还要提升人效比，怎么办？|-TGO鲲鹏会](https://www.ershicimi.com/p/f5f1b9980e082f95c3199a7b689b94ec)  
-- [2020-08-16-如何用Prometheus和Grafana监控Kubernetes集群？](https://www.ershicimi.com/p/34811d687bf8be2a6a28571884a00dd9)  
-- [2020-08-15-腾讯员工不降薪月均7.5万；95%中国用户愿为微信放弃iPhone；中国开发者从App-Store赚](https://www.ershicimi.com/p/f2f9045f3c73f0764da697af74dda402)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -442,6 +442,7 @@
 </summary>
 
 
+- [2020-08-21-前端的核心竞争力在哪里？](https://www.ershicimi.com/p/4edf132a9c1fd2aaf3c1f58d23764169) ![](assets/new.png)  
 - [2020-08-20-Vue3.0和2.0的区别？五步学会Vue3.0实战项目！](https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f)  
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca)  
 - [2020-08-18-每出现一个Bug，都要思考这个问题](https://www.ershicimi.com/p/50772aaf0bbc5fe9a2a8ebd37ed47c3b)  
@@ -461,7 +462,6 @@
 - [2020-07-29-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/8d9aae6d6881f11e8d1c09ed67f7bdf5)  
 - [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1)  
 - [2020-07-27-20个-CSS-快速提升技巧](https://www.ershicimi.com/p/02e36a0d0749c177b1fe11f86b5f5ea2)  
-- [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/ad88a966ef504d6a8551e30959e8f190)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
