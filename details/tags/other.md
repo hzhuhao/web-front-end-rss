@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-23 22:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -892,6 +892,9 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-08-22-花十分钟的时间武装你的代码库](https://www.ershicimi.com/p/47f3ee8adf292f99eb4171ed84b7f923) 
+- [2020-08-22-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/38ab4aa737bd8d1a242b6add11e6a2f7) 
+- [2020-08-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/de8879235b5c632566af37325a6e99c3) 
 - [2020-08-21-奇舞周刊第-361-期：2020-2021-设计趋势报告](https://www.ershicimi.com/p/2a300a3f85f784bcc2d542a530c0d447) 
 - [2020-08-20-从图片裁剪来聊聊前端二进制](https://www.ershicimi.com/p/5d8dc3f91b9a57991718540c2eaa488f) 
 - [2020-08-20-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/0ba294b0779f77c1d2fc67c099955aa0) 

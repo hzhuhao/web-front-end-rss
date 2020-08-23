@@ -11,20 +11,20 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-23 18:00:11，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-23 22:00:09，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -70,8 +70,8 @@
 </summary>
 
 
-- [2020-08-22-为什么阿里-P6+-前端这么值钱？​](https://www.ershicimi.com/p/0ebcd3b72ee90b7e184da494007dc53a) ![](assets/new.png)  
-- [2020-08-22-TypeScript-设计模式之观察者模式](https://www.ershicimi.com/p/db48ec5a2c3bbfb4159b89312df12887) ![](assets/new.png)  
+- [2020-08-22-为什么阿里-P6+-前端这么值钱？​](https://www.ershicimi.com/p/0ebcd3b72ee90b7e184da494007dc53a)  
+- [2020-08-22-TypeScript-设计模式之观察者模式](https://www.ershicimi.com/p/db48ec5a2c3bbfb4159b89312df12887)  
 - [2020-08-21-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/03a46bf49087ddf981c458059e99222c)  
 - [2020-08-21-这么痛苦的学习源码到底图个啥!](https://www.ershicimi.com/p/dd1d52aca322420337cda49499acbfc3)  
 - [2020-08-19-一步一步教你把-Redux-Saga-添加到-React＆Redux-程序中](https://www.ershicimi.com/p/d2cfe666ae63d09748c95b2d9130f170)  
@@ -101,7 +101,7 @@
 </summary>
 
 
-- [2020-08-23-前端周报：IE最终“死”在了微软自己手里；字节跳动决定起诉特朗普政府；Android-11将强迫用户](https://www.ershicimi.com/p/61af13562d837fde29be12fd8cfb3fdd) ![](assets/new.png)  
+- [2020-08-23-前端周报：IE最终“死”在了微软自己手里；字节跳动决定起诉特朗普政府；Android-11将强迫用户](https://www.ershicimi.com/p/61af13562d837fde29be12fd8cfb3fdd)  
 - [2020-08-21-TypeScript-4.0正式发布！现在是开始使用它的最佳时机](https://www.ershicimi.com/p/e7ad2acd74eb2e87358052b888946c98)  
 - [2020-08-21-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/897ccf4dcb70ad9273484f14f16f3e19)  
 - [2020-08-21-吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-活动推荐](https://www.ershicimi.com/p/4c35ff4a1caac14804f16dd4e1b2b036)  
@@ -318,6 +318,9 @@
 </summary>
 
 
+- [2020-08-22-花十分钟的时间武装你的代码库](https://www.ershicimi.com/p/47f3ee8adf292f99eb4171ed84b7f923) ![](assets/new.png)  
+- [2020-08-22-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/38ab4aa737bd8d1a242b6add11e6a2f7) ![](assets/new.png)  
+- [2020-08-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/de8879235b5c632566af37325a6e99c3) ![](assets/new.png)  
 - [2020-08-21-奇舞周刊第-361-期：2020-2021-设计趋势报告](https://www.ershicimi.com/p/2a300a3f85f784bcc2d542a530c0d447)  
 - [2020-08-20-从图片裁剪来聊聊前端二进制](https://www.ershicimi.com/p/5d8dc3f91b9a57991718540c2eaa488f)  
 - [2020-08-20-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/0ba294b0779f77c1d2fc67c099955aa0)  
@@ -335,9 +338,6 @@
 - [2020-08-15-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/4d67de8b0dfdfd69c9f1544a6b0bfda3)  
 - [2020-08-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/805da77915d63d084626882aaccc52b1)  
 - [2020-08-14-奇舞周刊第-360-期：-API-设计的几条原则](https://www.ershicimi.com/p/81d264b9b908a30db0537fd22c56ae8f)  
-- [2020-08-13-React17新特性：启发式更新算法](https://www.ershicimi.com/p/e8426b680d9e54dd7b0e8e2bf99ed27a)  
-- [2020-08-13-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/202b21f9d90c1818d553dab44f4fb92e)  
-- [2020-08-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/4b4bbc116c4b2037194f5c0695a61d7d)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
