@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 06:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-23 12:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -214,6 +214,12 @@
 - [【前端日刊】2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
 - [【前端日刊】2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/67f13fb99fb127529c0b01659333e9e4) 
 - [【前端日刊】2020-08-03-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/8622926e340dfe4280f19700b1ee842d) 
+- [【互联网架构师】2020-08-23-不要再自己封装各种Util工具类了，这款神仙级框架你值得拥有！](https://www.ershicimi.com/p/e8f6e39f94899fc595508e35af60a8f9) 
+- [【互联网架构师】2020-08-23-一文讲懂什么是-vlan、三层交换机、网关、DNS、子网掩码、MAC地址](https://www.ershicimi.com/p/639c162109aa3b657d75101c5dd99fbd) 
+- [【互联网架构师】2020-08-23-秒杀商品超卖事故：Redis分布式锁请慎用！](https://www.ershicimi.com/p/110b4f8581e9b7c8f4a518ea33b04f29) 
+- [【互联网架构师】2020-08-22-软件公司与非软件公司区别（纯个人看法）](https://www.ershicimi.com/p/2e8a03530b64c027c3650ada5bf68303) 
+- [【互联网架构师】2020-08-22-Mybatis-框架下-SQL-注入攻击的-3-种方式，真是防不胜防！](https://www.ershicimi.com/p/8327a18c5b13f1c78b39fa00fe86f433) 
+- [【互联网架构师】2020-08-22-写出一手烂代码的-19-条准则！](https://www.ershicimi.com/p/1599efd832434e374599d98e4ee54b68) 
 - [【互联网架构师】2020-08-21-7月平均工资下来，Java程序员哭笑不得！](https://www.ershicimi.com/p/6032a371f516f224ad79e231803b70d3) 
 - [【互联网架构师】2020-08-21-为什么阿里规定需要在事务注解@Transactional中指定rollbackFor？](https://www.ershicimi.com/p/7bece20abfce05044a36130c80a3b3af) 
 - [【互联网架构师】2020-08-21-如何让你的Nginx-提升10倍性能？](https://www.ershicimi.com/p/f6a7fffad06ba4c4d6c9555e2aca00bb) 
