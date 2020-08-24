@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 22:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 06:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -219,6 +219,7 @@
 - [2020-07-01-React开发必须知道的34个技巧](https://www.ershicimi.com/p/5fd3fea3e708fdde0f7d0f1425fd0aea) 
 - [2020-03-23-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/f2abf0d1cd605d7363dea907fc73e331) 
 - [2019-12-17-React-中的一个奇怪的-Hook](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484359&idx=1&sn=5b090080ae3e856aabb4831b6615407a&chksm=eb1cc62ddc6b4f3bcddf679dd04c5a2fc190524dc2cfcd70b63461dded7bb79537124c7087c5&scene=27#wechat_redirect) 
+- [2020-08-23-为什么我不再用Redux了](https://www.ershicimi.com/p/b7ebad00483b283493e2e5171ae28990) 
 - [2020-08-17-耗时三年，向-React-迁移的利与弊](https://www.ershicimi.com/p/8016a5d1c48048ab12b2882bbed8a693) 
 - [2020-08-02-Vue、React-和-Angular：该选择哪个框架？](https://www.ershicimi.com/p/f73b77273510c91de5c16630096f92f9) 
 - [2020-02-03-英特尔放弃Nervana-AI芯片，全面支持Habana-Labs](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024026&idx=5&sn=1a2e7bba81082ec14170fb1f96f2c563&chksm=bdbe92c98ac91bdf05abd97786bbb3fbebb1bfe310a2b6d4483e33feb20485134d572ac99410&scene=27#wechat_redirect) 

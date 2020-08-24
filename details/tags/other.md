@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-23 22:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-25 06:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1009,6 +1009,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-08-24-刚刚，张一鸣还击！字节跳动正式起诉特朗普及美国政府！同时准备"关停预案"！中国已有告赢先例！](https://www.ershicimi.com/p/71d698fe2d8189cfb533d25fbebc266a) 
+- [2020-08-24-半吊子架构师，一来就想干掉RabbitMQ](https://www.ershicimi.com/p/c18f026870c44a0724301b6fc499139c) 
+- [2020-08-24-MySQL-not-exists-真的不走索引么?](https://www.ershicimi.com/p/ddd3f67c53b9b73f5e74c16c066ddb8e) 
 - [2020-08-23-不要再自己封装各种Util工具类了，这款神仙级框架你值得拥有！](https://www.ershicimi.com/p/e8f6e39f94899fc595508e35af60a8f9) 
 - [2020-08-23-一文讲懂什么是-vlan、三层交换机、网关、DNS、子网掩码、MAC地址](https://www.ershicimi.com/p/639c162109aa3b657d75101c5dd99fbd) 
 - [2020-08-23-秒杀商品超卖事故：Redis分布式锁请慎用！](https://www.ershicimi.com/p/110b4f8581e9b7c8f4a518ea33b04f29) 
@@ -1185,6 +1188,12 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-08-24-程序员一夜暴富捷径？不，别被轻易骗进“独角兽”](https://www.ershicimi.com/p/c133fe5fa34476cf68aadbd69f5e2901) 
+- [2020-08-24-福利贴-|-单身狗的七夕闯关攻略](https://www.ershicimi.com/p/ad984e1b216863e87847a0419f9db105) 
+- [2020-08-24-产业互联网时代不想掉队？鹅厂的这个会你不能错过！|-Q推荐](https://www.ershicimi.com/p/4084d25d2d5de268578f30bd53b8d435) 
+- [2020-08-24-蚂蚁集团如何在大规模-Kubernetes-集群上实现高-SLO？](https://www.ershicimi.com/p/c2f83092672f947172d9a5c9665037b0) 
+- [2020-08-23-反-996-有理：催程序员交代码，写不出好软件](https://www.ershicimi.com/p/87459363ce406bf2374f933f76af125b) 
+- [2020-08-23-每个架构师都应掌握的六大架构伸缩性原则](https://www.ershicimi.com/p/0eca79e0a60cd8290b7fac54d5ee6030) 
 - [2020-08-22-阿里云平均日赚1.35亿；年收入超100万的人最不幸福；百度在美遭集体诉讼-|-Q资讯](https://www.ershicimi.com/p/8f58e190b33d8f59248d9473d4c01878) 
 - [2020-08-22-软件工程师除了写代码，还能做什么工作？](https://www.ershicimi.com/p/cee6565c86105b81587a66cb1d694f4c) 
 - [2020-08-22-一个经典的100%无服务器架构在AWS上是什么样？](https://www.ershicimi.com/p/a87c90822453500a4f3878f0dbd011bd) 

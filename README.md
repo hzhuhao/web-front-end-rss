@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-23 22:00:09，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-25 06:00:07，:rocket: 更新条数: +12， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -24,10 +24,10 @@
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -318,9 +318,9 @@
 </summary>
 
 
-- [2020-08-22-花十分钟的时间武装你的代码库](https://www.ershicimi.com/p/47f3ee8adf292f99eb4171ed84b7f923) ![](assets/new.png)  
-- [2020-08-22-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/38ab4aa737bd8d1a242b6add11e6a2f7) ![](assets/new.png)  
-- [2020-08-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/de8879235b5c632566af37325a6e99c3) ![](assets/new.png)  
+- [2020-08-22-花十分钟的时间武装你的代码库](https://www.ershicimi.com/p/47f3ee8adf292f99eb4171ed84b7f923)  
+- [2020-08-22-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/38ab4aa737bd8d1a242b6add11e6a2f7)  
+- [2020-08-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/de8879235b5c632566af37325a6e99c3)  
 - [2020-08-21-奇舞周刊第-361-期：2020-2021-设计趋势报告](https://www.ershicimi.com/p/2a300a3f85f784bcc2d542a530c0d447)  
 - [2020-08-20-从图片裁剪来聊聊前端二进制](https://www.ershicimi.com/p/5d8dc3f91b9a57991718540c2eaa488f)  
 - [2020-08-20-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/0ba294b0779f77c1d2fc67c099955aa0)  
@@ -380,6 +380,9 @@
 </summary>
 
 
+- [2020-08-24-刚刚，张一鸣还击！字节跳动正式起诉特朗普及美国政府！同时准备"关停预案"！中国已有告赢先例！](https://www.ershicimi.com/p/71d698fe2d8189cfb533d25fbebc266a) ![](assets/new.png)  
+- [2020-08-24-半吊子架构师，一来就想干掉RabbitMQ](https://www.ershicimi.com/p/c18f026870c44a0724301b6fc499139c) ![](assets/new.png)  
+- [2020-08-24-MySQL-not-exists-真的不走索引么?](https://www.ershicimi.com/p/ddd3f67c53b9b73f5e74c16c066ddb8e) ![](assets/new.png)  
 - [2020-08-23-不要再自己封装各种Util工具类了，这款神仙级框架你值得拥有！](https://www.ershicimi.com/p/e8f6e39f94899fc595508e35af60a8f9)  
 - [2020-08-23-一文讲懂什么是-vlan、三层交换机、网关、DNS、子网掩码、MAC地址](https://www.ershicimi.com/p/639c162109aa3b657d75101c5dd99fbd)  
 - [2020-08-23-秒杀商品超卖事故：Redis分布式锁请慎用！](https://www.ershicimi.com/p/110b4f8581e9b7c8f4a518ea33b04f29)  
@@ -397,9 +400,6 @@
 - [2020-08-19-Spring-Boot-2.3.3-正式发布！2.4.0-正式版即将发布！](https://www.ershicimi.com/p/a7cc57a2c6018ede175e3042e9b46162)  
 - [2020-08-18-Java-后端不懂-GC-调优很丢脸吗？](https://www.ershicimi.com/p/0005ee82994fc3711dd9c9c3b0d90a4a)  
 - [2020-08-18-Java-强、弱、软、虚，你属于哪一种？](https://www.ershicimi.com/p/66fecf071d54817fa7e92632f0061338)  
-- [2020-08-18-要注意了！这样使用MyBatis框架，被攻击了！](https://www.ershicimi.com/p/03328701c9aa91ece49797c59a0afef2)  
-- [2020-08-17-Docker-更新协议，禁止被列入美国“实体名单”的国家、企业、个人使用,开源被“截流”？](https://www.ershicimi.com/p/6ddf07e7de4a4c4769f2427c54aa8088)  
-- [2020-08-17-MySQL-日期时间类型怎么选？千万不要乱用！](https://www.ershicimi.com/p/7fcaa1726aa5214777cc010c97b5f8d4)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,6 +411,15 @@
 </summary>
 
 
+- [2020-08-24-程序员一夜暴富捷径？不，别被轻易骗进“独角兽”](https://www.ershicimi.com/p/c133fe5fa34476cf68aadbd69f5e2901) ![](assets/new.png)  
+- [2020-08-24-福利贴-|-单身狗的七夕闯关攻略](https://www.ershicimi.com/p/ad984e1b216863e87847a0419f9db105) ![](assets/new.png)  
+- [2020-08-24-产业互联网时代不想掉队？鹅厂的这个会你不能错过！|-Q推荐](https://www.ershicimi.com/p/4084d25d2d5de268578f30bd53b8d435) ![](assets/new.png)  
+- [2020-08-24-蚂蚁集团如何在大规模-Kubernetes-集群上实现高-SLO？](https://www.ershicimi.com/p/c2f83092672f947172d9a5c9665037b0) ![](assets/new.png)  
+- [2020-08-24-target-=-“_-blank”背后的隐藏漏洞](https://www.ershicimi.com/p/8aea060e252affcf9ee57f387fd27213) ![](assets/new.png)  
+- [2020-08-23-反-996-有理：催程序员交代码，写不出好软件](https://www.ershicimi.com/p/87459363ce406bf2374f933f76af125b) ![](assets/new.png)  
+- [2020-08-23-为什么我不再用Redux了](https://www.ershicimi.com/p/b7ebad00483b283493e2e5171ae28990) ![](assets/new.png)  
+- [2020-08-23-每个架构师都应掌握的六大架构伸缩性原则](https://www.ershicimi.com/p/0eca79e0a60cd8290b7fac54d5ee6030) ![](assets/new.png)  
+- [2020-08-23-吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-Q推荐](https://www.ershicimi.com/p/48c314f431a59179ad7bd192b40cf439) ![](assets/new.png)  
 - [2020-08-22-阿里云平均日赚1.35亿；年收入超100万的人最不幸福；百度在美遭集体诉讼-|-Q资讯](https://www.ershicimi.com/p/8f58e190b33d8f59248d9473d4c01878)  
 - [2020-08-22-软件工程师除了写代码，还能做什么工作？](https://www.ershicimi.com/p/cee6565c86105b81587a66cb1d694f4c)  
 - [2020-08-22-一个经典的100%无服务器架构在AWS上是什么样？](https://www.ershicimi.com/p/a87c90822453500a4f3878f0dbd011bd)  
@@ -422,15 +431,6 @@
 - [2020-08-21-REST-API工具推荐](https://www.ershicimi.com/p/cdbc54ac171925d52e15e0de797658c7)  
 - [2020-08-20-Zoom中国“大撤退”](https://www.ershicimi.com/p/07595bb966da6d91d6405f2dee744b2b)  
 - [2020-08-20-福利贴丨程序员的七夕骚话该怎么讲？附带千元大礼包](https://www.ershicimi.com/p/624f8b641495f2411cfc32297a44cedb)  
-- [2020-08-20-5000亿蛋糕等分！微软出海电商技术峰会为你深度解析「跨境电商盈利背后的技术利器」|-Q推荐](https://www.ershicimi.com/p/4ff320cb717710d36e1eea689e531aae)  
-- [2020-08-20-在不到一周的时间里，我“克隆”了-Twitter，没用一行代码](https://www.ershicimi.com/p/9a1f9bd1b83744c8304fa9224ac6f30e)  
-- [2020-08-20-通过移除-Nginx，Raygun-公司怎样将-TPS-提高了-44%？](https://www.ershicimi.com/p/3d7997a268c78d779f6f5acbe8d2d38c)  
-- [2020-08-19-苹果报复腾讯持股游戏商：全面封杀Epic-Games，祸及大量开发者](https://www.ershicimi.com/p/2b13a0a3c8e29ed8f24bfe731e5d1a42)  
-- [2020-08-19-有奖征稿-|-写作平台八月宠粉福利来袭，参与创作领取限时大奖～](https://www.ershicimi.com/p/16d2db6bf5812dd3f8a74ecbc0b10606)  
-- [2020-08-19-云原生落地难？对话VMware大咖，企业应用改造之路不再迷惘-|-大咖说](https://www.ershicimi.com/p/121dad4e1664c0e233a308d25e258111)  
-- [2020-08-19-“杀死”那个-IE-11-浏览器](https://www.ershicimi.com/p/8d90e9c15a75a2ac5926d44af5cb004a)  
-- [2020-08-19-Kotlin发布-1.4版本，高亮速度提升1.5-4倍，支持接口-SAM-转换](https://www.ershicimi.com/p/4749758858e93b72b4dd367b48760bd3)  
-- [2020-08-18-做技术，就得去大厂-|-极客时间](https://www.ershicimi.com/p/699675a511c296a79408dd777e6f39b9)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
