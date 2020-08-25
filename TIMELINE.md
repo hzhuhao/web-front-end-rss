@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-25 18:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-25 22:00:15。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -193,6 +193,12 @@
 - [【阮一峰的网络日志】2020-08-10-只要一行代码，实现五种-CSS-经典布局](http://www.ruanyifeng.com/blog/2020/08/five-css-layouts-in-one-line.html) 
 - [【阮一峰的网络日志】2020-08-07-科技爱好者周刊（第-119-期）：降雨量和保险博弈-](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-119.html) 
 - [【Aotu-|-凹凸实验室】2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) 
+- [【奇舞周刊】2020-08-25-浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc) 
+- [【奇舞周刊】2020-08-25-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/0e76675b07fc19319e467add150d7e3c) 
+- [【奇舞周刊】2020-08-25-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/3e056098794f38c6b162b2c015231f53) 
+- [【奇舞周刊】2020-08-24-初探视频原理和FFmpeg](https://www.ershicimi.com/p/d2b22c5f83e76f61caad1c48b650c7a6) 
+- [【奇舞周刊】2020-08-24-useContext更佳实践](https://www.ershicimi.com/p/3a76d21d9f3617310c2631808277fd2c) 
+- [【奇舞周刊】2020-08-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/d94f808d16bf7e012b97ab8014b73c19) 
 - [【奇舞周刊】2020-08-22-花十分钟的时间武装你的代码库](https://www.ershicimi.com/p/47f3ee8adf292f99eb4171ed84b7f923) 
 - [【奇舞周刊】2020-08-22-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/38ab4aa737bd8d1a242b6add11e6a2f7) 
 - [【奇舞周刊】2020-08-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/de8879235b5c632566af37325a6e99c3) 
