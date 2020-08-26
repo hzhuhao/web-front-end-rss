@@ -11,24 +11,24 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-26 12:02:58，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-26 22:00:14，:rocket: 更新条数: +24， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)![](assets/dot.png)   
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -70,6 +70,9 @@
 </summary>
 
 
+- [2020-08-26-面试字节-27K-岗，3-道题就被干掉](https://www.ershicimi.com/p/765ec59942a27238b9e800e6b95a0dee) ![](assets/new.png)  
+- [2020-08-26-强烈推介的几个微信小程序开发小技巧，简单又实用](https://www.ershicimi.com/p/d32dab3654e88770e432c010526e7e91) ![](assets/new.png)  
+- [2020-08-25-轻松理解-JS-中的面向对象，顺便搞懂-prototype-和-__proto__](https://www.ershicimi.com/p/c475787f0e0b777cf153d9bd72532b02) ![](assets/new.png)  
 - [2020-08-24-前淘宝前端-leader：2020年，前端应该怎么学？](https://www.ershicimi.com/p/9fef0f58efcfa45078a8a0b4e58f7476)  
 - [2020-08-24-CSS-实用技巧：伪元素&伪类的妙用](https://www.ershicimi.com/p/23ec1da0a9d77dfd5f3e3b8e0a6a74e5)  
 - [2020-08-23-一文读懂-javascript-深拷贝与浅拷贝](https://www.ershicimi.com/p/11c84bea4df77c0c051ce6a8ae1a30b7)  
@@ -87,9 +90,6 @@
 - [2020-08-14-资深前端，到底解决了普通前端做不到的哪些问题？](https://www.ershicimi.com/p/068d5f314f954f71356c45b22860f3f5)  
 - [2020-08-14-React-v17.0-RC-释出，官方称“没啥新特色”](https://www.ershicimi.com/p/f4d29b0e5b99c349f1a1a5c7be32b8d2)  
 - [2020-08-13-内存怪兽-Chrome-被黑的最惨一次](https://www.ershicimi.com/p/dbe05e010ee40c3db60919a7ef934cbb)  
-- [2020-08-13-完美代码，一次通过](https://www.ershicimi.com/p/bd0f707aee32f3adbb49a88f4ccd42c4)  
-- [2020-08-12-浅谈-Web-前端工程化](https://www.ershicimi.com/p/2d535a20dccc98f8042a01d0d6ceef44)  
-- [2020-08-12-Angular-发布首个正式的路线图](https://www.ershicimi.com/p/b57cfcf13ef689d73b78049acee6d425)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html) ![](assets/new.png)  
+- [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html)  
 - [2020-08-21-科技爱好者周刊（第-121-期）：为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html)  
 - [2020-08-20-Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html)  
 - [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html)  
@@ -349,6 +349,8 @@
 </summary>
 
 
+- [2020-08-25-为什么阿里P6+前端这么值钱?](https://www.ershicimi.com/p/d511f2ae3591d2f8c141251a38ea29fd) ![](assets/new.png)  
+- [2020-08-24-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/11844956143091a3f5f4e75b947343e6) ![](assets/new.png)  
 - [2020-08-21-前端的核心竞争力在哪里？](https://www.ershicimi.com/p/e4649c2d813951cb3234f4dfa6d99e5a)  
 - [2020-08-18-没错，华为要对前端下手了！](https://www.ershicimi.com/p/cc9b4f026caec49075b4f9675946f2e3)  
 - [2020-08-17-面了个-4-年的前端，简历看着像实战派，实际上……](https://www.ershicimi.com/p/6ed0f363369b893e3f05f3d3dbd57ff2)  
@@ -367,8 +369,6 @@
 - [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c)  
 - [2020-07-07-【必看】58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/d65a388f1ee86e2e41227b42f85d95f6)  
 - [2020-07-06-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/bdcb031876cb4a1ccf3e34e88ceb7dec)  
-- [2020-07-03-真的！！！两行css代码实现瀑布流，html,css最简单的瀑布流实现方式且没有缺点！](https://www.ershicimi.com/p/cd371b537f54318e95d7b5842c195697)  
-- [2020-07-01-React开发必须知道的34个技巧](https://www.ershicimi.com/p/5fd3fea3e708fdde0f7d0f1425fd0aea)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,6 +380,12 @@
 </summary>
 
 
+- [2020-08-26-太强了！这款轻量级的数据库中间件完美解决了SpringBoot中分库分表问题？](https://www.ershicimi.com/p/79122ca6202cf5ce31618c1f0a883b4c) ![](assets/new.png)  
+- [2020-08-26-掌握了这30道MySQL基础面试题，我成了面霸](https://www.ershicimi.com/p/0cdee53998225df3bcddc15abed262cb) ![](assets/new.png)  
+- [2020-08-26-谷歌开源的代码评审规范，值得借鉴！](https://www.ershicimi.com/p/ce3ca943bd02532503a01b7c3ada520a) ![](assets/new.png)  
+- [2020-08-25-DDD-到底什么鬼？](https://www.ershicimi.com/p/91e7429bb13453cdf3513a248e3ac957) ![](assets/new.png)  
+- [2020-08-25-华为Java开发编程军规，谁违反谁走](https://www.ershicimi.com/p/ef4cf353d94eae87e646aea973f708a4) ![](assets/new.png)  
+- [2020-08-25-实战：Java如何实现文件批量导入导出（兼容xls,xlsx）？](https://www.ershicimi.com/p/52c555039866cbf78e7939946f94320d) ![](assets/new.png)  
 - [2020-08-24-刚刚，张一鸣还击！字节跳动正式起诉特朗普及美国政府！同时准备"关停预案"！中国已有告赢先例！](https://www.ershicimi.com/p/71d698fe2d8189cfb533d25fbebc266a)  
 - [2020-08-24-半吊子架构师，一来就想干掉RabbitMQ](https://www.ershicimi.com/p/c18f026870c44a0724301b6fc499139c)  
 - [2020-08-24-MySQL-not-exists-真的不走索引么?](https://www.ershicimi.com/p/ddd3f67c53b9b73f5e74c16c066ddb8e)  
@@ -394,12 +400,6 @@
 - [2020-08-21-如何让你的Nginx-提升10倍性能？](https://www.ershicimi.com/p/f6a7fffad06ba4c4d6c9555e2aca00bb)  
 - [2020-08-20-知乎高赞：当update修改数据与原数据相同时会再次执行吗？](https://www.ershicimi.com/p/3ff2e9de753fe84d407603a560e9f8c2)  
 - [2020-08-20-Redis-实现延迟队列？深深被折服！！](https://www.ershicimi.com/p/9a509db5bf44bbcc773fd1acd4effb2d)  
-- [2020-08-20-SpringBoot项目优雅的http客户端工具，太香了!](https://www.ershicimi.com/p/3e91084d0a76a64293335098989f21c4)  
-- [2020-08-19-日志框架选型，Logback-还是-Log4j2？](https://www.ershicimi.com/p/639602b4f1710c35c1fe2a81b0c5b7fc)  
-- [2020-08-19-曲线救国：提高github下载速度到2MB/s](https://www.ershicimi.com/p/ce5872cfb29569c07e9944fada2b237a)  
-- [2020-08-19-Spring-Boot-2.3.3-正式发布！2.4.0-正式版即将发布！](https://www.ershicimi.com/p/a7cc57a2c6018ede175e3042e9b46162)  
-- [2020-08-18-Java-后端不懂-GC-调优很丢脸吗？](https://www.ershicimi.com/p/0005ee82994fc3711dd9c9c3b0d90a4a)  
-- [2020-08-18-Java-强、弱、软、虚，你属于哪一种？](https://www.ershicimi.com/p/66fecf071d54817fa7e92632f0061338)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,6 +411,16 @@
 </summary>
 
 
+- [2020-08-26-Kubernetes这么香，为什么谷歌还坚持使用Borg？](https://www.ershicimi.com/p/2406ef92eb4a2fad258b8a62e670cd65) ![](assets/new.png)  
+- [2020-08-26-写Java代码时会踩哪些坑？2.2-万字干货总结](https://www.ershicimi.com/p/25ff387937b5b4dff898d57fa38e3025) ![](assets/new.png)  
+- [2020-08-26-不想成为架构师的程序员，只配叫码农-｜-极客时间](https://www.ershicimi.com/p/08adc80a35d07609c92ecd16c60e277a) ![](assets/new.png)  
+- [2020-08-26-要出海？先了解这6个问题](https://www.ershicimi.com/p/9b177510db9c1d6950954819577bc21a) ![](assets/new.png)  
+- [2020-08-26-TikTok-129条主张正式起诉美国政府：我们别无选择](https://www.ershicimi.com/p/bd728ee9174ddc8651822e6d32125973) ![](assets/new.png)  
+- [2020-08-25-难搞的-Linux-性能问题，如何从内核层面解决？丨极客时间](https://www.ershicimi.com/p/de371da51f7c5c77a17ee7bc465d91b6) ![](assets/new.png)  
+- [2020-08-25-审阅“史上”最烂的代码](https://www.ershicimi.com/p/b464025ab7224a76d25d512a97c7dd06) ![](assets/new.png)  
+- [2020-08-25-微服务：闭门造车，不如看看大厂怎么做的-|-Q推荐](https://www.ershicimi.com/p/1769e8d7ff4d93ef455b5181bcf3a094) ![](assets/new.png)  
+- [2020-08-25-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/8adab04cfeb6a2825d1afeaceb5fa141) ![](assets/new.png)  
+- [2020-08-25-WebAssembly-是-Deno-的好搭档](https://www.ershicimi.com/p/b2f131f110b2585231764c7f017fcf27) ![](assets/new.png)  
 - [2020-08-24-程序员一夜暴富捷径？不，别被轻易骗进“独角兽”](https://www.ershicimi.com/p/c133fe5fa34476cf68aadbd69f5e2901)  
 - [2020-08-24-福利贴-|-单身狗的七夕闯关攻略](https://www.ershicimi.com/p/ad984e1b216863e87847a0419f9db105)  
 - [2020-08-24-产业互联网时代不想掉队？鹅厂的这个会你不能错过！|-Q推荐](https://www.ershicimi.com/p/4084d25d2d5de268578f30bd53b8d435)  
@@ -421,16 +431,6 @@
 - [2020-08-23-每个架构师都应掌握的六大架构伸缩性原则](https://www.ershicimi.com/p/0eca79e0a60cd8290b7fac54d5ee6030)  
 - [2020-08-23-吞吐性能翻倍！搭载了第三代Tensor-Core的A100是怎么做到的-|-Q推荐](https://www.ershicimi.com/p/48c314f431a59179ad7bd192b40cf439)  
 - [2020-08-22-阿里云平均日赚1.35亿；年收入超100万的人最不幸福；百度在美遭集体诉讼-|-Q资讯](https://www.ershicimi.com/p/8f58e190b33d8f59248d9473d4c01878)  
-- [2020-08-22-软件工程师除了写代码，还能做什么工作？](https://www.ershicimi.com/p/cee6565c86105b81587a66cb1d694f4c)  
-- [2020-08-22-一个经典的100%无服务器架构在AWS上是什么样？](https://www.ershicimi.com/p/a87c90822453500a4f3878f0dbd011bd)  
-- [2020-08-22-Android-11强制用户使用内置摄像头，谷歌让安卓更封闭了吗？](https://www.ershicimi.com/p/1c917ebcc94ef67dc4fe89f64b2d4659)  
-- [2020-08-21-我接手了一个“垃圾”系统，全栈优化后将性能提升了350倍](https://www.ershicimi.com/p/6aebfbb2b178ab388aa9df3cba9e5375)  
-- [2020-08-21-对话Dubbo唤醒者北纬：3.0将至，阿里核心电商业务也在用Dubbo](https://www.ershicimi.com/p/6125493dcf88353d98fdcfe993907d94)  
-- [2020-08-21-调查了近百位CXO：喊了这么久的数据中台建设成果如何？|-Q推荐](https://www.ershicimi.com/p/90e0e8b1e416f7e391ea81b1c47e2bbf)  
-- [2020-08-21-智能时代，AI如何落地助力企业智慧变革？|-Q推荐](https://www.ershicimi.com/p/f87d508a312a06a9e64f85e3c37243bc)  
-- [2020-08-21-REST-API工具推荐](https://www.ershicimi.com/p/cdbc54ac171925d52e15e0de797658c7)  
-- [2020-08-20-Zoom中国“大撤退”](https://www.ershicimi.com/p/07595bb966da6d91d6405f2dee744b2b)  
-- [2020-08-20-福利贴丨程序员的七夕骚话该怎么讲？附带千元大礼包](https://www.ershicimi.com/p/624f8b641495f2411cfc32297a44cedb)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -442,6 +442,9 @@
 </summary>
 
 
+- [2020-08-26-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/c137ee5ba9af6ee1df54d4ace219d1b7) ![](assets/new.png)  
+- [2020-08-25-为什么阿里P6+前端这么值钱?](https://www.ershicimi.com/p/d1817ac2caa875b27ca8ab9965b15bd9) ![](assets/new.png)  
+- [2020-08-24-前端工程师如何修炼自己的编程内力](https://www.ershicimi.com/p/0784280e1ffd19b5c51fd601c3f53262) ![](assets/new.png)  
 - [2020-08-21-前端的核心竞争力在哪里？](https://www.ershicimi.com/p/4edf132a9c1fd2aaf3c1f58d23764169)  
 - [2020-08-20-Vue3.0和2.0的区别？五步学会Vue3.0实战项目！](https://www.ershicimi.com/p/7c4347c226e4551a52ec2f4784346e3f)  
 - [2020-08-19-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/eb792fa866e843391e89cdc5a0c273ca)  
@@ -459,9 +462,6 @@
 - [2020-08-03-如何精确统计页面停留时长](https://www.ershicimi.com/p/1c9ebd84df7644667e1347d67682706a)  
 - [2020-07-31-140道Web大厂面试真题分享](https://www.ershicimi.com/p/82353361ddca791ad1aa9c6410e36028)  
 - [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776)  
-- [2020-07-29-做前端，如何克服新技术焦虑？](https://www.ershicimi.com/p/8d9aae6d6881f11e8d1c09ed67f7bdf5)  
-- [2020-07-28-Vue项目部署的最佳实践](https://www.ershicimi.com/p/fda46c0f2c17e1d315ae701c9c9e39a1)  
-- [2020-07-27-20个-CSS-快速提升技巧](https://www.ershicimi.com/p/02e36a0d0749c177b1fe11f86b5f5ea2)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

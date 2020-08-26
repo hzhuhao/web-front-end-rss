@@ -3862,6 +3862,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "面试字节 27K 岗，3 道题就被干掉",
+        "link": "https://www.ershicimi.com/p/765ec59942a27238b9e800e6b95a0dee",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "强烈推介的几个微信小程序开发小技巧，简单又实用",
+        "link": "https://www.ershicimi.com/p/d32dab3654e88770e432c010526e7e91",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "轻松理解 JS 中的面向对象，顺便搞懂 prototype 和 __proto__",
+        "link": "https://www.ershicimi.com/p/c475787f0e0b777cf153d9bd72532b02",
+        "date": "2020-08-25"
+      },
+      {
         "title": "前淘宝前端 leader：2020年，前端应该怎么学？",
         "link": "https://www.ershicimi.com/p/9fef0f58efcfa45078a8a0b4e58f7476",
         "date": "2020-08-24"
@@ -15720,6 +15735,16 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "为什么阿里P6+前端这么值钱?",
+        "link": "https://www.ershicimi.com/p/d511f2ae3591d2f8c141251a38ea29fd",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "程序员的崩溃，是从“你薪资比我高”开始的！",
+        "link": "https://www.ershicimi.com/p/11844956143091a3f5f4e75b947343e6",
+        "date": "2020-08-24"
+      },
+      {
         "title": "前端的核心竞争力在哪里？",
         "link": "https://www.ershicimi.com/p/e4649c2d813951cb3234f4dfa6d99e5a",
         "date": "2020-08-21"
@@ -16061,6 +16086,36 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "太强了！这款轻量级的数据库中间件完美解决了SpringBoot中分库分表问题？",
+        "link": "https://www.ershicimi.com/p/79122ca6202cf5ce31618c1f0a883b4c",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "掌握了这30道MySQL基础面试题，我成了面霸",
+        "link": "https://www.ershicimi.com/p/0cdee53998225df3bcddc15abed262cb",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "谷歌开源的代码评审规范，值得借鉴！",
+        "link": "https://www.ershicimi.com/p/ce3ca943bd02532503a01b7c3ada520a",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "DDD 到底什么鬼？",
+        "link": "https://www.ershicimi.com/p/91e7429bb13453cdf3513a248e3ac957",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "华为Java开发编程军规，谁违反谁走",
+        "link": "https://www.ershicimi.com/p/ef4cf353d94eae87e646aea973f708a4",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "实战：Java如何实现文件批量导入导出（兼容xls,xlsx）？",
+        "link": "https://www.ershicimi.com/p/52c555039866cbf78e7939946f94320d",
+        "date": "2020-08-25"
+      },
       {
         "title": "刚刚，张一鸣还击！字节跳动正式起诉特朗普及美国政府！同时准备\"关停预案\"！中国已有告赢先例！",
         "link": "https://www.ershicimi.com/p/71d698fe2d8189cfb533d25fbebc266a",
@@ -17253,6 +17308,56 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "Kubernetes这么香，为什么谷歌还坚持使用Borg？",
+        "link": "https://www.ershicimi.com/p/2406ef92eb4a2fad258b8a62e670cd65",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "写Java代码时会踩哪些坑？2.2 万字干货总结",
+        "link": "https://www.ershicimi.com/p/25ff387937b5b4dff898d57fa38e3025",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "不想成为架构师的程序员，只配叫码农 ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/08adc80a35d07609c92ecd16c60e277a",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "要出海？先了解这6个问题",
+        "link": "https://www.ershicimi.com/p/9b177510db9c1d6950954819577bc21a",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "TikTok 129条主张正式起诉美国政府：我们别无选择",
+        "link": "https://www.ershicimi.com/p/bd728ee9174ddc8651822e6d32125973",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "难搞的 Linux 性能问题，如何从内核层面解决？丨极客时间",
+        "link": "https://www.ershicimi.com/p/de371da51f7c5c77a17ee7bc465d91b6",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "审阅“史上”最烂的代码",
+        "link": "https://www.ershicimi.com/p/b464025ab7224a76d25d512a97c7dd06",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "微服务：闭门造车，不如看看大厂怎么做的 | Q推荐",
+        "link": "https://www.ershicimi.com/p/1769e8d7ff4d93ef455b5181bcf3a094",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "Chrome开发者工具的11个高级使用技巧",
+        "link": "https://www.ershicimi.com/p/8adab04cfeb6a2825d1afeaceb5fa141",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "WebAssembly 是 Deno 的好搭档",
+        "link": "https://www.ershicimi.com/p/b2f131f110b2585231764c7f017fcf27",
+        "date": "2020-08-25"
+      },
       {
         "title": "程序员一夜暴富捷径？不，别被轻易骗进“独角兽”",
         "link": "https://www.ershicimi.com/p/c133fe5fa34476cf68aadbd69f5e2901",
@@ -18925,6 +19030,21 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "哥们别闹，你离资深前端还远着呢",
+        "link": "https://www.ershicimi.com/p/c137ee5ba9af6ee1df54d4ace219d1b7",
+        "date": "2020-08-26"
+      },
+      {
+        "title": "为什么阿里P6+前端这么值钱?",
+        "link": "https://www.ershicimi.com/p/d1817ac2caa875b27ca8ab9965b15bd9",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "前端工程师如何修炼自己的编程内力",
+        "link": "https://www.ershicimi.com/p/0784280e1ffd19b5c51fd601c3f53262",
+        "date": "2020-08-24"
+      },
       {
         "title": "前端的核心竞争力在哪里？",
         "link": "https://www.ershicimi.com/p/4edf132a9c1fd2aaf3c1f58d23764169",
