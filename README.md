@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-25 22:00:15，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-26 12:02:58，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,11 +20,11 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -194,6 +194,7 @@
 </summary>
 
 
+- [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html) ![](assets/new.png)  
 - [2020-08-21-科技爱好者周刊（第-121-期）：为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html)  
 - [2020-08-20-Node.js-如何处理-ES6-模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html)  
 - [2020-08-14-科技爱好者周刊（第-120-期）：只有开放才能打败封锁](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-120.html)  
@@ -213,7 +214,6 @@
 - [2020-06-16-苹果电脑为什么要换-CPU：Intel-与-ARM-的战争](http://www.ruanyifeng.com/blog/2020/06/cpu-architecture.html)  
 - [2020-06-12-科技爱好者周刊（第-111-期）：智能电视的误区](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-111.html)  
 - [2020-06-10-Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html)  
-- [2020-06-05-科技爱好者周刊（第-110-期）：如果不能去美国上市](http://www.ruanyifeng.com/blog/2020/06/weekly-issue-110.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -318,12 +318,12 @@
 </summary>
 
 
-- [2020-08-25-浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc) ![](assets/new.png)  
-- [2020-08-25-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/0e76675b07fc19319e467add150d7e3c) ![](assets/new.png)  
-- [2020-08-25-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/3e056098794f38c6b162b2c015231f53) ![](assets/new.png)  
-- [2020-08-24-初探视频原理和FFmpeg](https://www.ershicimi.com/p/d2b22c5f83e76f61caad1c48b650c7a6) ![](assets/new.png)  
-- [2020-08-24-useContext更佳实践](https://www.ershicimi.com/p/3a76d21d9f3617310c2631808277fd2c) ![](assets/new.png)  
-- [2020-08-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/d94f808d16bf7e012b97ab8014b73c19) ![](assets/new.png)  
+- [2020-08-25-浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc)  
+- [2020-08-25-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/0e76675b07fc19319e467add150d7e3c)  
+- [2020-08-25-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/3e056098794f38c6b162b2c015231f53)  
+- [2020-08-24-初探视频原理和FFmpeg](https://www.ershicimi.com/p/d2b22c5f83e76f61caad1c48b650c7a6)  
+- [2020-08-24-useContext更佳实践](https://www.ershicimi.com/p/3a76d21d9f3617310c2631808277fd2c)  
+- [2020-08-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/d94f808d16bf7e012b97ab8014b73c19)  
 - [2020-08-22-花十分钟的时间武装你的代码库](https://www.ershicimi.com/p/47f3ee8adf292f99eb4171ed84b7f923)  
 - [2020-08-22-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/38ab4aa737bd8d1a242b6add11e6a2f7)  
 - [2020-08-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/de8879235b5c632566af37325a6e99c3)  
