@@ -12510,6 +12510,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 122 期）：谈谈互联网公司的高估值",
+        "link": "http://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html",
+        "date": "2020-08-28"
+      },
+      {
         "title": "rsync 用法教程",
         "link": "http://www.ruanyifeng.com/blog/2020/08/rsync.html",
         "date": "2020-08-26"
@@ -19095,6 +19100,21 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "为什么我不再用Vue，改用React？",
+        "link": "https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f",
+        "date": "2020-08-28"
+      },
+      {
+        "title": "CSS 8种让人眼前一亮的hover效果眼前一亮的HOVER效果",
+        "link": "https://www.ershicimi.com/p/fd765fbe942d3cae8b7315b7a2f1e843",
+        "date": "2020-08-27"
+      },
+      {
+        "title": "Vue 开发必须知道的 36 个技巧",
+        "link": "https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b",
+        "date": "2020-08-27"
+      },
       {
         "title": "哥们别闹，你离资深前端还远着呢",
         "link": "https://www.ershicimi.com/p/c137ee5ba9af6ee1df54d4ace219d1b7",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-27 22:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-28 12:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -223,6 +223,7 @@
 - [2020-08-17-耗时三年，向-React-迁移的利与弊](https://www.ershicimi.com/p/8016a5d1c48048ab12b2882bbed8a693) 
 - [2020-08-02-Vue、React-和-Angular：该选择哪个框架？](https://www.ershicimi.com/p/f73b77273510c91de5c16630096f92f9) 
 - [2020-02-03-英特尔放弃Nervana-AI芯片，全面支持Habana-Labs](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024026&idx=5&sn=1a2e7bba81082ec14170fb1f96f2c563&chksm=bdbe92c98ac91bdf05abd97786bbb3fbebb1bfe310a2b6d4483e33feb20485134d572ac99410&scene=27#wechat_redirect) 
+- [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) 
 - [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/ad88a966ef504d6a8551e30959e8f190) 
 - [2020-03-19-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/744a0d889bcad0a9fb985753beb58855) 
 - [2020-03-09-React，想说爱你，并不容易](https://www.ershicimi.com/p/42a9014ed93cd5d26dc34d2bbcd4328c) 

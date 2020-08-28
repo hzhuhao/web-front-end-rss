@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-27 22:00:17。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-28 12:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -210,6 +210,7 @@
 - [2020-07-31-云计算时代下，如何运用Serverless让业务逆袭？|-Q推荐](https://www.ershicimi.com/p/518a2bd0926db9a714d7eb220500e7aa) 
 - [2020-06-15-人力节省50%，研发效能提升40%，阿里Serverless架构落地实践](https://www.ershicimi.com/p/edf269b408f44fb1656511dc139d04e8) 
 - [2020-01-21-Serverless风起云涌：表面上是技术升级，背后其实是钱的事情](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=4&sn=5ef1936063fb74d0d5d33d1705063d70&chksm=bdbe91f68ac918e0f9e41cdad294074196472f432a2f016b62b53a258f6b4c7169ecd1ae4ca2&scene=27#wechat_redirect) 
+- [2020-08-27-CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/fd765fbe942d3cae8b7315b7a2f1e843) 
 - [2020-07-27-20个-CSS-快速提升技巧](https://www.ershicimi.com/p/02e36a0d0749c177b1fe11f86b5f5ea2) 
 - [2020-03-23-55个提高你CSS开发效率的必备片段](https://www.ershicimi.com/p/60587f9fd047b61327517cec0c2ea573) 
 - [2020-03-20-CSS---::​​-before-和-::-after](https://www.ershicimi.com/p/9a1f90f5a5f2150caacb5a84c0dd69ca) 
