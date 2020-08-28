@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-28 18:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-28 22:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -247,6 +247,7 @@
 - [【奇舞周刊】2020-08-11-Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/3730a93bc041ddb6d24663ae9640e4c0) 
 - [【奇舞周刊】2020-08-01-React-Hooks-原理与最佳实践](https://www.ershicimi.com/p/cb479045ae6e3d08befea8f4bdf86edb) 
 - [【奇舞周刊】2020-08-01-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/3dc5c55b95d8f7a182b7afdc189940b2) 
+- [【前端日刊】2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
 - [【前端日刊】2020-08-25-为什么阿里P6+前端这么值钱?](https://www.ershicimi.com/p/d511f2ae3591d2f8c141251a38ea29fd) 
 - [【前端日刊】2020-08-24-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/11844956143091a3f5f4e75b947343e6) 
 - [【前端日刊】2020-08-21-前端的核心竞争力在哪里？](https://www.ershicimi.com/p/e4649c2d813951cb3234f4dfa6d99e5a) 

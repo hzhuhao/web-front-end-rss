@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-28 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-28 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -148,6 +148,7 @@
 - [2019-01-27-那些巨头公司的前端面试都喜欢问些什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247490344&idx=1&sn=b18a91332b93c42cb638c6e3bcd1022e#wechat_redirect) 
 - [2018-11-25-这是今年前端最常见的面试题，你都会了吗？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247489963&idx=1&sn=354edd85a4403e2c61d355f380504f0e#wechat_redirect) 
 - [2018-08-15-面试感悟：当经历所有大厂的实习面试后](http://www.yyyweb.com/5136.html) 
+- [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) 
 - [2020-07-20-大厂面试官最爱追问的几道题，这回有答案了](https://www.ershicimi.com/p/cd1e266ac9256824058b2cb33a2001c3) 
 - [2020-01-20-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484401&idx=1&sn=700ebc0b555f8d9f11d82860952c2d0e&chksm=eb1cc61bdc6b4f0d03d2a624dc9ab9950ba404338f4b35463ca04f25e3d3e3f006904dd40c61&scene=27#wechat_redirect) 
 - [2019-12-09-2020年将至，大厂面试都喜欢考些什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484352&idx=1&sn=c780f09731fcc32823b287686562dcb4&chksm=eb1cc62adc6b4f3cc08902d4ee2e250dce5b5af06bed69de13c4ee9b4f38d841db376af74e51&scene=27#wechat_redirect) 

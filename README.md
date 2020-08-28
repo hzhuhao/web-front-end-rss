@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-08-28 18:00:09，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-08-28 22:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -25,7 +25,7 @@
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
@@ -70,10 +70,10 @@
 </summary>
 
 
-- [2020-08-28-9-月快来了，又是骑驴找马的日子](https://www.ershicimi.com/p/da35e3aacb3bfc9a54c0b93b57434bce) ![](assets/new.png)  
-- [2020-08-28-是谁动了我的-DOM？](https://www.ershicimi.com/p/876fdf28d2d3525c89d6ec8c706ee990) ![](assets/new.png)  
-- [2020-08-27-TypeScript-4.0-来了，有什么新的关注点？](https://www.ershicimi.com/p/f7eae2089b96a795d540ca01c6da9fe1) ![](assets/new.png)  
-- [2020-08-27-权限越大责任越大，你准备好升级了吗？](https://www.ershicimi.com/p/23910a8656dddd194c641b050f3349e9) ![](assets/new.png)  
+- [2020-08-28-9-月快来了，又是骑驴找马的日子](https://www.ershicimi.com/p/da35e3aacb3bfc9a54c0b93b57434bce)  
+- [2020-08-28-是谁动了我的-DOM？](https://www.ershicimi.com/p/876fdf28d2d3525c89d6ec8c706ee990)  
+- [2020-08-27-TypeScript-4.0-来了，有什么新的关注点？](https://www.ershicimi.com/p/f7eae2089b96a795d540ca01c6da9fe1)  
+- [2020-08-27-权限越大责任越大，你准备好升级了吗？](https://www.ershicimi.com/p/23910a8656dddd194c641b050f3349e9)  
 - [2020-08-26-面试字节-27K-岗，3-道题就被干掉](https://www.ershicimi.com/p/765ec59942a27238b9e800e6b95a0dee)  
 - [2020-08-26-强烈推介的几个微信小程序开发小技巧，简单又实用](https://www.ershicimi.com/p/d32dab3654e88770e432c010526e7e91)  
 - [2020-08-25-轻松理解-JS-中的面向对象，顺便搞懂-prototype-和-__proto__](https://www.ershicimi.com/p/c475787f0e0b777cf153d9bd72532b02)  
@@ -349,6 +349,7 @@
 </summary>
 
 
+- [2020-08-28-面试字节27K岗，3道题就被干掉](https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb) ![](assets/new.png)  
 - [2020-08-25-为什么阿里P6+前端这么值钱?](https://www.ershicimi.com/p/d511f2ae3591d2f8c141251a38ea29fd)  
 - [2020-08-24-程序员的崩溃，是从“你薪资比我高”开始的！](https://www.ershicimi.com/p/11844956143091a3f5f4e75b947343e6)  
 - [2020-08-21-前端的核心竞争力在哪里？](https://www.ershicimi.com/p/e4649c2d813951cb3234f4dfa6d99e5a)  
@@ -368,7 +369,6 @@
 - [2020-07-13-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/d4461ae1d17f7dc46e2028920b7b2b6f)  
 - [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c)  
 - [2020-07-07-【必看】58道Vue常见面试题集锦，涵盖入门到精通，自测-Vue-掌握程度](https://www.ershicimi.com/p/d65a388f1ee86e2e41227b42f85d95f6)  
-- [2020-07-06-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/bdcb031876cb4a1ccf3e34e88ceb7dec)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
