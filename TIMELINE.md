@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-28 22:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-08-29 12:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -259,6 +259,12 @@
 - [【前端日刊】2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
 - [【前端日刊】2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/67f13fb99fb127529c0b01659333e9e4) 
 - [【前端日刊】2020-08-03-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/8622926e340dfe4280f19700b1ee842d) 
+- [【互联网架构师】2020-08-29-fastjson的作者，在阿里内网挨骂了？！](https://www.ershicimi.com/p/c59bd6c77198c5afe06b0b3bc358124c) 
+- [【互联网架构师】2020-08-29-Docker-被禁？还有千千万万个-Docker-站起来！！](https://www.ershicimi.com/p/d5c91aa7e77aae71171736ae0ee14ac3) 
+- [【互联网架构师】2020-08-29-还在用Swagger（丝袜哥）管理接口文档？我推荐你试试它.....](https://www.ershicimi.com/p/ba99747b4ee788033660930cd13bed73) 
+- [【互联网架构师】2020-08-28-字节面试归来，四面竟然都考了算法！](https://www.ershicimi.com/p/93870384e86285174416f385a64c52af) 
+- [【互联网架构师】2020-08-28-重磅：IntelliJ-IDEA-2020.2-EAP-5-已发布，可完美支持Java-15](https://www.ershicimi.com/p/b97e8f75cef94cc3a5df3d0a1839ee7e) 
+- [【互联网架构师】2020-08-28-这款网络排查工具，堪称神器！](https://www.ershicimi.com/p/c6717bcd65bccaef1d794853157aaa44) 
 - [【互联网架构师】2020-08-27-那些还在外包公司干的程序员们，快醒醒吧！](https://www.ershicimi.com/p/a6263872c194c6c287d6e99d212573b3) 
 - [【互联网架构师】2020-08-27-这10个让你笑的合不拢嘴的GitHub项目，居然拿了7万星](https://www.ershicimi.com/p/616cf314d329a056fa79b55316b72f96) 
 - [【互联网架构师】2020-08-27-肝完这篇-TCP/IP-，我就面试去！](https://www.ershicimi.com/p/a194e1ce51cb55a03b99730e3d6c5e76) 

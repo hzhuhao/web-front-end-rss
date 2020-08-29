@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-28 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-08-29 12:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 前端进阶相关
 
@@ -77,6 +77,7 @@
 - [2020-03-06-Nginx配置Https零基础教程](https://www.ershicimi.com/p/67d98150d1bf04b83b80b0883ff37725) 
 - [2020-01-06-你连-HTTPS-原理都不懂，还讲“中间人攻击”？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484382&idx=1&sn=8e127b43152dfadc9ac0f81ffe9c4668&chksm=eb1cc634dc6b4f2221294c06a0648af9d6a0209f47ae3f4cf173b0cddbea9fc1c716a02f5c20&scene=27#wechat_redirect) 
 - [2019-12-24-W3C官网宣布：第4种Web语言来了：WebAssembly！](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484367&idx=1&sn=237bd02d8f85417b041b7fc26ca49f93&chksm=eb1cc625dc6b4f332b8a289b89dc0079339c1b263bedc45b69588deddca0d63f488fd8606a50&scene=27#wechat_redirect) 
+- [2020-08-28-字节面试归来，四面竟然都考了算法！](https://www.ershicimi.com/p/93870384e86285174416f385a64c52af) 
 - [2020-08-20-SpringBoot项目优雅的http客户端工具，太香了!](https://www.ershicimi.com/p/3e91084d0a76a64293335098989f21c4) 
 - [2020-01-21-HTTPS-的五大误区，千万别理解错了！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489685&idx=4&sn=b43546680f832595ddba9af85ecfee6d&chksm=ea5cd5f3dd2b5ce5bb197dbb8f5e77181f24cfcd9995a369cef52ae6c171848e66041c80c696&scene=27#wechat_redirect) 
 - [2020-08-25-WebAssembly-是-Deno-的好搭档](https://www.ershicimi.com/p/b2f131f110b2585231764c7f017fcf27) 
