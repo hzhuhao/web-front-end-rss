@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-08-31 22:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-01 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## CSS
 
@@ -205,6 +205,7 @@
 - [2020-03-14-【前端冷知识】动画：你知道的和你不知道的](https://www.ershicimi.com/p/4e7735aa77adea588ebff24507546bf0) 
 - [2020-03-04-《精通CSS》第5章-漂亮的盒子](https://www.ershicimi.com/p/1425a58958ece7634d456f6bb1f01e3f) 
 - [2020-01-09-面试官：你怎么优雅写-CSS？](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590930&idx=1&sn=80a47e9ebd8c86c7042ea12423490b15&chksm=8891def6bfe657e0f7caf333544c0a605dce07b766597d1512d0f584a5f07e2ede07afd8639b&scene=27#wechat_redirect) 
+- [2020-08-31-CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325) 
 - [2020-07-28-20个-CSS-快速提升技巧](https://www.ershicimi.com/p/e8e5a804eb3e23cdd6b164c00b42a79b) 
 - [2020-07-03-真的！！！两行css代码实现瀑布流，html,css最简单的瀑布流实现方式且没有缺点！](https://www.ershicimi.com/p/cd371b537f54318e95d7b5842c195697) 
 - [2020-08-28-Serverless的4种错误打开方式](https://www.ershicimi.com/p/c1e082c7a83899fedfd5fb735349cff5) 

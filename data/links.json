@@ -15865,6 +15865,11 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "CSS 8种让人眼前一亮的hover效果眼前一亮的HOVER效果",
+        "link": "https://www.ershicimi.com/p/73d4a4addf42673cc428a88e36645325",
+        "date": "2020-08-31"
+      },
+      {
         "title": "面试字节27K岗，3道题就被干掉",
         "link": "https://www.ershicimi.com/p/f2e4fcb8ba62f55da6fca23ad058e3cb",
         "date": "2020-08-28"
@@ -16221,6 +16226,21 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "SparkStreaming 是火还是坑？",
+        "link": "https://www.ershicimi.com/p/7b58402913eecc5af4f72b5252b78de1",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "认真看看， 以后写 SQL 就爽多了：MyBatis 动态 SQL",
+        "link": "https://www.ershicimi.com/p/e6d290566e0fb04eb3801bd227b482eb",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "为什么阿里规定需要在事务注解@Transactional中指定rollbackFor",
+        "link": "https://www.ershicimi.com/p/9e2ec473d8f75e278902c5190634cc13",
+        "date": "2020-09-01"
+      },
       {
         "title": "太疯狂了！刚刚，马斯克脑机接口试验成功！这次是活猪下次是人脑！",
         "link": "https://www.ershicimi.com/p/ef1b1eaab2fb800d65bf86fdf6fe314c",
@@ -19350,6 +19370,11 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "为什么大家都在吹捧Python，大厂高薪敲门砖了解一下",
+        "link": "https://www.ershicimi.com/p/25ecfff8e0bfd6d8520f074924adc40f",
+        "date": "2020-08-31"
+      },
       {
         "title": "为什么我不再用Vue，改用React？",
         "link": "https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f",
