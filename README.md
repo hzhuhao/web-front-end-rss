@@ -11,22 +11,22 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-04 12:00:08，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-04 18:00:09，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -101,6 +101,9 @@
 </summary>
 
 
+- [2020-09-04-Flutter-在阿里淘系的体系化建设和业务实践](https://www.ershicimi.com/p/df277c7c2479b10b89231f01e349caf2) ![](assets/new.png)  
+- [2020-09-04-滴滴出行小程序多语言-I18n-实践](https://www.ershicimi.com/p/b7e7335bdc2e3e334766965eca9626ba) ![](assets/new.png)  
+- [2020-09-04-来呀，一起造一个简易React！-|-极客大学](https://www.ershicimi.com/p/b35f182ae37593e5cd3c3c5b9d1983fd) ![](assets/new.png)  
 - [2020-09-03-顶级React组件库推荐](https://www.ershicimi.com/p/75ec9a701793f8f8caf737b04c68c802)  
 - [2020-09-03-前端智能化实践：从图片识别UI样式](https://www.ershicimi.com/p/b2888b1a9a3bdb371ab8ea370ac4dedd)  
 - [2020-09-02-十年后将要消失的五种编程语言](https://www.ershicimi.com/p/aaf27e6bdc3307989e05fb597131f0f1)  
@@ -118,9 +121,6 @@
 - [2020-08-27-抛弃x86的苹果，意味着什么？](https://www.ershicimi.com/p/bbf488cc0dfbcc4f1b319f1ae1407de5)  
 - [2020-08-27-成为优秀程序员需要具备的6个特质](https://www.ershicimi.com/p/5bfb1a22a69998e669ee6a2b6da068fc)  
 - [2020-08-26-Scott：总结-10-年前端经验，谈谈前端人如何更快地成长](https://www.ershicimi.com/p/f4c8ccbc4d1b5acbef12b6688af1bd53)  
-- [2020-08-26-Electron-安装过程深入解析-|-留言送书](https://www.ershicimi.com/p/9d7a7d31db73d2460bba0c5463b2b204)  
-- [2020-08-25-Vue.js教程：构建一个特斯拉汽车余电计算器](https://www.ershicimi.com/p/32916f70a49cb13f7ae9baaf17258e31)  
-- [2020-08-25-写Java代码时会踩哪些坑？2.2-万字干货总结](https://www.ershicimi.com/p/31c53e817f24564ab4b6a96b8be7b9c6)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2020-09-04-科技爱好者周刊（第-123-期）：互联网公司与湘军的军制](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html) ![](assets/new.png)  
+- [2020-09-04-科技爱好者周刊（第-123-期）：互联网公司与湘军的军制](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html)  
 - [2020-08-28-科技爱好者周刊（第-122-期）：谈谈互联网公司的高估值](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html)  
 - [2020-08-26-rsync-用法教程](http://www.ruanyifeng.com/blog/2020/08/rsync.html)  
 - [2020-08-21-科技爱好者周刊（第-121-期）：为什么人类没有越来越闲？](http://www.ruanyifeng.com/blog/2020/08/weekly-issue-121.html)  
@@ -380,12 +380,12 @@
 </summary>
 
 
-- [2020-09-04-因Redis分布式锁造成的P0级重大事故，整个项目组被扣了绩效......，请慎用](https://www.ershicimi.com/p/6be5f5364b5573198a0cf140025d990d) ![](assets/new.png)  
-- [2020-09-04-SpringBoot-@Value-读取配置，太强大了！](https://www.ershicimi.com/p/b80b39a63bf5751b812078c4d97d7228) ![](assets/new.png)  
-- [2020-09-04-这么写参数校验Validator就不会被劝退了~](https://www.ershicimi.com/p/01747704cd6f10b0b999fd194736e801) ![](assets/new.png)  
-- [2020-09-03-最新消息，网易公司内部开始使用昵称!学阿里？](https://www.ershicimi.com/p/a614550a4dca1d3a9fb0d08660556dc1) ![](assets/new.png)  
-- [2020-09-03-20个使用-Java-CompletableFuture的示例，不服不行](https://www.ershicimi.com/p/12e92ee8cc71e7a2462a7c6699ba4fd7) ![](assets/new.png)  
-- [2020-09-03-好评度很高的通用基础库，代码写的不错！](https://www.ershicimi.com/p/aefe0def7c8714ef2cd39c3c02248e6f) ![](assets/new.png)  
+- [2020-09-04-因Redis分布式锁造成的P0级重大事故，整个项目组被扣了绩效......，请慎用](https://www.ershicimi.com/p/6be5f5364b5573198a0cf140025d990d)  
+- [2020-09-04-SpringBoot-@Value-读取配置，太强大了！](https://www.ershicimi.com/p/b80b39a63bf5751b812078c4d97d7228)  
+- [2020-09-04-这么写参数校验Validator就不会被劝退了~](https://www.ershicimi.com/p/01747704cd6f10b0b999fd194736e801)  
+- [2020-09-03-最新消息，网易公司内部开始使用昵称!学阿里？](https://www.ershicimi.com/p/a614550a4dca1d3a9fb0d08660556dc1)  
+- [2020-09-03-20个使用-Java-CompletableFuture的示例，不服不行](https://www.ershicimi.com/p/12e92ee8cc71e7a2462a7c6699ba4fd7)  
+- [2020-09-03-好评度很高的通用基础库，代码写的不错！](https://www.ershicimi.com/p/aefe0def7c8714ef2cd39c3c02248e6f)  
 - [2020-09-02-面试被问到“零拷贝”？我一脸懵逼！](https://www.ershicimi.com/p/41c96727172d753b3d0836e9879b4895)  
 - [2020-09-02-我和面试官的博弈：Redis-篇](https://www.ershicimi.com/p/b1a9a83e702747b1d3f80f29311f1cf4)  
 - [2020-09-02-重磅！！Gradle-6.6-发布，大幅提升性能！](https://www.ershicimi.com/p/5bae6c72a775ac5d441656380ded66ae)  
