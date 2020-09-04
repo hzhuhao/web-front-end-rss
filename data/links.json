@@ -12620,6 +12620,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 123 期）：互联网公司与湘军的军制",
+        "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html",
+        "date": "2020-09-04"
+      },
+      {
         "title": "科技爱好者周刊（第 122 期）：谈谈互联网公司的高估值",
         "link": "http://www.ruanyifeng.com/blog/2020/08/weekly-issue-122.html",
         "date": "2020-08-28"
@@ -16321,6 +16326,36 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "因Redis分布式锁造成的P0级重大事故，整个项目组被扣了绩效......，请慎用",
+        "link": "https://www.ershicimi.com/p/6be5f5364b5573198a0cf140025d990d",
+        "date": "2020-09-04"
+      },
+      {
+        "title": "SpringBoot @Value 读取配置，太强大了！",
+        "link": "https://www.ershicimi.com/p/b80b39a63bf5751b812078c4d97d7228",
+        "date": "2020-09-04"
+      },
+      {
+        "title": "这么写参数校验(Validator)就不会被劝退了~",
+        "link": "https://www.ershicimi.com/p/01747704cd6f10b0b999fd194736e801",
+        "date": "2020-09-04"
+      },
+      {
+        "title": "最新消息，网易公司内部开始使用昵称!学阿里？",
+        "link": "https://www.ershicimi.com/p/a614550a4dca1d3a9fb0d08660556dc1",
+        "date": "2020-09-03"
+      },
+      {
+        "title": "20个使用 Java CompletableFuture的示例，不服不行",
+        "link": "https://www.ershicimi.com/p/12e92ee8cc71e7a2462a7c6699ba4fd7",
+        "date": "2020-09-03"
+      },
+      {
+        "title": "好评度很高的通用基础库，代码写的不错！",
+        "link": "https://www.ershicimi.com/p/aefe0def7c8714ef2cd39c3c02248e6f",
+        "date": "2020-09-03"
+      },
       {
         "title": "面试被问到“零拷贝”？我一脸懵逼！",
         "link": "https://www.ershicimi.com/p/41c96727172d753b3d0836e9879b4895",
