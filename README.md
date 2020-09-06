@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-06 22:00:10，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-07 06:00:07，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,12 +19,12 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -163,6 +163,7 @@
 </summary>
 
 
+- [2020-09-06-文字沿着不规则路径排版布局的实现](https://www.zhangxinxu.com/wordpress/2020/09/svg-text-around-path/) ![](assets/new.png)  
 - [2020-08-20-JS-CustomEvent自定义事件传参小技巧](https://www.zhangxinxu.com/wordpress/2020/08/js-customevent-pass-param/)  
 - [2020-08-12-CSS-overflow-anchor属性与滚动锚定](https://www.zhangxinxu.com/wordpress/2020/08/css-overflow-anchor/)  
 - [2020-08-06-颠覆，原来background-image也是支持CSS动画的](https://www.zhangxinxu.com/wordpress/2020/08/background-image-animation/)  
@@ -182,7 +183,6 @@
 - [2020-04-12-了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/)  
 - [2020-04-09-CSS技术分享:-文字在圆形内沿着弧线边界排版](https://www.zhangxinxu.com/wordpress/2020/04/css-text-layout-circle/)  
 - [2020-04-08-AVIF图片格式简介](https://www.zhangxinxu.com/wordpress/2020/04/avif-image-format/)  
-- [2020-03-21-CSS-text-decoration实现宽度100%波浪线效果](https://www.zhangxinxu.com/wordpress/2020/03/css-%e6%b3%a2%e6%b5%aa%e7%ba%bf-wavy-wave/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -318,10 +318,10 @@
 </summary>
 
 
-- [2020-09-05-TypeScript-4.1-新特性：字符串模板类型，Vuex-终于有救了？](https://www.ershicimi.com/p/9d357a42e2be3541124163b68520ec80) ![](assets/new.png)  
-- [2020-09-05-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/8cd5e6453faec928130dc88f18779d56) ![](assets/new.png)  
-- [2020-09-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/240512a48a84d034c760e135be50380d) ![](assets/new.png)  
-- [2020-09-04-奇舞周刊第-362-期:-细说-SOLID-原则](https://www.ershicimi.com/p/f99bac47ded23aca5812579168de9c7e) ![](assets/new.png)  
+- [2020-09-05-TypeScript-4.1-新特性：字符串模板类型，Vuex-终于有救了？](https://www.ershicimi.com/p/9d357a42e2be3541124163b68520ec80)  
+- [2020-09-05-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/8cd5e6453faec928130dc88f18779d56)  
+- [2020-09-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/240512a48a84d034c760e135be50380d)  
+- [2020-09-04-奇舞周刊第-362-期:-细说-SOLID-原则](https://www.ershicimi.com/p/f99bac47ded23aca5812579168de9c7e)  
 - [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96)  
 - [2020-09-02-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/ec3b126ee2719fe4fef1a01d3f840b35)  
 - [2020-09-02-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/05f673bfc6c5fc81d028bc547a988853)  
