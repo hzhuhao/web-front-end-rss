@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-06 18:00:11。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-06 22:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -913,6 +913,9 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-09-05-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/8cd5e6453faec928130dc88f18779d56) 
+- [2020-09-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/240512a48a84d034c760e135be50380d) 
+- [2020-09-04-奇舞周刊第-362-期:-细说-SOLID-原则](https://www.ershicimi.com/p/f99bac47ded23aca5812579168de9c7e) 
 - [2020-09-02-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/ec3b126ee2719fe4fef1a01d3f840b35) 
 - [2020-09-02-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/05f673bfc6c5fc81d028bc547a988853) 
 - [2020-09-01-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/f6a9bf8144331b524cd463dc22ef7dde) 

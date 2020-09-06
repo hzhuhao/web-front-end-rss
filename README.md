@@ -11,20 +11,20 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-06 18:00:11，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-06 22:00:10，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -101,7 +101,7 @@
 </summary>
 
 
-- [2020-09-06-前端周报：收入最高的-15-种编程语言榜单出炉；微软宣布关闭-VS-Codespaces；KMM-进](https://www.ershicimi.com/p/82a454d2e35f8f10f209322e2e5b3b9a) ![](assets/new.png)  
+- [2020-09-06-前端周报：收入最高的-15-种编程语言榜单出炉；微软宣布关闭-VS-Codespaces；KMM-进](https://www.ershicimi.com/p/82a454d2e35f8f10f209322e2e5b3b9a)  
 - [2020-09-04-Flutter-在阿里淘系的体系化建设和业务实践](https://www.ershicimi.com/p/df277c7c2479b10b89231f01e349caf2)  
 - [2020-09-04-滴滴出行小程序多语言-I18n-实践](https://www.ershicimi.com/p/b7e7335bdc2e3e334766965eca9626ba)  
 - [2020-09-04-来呀，一起造一个简易React！-|-极客大学](https://www.ershicimi.com/p/b35f182ae37593e5cd3c3c5b9d1983fd)  
@@ -318,6 +318,10 @@
 </summary>
 
 
+- [2020-09-05-TypeScript-4.1-新特性：字符串模板类型，Vuex-终于有救了？](https://www.ershicimi.com/p/9d357a42e2be3541124163b68520ec80) ![](assets/new.png)  
+- [2020-09-05-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/8cd5e6453faec928130dc88f18779d56) ![](assets/new.png)  
+- [2020-09-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/240512a48a84d034c760e135be50380d) ![](assets/new.png)  
+- [2020-09-04-奇舞周刊第-362-期:-细说-SOLID-原则](https://www.ershicimi.com/p/f99bac47ded23aca5812579168de9c7e) ![](assets/new.png)  
 - [2020-09-02-新的跨域策略：COOP、COEP](https://www.ershicimi.com/p/9ccaa35d9e11a2c4d75fb67bce9bfa96)  
 - [2020-09-02-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/ec3b126ee2719fe4fef1a01d3f840b35)  
 - [2020-09-02-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/05f673bfc6c5fc81d028bc547a988853)  
@@ -334,10 +338,6 @@
 - [2020-08-27-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/6ccb8052ada1284908ca8c1862eb67ec)  
 - [2020-08-27-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/cd6588f83c9a9e53cffe5f959f4b7bb0)  
 - [2020-08-26-如何优雅的实现消息通信？](https://www.ershicimi.com/p/18a7a82d211c2de47075d25e9607637e)  
-- [2020-08-26-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/7a6613afbd3c2b7a6ee9a0ed175a7fd0)  
-- [2020-08-26-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/5d47312bf71c509e7240751903b72779)  
-- [2020-08-25-浏览器之导航这件小事](https://www.ershicimi.com/p/402b9364291fd1fd52eb17306f35debc)  
-- [2020-08-25-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/0e76675b07fc19319e467add150d7e3c)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
