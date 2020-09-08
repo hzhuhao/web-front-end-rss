@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-07 18:00:09。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-08 12:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -159,6 +159,9 @@
 - [【奇舞周刊】2020-09-01-Vue-Composition-API-陷阱](https://www.ershicimi.com/p/2803a18549e9516648ab6f334a327b39) 
 - [【奇舞周刊】2020-09-01-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/f6a9bf8144331b524cd463dc22ef7dde) 
 - [【奇舞周刊】2020-09-01-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/731d83b67f979b223714076f1e50fe08) 
+- [【互联网架构师】2020-09-08-异地多活，企业上云的必然趋势！](https://www.ershicimi.com/p/7bed8d4aa9d75730c23523fe70ee400f) 
+- [【互联网架构师】2020-09-08-为啥不能用uuid做MySQL的主键！？](https://www.ershicimi.com/p/a231e6d67d49e1cc13fccfd8e9ce5a9c) 
+- [【互联网架构师】2020-09-08-Redis-开发陷阱及避坑指南！](https://www.ershicimi.com/p/2c0744b80cef7ee9a155eab097c9b53f) 
 - [【互联网架构师】2020-09-07-为什么-Java-中“1000==1000”为false，而”100==100“为true？](https://www.ershicimi.com/p/3e55ad85e18e6fdf5349397ac6f03d90) 
 - [【互联网架构师】2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110) 
 - [【互联网架构师】2020-09-07-Spring-Boot-+-Redis解决商品秒杀库存超卖，看这篇文章就够了](https://www.ershicimi.com/p/8df72d817dfb02c53b59ac2ffb8ee322) 

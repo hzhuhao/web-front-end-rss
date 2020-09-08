@@ -16442,6 +16442,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "异地多活，企业上云的必然趋势！",
+        "link": "https://www.ershicimi.com/p/7bed8d4aa9d75730c23523fe70ee400f",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "为啥不能用uuid做MySQL的主键！？",
+        "link": "https://www.ershicimi.com/p/a231e6d67d49e1cc13fccfd8e9ce5a9c",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "Redis 开发陷阱及避坑指南！",
+        "link": "https://www.ershicimi.com/p/2c0744b80cef7ee9a155eab097c9b53f",
+        "date": "2020-09-08"
+      },
+      {
         "title": "为什么 Java 中“1000==1000”为false，而”100==100“为true？",
         "link": "https://www.ershicimi.com/p/3e55ad85e18e6fdf5349397ac6f03d90",
         "date": "2020-09-07"

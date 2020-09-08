@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-07 18:00:09，:rocket: 更新条数: +18， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-08 12:00:08，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,8 +26,8 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -70,17 +70,17 @@
 </summary>
 
 
-- [2020-09-07-原来-React-是为这些人量身定制](https://www.ershicimi.com/p/8185ce0198ae71897b1d9c435d4f5258) ![](assets/new.png)  
-- [2020-09-07-关于-ref-的一切](https://www.ershicimi.com/p/c2c22ae06a423a86bede40a9d24c1482) ![](assets/new.png)  
-- [2020-09-06-SourceMap知多少：介绍与实践](https://www.ershicimi.com/p/5fa24b0cad0d3b029d2e9e489558557c) ![](assets/new.png)  
-- [2020-09-05-4W字从0到部署上线，用-TS-带你彻底掌握前端工程化](https://www.ershicimi.com/p/8bf27f2401a8fb1097c93d21d9d24bd4) ![](assets/new.png)  
-- [2020-09-04-工作年限-=-能力？会框架/工具的越多-=-薪资越高？](https://www.ershicimi.com/p/caaaa4157be43bfe8f4aaaffb1cbfebb) ![](assets/new.png)  
-- [2020-09-04-React-Hooks-设计思想](https://www.ershicimi.com/p/6a8cc0a216dfb372fc6a8e79b545538f) ![](assets/new.png)  
-- [2020-09-03-完善的前端异常监控解决方案](https://www.ershicimi.com/p/16e938f535ad6b7ae0df431d6c886fb8) ![](assets/new.png)  
-- [2020-09-03-面向对象：平平淡淡，简简单单的南方妹子](https://www.ershicimi.com/p/8098c6ac8a225aed1a85ee59451d9fd5) ![](assets/new.png)  
-- [2020-09-02-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/39ae9642876c473b1a50636386fe9663) ![](assets/new.png)  
-- [2020-09-02-浏览器中的跨域问题与-CORS](https://www.ershicimi.com/p/a482ed736bf2f7834bbbab4735420960) ![](assets/new.png)  
-- [2020-09-01-组件库主题设计方案](https://www.ershicimi.com/p/fc0000487bd88250eda0ec26b8190db1) ![](assets/new.png)  
+- [2020-09-07-原来-React-是为这些人量身定制](https://www.ershicimi.com/p/8185ce0198ae71897b1d9c435d4f5258)  
+- [2020-09-07-关于-ref-的一切](https://www.ershicimi.com/p/c2c22ae06a423a86bede40a9d24c1482)  
+- [2020-09-06-SourceMap知多少：介绍与实践](https://www.ershicimi.com/p/5fa24b0cad0d3b029d2e9e489558557c)  
+- [2020-09-05-4W字从0到部署上线，用-TS-带你彻底掌握前端工程化](https://www.ershicimi.com/p/8bf27f2401a8fb1097c93d21d9d24bd4)  
+- [2020-09-04-工作年限-=-能力？会框架/工具的越多-=-薪资越高？](https://www.ershicimi.com/p/caaaa4157be43bfe8f4aaaffb1cbfebb)  
+- [2020-09-04-React-Hooks-设计思想](https://www.ershicimi.com/p/6a8cc0a216dfb372fc6a8e79b545538f)  
+- [2020-09-03-完善的前端异常监控解决方案](https://www.ershicimi.com/p/16e938f535ad6b7ae0df431d6c886fb8)  
+- [2020-09-03-面向对象：平平淡淡，简简单单的南方妹子](https://www.ershicimi.com/p/8098c6ac8a225aed1a85ee59451d9fd5)  
+- [2020-09-02-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/39ae9642876c473b1a50636386fe9663)  
+- [2020-09-02-浏览器中的跨域问题与-CORS](https://www.ershicimi.com/p/a482ed736bf2f7834bbbab4735420960)  
+- [2020-09-01-组件库主题设计方案](https://www.ershicimi.com/p/fc0000487bd88250eda0ec26b8190db1)  
 - [2020-08-31-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/d25343cb02f59de31614fb9974517bab)  
 - [2020-08-31-这些手写代码会了吗？少年](https://www.ershicimi.com/p/d1e7ea51424bd52ecf6f1e97ee7dc25e)  
 - [2020-08-30-谷歌发布-Chrome-85-稳定版，引入-PGO，页面加载速度提升-10%](https://www.ershicimi.com/p/b6ecdac0e9f67afe4f5b260a6b06ed42)  
@@ -101,9 +101,9 @@
 </summary>
 
 
-- [2020-09-07-我在近期求职中遇到的前端面试问题及其解法](https://www.ershicimi.com/p/101cfd8ee46ea065ea458331d4ee3033) ![](assets/new.png)  
-- [2020-09-07-五分钟了解-Node.js-Shebang](https://www.ershicimi.com/p/55ff6d0a01c1f059f114915151b165ce) ![](assets/new.png)  
-- [2020-09-07-数字时代，闻“讯”而来](https://www.ershicimi.com/p/12440a2197a4d985d2eb3b2a0ca245af) ![](assets/new.png)  
+- [2020-09-07-我在近期求职中遇到的前端面试问题及其解法](https://www.ershicimi.com/p/101cfd8ee46ea065ea458331d4ee3033)  
+- [2020-09-07-五分钟了解-Node.js-Shebang](https://www.ershicimi.com/p/55ff6d0a01c1f059f114915151b165ce)  
+- [2020-09-07-数字时代，闻“讯”而来](https://www.ershicimi.com/p/12440a2197a4d985d2eb3b2a0ca245af)  
 - [2020-09-06-前端周报：收入最高的-15-种编程语言榜单出炉；微软宣布关闭-VS-Codespaces；KMM-进](https://www.ershicimi.com/p/82a454d2e35f8f10f209322e2e5b3b9a)  
 - [2020-09-04-Flutter-在阿里淘系的体系化建设和业务实践](https://www.ershicimi.com/p/df277c7c2479b10b89231f01e349caf2)  
 - [2020-09-04-滴滴出行小程序多语言-I18n-实践](https://www.ershicimi.com/p/b7e7335bdc2e3e334766965eca9626ba)  
@@ -380,6 +380,9 @@
 </summary>
 
 
+- [2020-09-08-异地多活，企业上云的必然趋势！](https://www.ershicimi.com/p/7bed8d4aa9d75730c23523fe70ee400f) ![](assets/new.png)  
+- [2020-09-08-为啥不能用uuid做MySQL的主键！？](https://www.ershicimi.com/p/a231e6d67d49e1cc13fccfd8e9ce5a9c) ![](assets/new.png)  
+- [2020-09-08-Redis-开发陷阱及避坑指南！](https://www.ershicimi.com/p/2c0744b80cef7ee9a155eab097c9b53f) ![](assets/new.png)  
 - [2020-09-07-为什么-Java-中“1000==1000”为false，而”100==100“为true？](https://www.ershicimi.com/p/3e55ad85e18e6fdf5349397ac6f03d90)  
 - [2020-09-07-面试：如何从-100-亿-URL-中找出相同的-URL？](https://www.ershicimi.com/p/10e391c9b506963d1627ac696bed2110)  
 - [2020-09-07-Spring-Boot-+-Redis解决商品秒杀库存超卖，看这篇文章就够了](https://www.ershicimi.com/p/8df72d817dfb02c53b59ac2ffb8ee322)  
@@ -397,9 +400,6 @@
 - [2020-09-02-面试被问到“零拷贝”？我一脸懵逼！](https://www.ershicimi.com/p/41c96727172d753b3d0836e9879b4895)  
 - [2020-09-02-我和面试官的博弈：Redis-篇](https://www.ershicimi.com/p/b1a9a83e702747b1d3f80f29311f1cf4)  
 - [2020-09-02-重磅！！Gradle-6.6-发布，大幅提升性能！](https://www.ershicimi.com/p/5bae6c72a775ac5d441656380ded66ae)  
-- [2020-09-01-SparkStreaming-是火还是坑？](https://www.ershicimi.com/p/7b58402913eecc5af4f72b5252b78de1)  
-- [2020-09-01-认真看看，-以后写-SQL-就爽多了：MyBatis-动态-SQL](https://www.ershicimi.com/p/e6d290566e0fb04eb3801bd227b482eb)  
-- [2020-09-01-为什么阿里规定需要在事务注解@Transactional中指定rollbackFor](https://www.ershicimi.com/p/9e2ec473d8f75e278902c5190634cc13)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,10 +411,10 @@
 </summary>
 
 
-- [2020-09-07-开源有国界？我提交了PR，但维护者因国家法律拒绝合并代码](https://www.ershicimi.com/p/2881797e8f9d11d139cd9d5695b9782d) ![](assets/new.png)  
-- [2020-09-07-就算有“中台”模式，企业也应该重视“大部头”架构设计](https://www.ershicimi.com/p/a0a2981ad564503d95f2932133184ed3) ![](assets/new.png)  
-- [2020-09-07-免费开放10门云原生系列课，研发团队人人可学-｜-极客时间企业版](https://www.ershicimi.com/p/09845db8abeeb2fb0182b3c107fcdd44) ![](assets/new.png)  
-- [2020-09-07-如何提高智能决策？在线抄送“武林秘诀”-｜-Q推荐](https://www.ershicimi.com/p/69f0b1824b9a895eaad2474a02dc05b9) ![](assets/new.png)  
+- [2020-09-07-开源有国界？我提交了PR，但维护者因国家法律拒绝合并代码](https://www.ershicimi.com/p/2881797e8f9d11d139cd9d5695b9782d)  
+- [2020-09-07-就算有“中台”模式，企业也应该重视“大部头”架构设计](https://www.ershicimi.com/p/a0a2981ad564503d95f2932133184ed3)  
+- [2020-09-07-免费开放10门云原生系列课，研发团队人人可学-｜-极客时间企业版](https://www.ershicimi.com/p/09845db8abeeb2fb0182b3c107fcdd44)  
+- [2020-09-07-如何提高智能决策？在线抄送“武林秘诀”-｜-Q推荐](https://www.ershicimi.com/p/69f0b1824b9a895eaad2474a02dc05b9)  
 - [2020-09-02-放弃Windows，用国产开源替换政府办公系统！这个国家做到了](https://www.ershicimi.com/p/73a66d80e4dcea3c07e0964f9a836519)  
 - [2020-09-02-百度集团副总裁吴甜：用系统思维看AI，新基建带来AI生产平台机会](https://www.ershicimi.com/p/b1a82ca40228847691eea290f9791895)  
 - [2020-09-02-大厂专家们眼里的QCon+案例研习社什么样子？｜-极客时间](https://www.ershicimi.com/p/258fdc922ca8f57732ea4f96ae55761c)  

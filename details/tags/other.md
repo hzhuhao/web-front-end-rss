@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-07 18:00:09。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-08 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1061,6 +1061,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-09-08-异地多活，企业上云的必然趋势！](https://www.ershicimi.com/p/7bed8d4aa9d75730c23523fe70ee400f) 
+- [2020-09-08-为啥不能用uuid做MySQL的主键！？](https://www.ershicimi.com/p/a231e6d67d49e1cc13fccfd8e9ce5a9c) 
+- [2020-09-08-Redis-开发陷阱及避坑指南！](https://www.ershicimi.com/p/2c0744b80cef7ee9a155eab097c9b53f) 
 - [2020-09-07-为什么-Java-中“1000==1000”为false，而”100==100“为true？](https://www.ershicimi.com/p/3e55ad85e18e6fdf5349397ac6f03d90) 
 - [2020-09-07-Spring-Boot-+-Redis解决商品秒杀库存超卖，看这篇文章就够了](https://www.ershicimi.com/p/8df72d817dfb02c53b59ac2ffb8ee322) 
 - [2020-09-06-Lambda-表达式入门，这篇够了！](https://www.ershicimi.com/p/645438d78655b545bd9965860425f519) 
