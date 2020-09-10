@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-10 06:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-10 18:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -150,6 +150,14 @@
 - [【前端之巅】2020-09-01-让项目5分钟上线成为可能！美团金服前端工程化实践丨直播预告](https://www.ershicimi.com/p/964dca365b1767ce60493bcd25447ba9) 
 - [【张鑫旭-鑫空间-鑫生活】2020-09-06-文字沿着不规则路径排版布局的实现](https://www.zhangxinxu.com/wordpress/2020/09/svg-text-around-path/) 
 - [【阮一峰的网络日志】2020-09-04-科技爱好者周刊（第-123-期）：互联网公司与湘军的军制](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html) 
+- [【奇舞周刊】2020-09-10-『极限版』不掺水，用纯-CSS-来实现超飒的表单验证功能](https://www.ershicimi.com/p/b1db44ad9abcc9adfd41248d850bfeab) 
+- [【奇舞周刊】2020-09-10-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/06388e002c5994ed0bbb81a2b331f15f) 
+- [【奇舞周刊】2020-09-10-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/469138dd0c9eda97fea49af99b2963ee) 
+- [【奇舞周刊】2020-09-09-关于ref的一切](https://www.ershicimi.com/p/4b3333ce70b41bd7c23d9629fcccc039) 
+- [【奇舞周刊】2020-09-09-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/dbc437e0d03b75fe2f4725e6f7cca96e) 
+- [【奇舞周刊】2020-09-09-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1032c8bf0060f4ebc29f82195c98bdf6) 
+- [【奇舞周刊】2020-09-08-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/62a4cdbef7fd9dfddaabaf02ea4a0aac) 
+- [【奇舞周刊】2020-09-08-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6687b9b7b05a486dbcc532302ca328f4) 
 - [【奇舞周刊】2020-09-07-是谁动了我的-DOM？](https://www.ershicimi.com/p/919bd1ae01862df1ac098dd627d16e0c) 
 - [【奇舞周刊】2020-09-07-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/2269c870d3af5610827f53d27408970b) 
 - [【奇舞周刊】2020-09-07-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/7b3df6f71aeaa732b990f2fd912e0e5a) 
