@@ -12720,6 +12720,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 124 期）：华为如何考核员工",
+        "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-124.html",
+        "date": "2020-09-11"
+      },
+      {
         "title": "科技爱好者周刊（第 123 期）：互联网公司与湘军的军制",
         "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html",
         "date": "2020-09-04"
@@ -16501,6 +16506,36 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "牛逼！IDEA不愧为神器，结合Groovy脚本，简直天下无敌！",
+        "link": "https://www.ershicimi.com/p/6e662cf05c1e9c7b3d74fa40cdbe4e95",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "为什么 Redis 要比 Memcached 更火？",
+        "link": "https://www.ershicimi.com/p/86f6bf89758f8ce02795855682497ad6",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "点赞模块设计：Redis缓存 + 定时写入数据库实现高性能点赞功能",
+        "link": "https://www.ershicimi.com/p/73bee25d4b3e89208446f004a775c88c",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "分享400多道算法题，来挑战吧",
+        "link": "https://www.ershicimi.com/p/4e88bfd1eb96ea5426860ad1aa28700b",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "写这么骚的代码，真不怕被同事揍么？",
+        "link": "https://www.ershicimi.com/p/4bcaaa6722516d9bd6e47236490031d2",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "你的登录接口真的安全吗？",
+        "link": "https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5",
+        "date": "2020-09-10"
+      },
       {
         "title": "支付宝二面：Mybatis接口Mapper内的方法为啥不能重载吗？我直接懵逼了...",
         "link": "https://www.ershicimi.com/p/99f6a7a94269be4d747af02899618524",

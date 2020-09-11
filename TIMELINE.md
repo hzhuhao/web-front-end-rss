@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-11 06:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-11 12:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -149,6 +149,7 @@
 - [【前端之巅】2020-09-01-我用React和Vue构建了同款应用，来看看哪里不一样（2020版）](https://www.ershicimi.com/p/0cc0282c4670ccc96d6386c3e3dc4c2e) 
 - [【前端之巅】2020-09-01-让项目5分钟上线成为可能！美团金服前端工程化实践丨直播预告](https://www.ershicimi.com/p/964dca365b1767ce60493bcd25447ba9) 
 - [【张鑫旭-鑫空间-鑫生活】2020-09-06-文字沿着不规则路径排版布局的实现](https://www.zhangxinxu.com/wordpress/2020/09/svg-text-around-path/) 
+- [【阮一峰的网络日志】2020-09-11-科技爱好者周刊（第-124-期）：华为如何考核员工](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-124.html) 
 - [【阮一峰的网络日志】2020-09-04-科技爱好者周刊（第-123-期）：互联网公司与湘军的军制](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html) 
 - [【奇舞周刊】2020-09-10-『极限版』不掺水，用纯-CSS-来实现超飒的表单验证功能](https://www.ershicimi.com/p/b1db44ad9abcc9adfd41248d850bfeab) 
 - [【奇舞周刊】2020-09-10-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/06388e002c5994ed0bbb81a2b331f15f) 
@@ -171,6 +172,12 @@
 - [【奇舞周刊】2020-09-01-Vue-Composition-API-陷阱](https://www.ershicimi.com/p/2803a18549e9516648ab6f334a327b39) 
 - [【奇舞周刊】2020-09-01-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/f6a9bf8144331b524cd463dc22ef7dde) 
 - [【奇舞周刊】2020-09-01-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/731d83b67f979b223714076f1e50fe08) 
+- [【互联网架构师】2020-09-11-牛逼！IDEA不愧为神器，结合Groovy脚本，简直天下无敌！](https://www.ershicimi.com/p/6e662cf05c1e9c7b3d74fa40cdbe4e95) 
+- [【互联网架构师】2020-09-11-为什么-Redis-要比-Memcached-更火？](https://www.ershicimi.com/p/86f6bf89758f8ce02795855682497ad6) 
+- [【互联网架构师】2020-09-11-点赞模块设计：Redis缓存-+-定时写入数据库实现高性能点赞功能](https://www.ershicimi.com/p/73bee25d4b3e89208446f004a775c88c) 
+- [【互联网架构师】2020-09-10-分享400多道算法题，来挑战吧](https://www.ershicimi.com/p/4e88bfd1eb96ea5426860ad1aa28700b) 
+- [【互联网架构师】2020-09-10-写这么骚的代码，真不怕被同事揍么？](https://www.ershicimi.com/p/4bcaaa6722516d9bd6e47236490031d2) 
+- [【互联网架构师】2020-09-10-你的登录接口真的安全吗？](https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5) 
 - [【互联网架构师】2020-09-09-支付宝二面：Mybatis接口Mapper内的方法为啥不能重载吗？我直接懵逼了...](https://www.ershicimi.com/p/99f6a7a94269be4d747af02899618524) 
 - [【互联网架构师】2020-09-09-为什么程序员都不喜欢使用-switch-，而是大量的-if……else-if-？](https://www.ershicimi.com/p/88eb308e4bf0cff894702cd7cb62615c) 
 - [【互联网架构师】2020-09-09-天啊，为什么我的-Redis-变慢了。。](https://www.ershicimi.com/p/205a766e32b93e5da04bc5266003b271) 
