@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-12 08:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-12 12:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -175,6 +175,9 @@
 - [【奇舞周刊】2020-09-01-Vue-Composition-API-陷阱](https://www.ershicimi.com/p/2803a18549e9516648ab6f334a327b39) 
 - [【奇舞周刊】2020-09-01-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/f6a9bf8144331b524cd463dc22ef7dde) 
 - [【奇舞周刊】2020-09-01-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/731d83b67f979b223714076f1e50fe08) 
+- [【互联网架构师】2020-09-12-你还在用-BeanUtils？试试-MapStruct，优雅的对象转换解决方案！](https://www.ershicimi.com/p/816ed102e3ab42efb878a1e90ad6d26a) 
+- [【互联网架构师】2020-09-12-太傻了！下次二面再回答不好“秒杀系统“设计原理，我就捶死自己...](https://www.ershicimi.com/p/5f7e72ad1aaf55afb14d3301dd788684) 
+- [【互联网架构师】2020-09-12-审阅“史上”最烂的代码](https://www.ershicimi.com/p/dda0f24b938817674882112d59aca7d9) 
 - [【互联网架构师】2020-09-11-牛逼！IDEA不愧为神器，结合Groovy脚本，简直天下无敌！](https://www.ershicimi.com/p/6e662cf05c1e9c7b3d74fa40cdbe4e95) 
 - [【互联网架构师】2020-09-11-为什么-Redis-要比-Memcached-更火？](https://www.ershicimi.com/p/86f6bf89758f8ce02795855682497ad6) 
 - [【互联网架构师】2020-09-11-点赞模块设计：Redis缓存-+-定时写入数据库实现高性能点赞功能](https://www.ershicimi.com/p/73bee25d4b3e89208446f004a775c88c) 
