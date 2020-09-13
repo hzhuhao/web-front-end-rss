@@ -12213,6 +12213,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "研究了下Houdini中的CSS Layout API",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/09/houdini-css-layout-api/",
+        "date": "2020-09-13"
+      },
+      {
         "title": "文字沿着不规则路径排版布局的实现",
         "link": "https://www.zhangxinxu.com/wordpress/2020/09/svg-text-around-path/",
         "date": "2020-09-06"
@@ -16702,6 +16707,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "牛逼！它比传统数据库快 100-1000，真不相信？",
+        "link": "https://www.ershicimi.com/p/79d8a3057d32ad665bc974943ed2e536",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "抗住百万高并发的 6 个关键技术！",
+        "link": "https://www.ershicimi.com/p/9def853c9a8ca4bf71d9c6a8e52ce53b",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "推荐 33 个 IDEA 最牛配置，好用到飞起来！",
+        "link": "https://www.ershicimi.com/p/beddd442b2fc27f1d792235c806a62af",
+        "date": "2020-09-13"
+      },
+      {
         "title": "你还在用 BeanUtils？试试 MapStruct，优雅的对象转换解决方案！",
         "link": "https://www.ershicimi.com/p/816ed102e3ab42efb878a1e90ad6d26a",
         "date": "2020-09-12"
@@ -20155,6 +20175,66 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "5个很常用的CSS3网页小实例",
+        "link": "https://www.ershicimi.com/p/cc31a0415cd6949432efb37fa6d0bf27",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "你可以不精通Vue，但一定要精通JS！",
+        "link": "https://www.ershicimi.com/p/c17632c9138f5cb25baa775890519b34",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "Vue超好玩的新特性：在CSS中使用JS变量",
+        "link": "https://www.ershicimi.com/p/ab709fde537bb3ec1471983661ea1994",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "工作年限=能力？会的越多=薪资越高？No！！！！",
+        "link": "https://www.ershicimi.com/p/a03d7a6402bd28576fa56058d6690b11",
+        "date": "2020-09-09"
+      },
+      {
+        "title": "欢迎投稿/分享开源项目",
+        "link": "https://www.ershicimi.com/p/521455b61c4f57331595e558bd096178",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "Hello World",
+        "link": "https://www.ershicimi.com/p/c2cd1e4170bb125708366e6c330abe8f",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "【软件更新】Deno 1.3.3 发布",
+        "link": "https://www.ershicimi.com/p/20876e7f544e032b239886309f51003d",
+        "date": "2020-09-07"
+      },
+      {
+        "title": "15条你可能不知道的JS高效技巧",
+        "link": "https://www.ershicimi.com/p/6df8ec8f180d99efe64faf4d4c8dc6d3",
+        "date": "2020-09-05"
+      },
+      {
+        "title": "【软件更新】TypeScript 4.0正式发布！",
+        "link": "https://www.ershicimi.com/p/8a2344e4dbdfdd6502c56441d6475911",
+        "date": "2020-09-05"
+      },
+      {
+        "title": "玩转 CSS 变量",
+        "link": "https://www.ershicimi.com/p/bdd8b63bd0d792fe265f3f929077dda8",
+        "date": "2020-09-04"
+      },
+      {
+        "title": "【软件更新】Angular 10.1.0 发布",
+        "link": "https://www.ershicimi.com/p/7f437d9518bea0e4fbb6719faacd1927",
+        "date": "2020-09-04"
+      },
+      {
+        "title": "1000+个项目的10大JavaScript错误",
+        "link": "https://www.ershicimi.com/p/ff3c43131acc2b4f5aa34bc2a1af2152",
+        "date": "2020-09-01"
+      },
       {
         "title": "为什么大家都在吹捧Python，大厂高薪敲门砖了解一下",
         "link": "https://www.ershicimi.com/p/25ecfff8e0bfd6d8520f074924adc40f",
