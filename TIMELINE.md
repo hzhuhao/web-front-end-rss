@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-14 06:01:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-14 12:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -200,6 +200,12 @@
 - [【奇舞周刊】2020-09-01-Vue-Composition-API-陷阱](https://www.ershicimi.com/p/2803a18549e9516648ab6f334a327b39) 
 - [【奇舞周刊】2020-09-01-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/f6a9bf8144331b524cd463dc22ef7dde) 
 - [【奇舞周刊】2020-09-01-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/731d83b67f979b223714076f1e50fe08) 
+- [【前端日刊】2020-09-10-前端开发，不用-JavaScript-行不行？！](https://www.ershicimi.com/p/df2b119d2fb1ece7ba365be9a4c4016b) 
+- [【前端日刊】2020-09-08-Deno-1.3.3-发布](https://www.ershicimi.com/p/9f9c0e885889c4d20a4dc2d8d42bc54f) 
+- [【前端日刊】2020-09-07-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/a2477d4ab9357e80a20cedb9a1d7fd1d) 
+- [【前端日刊】2020-09-03-webpack-这么牛X，你还不会用？](https://www.ershicimi.com/p/fd01e805a410305b9ce24116f13a5ea1) 
+- [【前端日刊】2020-09-02-下一家跳槽该去哪里？](https://www.ershicimi.com/p/327e128f083f265bc4f110ecd1e0241f) 
+- [【前端日刊】2020-09-01-九年程序人生-工作总结](https://www.ershicimi.com/p/382cb8ecc4f355c2293ae65b9c093674) 
 - [【互联网架构师】2020-09-13-牛逼！它比传统数据库快-100-1000，真不相信？](https://www.ershicimi.com/p/79d8a3057d32ad665bc974943ed2e536) 
 - [【互联网架构师】2020-09-13-抗住百万高并发的-6-个关键技术！](https://www.ershicimi.com/p/9def853c9a8ca4bf71d9c6a8e52ce53b) 
 - [【互联网架构师】2020-09-13-推荐-33-个-IDEA-最牛配置，好用到飞起来！](https://www.ershicimi.com/p/beddd442b2fc27f1d792235c806a62af) 

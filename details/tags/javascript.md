@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-14 06:01:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-14 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -454,6 +454,8 @@
 - [2019-12-28-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590866&idx=3&sn=6ee48f6e89c8c22865f5aaedb3ea3d85&chksm=8891deb6bfe657a03a81c421f9d6a492c6753daae7f64b2d0db891ac4569a9c7d6dcad2ecd2b&scene=27#wechat_redirect) 
 - [2019-12-26-大数据中心招聘AngularJs前端开发工程师](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590857&idx=3&sn=8e315a7d8672013d88a0e5684d9dca50&chksm=8891deadbfe657bbcc444b756929b30166954b6e81e3595344fd3b389e5fcf38472f6daaf1e6&scene=27#wechat_redirect) 
 - [2019-12-19-国内首家！360加入-Ecma-参与-JavaScript-语言标准制定](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590818&idx=1&sn=77045b70b63641eda1b96d3de3cbe1d9&chksm=8891de46bfe657503d59800505c20a45db3846b86b60bb0b69c3b7037f368dea5592b7144339&scene=27#wechat_redirect) 
+- [2020-09-10-前端开发，不用-JavaScript-行不行？！](https://www.ershicimi.com/p/df2b119d2fb1ece7ba365be9a4c4016b) 
+- [2020-09-07-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/a2477d4ab9357e80a20cedb9a1d7fd1d) 
 - [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/67f13fb99fb127529c0b01659333e9e4) 
 - [2020-07-11-写这么骚的-JS-代码，不怕被揍么？](https://www.ershicimi.com/p/b876a9c64148c221ca474c7ac9929d9c) 
 - [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) 
