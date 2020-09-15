@@ -16737,6 +16737,36 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "API 选型非得 Gateway？",
+        "link": "https://www.ershicimi.com/p/cc5a2566631a0fbf38bcf012938a0ac5",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "辣鸡，你怎么天天就会 try...catch ？试试这个",
+        "link": "https://www.ershicimi.com/p/67b17e3c659a1ba9ab6fb6dd809b2b2e",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "Netty是个啥？简单来说就这!",
+        "link": "https://www.ershicimi.com/p/1dd24af1ec38f8a65a93251aa05ad21e",
+        "date": "2020-09-15"
+      },
+      {
+        "title": "卧槽！PanDownload复活了！速度60MB/s！",
+        "link": "https://www.ershicimi.com/p/564fa4a12996d0e0286c9fcd6b84ed20",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "图解 SQL，这也太形象了吧！",
+        "link": "https://www.ershicimi.com/p/24605d4dc06dbf2be101e8f157fec864",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "牛逼哄哄的 RabbitMQ 到底有啥用？",
+        "link": "https://www.ershicimi.com/p/317a7ed2041c9611bbbb6e182f3c1046",
+        "date": "2020-09-14"
+      },
+      {
         "title": "牛逼！它比传统数据库快 100-1000，真不相信？",
         "link": "https://www.ershicimi.com/p/79d8a3057d32ad665bc974943ed2e536",
         "date": "2020-09-13"
@@ -18223,6 +18253,96 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "Zoom你学不会！",
+        "link": "https://www.ershicimi.com/p/1779f2be908fa16c8263ee11896cb680",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "尤雨溪：TypeScript不会取代JavaScript",
+        "link": "https://www.ershicimi.com/p/d95588bb2dfefaac5fb01927aca21dad",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "揭秘阿里、华为、字节跳动等大厂技术实践案例，免费学超强避坑指南！｜ QCon+",
+        "link": "https://www.ershicimi.com/p/1337928a69615e88db5fbe66282bb2f7",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "微软高分课来了，教你从“小白”进阶为“专家”，共建数字化企业 ｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/d369ed8ceb2648e5f432ac23673457b4",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "区块链是一个不知道要解决什么问题的解决方案",
+        "link": "https://www.ershicimi.com/p/cdff74ce774272f3f914ee634a4be2cb",
+        "date": "2020-09-14"
+      },
+      {
+        "title": "生意太好！台积电启动史上最大规模招聘",
+        "link": "https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "重写的六大风险",
+        "link": "https://www.ershicimi.com/p/8f96baec7d339b3b709b9f3055f15792",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "快速上手 WebAssembly 应用开发：Emscripten 使用入门",
+        "link": "https://www.ershicimi.com/p/24a75bab72a754f5979a09258fdac86b",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "最受欢迎的10大Angular技巧",
+        "link": "https://www.ershicimi.com/p/681cb2c04c4565733cb3417d01562815",
+        "date": "2020-09-13"
+      },
+      {
+        "title": "传华为将包机从台湾运回所有芯片；16岁少年为逃课策划8次DDoS攻击；马云称再创业不会选互联网丨Q资",
+        "link": "https://www.ershicimi.com/p/e0bbeb3bbdf3571840f57fa5924d4bf8",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "Istio进入1.7版本，Service Mesh 落地还有什么障碍？",
+        "link": "https://www.ershicimi.com/p/feb18dde6f784d0f0610c59947bceba6",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "30分钟搭建属于自己的口罩AI检测模型 ｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/fe8b4f64793f190d7d57205e4c689937",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "面试技巧：如何就软件规模化进行讨论",
+        "link": "https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d",
+        "date": "2020-09-12"
+      },
+      {
+        "title": "亏损7年，找对CTO，VIPKID终于赚钱了",
+        "link": "https://www.ershicimi.com/p/c206a84a311821d5231cf209488b20f0",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "东方证券企业架构之技术架构转型实践",
+        "link": "https://www.ershicimi.com/p/e597b88aeb173c34a5a4749cb389e668",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "看看你的领域普及机器学习了吗？",
+        "link": "https://www.ershicimi.com/p/97d740e3616731a280a7f24342d5dd12",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "从实践出发，如何正确应用微服务架构？｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/ae5388256c76bfb041264141711d901a",
+        "date": "2020-09-11"
+      },
+      {
+        "title": "阿里巴巴在安全容器上的实践与探索",
+        "link": "https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733",
+        "date": "2020-09-11"
+      },
       {
         "title": "刚刚，华为鸿蒙OS 2.0 发布，18点18分开放源代码",
         "link": "https://www.ershicimi.com/p/642ae1e369fa2eab72992b1b87631aff",

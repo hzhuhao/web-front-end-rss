@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-14 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-15 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -461,6 +461,7 @@
 - [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) 
 - [2020-06-20-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/55104bee964d5d850177325ca99218a3) 
 - [2020-02-14-JavaScript-造就年薪超过-10-万美元的开发者们！](https://www.ershicimi.com/p/16c82eb48f89e36a8dd6f4352e974951) 
+- [2020-09-15-辣鸡，你怎么天天就会-try...catch-？试试这个](https://www.ershicimi.com/p/67b17e3c659a1ba9ab6fb6dd809b2b2e) 
 - [2020-08-29-fastjson的作者，在阿里内网挨骂了？！](https://www.ershicimi.com/p/c59bd6c77198c5afe06b0b3bc358124c) 
 - [2020-08-16-如何优雅的实现-try/catch-异常块？](https://www.ershicimi.com/p/4d07bb54af3631bf208bd408c7cd21d9) 
 - [2020-03-24-最新Fastjson再爆安全黑洞！可获取服务器权限,快升级！（扩散！！！）](https://www.ershicimi.com/p/dd15084041de5379f1a863ee77f17cbd) 
