@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -239,6 +239,7 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2020-09-17-JavaScript错误处理完全指南](https://www.ershicimi.com/p/0532403a364e3251d21ec2d149d60c4c) 
 - [2020-09-02-微众正式开源Fes.js：快速、简单、健壮的管理台前端应用](https://www.ershicimi.com/p/df8d37e15035a568568c62ec9f4ff23f) 
 - [2020-08-19-我是怎样通过个人项目成长为高级-JavaScript-开发者的](https://www.ershicimi.com/p/dd5e699b03225c29d4b74f38f71ce072) 
 - [2020-08-11-CSS-in-JS：一个充满争议的技术方案](https://www.ershicimi.com/p/0dfa92a87c05f26cd792bd4e62a86dd6) 
@@ -475,6 +476,7 @@
 - [2020-01-25-华为事件出现转机：内部反对，美国商务部打压华为新规已撤回！](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023920&idx=2&sn=7bad47a82f94b6aa60bc59a5dffcfa50&chksm=bdbe92638ac91b75d55099ce86d940ded72052c8d71ace8c17c2a689cf5924b54405b26aa20d&scene=27#wechat_redirect) 
 - [2020-01-08-未来有望干掉-Python-和-JavaScript-的编程语言](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023518&idx=1&sn=e3d90704ded3774936d4eb72d6b6cca5&chksm=bdbe90cd8ac919db57ea9a8b5592dfdc63e4058aad1772a914aa1e50834e721b7835dddd6e9b&scene=27#wechat_redirect) 
 - [2020-01-01-2019-年-WebAssembly-盘点：跟-JavaScript-的相爱相杀](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023392&idx=4&sn=e394fc4a06284ba3ce2aad8be353ea21&chksm=bdbe90738ac919659a4682c67a7819a4066b6acbd875e7a7e28b2d54a5b60e7474e1bb0f7529&scene=27#wechat_redirect) 
+- [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) 
 - [2020-09-05-15条你可能不知道的JS高效技巧](https://www.ershicimi.com/p/6df8ec8f180d99efe64faf4d4c8dc6d3) 
 - [2020-09-04-玩转-CSS-变量](https://www.ershicimi.com/p/bdd8b63bd0d792fe265f3f929077dda8) 
 - [2020-09-01-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/ff3c43131acc2b4f5aa34bc2a1af2152) 

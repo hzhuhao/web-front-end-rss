@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -398,6 +398,7 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2020-09-17-报告下载-|-数字化转型中的人才紧缺问题，有救吗？](https://www.ershicimi.com/p/fe77a140054ce64796390c0fe20ec154) 
 - [2020-09-15-10个不那么知名但很实用的Web-API](https://www.ershicimi.com/p/f7901bcaf5ccab448ad14e7c5306a5a8) 
 - [2020-09-15-重写软件的-6-大风险](https://www.ershicimi.com/p/6592768259795661693ea1dae69b7217) 
 - [2020-09-14-Flash-终将谢幕：微软将于年底停止对-Flash-的支持](https://www.ershicimi.com/p/d5c57237974a28051de674bdfcef41ab) 
@@ -1680,6 +1681,7 @@
 - [2019-12-24-中台进入冷静期，看清自己比盲目追随更重要](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=2&sn=e15f0d21dd1e04efa017b5fae3305baf&chksm=bdbe9f138ac91605f4c143d9b0d3fbbed83da8514eefedb331be5e489e6c8904f71fb7404f87&scene=27#wechat_redirect) 
 - [2019-12-24-金融大数据公司接连被查，爬虫到底犯法吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=3&sn=7492a5ad9e6dfc522d3acb6b4e92bc19&chksm=bdbe9f138ac91605b0e5405df6f331c48586b551cc73f15d7028fb93a54d8fcb7d900961bcab&scene=27#wechat_redirect) 
 - [2019-12-24-这一天，成都的开发人员都经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=4&sn=7cf54be8cca25b28a57e4edfd44f7213&chksm=bdbe9f138ac916055bba182449a4c35f28747d57d0cead06d4880327e29b8c4877bc15b7e4ca&scene=27#wechat_redirect) 
+- [2020-09-16-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/9431ce093426b3035ca4473ef83c6e9a) 
 - [2020-09-14-落魄前端，整理给自己的前端知识体系复习大纲（第一篇，上百知识点，2W字+）](https://www.ershicimi.com/p/85f881a3b16ac667b0141712bd345c4e) 
 - [2020-09-09-工作年限=能力？会的越多=薪资越高？No！！！！](https://www.ershicimi.com/p/a03d7a6402bd28576fa56058d6690b11) 
 - [2020-09-08-欢迎投稿/分享开源项目](https://www.ershicimi.com/p/521455b61c4f57331595e558bd096178) 

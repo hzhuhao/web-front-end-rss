@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 18:00:10。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## React
 
@@ -120,6 +120,7 @@
 - [2018-10-13-当初要是看了这篇，React高阶组件早会了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555086&idx=1&sn=95b9992da9d660ac8545e3eb372292b8#wechat_redirect) 
 - [2018-09-25-React-Native-开发总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=1&sn=3ee6ca6976c351cca56bd00541eec0d1#wechat_redirect) 
 - [2018-09-21-重新认识-React-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=1&sn=c600966880602a276d297b51192db4a3#wechat_redirect) 
+- [2020-09-16-唐朝就已经有人懂-React-了？](https://www.ershicimi.com/p/3437452f60f8321bd1864083d64bba70) 
 - [2020-09-12-来呀，一起造一个简易React！-|-极客大学](https://www.ershicimi.com/p/950e9acf0a06cddf9b8dfb3ae76389ee) 
 - [2020-09-04-来呀，一起造一个简易React！-|-极客大学](https://www.ershicimi.com/p/b35f182ae37593e5cd3c3c5b9d1983fd) 
 - [2020-09-03-顶级React组件库推荐](https://www.ershicimi.com/p/75ec9a701793f8f8caf737b04c68c802) 
@@ -236,6 +237,7 @@
 - [2020-08-17-耗时三年，向-React-迁移的利与弊](https://www.ershicimi.com/p/8016a5d1c48048ab12b2882bbed8a693) 
 - [2020-08-02-Vue、React-和-Angular：该选择哪个框架？](https://www.ershicimi.com/p/f73b77273510c91de5c16630096f92f9) 
 - [2020-02-03-英特尔放弃Nervana-AI芯片，全面支持Habana-Labs](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024026&idx=5&sn=1a2e7bba81082ec14170fb1f96f2c563&chksm=bdbe92c98ac91bdf05abd97786bbb3fbebb1bfe310a2b6d4483e33feb20485134d572ac99410&scene=27#wechat_redirect) 
+- [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f) 
 - [2020-07-24-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/ad88a966ef504d6a8551e30959e8f190) 
 - [2020-03-19-前端面试题全面整理-带解析-涵盖CSS、JS、浏览器、Vue、React、移动web、前端性能、算法](https://www.ershicimi.com/p/744a0d889bcad0a9fb985753beb58855) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 12:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-17 18:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -145,6 +145,11 @@
 - [【前端大全】2020-09-02-前端圈的贫富差距正在拉大？](https://www.ershicimi.com/p/39ae9642876c473b1a50636386fe9663) 
 - [【前端大全】2020-09-02-浏览器中的跨域问题与-CORS](https://www.ershicimi.com/p/a482ed736bf2f7834bbbab4735420960) 
 - [【前端大全】2020-09-01-组件库主题设计方案](https://www.ershicimi.com/p/fc0000487bd88250eda0ec26b8190db1) 
+- [【前端之巅】2020-09-17-JavaScript错误处理完全指南](https://www.ershicimi.com/p/0532403a364e3251d21ec2d149d60c4c) 
+- [【前端之巅】2020-09-17-报告下载-|-数字化转型中的人才紧缺问题，有救吗？](https://www.ershicimi.com/p/fe77a140054ce64796390c0fe20ec154) 
+- [【前端之巅】2020-09-16-唐朝就已经有人懂-React-了？](https://www.ershicimi.com/p/3437452f60f8321bd1864083d64bba70) 
+- [【前端之巅】2020-09-16-Serverless：我还是一个大孩子](https://www.ershicimi.com/p/9fdab7e1908c34c0f6af750611276467) 
+- [【前端之巅】2020-09-16-二面阿里惨败，全是算法基本功的问题···-|-极客大学](https://www.ershicimi.com/p/1161efd6eef0d1853a266e2fc1919888) 
 - [【前端之巅】2020-09-15-10个不那么知名但很实用的Web-API](https://www.ershicimi.com/p/f7901bcaf5ccab448ad14e7c5306a5a8) 
 - [【前端之巅】2020-09-15-重写软件的-6-大风险](https://www.ershicimi.com/p/6592768259795661693ea1dae69b7217) 
 - [【前端之巅】2020-09-14-Flash-终将谢幕：微软将于年底停止对-Flash-的支持](https://www.ershicimi.com/p/d5c57237974a28051de674bdfcef41ab) 
@@ -323,6 +328,9 @@
 - [【InfoQ】2020-09-01-运维工程师应该如何提高和进阶？一系列免费课程给你答案！｜-极客时间企业版](https://www.ershicimi.com/p/189ac974ee4c2a7540989f6568d5378a) 
 - [【InfoQ】2020-09-01-谈谈微服务设计中的-API-网关模式](https://www.ershicimi.com/p/a7ee95ecb6df3a9fa3c320b825c70061) 
 - [【InfoQ】2020-09-01-你应该了解的5种TypeScript设计模式](https://www.ershicimi.com/p/600a86127284ce5e132fa0128df3bbc5) 
+- [【JavaScript】2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2) 
+- [【JavaScript】2020-09-16-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/9431ce093426b3035ca4473ef83c6e9a) 
+- [【JavaScript】2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c) 
 - [【JavaScript】2020-09-14-落魄前端，整理给自己的前端知识体系复习大纲（第一篇，上百知识点，2W字+）](https://www.ershicimi.com/p/85f881a3b16ac667b0141712bd345c4e) 
 - [【JavaScript】2020-09-12-5个很常用的CSS3网页小实例](https://www.ershicimi.com/p/cc31a0415cd6949432efb37fa6d0bf27) 
 - [【JavaScript】2020-09-11-你可以不精通Vue，但一定要精通JS！](https://www.ershicimi.com/p/c17632c9138f5cb25baa775890519b34) 
