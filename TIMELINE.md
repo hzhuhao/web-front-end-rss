@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 08:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-17 12:00:08。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -225,6 +225,12 @@
 - [【前端日刊】2020-09-03-webpack-这么牛X，你还不会用？](https://www.ershicimi.com/p/fd01e805a410305b9ce24116f13a5ea1) 
 - [【前端日刊】2020-09-02-下一家跳槽该去哪里？](https://www.ershicimi.com/p/327e128f083f265bc4f110ecd1e0241f) 
 - [【前端日刊】2020-09-01-九年程序人生-工作总结](https://www.ershicimi.com/p/382cb8ecc4f355c2293ae65b9c093674) 
+- [【互联网架构师】2020-09-17-GitHub上最励志的计算机自学教程，绝对牛B](https://www.ershicimi.com/p/a3a31e96c60c3e1e44882f7edc1b12a2) 
+- [【互联网架构师】2020-09-17-整理了15个好用的API接口管理免费神器，随便挑...](https://www.ershicimi.com/p/fcefa7098b8a3dc8f7957faa7d48631f) 
+- [【互联网架构师】2020-09-17-熬了一个通宵，终于把Reids的7千万个Key删完了，今天脑子都嗡嗡响！](https://www.ershicimi.com/p/fa2b93757b73c3ba06aa39cdf6de13a1) 
+- [【互联网架构师】2020-09-16-面试中关于JVM和Redis的问题，看这些就够了](https://www.ershicimi.com/p/2cc5440f815a47312e3ab207348beb91) 
+- [【互联网架构师】2020-09-16-卧槽：这款-SQL自动检查神器，吊炸天的功能，真TMD多！！](https://www.ershicimi.com/p/8b7f8607d0db98fbc95b2b173d7c6543) 
+- [【互联网架构师】2020-09-16-Spring-Boot-中的-RestTemplate不好用？试试-Retrofit-！](https://www.ershicimi.com/p/616474b2dfa6d4ccff9b1e12bcebe965) 
 - [【互联网架构师】2020-09-15-API-选型非得-Gateway？](https://www.ershicimi.com/p/cc5a2566631a0fbf38bcf012938a0ac5) 
 - [【互联网架构师】2020-09-15-辣鸡，你怎么天天就会-try...catch-？试试这个](https://www.ershicimi.com/p/67b17e3c659a1ba9ab6fb6dd809b2b2e) 
 - [【互联网架构师】2020-09-15-Netty是个啥？简单来说就这!](https://www.ershicimi.com/p/1dd24af1ec38f8a65a93251aa05ad21e) 

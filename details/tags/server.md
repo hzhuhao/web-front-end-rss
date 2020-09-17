@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-17 08:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-17 12:00:08。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -36,6 +36,7 @@
 - [2018-08-31-【译】关于GraphQL，你需要知道这些](https://jdc.jd.com/archives/212690) 
 - [2017-12-15-GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/) 
 - [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 
+- [2020-09-16-Spring-Boot-中的-RestTemplate不好用？试试-Retrofit-！](https://www.ershicimi.com/p/616474b2dfa6d4ccff9b1e12bcebe965) 
 - [2020-08-29-Docker-被禁？还有千千万万个-Docker-站起来！！](https://www.ershicimi.com/p/d5c91aa7e77aae71171736ae0ee14ac3) 
 - [2020-08-17-Docker-更新协议，禁止被列入美国“实体名单”的国家、企业、个人使用,开源被“截流”？](https://www.ershicimi.com/p/6ddf07e7de4a4c4769f2427c54aa8088) 
 - [2020-08-15-为什么我劝你放弃了Restful-API？](https://www.ershicimi.com/p/58bba24f4392498624309ef5dc8a6fd8) 
