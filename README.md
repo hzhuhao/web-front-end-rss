@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-19 12:00:08，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-19 18:00:08，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,9 +26,9 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -380,12 +380,12 @@
 </summary>
 
 
-- [2020-09-19-开放-API-接口签名验证，让你的接口从此不再裸奔-！](https://www.ershicimi.com/p/3c361ba137c3cd0db76413aae3f145ba) ![](assets/new.png)  
-- [2020-09-19-ZooKeeper-这么牛逼，基本原理你懂吗？](https://www.ershicimi.com/p/1e41f7a747f7ea8e4433e57328ecda89) ![](assets/new.png)  
-- [2020-09-19-这么多牛逼的Java常用Json库，万万没想到它的性能最好！](https://www.ershicimi.com/p/2143db4de99ac09c766b522045d4bc7d) ![](assets/new.png)  
-- [2020-09-18-刚刚用鸿蒙跑了个“hello-world”！跑通后，我特么开始怀疑人生....](https://www.ershicimi.com/p/e93008d852cb134422e39e2b0314e628) ![](assets/new.png)  
-- [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9) ![](assets/new.png)  
-- [2020-09-18-Redis-面试一定要知道的-3-个-问题！](https://www.ershicimi.com/p/36665f091858624caa211e5c7986ef6c) ![](assets/new.png)  
+- [2020-09-19-开放-API-接口签名验证，让你的接口从此不再裸奔-！](https://www.ershicimi.com/p/3c361ba137c3cd0db76413aae3f145ba)  
+- [2020-09-19-ZooKeeper-这么牛逼，基本原理你懂吗？](https://www.ershicimi.com/p/1e41f7a747f7ea8e4433e57328ecda89)  
+- [2020-09-19-这么多牛逼的Java常用Json库，万万没想到它的性能最好！](https://www.ershicimi.com/p/2143db4de99ac09c766b522045d4bc7d)  
+- [2020-09-18-刚刚用鸿蒙跑了个“hello-world”！跑通后，我特么开始怀疑人生....](https://www.ershicimi.com/p/e93008d852cb134422e39e2b0314e628)  
+- [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9)  
+- [2020-09-18-Redis-面试一定要知道的-3-个-问题！](https://www.ershicimi.com/p/36665f091858624caa211e5c7986ef6c)  
 - [2020-09-17-GitHub上最励志的计算机自学教程，绝对牛B](https://www.ershicimi.com/p/a3a31e96c60c3e1e44882f7edc1b12a2)  
 - [2020-09-17-整理了15个好用的API接口管理免费神器，随便挑...](https://www.ershicimi.com/p/fcefa7098b8a3dc8f7957faa7d48631f)  
 - [2020-09-17-熬了一个通宵，终于把Reids的7千万个Key删完了，今天脑子都嗡嗡响！](https://www.ershicimi.com/p/fa2b93757b73c3ba06aa39cdf6de13a1)  
@@ -442,6 +442,7 @@
 </summary>
 
 
+- [2020-09-18-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/f0ac7d68cd16f83fce1277903806e13e) ![](assets/new.png)  
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2)  
 - [2020-09-16-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/9431ce093426b3035ca4473ef83c6e9a)  
 - [2020-09-15-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/dc4935b24764e85c3fd4894f13df242c)  
@@ -461,7 +462,6 @@
 - [2020-08-31-为什么大家都在吹捧Python，大厂高薪敲门砖了解一下](https://www.ershicimi.com/p/25ecfff8e0bfd6d8520f074924adc40f)  
 - [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f)  
 - [2020-08-27-CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/fd765fbe942d3cae8b7315b7a2f1e843)  
-- [2020-08-27-Vue-开发必须知道的-36-个技巧](https://www.ershicimi.com/p/fac2a48632cf95605b127d28e4bdb10b)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
