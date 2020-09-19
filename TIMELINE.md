@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-18 18:00:10。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-19 08:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -197,6 +197,7 @@
 - [【阮一峰的网络日志】2020-09-15-轻松学会-React-钩子：以-useEffect-为例](http://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html) 
 - [【阮一峰的网络日志】2020-09-11-科技爱好者周刊（第-124-期）：华为如何考核员工](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-124.html) 
 - [【阮一峰的网络日志】2020-09-04-科技爱好者周刊（第-123-期）：互联网公司与湘军的军制](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-123.html) 
+- [【奇舞周刊】2020-09-18-奇舞周刊第-364-期：小程序视角下同构方案思考](https://www.ershicimi.com/p/d9f7bae52064d258394b7f01ad3a7a36) 
 - [【奇舞周刊】2020-09-16-聊聊前端监控—错误监控篇](https://www.ershicimi.com/p/37785245e0f7630bc4ceed905036bdd1) 
 - [【奇舞周刊】2020-09-16-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/26b9dcc8dd9ca440f80e501919d81479) 
 - [【奇舞周刊】2020-09-16-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa27200ef9381bbe00ec6dae8182934c) 
