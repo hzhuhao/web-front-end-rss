@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-21 12:00:25，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-21 18:00:28，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,9 +26,9 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -380,12 +380,12 @@
 </summary>
 
 
-- [2020-09-21-同事通过接私活年入60W，他常用19个私活平台汇总！](https://www.ershicimi.com/p/cb34e49060031e55cfd464d0a09ff804) ![](assets/new.png)  
-- [2020-09-21-有个程序员老公有多爽？？？](https://www.ershicimi.com/p/482f5affed4a278d3f7d90269ee9b32f) ![](assets/new.png)  
-- [2020-09-21-骚操作：不重启-JVM，如何替换掉已经加载的类？](https://www.ershicimi.com/p/58c7fa2d4632516c5c4438c5fcc93c70) ![](assets/new.png)  
-- [2020-09-20-字节一面，面试官拿System.out.println考了我半个小时？我懵逼了...](https://www.ershicimi.com/p/a60c0807fe95f9e2aa01df028f0b6bbc) ![](assets/new.png)  
-- [2020-09-20-豪横！1.3-亿的数据毫秒级？？？居然做到了！！！](https://www.ershicimi.com/p/9f95015471d43596556c1e19f885b461) ![](assets/new.png)  
-- [2020-09-20-Spring-Boot-如何使用-Redis-进行-API-防刷限流？](https://www.ershicimi.com/p/53d510752772ddc6706d44bbe1d1b7ab) ![](assets/new.png)  
+- [2020-09-21-同事通过接私活年入60W，他常用19个私活平台汇总！](https://www.ershicimi.com/p/cb34e49060031e55cfd464d0a09ff804)  
+- [2020-09-21-有个程序员老公有多爽？？？](https://www.ershicimi.com/p/482f5affed4a278d3f7d90269ee9b32f)  
+- [2020-09-21-骚操作：不重启-JVM，如何替换掉已经加载的类？](https://www.ershicimi.com/p/58c7fa2d4632516c5c4438c5fcc93c70)  
+- [2020-09-20-字节一面，面试官拿System.out.println考了我半个小时？我懵逼了...](https://www.ershicimi.com/p/a60c0807fe95f9e2aa01df028f0b6bbc)  
+- [2020-09-20-豪横！1.3-亿的数据毫秒级？？？居然做到了！！！](https://www.ershicimi.com/p/9f95015471d43596556c1e19f885b461)  
+- [2020-09-20-Spring-Boot-如何使用-Redis-进行-API-防刷限流？](https://www.ershicimi.com/p/53d510752772ddc6706d44bbe1d1b7ab)  
 - [2020-09-19-开放-API-接口签名验证，让你的接口从此不再裸奔-！](https://www.ershicimi.com/p/3c361ba137c3cd0db76413aae3f145ba)  
 - [2020-09-19-ZooKeeper-这么牛逼，基本原理你懂吗？](https://www.ershicimi.com/p/1e41f7a747f7ea8e4433e57328ecda89)  
 - [2020-09-19-这么多牛逼的Java常用Json库，万万没想到它的性能最好！](https://www.ershicimi.com/p/2143db4de99ac09c766b522045d4bc7d)  
@@ -442,6 +442,8 @@
 </summary>
 
 
+- [2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865) ![](assets/new.png)  
+- [2020-09-21-【软件更新】Vue-3.0正式发布！](https://www.ershicimi.com/p/ff3ab6acc82fef8cf1b194ee18e1b6fd) ![](assets/new.png)  
 - [2020-09-18-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/f0ac7d68cd16f83fce1277903806e13e)  
 - [2020-09-17-React-谁都会，你的优势在哪里](https://www.ershicimi.com/p/2902d0e30113cf4d57434cad40653bc2)  
 - [2020-09-16-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/9431ce093426b3035ca4473ef83c6e9a)  
@@ -460,8 +462,6 @@
 - [2020-09-04-【软件更新】Angular-10.1.0-发布](https://www.ershicimi.com/p/7f437d9518bea0e4fbb6719faacd1927)  
 - [2020-09-01-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/ff3c43131acc2b4f5aa34bc2a1af2152)  
 - [2020-08-31-为什么大家都在吹捧Python，大厂高薪敲门砖了解一下](https://www.ershicimi.com/p/25ecfff8e0bfd6d8520f074924adc40f)  
-- [2020-08-28-为什么我不再用Vue，改用React？](https://www.ershicimi.com/p/1a87b6fd06635821b76b5c19bb4acb8f)  
-- [2020-08-27-CSS-8种让人眼前一亮的hover效果眼前一亮的HOVER效果](https://www.ershicimi.com/p/fd765fbe942d3cae8b7315b7a2f1e843)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

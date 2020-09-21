@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-21 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-21 18:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -49,6 +49,7 @@
 - [2020-01-21-GraphQL-vs-REST-API-架构，谁更胜一筹？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023781&idx=2&sn=b9a85e574e2d2897f5c11e82037932b8&chksm=bdbe91f68ac918e0f4ffbb4730291f232e0769c99aaf235a101984d6705d73aebf81fb49fb52&scene=27#wechat_redirect) 
 - [2019-12-31-Nginx，为什么依旧这么“香”？丨极客时间](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023356&idx=1&sn=5b5561460ca512cc93a6f79aeb661861&chksm=bdbe9faf8ac916b9bf7b430c15df90039a478ad9a8e16d54df8aa045d7d327adb87edf21bedf&scene=27#wechat_redirect) 
 - [2019-12-24-我们为什么用-gRPC-取代了-Kafka?](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=5&sn=38717e9a309a63a875db6f529ce53914&chksm=bdbe9f138ac91605da8344789c7621aa58009dd572bc0c00ecef0e7973271899efb4c75110a6&scene=27#wechat_redirect) 
+- [2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865) 
 - [2019-12-23-前端领域的-Docker-与-Kubernetes](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498096&idx=1&sn=59a5be0e4441064d207a9724ca6a1e48&chksm=80f1afb8b78626aeeb1f87ab77812168ceab38872c5d8e35ce046306b29bbb2b1acdfdb2520e&scene=27#wechat_redirect) 
 - [2020-01-17-docker使用和应用场景](https://juejin.im/post/5e2176a0e51d453cab2f4b8a) 
 - [2020-01-13-前端使用docker+jenkins实现自动打包部署](https://juejin.im/post/5e1c113b5188254baf6c4048) 
