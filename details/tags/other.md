@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-23 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -216,6 +216,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-09-23-搞懂-JWT-这个知识点](https://www.ershicimi.com/p/81fd3a93bea88dca984c62204cbe581e) 
+- [2020-09-22-移动端-1px-问题解决方案](https://www.ershicimi.com/p/5f24af2b1f782c82828c8c40aaf1a5d9) 
 - [2020-09-21-如果程序员送外卖，会选择“红黄蓝”谁家？](https://www.ershicimi.com/p/8b87649f3d8e20d973a6c6cbcc8b7584) 
 - [2020-09-19-程序员脱单记：领证回来的路上，我们约好写下这篇](https://www.ershicimi.com/p/8b2ee17053890f045cbaba2b67b3cfe1) 
 - [2020-09-17-“对不起，因为本国法律要求，我不能合并你的代码”](https://www.ershicimi.com/p/82e154dc9823edffaa4bc082e4f285d4) 
@@ -1708,6 +1710,7 @@
 - [2019-12-24-中台进入冷静期，看清自己比盲目追随更重要](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=2&sn=e15f0d21dd1e04efa017b5fae3305baf&chksm=bdbe9f138ac91605f4c143d9b0d3fbbed83da8514eefedb331be5e489e6c8904f71fb7404f87&scene=27#wechat_redirect) 
 - [2019-12-24-金融大数据公司接连被查，爬虫到底犯法吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=3&sn=7492a5ad9e6dfc522d3acb6b4e92bc19&chksm=bdbe9f138ac91605b0e5405df6f331c48586b551cc73f15d7028fb93a54d8fcb7d900961bcab&scene=27#wechat_redirect) 
 - [2019-12-24-这一天，成都的开发人员都经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=4&sn=7cf54be8cca25b28a57e4edfd44f7213&chksm=bdbe9f138ac916055bba182449a4c35f28747d57d0cead06d4880327e29b8c4877bc15b7e4ca&scene=27#wechat_redirect) 
+- [2020-09-22-什么是架构师的必备技能？](https://www.ershicimi.com/p/cbfadd286db216e046ee07a30ea9e3e0) 
 - [2020-09-16-今年薪资普涨还有可能吗？说说我的看法](https://www.ershicimi.com/p/9431ce093426b3035ca4473ef83c6e9a) 
 - [2020-09-14-落魄前端，整理给自己的前端知识体系复习大纲（第一篇，上百知识点，2W字+）](https://www.ershicimi.com/p/85f881a3b16ac667b0141712bd345c4e) 
 - [2020-09-09-工作年限=能力？会的越多=薪资越高？No！！！！](https://www.ershicimi.com/p/a03d7a6402bd28576fa56058d6690b11) 

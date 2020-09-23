@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-23 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-09-23 22:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,9 @@
 </summary>
 
 
+- [【前端大全】2020-09-23-学多少返多少-|“-Web全栈架构师”0门槛就业涨薪计划](https://www.ershicimi.com/p/24802fd9209abb6bfa98c789b7d53d12) 
+- [【前端大全】2020-09-23-搞懂-JWT-这个知识点](https://www.ershicimi.com/p/81fd3a93bea88dca984c62204cbe581e) 
+- [【前端大全】2020-09-22-移动端-1px-问题解决方案](https://www.ershicimi.com/p/5f24af2b1f782c82828c8c40aaf1a5d9) 
 - [【前端大全】2020-09-21-如果程序员送外卖，会选择“红黄蓝”谁家？](https://www.ershicimi.com/p/8b87649f3d8e20d973a6c6cbcc8b7584) 
 - [【前端大全】2020-09-21-Vue-进阶面试必问，异步更新机制和-nextTick-原理](https://www.ershicimi.com/p/67dfb5569ef4740003c94712c9a63e3c) 
 - [【前端大全】2020-09-20-Vue-3.0-正式发布，尤雨溪回应大家关切的问题](https://www.ershicimi.com/p/d09f246fb52cbd2dd5322860a960379a) 
@@ -379,6 +382,8 @@
 - [【InfoQ】2020-09-01-运维工程师应该如何提高和进阶？一系列免费课程给你答案！｜-极客时间企业版](https://www.ershicimi.com/p/189ac974ee4c2a7540989f6568d5378a) 
 - [【InfoQ】2020-09-01-谈谈微服务设计中的-API-网关模式](https://www.ershicimi.com/p/a7ee95ecb6df3a9fa3c320b825c70061) 
 - [【InfoQ】2020-09-01-你应该了解的5种TypeScript设计模式](https://www.ershicimi.com/p/600a86127284ce5e132fa0128df3bbc5) 
+- [【JavaScript】2020-09-23-只会-Vue-的那些人，现在怎么样了？](https://www.ershicimi.com/p/536b210708036dd48250c8efbf73fa4f) 
+- [【JavaScript】2020-09-22-什么是架构师的必备技能？](https://www.ershicimi.com/p/cbfadd286db216e046ee07a30ea9e3e0) 
 - [【JavaScript】2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865) 
 - [【JavaScript】2020-09-21-【软件更新】Vue-3.0正式发布！](https://www.ershicimi.com/p/ff3ab6acc82fef8cf1b194ee18e1b6fd) 
 - [【JavaScript】2020-09-18-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/f0ac7d68cd16f83fce1277903806e13e) 

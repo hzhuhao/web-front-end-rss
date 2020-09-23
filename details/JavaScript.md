@@ -1,10 +1,12 @@
-:alarm_clock: 更新时间: 2020-09-21 18:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-23 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
 
 
 
+- [2020-09-23-只会-Vue-的那些人，现在怎么样了？](https://www.ershicimi.com/p/536b210708036dd48250c8efbf73fa4f) 
+- [2020-09-22-什么是架构师的必备技能？](https://www.ershicimi.com/p/cbfadd286db216e046ee07a30ea9e3e0) 
 - [2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865) 
 - [2020-09-21-【软件更新】Vue-3.0正式发布！](https://www.ershicimi.com/p/ff3ab6acc82fef8cf1b194ee18e1b6fd) 
 - [2020-09-18-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/f0ac7d68cd16f83fce1277903806e13e) 

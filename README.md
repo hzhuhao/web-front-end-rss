@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-23 18:00:26，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-23 22:00:27，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -28,7 +28,7 @@
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -70,6 +70,9 @@
 </summary>
 
 
+- [2020-09-23-学多少返多少-|“-Web全栈架构师”0门槛就业涨薪计划](https://www.ershicimi.com/p/24802fd9209abb6bfa98c789b7d53d12) ![](assets/new.png)  
+- [2020-09-23-搞懂-JWT-这个知识点](https://www.ershicimi.com/p/81fd3a93bea88dca984c62204cbe581e) ![](assets/new.png)  
+- [2020-09-22-移动端-1px-问题解决方案](https://www.ershicimi.com/p/5f24af2b1f782c82828c8c40aaf1a5d9) ![](assets/new.png)  
 - [2020-09-21-如果程序员送外卖，会选择“红黄蓝”谁家？](https://www.ershicimi.com/p/8b87649f3d8e20d973a6c6cbcc8b7584)  
 - [2020-09-21-Vue-进阶面试必问，异步更新机制和-nextTick-原理](https://www.ershicimi.com/p/67dfb5569ef4740003c94712c9a63e3c)  
 - [2020-09-20-Vue-3.0-正式发布，尤雨溪回应大家关切的问题](https://www.ershicimi.com/p/d09f246fb52cbd2dd5322860a960379a)  
@@ -87,9 +90,6 @@
 - [2020-09-13-细数-TS-中那些奇怪的符号](https://www.ershicimi.com/p/4658d26bea644b9c502bc2028e9dff99)  
 - [2020-09-12-唐朝人更懂-React](https://www.ershicimi.com/p/216c2f51fe09be91ce7b4e7cac69146b)  
 - [2020-09-12-面向对象：愿未来可期，有你相伴](https://www.ershicimi.com/p/1322f78df256beff982d9f10171e2b24)  
-- [2020-09-11-谈谈哪种人在裁员中最危险，给大家提提醒](https://www.ershicimi.com/p/54bc92636f70a36ac9d0c9c4f2a4e3a7)  
-- [2020-09-11-Serverless-For-Frontend-前世今生](https://www.ershicimi.com/p/4b6540a4a0c84f56a36fb33ada8bf7e9)  
-- [2020-09-10-关于-useState-的一切](https://www.ershicimi.com/p/fa486900e540761144d3c0405536d28f)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -101,14 +101,14 @@
 </summary>
 
 
-- [2020-09-23-Swift正式登录Windows：苹果跨平台语言值几钱？](https://www.ershicimi.com/p/abfbe6cc2509687972d967bdb975b24a) ![](assets/new.png)  
-- [2020-09-23-怎样解决JavaScript生态中第三方安全性问题？](https://www.ershicimi.com/p/9f36b7564c977e9a1c13870f2fe372c3) ![](assets/new.png)  
-- [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff) ![](assets/new.png)  
-- [2020-09-22-TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://www.ershicimi.com/p/12f40e59f24eef811a0183612d6e683b) ![](assets/new.png)  
-- [2020-09-22-Moment.js-进入维护状态：周下载量超-1200-万的-JS-库已经完成了它的使命](https://www.ershicimi.com/p/795d3321367981401154cc1f3942cf6d) ![](assets/new.png)  
-- [2020-09-21-不写文档你就输了](https://www.ershicimi.com/p/57becbd5e457c97b13e79e97ed3b9f36) ![](assets/new.png)  
-- [2020-09-21-那些害死Haskell的，也会害死Rust](https://www.ershicimi.com/p/e2986f21620a7d5989a8e18c84b160e6) ![](assets/new.png)  
-- [2020-09-21-「有奖调研」你的服务器操作系统和数据库要升级/迁移吗？｜-活动推荐](https://www.ershicimi.com/p/15a9a30e6a75ea9948037817fc22fe1a) ![](assets/new.png)  
+- [2020-09-23-Swift正式登录Windows：苹果跨平台语言值几钱？](https://www.ershicimi.com/p/abfbe6cc2509687972d967bdb975b24a)  
+- [2020-09-23-怎样解决JavaScript生态中第三方安全性问题？](https://www.ershicimi.com/p/9f36b7564c977e9a1c13870f2fe372c3)  
+- [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff)  
+- [2020-09-22-TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://www.ershicimi.com/p/12f40e59f24eef811a0183612d6e683b)  
+- [2020-09-22-Moment.js-进入维护状态：周下载量超-1200-万的-JS-库已经完成了它的使命](https://www.ershicimi.com/p/795d3321367981401154cc1f3942cf6d)  
+- [2020-09-21-不写文档你就输了](https://www.ershicimi.com/p/57becbd5e457c97b13e79e97ed3b9f36)  
+- [2020-09-21-那些害死Haskell的，也会害死Rust](https://www.ershicimi.com/p/e2986f21620a7d5989a8e18c84b160e6)  
+- [2020-09-21-「有奖调研」你的服务器操作系统和数据库要升级/迁移吗？｜-活动推荐](https://www.ershicimi.com/p/15a9a30e6a75ea9948037817fc22fe1a)  
 - [2020-09-20-前端周报：Vue-3.0正式发布，代号One-Piece；JS库-Moment.js-进入维护状态；](https://www.ershicimi.com/p/035ed01d8d34e601ec55b38d9650954f)  
 - [2020-09-20-云开发引领腾讯前后端创新技术实践-|-InfoQ-公开课](https://www.ershicimi.com/p/56d304a16948ac3cfed7f52f06764306)  
 - [2020-09-18-React-从入门到放弃，一个关于网页速度的故事](https://www.ershicimi.com/p/c3ec2a57dccdd8ec1df746b959d63cfb)  
@@ -442,6 +442,8 @@
 </summary>
 
 
+- [2020-09-23-只会-Vue-的那些人，现在怎么样了？](https://www.ershicimi.com/p/536b210708036dd48250c8efbf73fa4f) ![](assets/new.png)  
+- [2020-09-22-什么是架构师的必备技能？](https://www.ershicimi.com/p/cbfadd286db216e046ee07a30ea9e3e0) ![](assets/new.png)  
 - [2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865)  
 - [2020-09-21-【软件更新】Vue-3.0正式发布！](https://www.ershicimi.com/p/ff3ab6acc82fef8cf1b194ee18e1b6fd)  
 - [2020-09-18-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/f0ac7d68cd16f83fce1277903806e13e)  
@@ -460,8 +462,6 @@
 - [2020-09-05-【软件更新】TypeScript-4.0正式发布！](https://www.ershicimi.com/p/8a2344e4dbdfdd6502c56441d6475911)  
 - [2020-09-04-玩转-CSS-变量](https://www.ershicimi.com/p/bdd8b63bd0d792fe265f3f929077dda8)  
 - [2020-09-04-【软件更新】Angular-10.1.0-发布](https://www.ershicimi.com/p/7f437d9518bea0e4fbb6719faacd1927)  
-- [2020-09-01-1000+个项目的10大JavaScript错误](https://www.ershicimi.com/p/ff3c43131acc2b4f5aa34bc2a1af2152)  
-- [2020-08-31-为什么大家都在吹捧Python，大厂高薪敲门砖了解一下](https://www.ershicimi.com/p/25ecfff8e0bfd6d8520f074924adc40f)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
