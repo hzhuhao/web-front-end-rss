@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-23 12:00:25，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-23 18:00:26，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,7 +26,7 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -101,6 +101,14 @@
 </summary>
 
 
+- [2020-09-23-Swift正式登录Windows：苹果跨平台语言值几钱？](https://www.ershicimi.com/p/abfbe6cc2509687972d967bdb975b24a) ![](assets/new.png)  
+- [2020-09-23-怎样解决JavaScript生态中第三方安全性问题？](https://www.ershicimi.com/p/9f36b7564c977e9a1c13870f2fe372c3) ![](assets/new.png)  
+- [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff) ![](assets/new.png)  
+- [2020-09-22-TypeScript之父：JS不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://www.ershicimi.com/p/12f40e59f24eef811a0183612d6e683b) ![](assets/new.png)  
+- [2020-09-22-Moment.js-进入维护状态：周下载量超-1200-万的-JS-库已经完成了它的使命](https://www.ershicimi.com/p/795d3321367981401154cc1f3942cf6d) ![](assets/new.png)  
+- [2020-09-21-不写文档你就输了](https://www.ershicimi.com/p/57becbd5e457c97b13e79e97ed3b9f36) ![](assets/new.png)  
+- [2020-09-21-那些害死Haskell的，也会害死Rust](https://www.ershicimi.com/p/e2986f21620a7d5989a8e18c84b160e6) ![](assets/new.png)  
+- [2020-09-21-「有奖调研」你的服务器操作系统和数据库要升级/迁移吗？｜-活动推荐](https://www.ershicimi.com/p/15a9a30e6a75ea9948037817fc22fe1a) ![](assets/new.png)  
 - [2020-09-20-前端周报：Vue-3.0正式发布，代号One-Piece；JS库-Moment.js-进入维护状态；](https://www.ershicimi.com/p/035ed01d8d34e601ec55b38d9650954f)  
 - [2020-09-20-云开发引领腾讯前后端创新技术实践-|-InfoQ-公开课](https://www.ershicimi.com/p/56d304a16948ac3cfed7f52f06764306)  
 - [2020-09-18-React-从入门到放弃，一个关于网页速度的故事](https://www.ershicimi.com/p/c3ec2a57dccdd8ec1df746b959d63cfb)  
@@ -113,14 +121,6 @@
 - [2020-09-16-二面阿里惨败，全是算法基本功的问题···-|-极客大学](https://www.ershicimi.com/p/1161efd6eef0d1853a266e2fc1919888)  
 - [2020-09-15-10个不那么知名但很实用的Web-API](https://www.ershicimi.com/p/f7901bcaf5ccab448ad14e7c5306a5a8)  
 - [2020-09-15-重写软件的-6-大风险](https://www.ershicimi.com/p/6592768259795661693ea1dae69b7217)  
-- [2020-09-14-Flash-终将谢幕：微软将于年底停止对-Flash-的支持](https://www.ershicimi.com/p/d5c57237974a28051de674bdfcef41ab)  
-- [2020-09-14-面试-100-多位软件工程师后的建议](https://www.ershicimi.com/p/e4068a4851c1fc23414277c8dec4b64c)  
-- [2020-09-14-架构评审，技术总监怒了，丢给我400个大厂架构案例，先研究透了！-|-极客大学](https://www.ershicimi.com/p/9ddc93f475c2287782588506bbdfa750)  
-- [2020-09-13-前端周报：华为鸿蒙OS-2.0-发布，年底发布手机版；字节跳动正在与美国政府协商，避免出售核心技术；](https://www.ershicimi.com/p/e33f220c44211dce47d96003f97a1963)  
-- [2020-09-12-来呀，一起造一个简易React！-|-极客大学](https://www.ershicimi.com/p/950e9acf0a06cddf9b8dfb3ae76389ee)  
-- [2020-09-11-尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/7859ef90ce3ea34ab85fd27051242012)  
-- [2020-09-11-如何保持对个人项目的热情？](https://www.ershicimi.com/p/fc7f649a54b567f0e6d9bc7b54dd1117)  
-- [2020-09-11-云原生时代，数字化转型潮下的微服务之道｜活动推荐](https://www.ershicimi.com/p/40620f96569c7bb6d25d3b66fdd1f6e9)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,12 +380,12 @@
 </summary>
 
 
-- [2020-09-23-2020-年-9-月程序员工资统计，新出炉！](https://www.ershicimi.com/p/9ecd63993cb285df30bb5c294960f2a4) ![](assets/new.png)  
-- [2020-09-23-我脸都问绿了！二面竟然被问到MySQL时间类型datetime、bigint及timestamp的查](https://www.ershicimi.com/p/cdfc27d31ed35f7ad9db0d7375946a34) ![](assets/new.png)  
-- [2020-09-23-那些只有几行，但是却非常牛逼的代码！](https://www.ershicimi.com/p/7a30726ac25e8f3913d58d58bbf6f26c) ![](assets/new.png)  
-- [2020-09-22-2020微服务不宕机设计指南内部版](https://www.ershicimi.com/p/a6277dba7d023fa9edcaac264ae5859e) ![](assets/new.png)  
-- [2020-09-22-真会玩！竟然可以这样用IDEA通过数据库生成lombok版的POJO...](https://www.ershicimi.com/p/085937a676083c95243fd32f5e81bccc) ![](assets/new.png)  
-- [2020-09-22-一个-Spring-Boot-项目该包含哪些？](https://www.ershicimi.com/p/331d47d067ef05c4778a105ebe122f88) ![](assets/new.png)  
+- [2020-09-23-2020-年-9-月程序员工资统计，新出炉！](https://www.ershicimi.com/p/9ecd63993cb285df30bb5c294960f2a4)  
+- [2020-09-23-我脸都问绿了！二面竟然被问到MySQL时间类型datetime、bigint及timestamp的查](https://www.ershicimi.com/p/cdfc27d31ed35f7ad9db0d7375946a34)  
+- [2020-09-23-那些只有几行，但是却非常牛逼的代码！](https://www.ershicimi.com/p/7a30726ac25e8f3913d58d58bbf6f26c)  
+- [2020-09-22-2020微服务不宕机设计指南内部版](https://www.ershicimi.com/p/a6277dba7d023fa9edcaac264ae5859e)  
+- [2020-09-22-真会玩！竟然可以这样用IDEA通过数据库生成lombok版的POJO...](https://www.ershicimi.com/p/085937a676083c95243fd32f5e81bccc)  
+- [2020-09-22-一个-Spring-Boot-项目该包含哪些？](https://www.ershicimi.com/p/331d47d067ef05c4778a105ebe122f88)  
 - [2020-09-21-同事通过接私活年入60W，他常用19个私活平台汇总！](https://www.ershicimi.com/p/cb34e49060031e55cfd464d0a09ff804)  
 - [2020-09-21-有个程序员老公有多爽？？？](https://www.ershicimi.com/p/482f5affed4a278d3f7d90269ee9b32f)  
 - [2020-09-21-骚操作：不重启-JVM，如何替换掉已经加载的类？](https://www.ershicimi.com/p/58c7fa2d4632516c5c4438c5fcc93c70)  
