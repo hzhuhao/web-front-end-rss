@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-25 22:00:30，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-26 06:00:25，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -25,7 +25,7 @@
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
@@ -70,10 +70,10 @@
 </summary>
 
 
-- [2020-09-25-面试最后一题是-CSS，答错后薪资降了-2k…](https://www.ershicimi.com/p/ce497699375d6ed71ea7210d64559b6a) ![](assets/new.png)  
-- [2020-09-25-全面分析toString与valueOf，并随手解决掉几道大厂必备面试题](https://www.ershicimi.com/p/cd99b749e50e46c5294522bb3c13c101) ![](assets/new.png)  
-- [2020-09-24-一位摸金校尉决定转行前端](https://www.ershicimi.com/p/80945f9ab6b747f2999986d2de06f7af) ![](assets/new.png)  
-- [2020-09-24-面向对象：一屋，二人，三餐，四季～-简单质朴即可](https://www.ershicimi.com/p/9a2770c2b51e4568d98dc3de1dca3152) ![](assets/new.png)  
+- [2020-09-25-面试最后一题是-CSS，答错后薪资降了-2k…](https://www.ershicimi.com/p/ce497699375d6ed71ea7210d64559b6a)  
+- [2020-09-25-全面分析toString与valueOf，并随手解决掉几道大厂必备面试题](https://www.ershicimi.com/p/cd99b749e50e46c5294522bb3c13c101)  
+- [2020-09-24-一位摸金校尉决定转行前端](https://www.ershicimi.com/p/80945f9ab6b747f2999986d2de06f7af)  
+- [2020-09-24-面向对象：一屋，二人，三餐，四季～-简单质朴即可](https://www.ershicimi.com/p/9a2770c2b51e4568d98dc3de1dca3152)  
 - [2020-09-23-学多少返多少-|“-Web全栈架构师”0门槛就业涨薪计划](https://www.ershicimi.com/p/24802fd9209abb6bfa98c789b7d53d12)  
 - [2020-09-23-搞懂-JWT-这个知识点](https://www.ershicimi.com/p/81fd3a93bea88dca984c62204cbe581e)  
 - [2020-09-22-移动端-1px-问题解决方案](https://www.ershicimi.com/p/5f24af2b1f782c82828c8c40aaf1a5d9)  
@@ -101,11 +101,11 @@
 </summary>
 
 
-- [2020-09-25-从初级工程师发展到高级工程师，需要跨越的鸿沟](https://www.ershicimi.com/p/68e867198d1e74ebeea9a70f9dda7288) ![](assets/new.png)  
-- [2020-09-25-接手了严重过时的软件，到底是该逐步重构还是摧毁重写呢？](https://www.ershicimi.com/p/d373fe5953594fa8970649ccfdca144f) ![](assets/new.png)  
-- [2020-09-25-字节跳动-2-2-级别的-Go-工程师究竟有多强？-|-极客大学](https://www.ershicimi.com/p/ddca157dc2a532cfceb39c7dc8021225) ![](assets/new.png)  
-- [2020-09-24-Flutter-完成全平台制霸：实现-Windows-应用支持](https://www.ershicimi.com/p/4109c764b6c6a0e000a40a078161a9d5) ![](assets/new.png)  
-- [2020-09-24-程序员最害怕的五种语言](https://www.ershicimi.com/p/465e84cf58b6cc1bcdfdf1ad9675dddf) ![](assets/new.png)  
+- [2020-09-25-从初级工程师发展到高级工程师，需要跨越的鸿沟](https://www.ershicimi.com/p/68e867198d1e74ebeea9a70f9dda7288)  
+- [2020-09-25-接手了严重过时的软件，到底是该逐步重构还是摧毁重写呢？](https://www.ershicimi.com/p/d373fe5953594fa8970649ccfdca144f)  
+- [2020-09-25-字节跳动-2-2-级别的-Go-工程师究竟有多强？-|-极客大学](https://www.ershicimi.com/p/ddca157dc2a532cfceb39c7dc8021225)  
+- [2020-09-24-Flutter-完成全平台制霸：实现-Windows-应用支持](https://www.ershicimi.com/p/4109c764b6c6a0e000a40a078161a9d5)  
+- [2020-09-24-程序员最害怕的五种语言](https://www.ershicimi.com/p/465e84cf58b6cc1bcdfdf1ad9675dddf)  
 - [2020-09-23-Swift正式登录Windows：苹果跨平台语言值几钱？](https://www.ershicimi.com/p/abfbe6cc2509687972d967bdb975b24a)  
 - [2020-09-23-怎样解决JavaScript生态中第三方安全性问题？](https://www.ershicimi.com/p/9f36b7564c977e9a1c13870f2fe372c3)  
 - [2020-09-23-从5G技术突破、音视频探索到通信架构演进，你想看的通信领域全场景都在这里了-|-活动推荐](https://www.ershicimi.com/p/686453dc537d9a8dfab186f462d2a2ff)  
@@ -349,6 +349,8 @@
 </summary>
 
 
+- [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) ![](assets/new.png)  
+- [2020-09-21-ES2020-中-Javascript-10-个你应该知道的新功能](https://www.ershicimi.com/p/5dec6d20ee78a818f19d8e2aeb310632) ![](assets/new.png)  
 - [2020-09-17-怎么才算是“精通”Vue?](https://www.ershicimi.com/p/ddf67c92911c4ff28123c7ce2c89a519)  
 - [2020-09-10-前端开发，不用-JavaScript-行不行？！](https://www.ershicimi.com/p/df2b119d2fb1ece7ba365be9a4c4016b)  
 - [2020-09-08-Deno-1.3.3-发布](https://www.ershicimi.com/p/9f9c0e885889c4d20a4dc2d8d42bc54f)  
@@ -367,8 +369,6 @@
 - [2020-08-13-GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24)  
 - [2020-08-10-这-2-个坏习惯，让你离大厂越来越远](https://www.ershicimi.com/p/275ad2fd95cd8464f6628b9bf93a9595)  
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2)  
-- [2020-08-07-嘿，不要给-async-函数写那么多-try/catch-了](https://www.ershicimi.com/p/67f13fb99fb127529c0b01659333e9e4)  
-- [2020-08-03-哥们别闹，你离资深前端还远着呢](https://www.ershicimi.com/p/8622926e340dfe4280f19700b1ee842d)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

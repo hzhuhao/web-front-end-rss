@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-25 22:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 06:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -119,6 +119,7 @@
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
 - [2020-01-03-奇舞周刊第-334-期:-llhttp-是如何使-Node.js-性能翻倍的？](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590897&idx=1&sn=f12379a4d63aa834ad3d920039d35147&chksm=8891de95bfe657835c4f27126c0494520c3b16ee2db877aad2d5d4d5f8634e675b4a60b457d7&scene=27#wechat_redirect) 
 - [2020-01-02-Docker-搭建你的第一个-Node-项目到服务器](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650590893&idx=1&sn=0aa80a7c9549af69a64332bb92a94804&chksm=8891de89bfe6579f09d3cd9a116b63ae2a90409d4e9a8b4359a61fca32d955c47f096b02d5b2&scene=27#wechat_redirect) 
+- [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
 - [2020-03-19-JavaScript-执行效率不行？因为你还没用-V8丨极客时间](https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f) 
 - [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
