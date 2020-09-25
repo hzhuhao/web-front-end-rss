@@ -13100,6 +13100,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 126 期）：内卷化是什么？",
+        "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html",
+        "date": "2020-09-25"
+      },
+      {
         "title": "科技爱好者周刊（第 125 期）：数字人民币要取代谁",
         "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html",
         "date": "2020-09-18"
@@ -17066,6 +17071,21 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "推荐：一款Java开源的Springboot 即时通讯 IM 聊天系统",
+        "link": "https://www.ershicimi.com/p/72c4b5edfdea72c615542caf3b357270",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "后端服务慢成狗？试试这 7 招！",
+        "link": "https://www.ershicimi.com/p/4b18d42730fe1056ca2d8cf559995f10",
+        "date": "2020-09-24"
+      },
+      {
+        "title": "又一款程序员摸鱼神器来了？上班也可以在VSCode看股票 & 基金实时数据",
+        "link": "https://www.ershicimi.com/p/64c920d3b1e6c00408633b71ab8bfe17",
+        "date": "2020-09-24"
+      },
       {
         "title": "2020 年 9 月程序员工资统计，新出炉！",
         "link": "https://www.ershicimi.com/p/9ecd63993cb285df30bb5c294960f2a4",
