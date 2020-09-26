@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-26 18:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-26 22:00:26，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -24,11 +24,11 @@
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -318,6 +318,10 @@
 </summary>
 
 
+- [2020-09-26-从-12.9K-Star-的前端开源项目我学到了啥？](https://www.ershicimi.com/p/e7aea123c2400c36adc37d46e80f8809) ![](assets/new.png)  
+- [2020-09-26-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/b743d76d14c466b5f93aeda80a8d40d9) ![](assets/new.png)  
+- [2020-09-26-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6fb3278beb00b66c46cb7028b6586fab) ![](assets/new.png)  
+- [2020-09-25-奇舞周刊第-365-期：Vue-3.0-正式版本发布](https://www.ershicimi.com/p/72f17b5d2701f79e098732a3b6211682) ![](assets/new.png)  
 - [2020-09-23-或许这就是下一代组件库](https://www.ershicimi.com/p/a9b5dc5e27bd8a18f96e336df9f1d876)  
 - [2020-09-23-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/86b9f6f076b97e172f13bc22b3ad38e6)  
 - [2020-09-23-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/7f933ab2785c9841e90703aecfe4e87e)  
@@ -334,10 +338,6 @@
 - [2020-09-16-聊聊前端监控—错误监控篇](https://www.ershicimi.com/p/37785245e0f7630bc4ceed905036bdd1)  
 - [2020-09-16-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/26b9dcc8dd9ca440f80e501919d81479)  
 - [2020-09-16-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/fa27200ef9381bbe00ec6dae8182934c)  
-- [2020-09-15-网站图标开发指南](https://www.ershicimi.com/p/3d61780def49dcbce0f685fed5e8f7c6)  
-- [2020-09-15-奇舞团招实习生啦，这次产品和开发都要！](https://www.ershicimi.com/p/a48d8a1b941f2229b244877853d80c32)  
-- [2020-09-15-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6fb589a59ea7047ec9b0cc99150c51c3)  
-- [2020-09-14-谈谈-MySQL-的-JSON-数据类型操作](https://www.ershicimi.com/p/7beecef0113be070b25eaf2ec4284dcb)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -442,7 +442,7 @@
 </summary>
 
 
-- [2020-09-24-Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）](https://www.ershicimi.com/p/b65d310f9584aa86046042c85b9af0aa) ![](assets/new.png)  
+- [2020-09-24-Vue最全知识点（基础到进阶，覆盖vue3.0，持续更新整理，欢迎补充讨论）](https://www.ershicimi.com/p/b65d310f9584aa86046042c85b9af0aa)  
 - [2020-09-23-只会-Vue-的那些人，现在怎么样了？](https://www.ershicimi.com/p/536b210708036dd48250c8efbf73fa4f)  
 - [2020-09-22-什么是架构师的必备技能？](https://www.ershicimi.com/p/cbfadd286db216e046ee07a30ea9e3e0)  
 - [2020-09-21-就是要让你搞懂Nginx，这篇就够了！](https://www.ershicimi.com/p/ec29462460c9afbe8c168ba02d024865)  

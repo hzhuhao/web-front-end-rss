@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-26 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-26 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -173,6 +173,7 @@
 - [2016-11-15-XCel-项目总结---Electron-与-Vue-的性能优化](https://aotu.io/notes/2016/11/15/xcel/) 
 - [2016-10-13-Vue2.0-新手完全填坑攻略——从环境搭建到展示豆瓣的电影列表](https://aotu.io/notes/2016/10/13/vue2/) 
 - [2016-07-25-Vue实战－邮箱签名设计项目](https://aotu.io/notes/2016/07/25/vuejs-mailsign/) 
+- [2020-09-25-奇舞周刊第-365-期：Vue-3.0-正式版本发布](https://www.ershicimi.com/p/72f17b5d2701f79e098732a3b6211682) 
 - [2020-09-05-TypeScript-4.1-新特性：字符串模板类型，Vuex-终于有救了？](https://www.ershicimi.com/p/9d357a42e2be3541124163b68520ec80) 
 - [2020-09-01-Vue-Composition-API-陷阱](https://www.ershicimi.com/p/2803a18549e9516648ab6f334a327b39) 
 - [2020-03-16-Vuex调用接口的三个阶段](https://www.ershicimi.com/p/fd163fbed488bf0a41be3cac1be11694) 
