@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-27 12:00:25，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-27 18:00:25，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,7 +26,7 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -101,6 +101,7 @@
 </summary>
 
 
+- [2020-09-27-前端周报：Flutter实现Windows支持；Windows-XP源代码泄露，微软：正在调查；苹果](https://www.ershicimi.com/p/8256320f1913e57c662b5461a900d811) ![](assets/new.png)  
 - [2020-09-25-从初级工程师发展到高级工程师，需要跨越的鸿沟](https://www.ershicimi.com/p/68e867198d1e74ebeea9a70f9dda7288)  
 - [2020-09-25-接手了严重过时的软件，到底是该逐步重构还是摧毁重写呢？](https://www.ershicimi.com/p/d373fe5953594fa8970649ccfdca144f)  
 - [2020-09-25-字节跳动-2-2-级别的-Go-工程师究竟有多强？-|-极客大学](https://www.ershicimi.com/p/ddca157dc2a532cfceb39c7dc8021225)  
@@ -120,7 +121,6 @@
 - [2020-09-18-Node.js开发人员都应该知道的12个有用的包](https://www.ershicimi.com/p/d0547fa0a40cf921b2419cc8322d1e6b)  
 - [2020-09-18-华为前端开发课来啦，7节课带你入门前端-|-活动推荐](https://www.ershicimi.com/p/0cf4d465b4e03ded153ee962567c2dfd)  
 - [2020-09-17-JavaScript错误处理完全指南](https://www.ershicimi.com/p/0532403a364e3251d21ec2d149d60c4c)  
-- [2020-09-17-报告下载-|-数字化转型中的人才紧缺问题，有救吗？](https://www.ershicimi.com/p/fe77a140054ce64796390c0fe20ec154)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,12 +380,12 @@
 </summary>
 
 
-- [2020-09-26-实战：上亿数据如何秒查](https://www.ershicimi.com/p/2ccf8fe38009582d9a407523040ef6ab) ![](assets/new.png)  
-- [2020-09-26-干货-|-978页BAT等大厂大数据、算法落地经验pdf下载！](https://www.ershicimi.com/p/8763f12e65d1c8027c86d8114b51bf6f) ![](assets/new.png)  
-- [2020-09-26-CTO-写的代码，真是绝了](https://www.ershicimi.com/p/ad06ab744343a60ef9d400f91b7d9da0) ![](assets/new.png)  
-- [2020-09-25-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/4813363bd7395275267f50297dbd08d6) ![](assets/new.png)  
-- [2020-09-25-干掉RESTful：GraphQL真香！](https://www.ershicimi.com/p/edd9f7448cd2ffcc470e598f57f231ae) ![](assets/new.png)  
-- [2020-09-25-为什么谷歌要执行严格的代码编写规范？](https://www.ershicimi.com/p/941e7ebec55bd0bc521eef90d2f3098f) ![](assets/new.png)  
+- [2020-09-26-实战：上亿数据如何秒查](https://www.ershicimi.com/p/2ccf8fe38009582d9a407523040ef6ab)  
+- [2020-09-26-干货-|-978页BAT等大厂大数据、算法落地经验pdf下载！](https://www.ershicimi.com/p/8763f12e65d1c8027c86d8114b51bf6f)  
+- [2020-09-26-CTO-写的代码，真是绝了](https://www.ershicimi.com/p/ad06ab744343a60ef9d400f91b7d9da0)  
+- [2020-09-25-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/4813363bd7395275267f50297dbd08d6)  
+- [2020-09-25-干掉RESTful：GraphQL真香！](https://www.ershicimi.com/p/edd9f7448cd2ffcc470e598f57f231ae)  
+- [2020-09-25-为什么谷歌要执行严格的代码编写规范？](https://www.ershicimi.com/p/941e7ebec55bd0bc521eef90d2f3098f)  
 - [2020-09-24-推荐：一款Java开源的Springboot-即时通讯-IM-聊天系统](https://www.ershicimi.com/p/72c4b5edfdea72c615542caf3b357270)  
 - [2020-09-24-后端服务慢成狗？试试这-7-招！](https://www.ershicimi.com/p/4b18d42730fe1056ca2d8cf559995f10)  
 - [2020-09-24-又一款程序员摸鱼神器来了？上班也可以在VSCode看股票-&-基金实时数据](https://www.ershicimi.com/p/64c920d3b1e6c00408633b71ab8bfe17)  

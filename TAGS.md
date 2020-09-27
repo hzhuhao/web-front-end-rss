@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-09-27 12:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-27 18:00:25。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -261,6 +261,7 @@
 - [【前端早读课】【图书】PWA开发实战](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230717&idx=2&sn=73da69aaf659b01ebde21f607c3d4306#wechat_redirect)
 - [【前端早读课】【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect)
 - [【前端大全】PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect)
+- [【前端之巅】前端周报：Flutter实现Windows支持；Windows-XP源代码泄露，微软：正在调查；苹果](https://www.ershicimi.com/p/8256320f1913e57c662b5461a900d811)
 - [【前端之巅】Flutter-完成全平台制霸：实现-Windows-应用支持](https://www.ershicimi.com/p/4109c764b6c6a0e000a40a078161a9d5)
 - [【前端之巅】Flutter-在阿里淘系的体系化建设和业务实践](https://www.ershicimi.com/p/df277c7c2479b10b89231f01e349caf2)
 - [【前端之巅】InAppWebView：Flutter中WebView的真正力量](https://www.ershicimi.com/p/3aa103acacd25c33743bc43198158231)
@@ -273,7 +274,6 @@
 - [【前端之巅】拉美独角兽Nubank：为什么用Flutter做移动开发很酷？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492742&idx=1&sn=7fb335c0b64c17d414061328b761dbfb&chksm=f95251c5ce25d8d3d0401ff0688be6e4f14d58463dd9b3d70ce6b03c7b9e84de025b88757f79&scene=27#wechat_redirect)
 - [【前端之巅】蚂蚁财富Flutter工程化实践](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492634&idx=2&sn=d8f36501bb77910f06f9ff38d4eddd75&chksm=f9525159ce25d84fe6cf067611c31707c466ee5fcfa4064e74691b2d4e65436cb9bf01c15b6a&scene=27#wechat_redirect)
 - [【前端之巅】SwiftUI对Flutter到底意味着什么？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492441&idx=1&sn=b3010bc40f48aa0248d5baa8cfc7da5d&chksm=f952561ace25df0cc4338eae049d1e142543840d15349ee65036fbd76898d847b25e164c25b6#rd)
-- [【前端之巅】Flutter和iOS之间的Battle：手势交互听谁的？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492417&idx=1&sn=dcc685f06827384e77487264dcd9046d&chksm=f9525602ce25df146cb0d58f0de9ac4951c489178b7b0ce9a437c32e917e87f71fd5697eb696&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/dev-mobile.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
