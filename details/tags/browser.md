@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-27 22:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-29 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -179,6 +179,7 @@
 - [2020-01-19-前端安全—你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591159&idx=1&sn=68abf498d83a849f9fb2099f1642df20&chksm=8891df93bfe6568550651cb5a32f3c0d30585818dae614772298b4c9913cb4fd2bfd3241f8f5&scene=27#wechat_redirect) 
 - [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-13-Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba) 
+- [2020-09-28-抱歉！没有这-29-款插件的-Chrome-是没有灵魂的](https://www.ershicimi.com/p/ad5ba4bf1e6e0344f52baf557474017b) 
 - [2020-09-25-架构师必备！英特尔携手Science联袂推出“架构师成长计划”，来自阿里云、AWS、百度、顺丰、平安](https://www.ershicimi.com/p/4813363bd7395275267f50297dbd08d6) 
 - [2020-09-18-Spring的Controller是单例还是多例，怎么保证并发的安全](https://www.ershicimi.com/p/d346e212487a1af677518b5f84d337b9) 
 - [2020-09-10-你的登录接口真的安全吗？](https://www.ershicimi.com/p/54d8eb30b82e852d7ca0bd06fb0cf6f5) 
