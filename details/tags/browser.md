@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-09-29 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-09-30 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,6 +42,7 @@
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) 
 - [2018-09-27-【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect) 
 - [2018-09-19-【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect) 
+- [2020-09-28-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/f522bf2d586b7fe9750584799f23aa24) 
 - [2020-09-02-浏览器中的跨域问题与-CORS](https://www.ershicimi.com/p/a482ed736bf2f7834bbbab4735420960) 
 - [2020-08-13-内存怪兽-Chrome-被黑的最惨一次](https://www.ershicimi.com/p/dbe05e010ee40c3db60919a7ef934cbb) 
 - [2020-08-01-新的跨域策略：使用COOP、COEP为浏览器创建更安全的环境](https://www.ershicimi.com/p/059544e728bc55ec7de845c792a719eb) 
@@ -195,6 +196,7 @@
 - [2019-12-30-4-种数据库缓存最终一致性的优缺点对比？最终选择方案四！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489465&idx=1&sn=2f3a74f8ba7056e973c0657a6492f652&chksm=ea5cdadfdd2b53c9dd49126c962029b4548a0c8a2fc3e96e06de8271b1fa00ccd05e0ded5857&scene=27#wechat_redirect) 
 - [2019-12-29-每个公司都会用的短-URL-服务，怎么设计与实现？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=2&sn=b1b7f944fb39fd1cdfeae2d6b6099dca&chksm=ea5cdad7dd2b53c18db3a7872c7d0e1f40a7c9c1a46356761d8557e8dbdfd2bd0851d12246b0&scene=27#wechat_redirect) 
 - [2019-12-24-去宇宙条面试被问：HashMap-为什么线程不安全？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=3&sn=f0fdc5e0f9b13249bb67020d018238f1&chksm=ea5cdaeddd2b53fbe3f84d4822fcc8f1b83c79e0d979e9c35d58e07a2cd5b7afe7f2425a8bd0&scene=27#wechat_redirect) 
+- [2020-09-28-英特尔与Science联袂推出“架构师成长计划”，顶级架构师的修炼手册｜-Q推荐](https://www.ershicimi.com/p/72ee0cab22df0112d581baeadd02816e) 
 - [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733) 
 - [2020-08-25-Chrome开发者工具的11个高级使用技巧](https://www.ershicimi.com/p/8adab04cfeb6a2825d1afeaceb5fa141) 
 - [2020-08-24-target-=-“_-blank”背后的隐藏漏洞](https://www.ershicimi.com/p/8aea060e252affcf9ee57f387fd27213) 

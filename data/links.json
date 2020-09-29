@@ -3862,6 +3862,21 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "iframe 接班人-微前端框架 qiankun 在中后台系统实践",
+        "link": "https://www.ershicimi.com/p/3bf6162476cc938e30ae86321cd46b57",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "与后端分手，做独立自强的前端人！",
+        "link": "https://www.ershicimi.com/p/6903a2861ee8d090378a6d11f8dfd482",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "从 4 个面试题了解「浏览器的垃圾回收」",
+        "link": "https://www.ershicimi.com/p/f522bf2d586b7fe9750584799f23aa24",
+        "date": "2020-09-28"
+      },
+      {
         "title": "不用try catch，如何机智的捕获错误",
         "link": "https://www.ershicimi.com/p/716bed77e920b2a9724460dcd55a2dcd",
         "date": "2020-09-27"
@@ -18933,6 +18948,106 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "跑步总伤到膝盖？来试试明星教练的方法 ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/fa20b1fff3bffb650f6c2b46207a160e",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "那些害死Haskell的，也会害死Rust",
+        "link": "https://www.ershicimi.com/p/c3d6e71a5a3d9ac819227b1348cb6026",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "保险新基建，科技新生代，看众安极客黑马超强Battle",
+        "link": "https://www.ershicimi.com/p/09b6adef274e9a5e6588edda08b97477",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "破浪而来：与华为同行的开发者们",
+        "link": "https://www.ershicimi.com/p/87ce0d1925f9b63db190aa90597840fe",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "Flutter 完成全平台制霸：实现 Windows 应用支持",
+        "link": "https://www.ershicimi.com/p/f29cf83e4d8ef0441df5077c6e07f74c",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "同步与异步Python有何不同？",
+        "link": "https://www.ershicimi.com/p/288551f07b1e6a39912ff279e7bb4a3c",
+        "date": "2020-09-29"
+      },
+      {
+        "title": "程序员技术选型：写Go还是Java？",
+        "link": "https://www.ershicimi.com/p/1fe85941a4de92570ce47a97075331bd",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "华为开源，为何能成？",
+        "link": "https://www.ershicimi.com/p/83bdd399da2b9756a94c470a1929267c",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "面对企业变革，终是中台扛下了所有 ｜ QCon+",
+        "link": "https://www.ershicimi.com/p/30117e8678cf91b06a922bd47a4c4f5c",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "英特尔与Science联袂推出“架构师成长计划”，顶级架构师的修炼手册｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/72ee0cab22df0112d581baeadd02816e",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "中间件业务在网易轻舟容器平台的性能调优实践",
+        "link": "https://www.ershicimi.com/p/3ce8a4164f290e9423a8931c495bee71",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "对开发者而言，GitHub Profile可能是比简历更好的求职利器",
+        "link": "https://www.ershicimi.com/p/8eaff225f99f2efb27e06277c75d47e7",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "绩效不及格被劝退，50岁IT技术主管删除公司全部存储信息后被判入狱",
+        "link": "https://www.ershicimi.com/p/3ae123069db98dbe376ede0c78cc9f82",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "百度开源进行时",
+        "link": "https://www.ershicimi.com/p/7fa9f14b51373f42bcb72c14ce384e6a",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "来自D2iQ的拷问：你真的需要K8s？｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/ea2977d8b345344e91d6f13b27f860a1",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "Swift正式登录Windows：苹果跨平台语言值几钱？",
+        "link": "https://www.ershicimi.com/p/ddb30728f74a13b5fd7226f4e5fa9594",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "特斯拉又“翻车”？测试假人当场撞飞，官方称：断章取义",
+        "link": "https://www.ershicimi.com/p/8cdade7884d9ee4cd46e3a639ee5eaf3",
+        "date": "2020-09-27"
+      },
+      {
+        "title": "华为松山湖在建项目发生火灾；清北毕业生争抢网易严选“养生体验员”岗位；雪佛龙要求6万名员工卸载微信",
+        "link": "https://www.ershicimi.com/p/a88ff597754fc6cef86a4ecc4f242566",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "闲鱼服务端架构演进历程",
+        "link": "https://www.ershicimi.com/p/01e2d51ef075343d9b4a4fdff085de2f",
+        "date": "2020-09-26"
+      },
+      {
+        "title": "亿级数据库毫秒级查询？看完这一篇，海量数据赋能你也行",
+        "link": "https://www.ershicimi.com/p/e1a95933013d7123f4083d2c5509664a",
+        "date": "2020-09-26"
+      },
       {
         "title": "Zoom你学不会！",
         "link": "https://www.ershicimi.com/p/1779f2be908fa16c8263ee11896cb680",

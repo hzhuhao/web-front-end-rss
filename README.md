@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-09-29 18:00:26，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-09-30 06:00:24，:rocket: 更新条数: +23， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -27,7 +27,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -70,6 +70,9 @@
 </summary>
 
 
+- [2020-09-29-iframe-接班人-微前端框架-qiankun-在中后台系统实践](https://www.ershicimi.com/p/3bf6162476cc938e30ae86321cd46b57) ![](assets/new.png)  
+- [2020-09-28-与后端分手，做独立自强的前端人！](https://www.ershicimi.com/p/6903a2861ee8d090378a6d11f8dfd482) ![](assets/new.png)  
+- [2020-09-28-从-4-个面试题了解「浏览器的垃圾回收」](https://www.ershicimi.com/p/f522bf2d586b7fe9750584799f23aa24) ![](assets/new.png)  
 - [2020-09-27-不用try-catch，如何机智的捕获错误](https://www.ershicimi.com/p/716bed77e920b2a9724460dcd55a2dcd)  
 - [2020-09-26-Vue-项目中各种痛点问题及方案](https://www.ershicimi.com/p/36bbda5d7a06170cc64a072482759efa)  
 - [2020-09-25-面试最后一题是-CSS，答错后薪资降了-2k…](https://www.ershicimi.com/p/ce497699375d6ed71ea7210d64559b6a)  
@@ -87,9 +90,6 @@
 - [2020-09-18-只会用-Vue-不够！还要知其所以然](https://www.ershicimi.com/p/8e778a8a866896a76395b0ddec4b7968)  
 - [2020-09-18-如何搭建一个完美的组件库？](https://www.ershicimi.com/p/246a23c4b08fe3f14711bcdf0f3ee70f)  
 - [2020-09-17-“对不起，因为本国法律要求，我不能合并你的代码”](https://www.ershicimi.com/p/82e154dc9823edffaa4bc082e4f285d4)  
-- [2020-09-17-React-谁都会，你的优势在哪里？](https://www.ershicimi.com/p/9f10b739e85242e5606d425eb5fc6684)  
-- [2020-09-16-WebAssembly-被誉为第-4-种-web-语言？](https://www.ershicimi.com/p/a334f331a63cc515858ec73209193651)  
-- [2020-09-16-重新认识Typescript-|-Vue3源码系列](https://www.ershicimi.com/p/a95717f5d9c5526228edc04b1772651a)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -101,9 +101,9 @@
 </summary>
 
 
-- [2020-09-28-React-Hooks-还不如类？](https://www.ershicimi.com/p/c2ce523cd476365d7dac90540eac42c3) ![](assets/new.png)  
-- [2020-09-28-因为忽视技术债，我们差点造成几十亿美元的损失](https://www.ershicimi.com/p/13d0049dd469315b191ffce9c91e8e2f) ![](assets/new.png)  
-- [2020-09-28-winter自述：打造Toy-React背后的故事-|-极客大学](https://www.ershicimi.com/p/132602690a3b300ba5b2f0b639edf58b) ![](assets/new.png)  
+- [2020-09-28-React-Hooks-还不如类？](https://www.ershicimi.com/p/c2ce523cd476365d7dac90540eac42c3)  
+- [2020-09-28-因为忽视技术债，我们差点造成几十亿美元的损失](https://www.ershicimi.com/p/13d0049dd469315b191ffce9c91e8e2f)  
+- [2020-09-28-winter自述：打造Toy-React背后的故事-|-极客大学](https://www.ershicimi.com/p/132602690a3b300ba5b2f0b639edf58b)  
 - [2020-09-27-前端周报：Flutter实现Windows支持；Windows-XP源代码泄露，微软：正在调查；苹果](https://www.ershicimi.com/p/8256320f1913e57c662b5461a900d811)  
 - [2020-09-25-从初级工程师发展到高级工程师，需要跨越的鸿沟](https://www.ershicimi.com/p/68e867198d1e74ebeea9a70f9dda7288)  
 - [2020-09-25-接手了严重过时的软件，到底是该逐步重构还是摧毁重写呢？](https://www.ershicimi.com/p/d373fe5953594fa8970649ccfdca144f)  
@@ -411,26 +411,26 @@
 </summary>
 
 
-- [2020-09-14-Zoom你学不会！](https://www.ershicimi.com/p/1779f2be908fa16c8263ee11896cb680)  
-- [2020-09-14-尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/d95588bb2dfefaac5fb01927aca21dad)  
-- [2020-09-14-揭秘阿里、华为、字节跳动等大厂技术实践案例，免费学超强避坑指南！｜-QCon+](https://www.ershicimi.com/p/1337928a69615e88db5fbe66282bb2f7)  
-- [2020-09-14-微软高分课来了，教你从“小白”进阶为“专家”，共建数字化企业-｜-Q推荐](https://www.ershicimi.com/p/d369ed8ceb2648e5f432ac23673457b4)  
-- [2020-09-14-区块链是一个不知道要解决什么问题的解决方案](https://www.ershicimi.com/p/cdff74ce774272f3f914ee634a4be2cb)  
-- [2020-09-13-生意太好！台积电启动史上最大规模招聘](https://www.ershicimi.com/p/1553c8b0370e9ce0a831b14c25100b81)  
-- [2020-09-13-重写的六大风险](https://www.ershicimi.com/p/8f96baec7d339b3b709b9f3055f15792)  
-- [2020-09-13-快速上手-WebAssembly-应用开发：Emscripten-使用入门](https://www.ershicimi.com/p/24a75bab72a754f5979a09258fdac86b)  
-- [2020-09-13-最受欢迎的10大Angular技巧](https://www.ershicimi.com/p/681cb2c04c4565733cb3417d01562815)  
-- [2020-09-12-传华为将包机从台湾运回所有芯片；16岁少年为逃课策划8次DDoS攻击；马云称再创业不会选互联网丨Q资](https://www.ershicimi.com/p/e0bbeb3bbdf3571840f57fa5924d4bf8)  
-- [2020-09-12-Istio进入1.7版本，Service-Mesh-落地还有什么障碍？](https://www.ershicimi.com/p/feb18dde6f784d0f0610c59947bceba6)  
-- [2020-09-12-30分钟搭建属于自己的口罩AI检测模型-｜-Q推荐](https://www.ershicimi.com/p/fe8b4f64793f190d7d57205e4c689937)  
-- [2020-09-12-面试技巧：如何就软件规模化进行讨论](https://www.ershicimi.com/p/5db59763fe291966c0f17a1b772b533d)  
-- [2020-09-11-亏损7年，找对CTO，VIPKID终于赚钱了](https://www.ershicimi.com/p/c206a84a311821d5231cf209488b20f0)  
-- [2020-09-11-东方证券企业架构之技术架构转型实践](https://www.ershicimi.com/p/e597b88aeb173c34a5a4749cb389e668)  
-- [2020-09-11-看看你的领域普及机器学习了吗？](https://www.ershicimi.com/p/97d740e3616731a280a7f24342d5dd12)  
-- [2020-09-11-从实践出发，如何正确应用微服务架构？｜-Q推荐](https://www.ershicimi.com/p/ae5388256c76bfb041264141711d901a)  
-- [2020-09-11-阿里巴巴在安全容器上的实践与探索](https://www.ershicimi.com/p/15263b9c7bfa8957e16eab3bd8964733)  
-- [2020-09-10-刚刚，华为鸿蒙OS-2.0-发布，18点18分开放源代码](https://www.ershicimi.com/p/642ae1e369fa2eab72992b1b87631aff)  
-- [2020-09-10-大公司、新技术、真问题！QCon+案例研习社正式上线](https://www.ershicimi.com/p/3c34589dbe7424b36c87a8c9a00b22df)  
+- [2020-09-29-跑步总伤到膝盖？来试试明星教练的方法-｜-极客时间](https://www.ershicimi.com/p/fa20b1fff3bffb650f6c2b46207a160e) ![](assets/new.png)  
+- [2020-09-29-那些害死Haskell的，也会害死Rust](https://www.ershicimi.com/p/c3d6e71a5a3d9ac819227b1348cb6026) ![](assets/new.png)  
+- [2020-09-29-保险新基建，科技新生代，看众安极客黑马超强Battle](https://www.ershicimi.com/p/09b6adef274e9a5e6588edda08b97477) ![](assets/new.png)  
+- [2020-09-29-破浪而来：与华为同行的开发者们](https://www.ershicimi.com/p/87ce0d1925f9b63db190aa90597840fe) ![](assets/new.png)  
+- [2020-09-29-Flutter-完成全平台制霸：实现-Windows-应用支持](https://www.ershicimi.com/p/f29cf83e4d8ef0441df5077c6e07f74c) ![](assets/new.png)  
+- [2020-09-29-同步与异步Python有何不同？](https://www.ershicimi.com/p/288551f07b1e6a39912ff279e7bb4a3c) ![](assets/new.png)  
+- [2020-09-28-程序员技术选型：写Go还是Java？](https://www.ershicimi.com/p/1fe85941a4de92570ce47a97075331bd) ![](assets/new.png)  
+- [2020-09-28-华为开源，为何能成？](https://www.ershicimi.com/p/83bdd399da2b9756a94c470a1929267c) ![](assets/new.png)  
+- [2020-09-28-面对企业变革，终是中台扛下了所有-｜-QCon+](https://www.ershicimi.com/p/30117e8678cf91b06a922bd47a4c4f5c) ![](assets/new.png)  
+- [2020-09-28-英特尔与Science联袂推出“架构师成长计划”，顶级架构师的修炼手册｜-Q推荐](https://www.ershicimi.com/p/72ee0cab22df0112d581baeadd02816e) ![](assets/new.png)  
+- [2020-09-28-中间件业务在网易轻舟容器平台的性能调优实践](https://www.ershicimi.com/p/3ce8a4164f290e9423a8931c495bee71) ![](assets/new.png)  
+- [2020-09-28-对开发者而言，GitHub-Profile可能是比简历更好的求职利器](https://www.ershicimi.com/p/8eaff225f99f2efb27e06277c75d47e7) ![](assets/new.png)  
+- [2020-09-27-绩效不及格被劝退，50岁IT技术主管删除公司全部存储信息后被判入狱](https://www.ershicimi.com/p/3ae123069db98dbe376ede0c78cc9f82) ![](assets/new.png)  
+- [2020-09-27-百度开源进行时](https://www.ershicimi.com/p/7fa9f14b51373f42bcb72c14ce384e6a) ![](assets/new.png)  
+- [2020-09-27-来自D2iQ的拷问：你真的需要K8s？｜-Q推荐](https://www.ershicimi.com/p/ea2977d8b345344e91d6f13b27f860a1) ![](assets/new.png)  
+- [2020-09-27-Swift正式登录Windows：苹果跨平台语言值几钱？](https://www.ershicimi.com/p/ddb30728f74a13b5fd7226f4e5fa9594) ![](assets/new.png)  
+- [2020-09-27-特斯拉又“翻车”？测试假人当场撞飞，官方称：断章取义](https://www.ershicimi.com/p/8cdade7884d9ee4cd46e3a639ee5eaf3) ![](assets/new.png)  
+- [2020-09-26-华为松山湖在建项目发生火灾；清北毕业生争抢网易严选“养生体验员”岗位；雪佛龙要求6万名员工卸载微信](https://www.ershicimi.com/p/a88ff597754fc6cef86a4ecc4f242566) ![](assets/new.png)  
+- [2020-09-26-闲鱼服务端架构演进历程](https://www.ershicimi.com/p/01e2d51ef075343d9b4a4fdff085de2f) ![](assets/new.png)  
+- [2020-09-26-亿级数据库毫秒级查询？看完这一篇，海量数据赋能你也行](https://www.ershicimi.com/p/e1a95933013d7123f4083d2c5509664a) ![](assets/new.png)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
