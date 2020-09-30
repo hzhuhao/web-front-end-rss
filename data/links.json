@@ -13190,6 +13190,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 127 期）：未来人人开发软件，几乎没人编码",
+        "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html",
+        "date": "2020-09-30"
+      },
+      {
         "title": "科技爱好者周刊（第 126 期）：内卷化是什么？",
         "link": "http://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html",
         "date": "2020-09-25"
@@ -14610,6 +14615,46 @@
     "title": "Aotu-|-凹凸实验室",
     "link": "/atom.xml",
     "items": [
+      {
+        "title": "使用 Vue3 开发小程序",
+        "link": "https://aotu.io/notes/2020/09/28/taro-vue3/",
+        "date": "2020-09-28"
+      },
+      {
+        "title": "京喜小程序首页无障碍优化实践",
+        "link": "https://aotu.io/notes/2020/09/21/jx-weapp-accessible/",
+        "date": "2020-09-21"
+      },
+      {
+        "title": "规范GIT代码提交信息&自动化版本管理",
+        "link": "https://aotu.io/notes/2020/09/10/git-commit-control/",
+        "date": "2020-09-10"
+      },
+      {
+        "title": "硬核看房利器——Web 全景的实现",
+        "link": "https://aotu.io/notes/2020/09/08/web-vr/",
+        "date": "2020-09-08"
+      },
+      {
+        "title": "羚珑视频编辑器开发总结",
+        "link": "https://aotu.io/notes/2020/09/01/video-editor-summary/",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "Taro 版本升级权威指南",
+        "link": "https://aotu.io/notes/2020/08/31/taro-versions/",
+        "date": "2020-09-01"
+      },
+      {
+        "title": "三分钟打造七夕专属的插件化脚手架",
+        "link": "https://aotu.io/notes/2020/08/25/valentine-plugin-cli/",
+        "date": "2020-08-25"
+      },
+      {
+        "title": "京喜小程序体验评分优化实践",
+        "link": "https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/",
+        "date": "2020-08-25"
+      },
       {
         "title": "Design Tokens —— 设计与开发碰撞的火花",
         "link": "https://aotu.io/notes/2020/08/18/design-tokens/",
