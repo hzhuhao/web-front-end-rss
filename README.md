@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-09 12:00:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-11 06:00:14，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,8 +19,8 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -163,6 +163,7 @@
 </summary>
 
 
+- [2020-10-10-Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/) ![](assets/new.png)  
 - [2020-10-06-flex:0-flex:1-flex:none-flex:auto应该在什么场景下使用？](https://www.zhangxinxu.com/wordpress/2020/10/css-flex-0-1-none/)  
 - [2020-09-13-研究了下Houdini中的CSS-Layout-API](https://www.zhangxinxu.com/wordpress/2020/09/houdini-css-layout-api/)  
 - [2020-09-06-文字沿着不规则路径排版布局的实现](https://www.zhangxinxu.com/wordpress/2020/09/svg-text-around-path/)  
@@ -182,7 +183,6 @@
 - [2020-05-08-借助CSS-mask遮罩显著优化PNG图片的尺寸](https://www.zhangxinxu.com/wordpress/2020/05/css-mask-compress-png-image/)  
 - [2020-04-20-CSS-conic-gradient锥形渐变简介](https://www.zhangxinxu.com/wordpress/2020/04/css-conic-gradient/)  
 - [2020-04-16-ES6-Math方法和Number新特性简介](https://www.zhangxinxu.com/wordpress/2020/04/es6-math-number/)  
-- [2020-04-12-了解CSS-min/max/clamp数学函数](https://www.zhangxinxu.com/wordpress/2020/04/css-min-max-clamp/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2020-10-09-科技爱好者周刊（第-128-期）：这个社会是否正在变成"赛博朋克"？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html) ![](assets/new.png)  
+- [2020-10-09-科技爱好者周刊（第-128-期）：这个社会是否正在变成"赛博朋克"？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html)  
 - [2020-09-30-科技爱好者周刊（第-127-期）：未来人人开发软件，几乎没人编码](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html)  
 - [2020-09-25-科技爱好者周刊（第-126-期）：内卷化是什么？](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html)  
 - [2020-09-18-科技爱好者周刊（第-125-期）：数字人民币要取代谁](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html)  
