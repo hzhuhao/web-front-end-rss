@@ -14646,6 +14646,21 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "Flutter 性能优化：tree shaking 和延迟加载",
+        "link": "https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/",
+        "date": "2020-10-13"
+      },
+      {
+        "title": "Flutter 性能优化：图片占位符、预缓存和禁用导航过渡动画",
+        "link": "https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/",
+        "date": "2020-10-13"
+      },
+      {
+        "title": "Flutter 性能优化：打造高性能 widget",
+        "link": "https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/",
+        "date": "2020-10-13"
+      },
+      {
         "title": "使用 Vue3 开发小程序",
         "link": "https://aotu.io/notes/2020/09/28/taro-vue3/",
         "date": "2020-09-28"
