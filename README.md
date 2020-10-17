@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-16 12:00:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-18 06:00:14，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,8 +19,8 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
@@ -163,6 +163,7 @@
 </summary>
 
 
+- [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) ![](assets/new.png)  
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)  
 - [2020-10-11-快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)  
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)  
@@ -182,7 +183,6 @@
 - [2020-06-07-CSS-gap属性进化史](https://www.zhangxinxu.com/wordpress/2020/06/css-gap-history/)  
 - [2020-06-03-SVG任意图形和path路径的面积计算](https://www.zhangxinxu.com/wordpress/2020/06/svg-area-calc/)  
 - [2020-05-27-CSS-columns轻松实现两端对齐布局效果](https://www.zhangxinxu.com/wordpress/2020/05/css-columns-justify-content/)  
-- [2020-05-12-快速了解CSS-display:flow-root声明](https://www.zhangxinxu.com/wordpress/2020/05/css-display-flow-root/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2020-10-16-科技爱好者周刊（第-129-期）：创业的凸函数和凹函数](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html) ![](assets/new.png)  
+- [2020-10-16-科技爱好者周刊（第-129-期）：创业的凸函数和凹函数](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-129.html)  
 - [2020-10-09-科技爱好者周刊（第-128-期）：这个社会是否正在变成"赛博朋克"？](http://www.ruanyifeng.com/blog/2020/10/weekly-issue-128.html)  
 - [2020-09-30-科技爱好者周刊（第-127-期）：未来人人开发软件，几乎没人编码](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html)  
 - [2020-09-25-科技爱好者周刊（第-126-期）：内卷化是什么？](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html)  

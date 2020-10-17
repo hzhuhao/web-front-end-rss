@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-16 12:00:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-10-18 06:00:14。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,7 @@
 </summary>
 
 
+- [【张鑫旭-鑫空间-鑫生活】2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-11-快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/) 
