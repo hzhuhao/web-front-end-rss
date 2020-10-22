@@ -14666,6 +14666,16 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "从浏览器渲染层面解析css3动效优化原理",
+        "link": "https://aotu.io/notes/2020/10/13/css3-optimization/",
+        "date": "2020-10-13"
+      },
+      {
+        "title": "你可能不知道的Animation动画技巧与细节",
+        "link": "https://aotu.io/notes/2020/10/13/animation-skill/",
+        "date": "2020-10-13"
+      },
+      {
         "title": "Flutter 性能优化：tree shaking 和延迟加载",
         "link": "https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/",
         "date": "2020-10-13"

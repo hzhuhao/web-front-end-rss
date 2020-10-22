@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-10-22 06:00:17，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-10-22 18:00:16，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,11 +19,11 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
@@ -163,7 +163,7 @@
 </summary>
 
 
-- [2020-10-22-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/) ![](assets/new.png)  
+- [2020-10-22-ES6模板字符串在HTML模板渲染中的应用](https://www.zhangxinxu.com/wordpress/2020/10/es6-html-template-literal/)  
 - [2020-10-20-如何让文字作为CSS背景图片显示？](https://www.zhangxinxu.com/wordpress/2020/10/text-as-css-background-image/)  
 - [2020-10-17-SVG-feTurbulence滤镜深入介绍](https://www.zhangxinxu.com/wordpress/2020/10/svg-feturbulence/)  
 - [2020-10-11-HTML-enterkeyhint设置iOS/Android键盘enter键](https://www.zhangxinxu.com/wordpress/2020/10/html-enterkeyhint-ios-iphone/)  
@@ -287,6 +287,8 @@
 </summary>
 
 
+- [2020-10-13-从浏览器渲染层面解析css3动效优化原理](https://aotu.io/notes/2020/10/13/css3-optimization/) ![](assets/new.png)  
+- [2020-10-13-你可能不知道的Animation动画技巧与细节](https://aotu.io/notes/2020/10/13/animation-skill/) ![](assets/new.png)  
 - [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/)  
 - [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/)  
 - [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/)  
@@ -305,8 +307,6 @@
 - [2020-07-23-如何使用Grid-Layout](https://aotu.io/notes/2020/07/23/how-to-use-grid-layout/)  
 - [2020-07-21-618前端竞品分析研究（互动篇）](https://aotu.io/notes/2020/07/21/618-what-taobao-do/)  
 - [2020-07-17-Webpack原理浅析](https://aotu.io/notes/2020/07/17/webpack-analize/)  
-- [2020-07-13-京喜前端自动化测试之路小程序篇](https://aotu.io/notes/2020/07/13/jx-automated-testing-weapp/)  
-- [2020-07-01-Taro-3-正式版发布：开放式跨端跨框架解决方案](https://aotu.io/notes/2020/06/30/taro-3-0-0/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
