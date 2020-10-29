@@ -12503,6 +12503,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "介绍一种全新的clipPath Sprites小图标技术",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/10/clip-path-sprites-icon/",
+        "date": "2020-10-30"
+      },
+      {
         "title": "细说iOS Safari下focus的行为",
         "link": "https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/",
         "date": "2020-10-26"
