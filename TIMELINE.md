@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-10-30 12:00:17。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-11-02 22:00:20。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -18,7 +18,7 @@
 <td><a href="#2020-08">08月</a></td>
 <td><a href="#2020-09">09月</a></td>
 <td><a href="#2020-10">10月</a></td>
-<td>11月</td>
+<td><a href="#2020-11">11月</a></td>
 <td>12月</td>
 </tr>
 
@@ -115,6 +115,17 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2020-11">
+ 2020-11
+</summary>
+
+
+- [【阮一峰的网络日志】2020-11-02-微信小程序入门教程之四：API-使用](http://www.ruanyifeng.com/blog/2020/11/wechat-miniprogram-tutorial-part-four.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2020-10">
