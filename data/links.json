@@ -14711,6 +14711,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "EaseJs中regX/regY的用法",
+        "link": "https://aotu.io/notes/2020/11/05/easeJs-center-setting/",
+        "date": "2020-11-05"
+      },
+      {
         "title": "node.js 沙盒逃逸分析",
         "link": "https://aotu.io/notes/2020/10/28/node-sandbox-escape-analysis/",
         "date": "2020-10-28"
