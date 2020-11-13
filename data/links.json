@@ -14721,6 +14721,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "MongoDB 副本集之入门篇",
+        "link": "https://aotu.io/notes/2020/11/12/mongo-replica-set/",
+        "date": "2020-11-12"
+      },
+      {
         "title": "EaseJs中regX/regY的用法",
         "link": "https://aotu.io/notes/2020/11/05/easeJs-center-setting/",
         "date": "2020-11-05"

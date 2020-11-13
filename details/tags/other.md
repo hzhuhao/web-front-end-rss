@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-11-13 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-13 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -929,6 +929,7 @@
 - [2018-12-25-新范式小群效应设计-实例分析“淘宝合伙人&京东好玩节Ⅰ”](https://jdc.jd.com/archives/212815) 
 - [2018-10-19-可以说的秘密-那些我们该讨论的前端加密方法](https://jdc.jd.com/archives/212773) 
 - [2018-09-13-不依赖wifi热点的移动web真机测试解决方案Carefree](https://jdc.jd.com/archives/212702) 
+- [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) 
 - [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) 
 - [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) 
 - [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/) 
