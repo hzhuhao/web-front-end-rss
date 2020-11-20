@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2020-11-18 08:00:18。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2020-11-20 12:00:16。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -308,8 +308,8 @@
 - [【前端之巅】框架的游戏：2019年JavaScript流行趋势](https://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng%3D%3D&mid=2247491255&idx=1&sn=5f97376750ea01da20e3986f11d794f8#rd)
 - [【Taobao-FED-|-淘宝前端团队】Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/taofed/do71ct/fccon-share-taobao-3d-appandgame)
 - [【Taobao-FED-|-淘宝前端团队】Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/2019/08/08/fccon-share-taobao-3d-appandgame/)
+- [【阮一峰的网络日志】科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)
 - [【阮一峰的网络日志】Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html)
-- [【阮一峰的网络日志】家用游戏机的历史：世嘉、任天堂和-PlayStation-的故事](http://www.ruanyifeng.com/blog/2020/04/game-console-history.html)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>
