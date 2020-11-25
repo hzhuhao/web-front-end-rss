@@ -14746,6 +14746,11 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "React 入门儿",
+        "link": "https://aotu.io/notes/2020/11/12/react-indoor/",
+        "date": "2020-11-12"
+      },
+      {
         "title": "MongoDB 副本集之入门篇",
         "link": "https://aotu.io/notes/2020/11/12/mongo-replica-set/",
         "date": "2020-11-12"
