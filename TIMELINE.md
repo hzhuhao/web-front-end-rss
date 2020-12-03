@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-03 12:00:11。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,8 @@
 </summary>
 
 
+- [【前端大全】2020-12-02-“别更新了学不动了”-开发者千万别有这样的心态](https://www.ershicimi.com/p/774119879a3357abec6a73d2bea97eb4) 
+- [【前端大全】2020-12-02-Webpack-的异步加载原理及分包策略](https://www.ershicimi.com/p/1370f499953370a92a305a888916d7b0) 
 - [【前端大全】2020-12-01-用了-5-年-React，我不喜欢-Vue.js-的地方有这些](https://www.ershicimi.com/p/440b599f3e98cb372435f73db84d6d80) 
 - [【前端大全】2020-12-01-HTTP接口调试利器！4.8万Star的HTTP命令行客户端！](https://www.ershicimi.com/p/5c4a2190c8945c8eadf76526358cc366) 
 - [【张鑫旭-鑫空间-鑫生活】2020-12-01-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
