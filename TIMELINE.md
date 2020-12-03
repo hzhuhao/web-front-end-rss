@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 12:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-03 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -128,6 +128,11 @@
 - [【互联网架构师】2020-12-01-看看人家架构师那消息队列中间件玩的，那叫一个优雅！](https://www.ershicimi.com/p/e3be9a09f87253fae396f5bd32df7648) 
 - [【互联网架构师】2020-12-01-介绍一款-API-敏捷开发工具](https://www.ershicimi.com/p/87453a3481a86aa75986aa5f9f35c6ff) 
 - [【互联网架构师】2020-12-01-查询提升-200-倍，ClickHouse-你值得拥有！](https://www.ershicimi.com/p/b12170f712f3d9c2ed6552bd652983e3) 
+- [【InfoQ】2020-12-02-2020年度一线大厂创新技术实践盘点-｜-QCon](https://www.ershicimi.com/p/907d0ce79f225973a4c84c30e2210ed4) 
+- [【InfoQ】2020-12-02-斥资-277-亿美元收购-Slack，Salesforce-这一次的目标是微软？](https://www.ershicimi.com/p/b6b6197f5552522611997ada4255c7a3) 
+- [【InfoQ】2020-12-02-漫画：什么是-“智能供应链”-？-|-Q推荐](https://www.ershicimi.com/p/1210c6139f942a605fbf09748d86cfb3) 
+- [【InfoQ】2020-12-02-在生产环境用了一个月Go语言，我有4点体会](https://www.ershicimi.com/p/baed3dd02e6c3828c4d3246c36136afa) 
+- [【InfoQ】2020-12-02-20个常用的JavaScript简写技巧](https://www.ershicimi.com/p/7b8abddbaa883e084571e05bf249344d) 
 - [【InfoQ】2020-12-01-李运华：从-P5-到-P9-的晋升攻略｜极客时间](https://www.ershicimi.com/p/f518e5ddaf9c706bf2493117caaf494f) 
 - [【InfoQ】2020-12-01-对话何宝宏：别高估技术的短期影响，也别低估技术的长期影响](https://www.ershicimi.com/p/6db1b937d88e8a4ab246b18f365a6007) 
 - [【InfoQ】2020-12-01-腾讯云面向泛娱乐行业的六大技术实践](https://www.ershicimi.com/p/3e75267ca70b5e053bb6a09d8c8e5ccb) 

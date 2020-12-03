@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-02 12:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-03 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1473,6 +1473,10 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-12-02-2020年度一线大厂创新技术实践盘点-｜-QCon](https://www.ershicimi.com/p/907d0ce79f225973a4c84c30e2210ed4) 
+- [2020-12-02-斥资-277-亿美元收购-Slack，Salesforce-这一次的目标是微软？](https://www.ershicimi.com/p/b6b6197f5552522611997ada4255c7a3) 
+- [2020-12-02-漫画：什么是-“智能供应链”-？-|-Q推荐](https://www.ershicimi.com/p/1210c6139f942a605fbf09748d86cfb3) 
+- [2020-12-02-在生产环境用了一个月Go语言，我有4点体会](https://www.ershicimi.com/p/baed3dd02e6c3828c4d3246c36136afa) 
 - [2020-12-01-李运华：从-P5-到-P9-的晋升攻略｜极客时间](https://www.ershicimi.com/p/f518e5ddaf9c706bf2493117caaf494f) 
 - [2020-12-01-对话何宝宏：别高估技术的短期影响，也别低估技术的长期影响](https://www.ershicimi.com/p/6db1b937d88e8a4ab246b18f365a6007) 
 - [2020-12-01-腾讯云面向泛娱乐行业的六大技术实践](https://www.ershicimi.com/p/3e75267ca70b5e053bb6a09d8c8e5ccb) 
