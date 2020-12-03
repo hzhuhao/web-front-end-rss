@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-03 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -93,6 +93,7 @@
 - [2016-11-14-Webpack-实用配置技巧](https://aotu.io/notes/2016/11/14/webpack-tips/) 
 - [2016-09-22-通过-Babel-使用-ES6-的-import](https://aotu.io/notes/2016/09/22/es6-import-with-babel/) 
 - [2016-02-26-使用npm-scripts替代gulp](https://aotu.io/notes/2016/02/26/use-npm-script-instead-of-gulp/) 
+- [2020-12-02-如何用-Babel-为代码自动引入依赖](https://www.ershicimi.com/p/aac8ad30578b892c3275f8e9a83a4ac2) 
 - [2020-11-25-一文带你快速上手Rollup](https://www.ershicimi.com/p/55dfb026f34fd70cb8e82888b500457d) 
 - [2020-08-29-看了就懂的-AST-和-Babel-工作流程](https://www.ershicimi.com/p/513c95d0a3d66fee1cfe93fe2d3b671b) 
 - [2020-07-28-Babel是如何读懂JS代码的](https://www.ershicimi.com/p/6839be7c5003bf445e2db4bd6f72658a) 
