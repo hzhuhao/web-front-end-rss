@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-04 08:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -147,6 +147,11 @@
 - [【互联网架构师】2020-12-01-看看人家架构师那消息队列中间件玩的，那叫一个优雅！](https://www.ershicimi.com/p/e3be9a09f87253fae396f5bd32df7648) 
 - [【互联网架构师】2020-12-01-介绍一款-API-敏捷开发工具](https://www.ershicimi.com/p/87453a3481a86aa75986aa5f9f35c6ff) 
 - [【互联网架构师】2020-12-01-查询提升-200-倍，ClickHouse-你值得拥有！](https://www.ershicimi.com/p/b12170f712f3d9c2ed6552bd652983e3) 
+- [【InfoQ】2020-12-03-不想浪费时代机遇，这群内心狂野的程序员用5年时间把产品卖到了全球](https://www.ershicimi.com/p/6e9d90531c12d2a19af9737243fdfe74) 
+- [【InfoQ】2020-12-03-“云原生”趋势下的架构演进，及架构师的关注点分离](https://www.ershicimi.com/p/2db025d97d6067cd49312b47c8bc6a5a) 
+- [【InfoQ】2020-12-03-云原生2.0时代，厦门企业开启数字化转型的实践探索](https://www.ershicimi.com/p/814606103707fb89a64ec55ac87616d2) 
+- [【InfoQ】2020-12-03-投身蓝海，拥抱生态：百度大牛带你玩转小程序](https://www.ershicimi.com/p/aff9749b33aa7f306f9978c0d6dc8b18) 
+- [【InfoQ】2020-12-03-揭秘《财富》-1000强公司的技术栈](https://www.ershicimi.com/p/76ed46c43ea9233782fffc925b60efc3) 
 - [【InfoQ】2020-12-02-2020年度一线大厂创新技术实践盘点-｜-QCon](https://www.ershicimi.com/p/907d0ce79f225973a4c84c30e2210ed4) 
 - [【InfoQ】2020-12-02-斥资-277-亿美元收购-Slack，Salesforce-这一次的目标是微软？](https://www.ershicimi.com/p/b6b6197f5552522611997ada4255c7a3) 
 - [【InfoQ】2020-12-02-漫画：什么是-“智能供应链”-？-|-Q推荐](https://www.ershicimi.com/p/1210c6139f942a605fbf09748d86cfb3) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-04 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-04 08:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -131,6 +131,7 @@
 - [2020-09-18-奇舞周刊第-364-期：小程序视角下同构方案思考](https://www.ershicimi.com/p/d9f7bae52064d258394b7f01ad3a7a36) 
 - [2020-08-27-强烈推荐的几个微信小程序开发小技巧，简单又实用](https://www.ershicimi.com/p/8459c8b15bedaf00fed9fa8535dd48e9) 
 - [2020-03-03-重磅！微信官方推出-Web-前端和小程序统一框架](https://www.ershicimi.com/p/fafa51d57615018ca009e957ce9ea338) 
+- [2020-12-03-投身蓝海，拥抱生态：百度大牛带你玩转小程序](https://www.ershicimi.com/p/aff9749b33aa7f306f9978c0d6dc8b18) 
 - [2020-11-26-同样的能力，为什么开发小程序要比App简单100倍？](https://www.ershicimi.com/p/3a245b0a234a8299dc96a16b5e90824c) 
 - [2020-03-04-重磅！微信官方推出-Web-前端和小程序统一框架](https://www.ershicimi.com/p/0b756a4e4c8a38ee3881ca474101fbf0) 
 - [2020-01-17-小程序--滑动右侧字母索引](https://juejin.im/post/5e216227f265da3e491a4a98) 
