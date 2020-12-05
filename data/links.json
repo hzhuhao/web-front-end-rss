@@ -12798,6 +12798,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "原来DOM还有toggleAttribute这样的JS API",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/",
+        "date": "2020-12-06"
+      },
+      {
         "title": "尝试使用JS IntersectionObserver让标题和导航联动",
         "link": "https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/",
         "date": "2020-12-01"
@@ -17991,6 +17996,21 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "滴滴到底是怎么计费的？滴滴计价系统架构首次揭秘",
+        "link": "https://www.ershicimi.com/p/fd309648ea5471a0b87b06c77304049c",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "CTO 指名点姓让我带头冲锋，熬了一个通宵，终于把Redis中7千万个Key删完了",
+        "link": "https://www.ershicimi.com/p/bf211240df7c9dd711c6dcbda1cf0be4",
+        "date": "2020-12-05"
+      },
+      {
+        "title": "太牛逼了！这个开源项目，可以把我从视频中移除！",
+        "link": "https://www.ershicimi.com/p/2bab087cd25447120f536e94d84dc9b1",
+        "date": "2020-12-05"
+      },
       {
         "title": "为什么牛逼的程序员都不用 “ ! = null \" 做判空？",
         "link": "https://www.ershicimi.com/p/f91a0bf4f8c79bff85942bd6cf62f228",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-05 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-06 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -133,6 +133,7 @@
 - [【前端之巅】2020-12-02-飞算、ONES、华为都在怎样提升高效研发？来QCon大会给你答案-|-活动推荐](https://www.ershicimi.com/p/5911f57f9bc7c604a950bbefc66ec7fb) 
 - [【前端之巅】2020-12-01-无人维护？官方打脸：Element-UI-for-Vue-3.0-来了！](https://www.ershicimi.com/p/5a7f95490940f11145c39ea4d085874f) 
 - [【前端之巅】2020-12-01-使用简单代码在Android-Jetpack-Compose中开发绘图应用](https://www.ershicimi.com/p/a0b1762ce8f1adbec89dd8de49756e3e) 
+- [【张鑫旭-鑫空间-鑫生活】2020-12-06-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/) 
 - [【张鑫旭-鑫空间-鑫生活】2020-12-01-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/) 
 - [【阮一峰的网络日志】2020-12-04-科技爱好者周刊（第-136-期）：利特伍德奇迹定律](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html) 
 - [【奇舞周刊】2020-12-03-谈谈前端水印](https://www.ershicimi.com/p/81a00641be1ec73511b895d5c1b8606b) 
@@ -143,6 +144,9 @@
 - [【奇舞周刊】2020-12-02-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/ab3c30121c0b0ae78cb99854b8dfb22d) 
 - [【前端日刊】2020-12-03-这一次彻底弄懂React-Router路由原理](https://www.ershicimi.com/p/91483570618fec8b1325f5aa8e1da6ae) 
 - [【前端日刊】2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
+- [【互联网架构师】2020-12-05-滴滴到底是怎么计费的？滴滴计价系统架构首次揭秘](https://www.ershicimi.com/p/fd309648ea5471a0b87b06c77304049c) 
+- [【互联网架构师】2020-12-05-CTO-指名点姓让我带头冲锋，熬了一个通宵，终于把Redis中7千万个Key删完了](https://www.ershicimi.com/p/bf211240df7c9dd711c6dcbda1cf0be4) 
+- [【互联网架构师】2020-12-05-太牛逼了！这个开源项目，可以把我从视频中移除！](https://www.ershicimi.com/p/2bab087cd25447120f536e94d84dc9b1) 
 - [【互联网架构师】2020-12-04-为什么牛逼的程序员都不用-“-!-=-null-"-做判空？](https://www.ershicimi.com/p/f91a0bf4f8c79bff85942bd6cf62f228) 
 - [【互联网架构师】2020-12-04-干掉-Swagger-丝袜哥，试试这个新工具！](https://www.ershicimi.com/p/8bb3d144767a78b510802e8a39598e2d) 
 - [【互联网架构师】2020-12-04-MySQL-是怎么死锁的？](https://www.ershicimi.com/p/548863f596e3f8621856fcccf0b9097f) 
