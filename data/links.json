@@ -8309,6 +8309,46 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "纯 Dart 的挑战：美团外卖 Flutter 动态化实践",
+        "link": "https://www.ershicimi.com/p/a500006868d6e35166629cba5d567825",
+        "date": "2020-12-07"
+      },
+      {
+        "title": "基于Vite搭建Electron+Vue3的开发环境",
+        "link": "https://www.ershicimi.com/p/af51be56741ab415afb7ad1418a4e7b4",
+        "date": "2020-12-07"
+      },
+      {
+        "title": "华为云开发者沙龙汇集大众智慧，ModelArts点亮企业未来 | 活动推荐",
+        "link": "https://www.ershicimi.com/p/65a5a86e9c0c7774cce3aac13f30bac9",
+        "date": "2020-12-07"
+      },
+      {
+        "title": "前端人，咱别盲目追求新技术 | 直播推荐",
+        "link": "https://www.ershicimi.com/p/4c4c1f6dcdda44bf473508bfc9dce19e",
+        "date": "2020-12-06"
+      },
+      {
+        "title": "前端周报：Element UI for Vue 3.0来了；Win 10 或将于明年原生支持安卓应用",
+        "link": "https://www.ershicimi.com/p/e85420f822a61bf6157caf1738584730",
+        "date": "2020-12-06"
+      },
+      {
+        "title": "GraphQL是API的未来，但它并非银弹",
+        "link": "https://www.ershicimi.com/p/c86dcafab75045f83d79655cb59e090c",
+        "date": "2020-12-04"
+      },
+      {
+        "title": "解密智联招聘的大前端架构 Ada",
+        "link": "https://www.ershicimi.com/p/2b4dc0ef765cb25ad951d63d2fe54fc6",
+        "date": "2020-12-04"
+      },
+      {
+        "title": "竟然还用“土方法”学前端，怪不得你写不出来！ | 活动推荐",
+        "link": "https://www.ershicimi.com/p/442c496471e623c7340d3444ec44f043",
+        "date": "2020-12-04"
+      },
+      {
         "title": "NPM 7：这才算是真正的更新",
         "link": "https://www.ershicimi.com/p/2b8c09b383367819c9ceff69417a3412",
         "date": "2020-12-02"
@@ -19938,6 +19978,56 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "Tiktok出售期限已到，总统大选曲线救字节？",
+        "link": "https://www.ershicimi.com/p/4c98d3b81497a5f63368c23b297a39ca",
+        "date": "2020-12-07"
+      },
+      {
+        "title": "数仓实时化改造：Hudi on Flink 在顺丰的实践应用",
+        "link": "https://www.ershicimi.com/p/bf9d54c9b39dd560f58da2f0776626e7",
+        "date": "2020-12-07"
+      },
+      {
+        "title": "抖音、达达、得物、哈啰等企业在前端、高可用、中台上的实践 ｜ QCon",
+        "link": "https://www.ershicimi.com/p/98edec95f7139eaa3667e8f63976aae0",
+        "date": "2020-12-07"
+      },
+      {
+        "title": "你的企业还在为AI落地头疼吗？华为云ModelArts Pro助你一臂之力 ｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/6b258d1f9a5c334c794ec1deacf9e925",
+        "date": "2020-12-07"
+      },
+      {
+        "title": "这10个 Python 技能，被低估了",
+        "link": "https://www.ershicimi.com/p/50e0895e7c2cb0991592333e7ba1b31f",
+        "date": "2020-12-07"
+      },
+      {
+        "title": "云原生时代，Java危矣？",
+        "link": "https://www.ershicimi.com/p/9e85ee51d39c8170b35e4e4e1e673aa4",
+        "date": "2020-12-06"
+      },
+      {
+        "title": "2020 年终盘点，看看这一年你都错过了哪些“大事件”｜ Q 福利",
+        "link": "https://www.ershicimi.com/p/a7e08c06ceb766b21000cf905f260cb5",
+        "date": "2020-12-06"
+      },
+      {
+        "title": "端云智能协同如何守望企业的数字化未来？",
+        "link": "https://www.ershicimi.com/p/30d9fdb2ceed8a7e76bd0ca082913bf0",
+        "date": "2020-12-06"
+      },
+      {
+        "title": "华为云开发者沙龙汇集大众智慧，ModelArts点亮企业未来",
+        "link": "https://www.ershicimi.com/p/dd54022aa44fe7e26a533d96a3fc2d49",
+        "date": "2020-12-06"
+      },
+      {
+        "title": "NPM 7：这才算是真正的更新",
+        "link": "https://www.ershicimi.com/p/446d302614164c80f56e0045dec9efbb",
+        "date": "2020-12-06"
+      },
       {
         "title": "百度诋毁今日头条被判不正当竞争；Kubernetes将弃用Docker；B站年度弹幕“爷青回”；小米",
         "link": "https://www.ershicimi.com/p/3cead49b59309b3d6ebd6780f81219b4",
