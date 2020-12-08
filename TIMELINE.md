@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-08 12:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-08 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -185,6 +185,11 @@
 - [【互联网架构师】2020-12-01-看看人家架构师那消息队列中间件玩的，那叫一个优雅！](https://www.ershicimi.com/p/e3be9a09f87253fae396f5bd32df7648) 
 - [【互联网架构师】2020-12-01-介绍一款-API-敏捷开发工具](https://www.ershicimi.com/p/87453a3481a86aa75986aa5f9f35c6ff) 
 - [【互联网架构师】2020-12-01-查询提升-200-倍，ClickHouse-你值得拥有！](https://www.ershicimi.com/p/b12170f712f3d9c2ed6552bd652983e3) 
+- [【InfoQ】2020-12-08-上线2年，日调用量7亿次，云开发凭什么？](https://www.ershicimi.com/p/cc1cb05e4686884a482189a8816ae17b) 
+- [【InfoQ】2020-12-08-从新旧技术体系替换，看大麦网票务技术体系重塑演进之路](https://www.ershicimi.com/p/e3fdc7337762879c661ac14f775a937b) 
+- [【InfoQ】2020-12-08-微服务中台技术解析之分布式事务方案和实践](https://www.ershicimi.com/p/53f8eed65c92323f82684c9c15b2605c) 
+- [【InfoQ】2020-12-08-软件专业人员必知的6种现代化架构设计模式](https://www.ershicimi.com/p/171f29e683aab85a53b39b3bb8220e89) 
+- [【InfoQ】2020-12-08-给以太坊泼点冷水](https://www.ershicimi.com/p/b358bfc5a5bc9aa74b258ecfc057d936) 
 - [【InfoQ】2020-12-07-Tiktok出售期限已到，总统大选曲线救字节？](https://www.ershicimi.com/p/4c98d3b81497a5f63368c23b297a39ca) 
 - [【InfoQ】2020-12-07-数仓实时化改造：Hudi-on-Flink-在顺丰的实践应用](https://www.ershicimi.com/p/bf9d54c9b39dd560f58da2f0776626e7) 
 - [【InfoQ】2020-12-07-抖音、达达、得物、哈啰等企业在前端、高可用、中台上的实践-｜-QCon](https://www.ershicimi.com/p/98edec95f7139eaa3667e8f63976aae0) 
