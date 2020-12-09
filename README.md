@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-09 06:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-09 18:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,8 +26,8 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [互联网架构师](#互联网架构师)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -380,9 +380,9 @@
 </summary>
 
 
-- [2020-12-08-疯了？价值上万元“Java-高级架构师”正课免费？](https://www.ershicimi.com/p/caede8719b2ef8101d82352f3a8b00c0) ![](assets/new.png)  
-- [2020-12-08-扔掉okhttp、httpClient，来试试这款轻量级HTTP客户端神器？](https://www.ershicimi.com/p/ca765b3a45b894e65adb3f53a907d0e4) ![](assets/new.png)  
-- [2020-12-08-震惊！华为服务器操作系统竟然开源了！](https://www.ershicimi.com/p/74d96d84647bf2fe9cd4f8e31408970d) ![](assets/new.png)  
+- [2020-12-08-疯了？价值上万元“Java-高级架构师”正课免费？](https://www.ershicimi.com/p/caede8719b2ef8101d82352f3a8b00c0)  
+- [2020-12-08-扔掉okhttp、httpClient，来试试这款轻量级HTTP客户端神器？](https://www.ershicimi.com/p/ca765b3a45b894e65adb3f53a907d0e4)  
+- [2020-12-08-震惊！华为服务器操作系统竟然开源了！](https://www.ershicimi.com/p/74d96d84647bf2fe9cd4f8e31408970d)  
 - [2020-12-07-记住看小电影前一定要检查一下域名是不是-HTTPS-的，不然……](https://www.ershicimi.com/p/57b0ecbc470e028355ba0550df9482ed)  
 - [2020-12-07-你要“老婆”不？谷歌程序员20行代码送你一个！](https://www.ershicimi.com/p/21653c6f9129b2aa5f1dfc1dd0a8ae17)  
 - [2020-12-07-堪比-007-电影！通过一张照片找到拍照者的精确位置](https://www.ershicimi.com/p/b8714bacf3b50682b904d546507998ea)  
@@ -411,6 +411,11 @@
 </summary>
 
 
+- [2020-12-09-Docker-的第二次死亡](https://www.ershicimi.com/p/29fa84049309a7c25183b782b2b5a294) ![](assets/new.png)  
+- [2020-12-09-2020年敏捷开发人员生存指南](https://www.ershicimi.com/p/36cb951e7aef85b826d9a29f6c8635ed) ![](assets/new.png)  
+- [2020-12-09-亚马逊-re:Invent-第二现场！新服务亮点解析](https://www.ershicimi.com/p/9df201cef16998403291e03eeab59c84) ![](assets/new.png)  
+- [2020-12-09-腾讯云这场数据库行业的年度盛会，见证国产力量的崛起之道-｜-Q推荐](https://www.ershicimi.com/p/7aed0cc62e96085f2b68ed4561bfe3b5) ![](assets/new.png)  
+- [2020-12-09-数据科学岗位将在十年后消失？](https://www.ershicimi.com/p/e55895c8cbd4c89a2fd570b973b95fad) ![](assets/new.png)  
 - [2020-12-08-上线2年，日调用量7亿次，云开发凭什么？](https://www.ershicimi.com/p/cc1cb05e4686884a482189a8816ae17b)  
 - [2020-12-08-从新旧技术体系替换，看大麦网票务技术体系重塑演进之路](https://www.ershicimi.com/p/e3fdc7337762879c661ac14f775a937b)  
 - [2020-12-08-微服务中台技术解析之分布式事务方案和实践](https://www.ershicimi.com/p/53f8eed65c92323f82684c9c15b2605c)  
@@ -426,11 +431,6 @@
 - [2020-12-06-端云智能协同如何守望企业的数字化未来？](https://www.ershicimi.com/p/30d9fdb2ceed8a7e76bd0ca082913bf0)  
 - [2020-12-06-华为云开发者沙龙汇集大众智慧，ModelArts点亮企业未来](https://www.ershicimi.com/p/dd54022aa44fe7e26a533d96a3fc2d49)  
 - [2020-12-06-NPM-7：这才算是真正的更新](https://www.ershicimi.com/p/446d302614164c80f56e0045dec9efbb)  
-- [2020-12-05-百度诋毁今日头条被判不正当竞争；Kubernetes将弃用Docker；B站年度弹幕“爷青回”；小米](https://www.ershicimi.com/p/3cead49b59309b3d6ebd6780f81219b4)  
-- [2020-12-05-我从600场技术面试中总结出的5个常见问题](https://www.ershicimi.com/p/969dd4f2b634285641e25c529862e505)  
-- [2020-12-05-平安医保科技“大数据-AI-风控系统”技术创新与实践应用详解](https://www.ershicimi.com/p/9913527c3cfad0af8b25e4b7473d7922)  
-- [2020-12-05-自动语音识别快速入门，教你三行代码实现语音转文字-｜-Q推荐](https://www.ershicimi.com/p/513dc2c3d0946624d35b6407b67b55c7)  
-- [2020-12-04-TypeScript超越C++成第四大语言！无惧中国开源托管平台竞争：GitHub发布2020年开发](https://www.ershicimi.com/p/526f9b7c020a89dfe02fe0a47bc783d1)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

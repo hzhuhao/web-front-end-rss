@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-09 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -188,6 +188,11 @@
 - [【互联网架构师】2020-12-01-看看人家架构师那消息队列中间件玩的，那叫一个优雅！](https://www.ershicimi.com/p/e3be9a09f87253fae396f5bd32df7648) 
 - [【互联网架构师】2020-12-01-介绍一款-API-敏捷开发工具](https://www.ershicimi.com/p/87453a3481a86aa75986aa5f9f35c6ff) 
 - [【互联网架构师】2020-12-01-查询提升-200-倍，ClickHouse-你值得拥有！](https://www.ershicimi.com/p/b12170f712f3d9c2ed6552bd652983e3) 
+- [【InfoQ】2020-12-09-Docker-的第二次死亡](https://www.ershicimi.com/p/29fa84049309a7c25183b782b2b5a294) 
+- [【InfoQ】2020-12-09-2020年敏捷开发人员生存指南](https://www.ershicimi.com/p/36cb951e7aef85b826d9a29f6c8635ed) 
+- [【InfoQ】2020-12-09-亚马逊-re:Invent-第二现场！新服务亮点解析](https://www.ershicimi.com/p/9df201cef16998403291e03eeab59c84) 
+- [【InfoQ】2020-12-09-腾讯云这场数据库行业的年度盛会，见证国产力量的崛起之道-｜-Q推荐](https://www.ershicimi.com/p/7aed0cc62e96085f2b68ed4561bfe3b5) 
+- [【InfoQ】2020-12-09-数据科学岗位将在十年后消失？](https://www.ershicimi.com/p/e55895c8cbd4c89a2fd570b973b95fad) 
 - [【InfoQ】2020-12-08-上线2年，日调用量7亿次，云开发凭什么？](https://www.ershicimi.com/p/cc1cb05e4686884a482189a8816ae17b) 
 - [【InfoQ】2020-12-08-从新旧技术体系替换，看大麦网票务技术体系重塑演进之路](https://www.ershicimi.com/p/e3fdc7337762879c661ac14f775a937b) 
 - [【InfoQ】2020-12-08-微服务中台技术解析之分布式事务方案和实践](https://www.ershicimi.com/p/53f8eed65c92323f82684c9c15b2605c) 
