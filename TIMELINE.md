@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-09 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-10 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -164,6 +164,9 @@
 - [【前端日刊】2020-12-04-小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/89fa25c16114790ca3b257faed3da5de) 
 - [【前端日刊】2020-12-03-这一次彻底弄懂React-Router路由原理](https://www.ershicimi.com/p/91483570618fec8b1325f5aa8e1da6ae) 
 - [【前端日刊】2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
+- [【互联网架构师】2020-12-09-内卷严重？给程序员的几条建议](https://www.ershicimi.com/p/b8d13f7b84b0963d391fe13c2b040c52) 
+- [【互联网架构师】2020-12-09-微服务架构即将被淘汰](https://www.ershicimi.com/p/6c1a35d274d0fd48da74e2563c447762) 
+- [【互联网架构师】2020-12-09-Redis-的-8-大数据类型，写得非常好！](https://www.ershicimi.com/p/aec917f577f6a9eac5e6920436dc87d7) 
 - [【互联网架构师】2020-12-08-疯了？价值上万元“Java-高级架构师”正课免费？](https://www.ershicimi.com/p/caede8719b2ef8101d82352f3a8b00c0) 
 - [【互联网架构师】2020-12-08-扔掉okhttp、httpClient，来试试这款轻量级HTTP客户端神器？](https://www.ershicimi.com/p/ca765b3a45b894e65adb3f53a907d0e4) 
 - [【互联网架构师】2020-12-08-震惊！华为服务器操作系统竟然开源了！](https://www.ershicimi.com/p/74d96d84647bf2fe9cd4f8e31408970d) 
