@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-12 06:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-12 18:00:27，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,8 +26,8 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [互联网架构师](#互联网架构师)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -380,12 +380,12 @@
 </summary>
 
 
-- [2020-12-11-Kafka-慌了！这个中间件，要火了？](https://www.ershicimi.com/p/d12d00345e56886da4eb33e3be5e91ae) ![](assets/new.png)  
-- [2020-12-11-腾讯-Code-Review-规范出炉！你还敢乱写代码？？](https://www.ershicimi.com/p/510c3f8a53e9cb08538d3189aecccbc3) ![](assets/new.png)  
-- [2020-12-11-大厂，常用，四款，大屏可视化工具](https://www.ershicimi.com/p/1efe93e854f3b82d7ceb229ca2e2c0b8) ![](assets/new.png)  
-- [2020-12-10-编写-if-时不带-else，你的代码会更好！](https://www.ershicimi.com/p/f1553362e513077509790c7c09ddd950) ![](assets/new.png)  
-- [2020-12-10-阿里27个炸天的开源项目，值得收藏！](https://www.ershicimi.com/p/60fb81db09f37dafdcb81ef42e88ccf2) ![](assets/new.png)  
-- [2020-12-10-不重启JVM，替换掉已经加载的类，偷天换日？](https://www.ershicimi.com/p/2c826faf85bfe176adbcff6cf30c6b00) ![](assets/new.png)  
+- [2020-12-11-Kafka-慌了！这个中间件，要火了？](https://www.ershicimi.com/p/d12d00345e56886da4eb33e3be5e91ae)  
+- [2020-12-11-腾讯-Code-Review-规范出炉！你还敢乱写代码？？](https://www.ershicimi.com/p/510c3f8a53e9cb08538d3189aecccbc3)  
+- [2020-12-11-大厂，常用，四款，大屏可视化工具](https://www.ershicimi.com/p/1efe93e854f3b82d7ceb229ca2e2c0b8)  
+- [2020-12-10-编写-if-时不带-else，你的代码会更好！](https://www.ershicimi.com/p/f1553362e513077509790c7c09ddd950)  
+- [2020-12-10-阿里27个炸天的开源项目，值得收藏！](https://www.ershicimi.com/p/60fb81db09f37dafdcb81ef42e88ccf2)  
+- [2020-12-10-不重启JVM，替换掉已经加载的类，偷天换日？](https://www.ershicimi.com/p/2c826faf85bfe176adbcff6cf30c6b00)  
 - [2020-12-09-内卷严重？给程序员的几条建议](https://www.ershicimi.com/p/b8d13f7b84b0963d391fe13c2b040c52)  
 - [2020-12-09-微服务架构即将被淘汰](https://www.ershicimi.com/p/6c1a35d274d0fd48da74e2563c447762)  
 - [2020-12-09-Redis-的-8-大数据类型，写得非常好！](https://www.ershicimi.com/p/aec917f577f6a9eac5e6920436dc87d7)  
@@ -411,6 +411,10 @@
 </summary>
 
 
+- [2020-12-12-官方回应阿里海康等成立HR联盟共享员工信息；ofo退押金要等988年；教育部将编程教育纳入中小学课程](https://www.ershicimi.com/p/14b4d8e3aa876897bef047043c957cdc) ![](assets/new.png)  
+- [2020-12-12-5G和云原生时代，技术的下半场从哪里开始？](https://www.ershicimi.com/p/3d44e1b703d4a02b6b9251fd942c0039) ![](assets/new.png)  
+- [2020-12-12-HUAWEI-AppGallery-Connect-研习社，破解移动应用的成功密码｜Q推荐](https://www.ershicimi.com/p/eeea8fb41267572d381ba4c3c896d126) ![](assets/new.png)  
+- [2020-12-12-数据及AI技术如何更好加持智能网联及出海业务的应用开发？|-Q推荐](https://www.ershicimi.com/p/95d95e392aaa9fb1181c542465248dbe) ![](assets/new.png)  
 - [2020-12-11-那个-CEO-写下-70-万行代码的公司，马上要上市了](https://www.ershicimi.com/p/fda595eea1753f4d93b336060bd1b9ac)  
 - [2020-12-11-给世界多一个操作系统的选择，openEuler的开源故事](https://www.ershicimi.com/p/109328fe3c1667ed91fd6f96e995a287)  
 - [2020-12-11-技术赋能原来如此轻松！15分钟教你企业智慧变革的最佳路径-｜-Q推荐](https://www.ershicimi.com/p/6147d7bdedea09db357c84220b493746)  
@@ -427,10 +431,6 @@
 - [2020-12-09-腾讯云这场数据库行业的年度盛会，见证国产力量的崛起之道-｜-Q推荐](https://www.ershicimi.com/p/7aed0cc62e96085f2b68ed4561bfe3b5)  
 - [2020-12-09-数据科学岗位将在十年后消失？](https://www.ershicimi.com/p/e55895c8cbd4c89a2fd570b973b95fad)  
 - [2020-12-08-上线2年，日调用量7亿次，云开发凭什么？](https://www.ershicimi.com/p/cc1cb05e4686884a482189a8816ae17b)  
-- [2020-12-08-从新旧技术体系替换，看大麦网票务技术体系重塑演进之路](https://www.ershicimi.com/p/e3fdc7337762879c661ac14f775a937b)  
-- [2020-12-08-微服务中台技术解析之分布式事务方案和实践](https://www.ershicimi.com/p/53f8eed65c92323f82684c9c15b2605c)  
-- [2020-12-08-软件专业人员必知的6种现代化架构设计模式](https://www.ershicimi.com/p/171f29e683aab85a53b39b3bb8220e89)  
-- [2020-12-08-给以太坊泼点冷水](https://www.ershicimi.com/p/b358bfc5a5bc9aa74b258ecfc057d936)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

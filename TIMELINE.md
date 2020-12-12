@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-12 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-12 18:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -221,6 +221,10 @@
 - [【互联网架构师】2020-12-01-看看人家架构师那消息队列中间件玩的，那叫一个优雅！](https://www.ershicimi.com/p/e3be9a09f87253fae396f5bd32df7648) 
 - [【互联网架构师】2020-12-01-介绍一款-API-敏捷开发工具](https://www.ershicimi.com/p/87453a3481a86aa75986aa5f9f35c6ff) 
 - [【互联网架构师】2020-12-01-查询提升-200-倍，ClickHouse-你值得拥有！](https://www.ershicimi.com/p/b12170f712f3d9c2ed6552bd652983e3) 
+- [【InfoQ】2020-12-12-官方回应阿里海康等成立HR联盟共享员工信息；ofo退押金要等988年；教育部将编程教育纳入中小学课程](https://www.ershicimi.com/p/14b4d8e3aa876897bef047043c957cdc) 
+- [【InfoQ】2020-12-12-5G和云原生时代，技术的下半场从哪里开始？](https://www.ershicimi.com/p/3d44e1b703d4a02b6b9251fd942c0039) 
+- [【InfoQ】2020-12-12-HUAWEI-AppGallery-Connect-研习社，破解移动应用的成功密码｜Q推荐](https://www.ershicimi.com/p/eeea8fb41267572d381ba4c3c896d126) 
+- [【InfoQ】2020-12-12-数据及AI技术如何更好加持智能网联及出海业务的应用开发？|-Q推荐](https://www.ershicimi.com/p/95d95e392aaa9fb1181c542465248dbe) 
 - [【InfoQ】2020-12-11-那个-CEO-写下-70-万行代码的公司，马上要上市了](https://www.ershicimi.com/p/fda595eea1753f4d93b336060bd1b9ac) 
 - [【InfoQ】2020-12-11-给世界多一个操作系统的选择，openEuler的开源故事](https://www.ershicimi.com/p/109328fe3c1667ed91fd6f96e995a287) 
 - [【InfoQ】2020-12-11-技术赋能原来如此轻松！15分钟教你企业智慧变革的最佳路径-｜-Q推荐](https://www.ershicimi.com/p/6147d7bdedea09db357c84220b493746) 
