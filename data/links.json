@@ -12958,6 +12958,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "纯CSS实现微信列表左滑显示按钮的交互效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/",
+        "date": "2020-12-13"
+      },
+      {
         "title": "原来DOM还有toggleAttribute这样的JS API",
         "link": "https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/",
         "date": "2020-12-06"
@@ -18216,6 +18221,21 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "卸载 Navicat！事实已证明，正版客户端，它更牛逼……",
+        "link": "https://www.ershicimi.com/p/a5255071ede275e15b42e4a64b652b4a",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "AI消除马赛克神器！宅男小电影神器！GitHub开源项目上线三天收获近8000星",
+        "link": "https://www.ershicimi.com/p/b8e43bec50b9d5c06b0f1a2a0efe319f",
+        "date": "2020-12-12"
+      },
+      {
+        "title": "2020 最烂密码 TOP 200 大曝光，霸榜的仍旧是 123456！",
+        "link": "https://www.ershicimi.com/p/5148d7a9f0c32100997a44fbb390a52b",
+        "date": "2020-12-12"
+      },
       {
         "title": "Kafka 慌了！这个中间件，要火了？",
         "link": "https://www.ershicimi.com/p/d12d00345e56886da4eb33e3be5e91ae",

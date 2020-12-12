@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-12 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-13 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -33,6 +33,7 @@
 - [2015-11-17-Git常用操作总结](https://aotu.io/notes/2015/11/17/Git-Commands/) 
 - [2020-08-13-GitHub宣布已将所有代码永久封存于北极地底1000年！](https://www.ershicimi.com/p/c5d806ab091f264347b6405ada094d24) 
 - [2020-03-04-高频使用的-Git-命令](https://www.ershicimi.com/p/ba494a49d73657938ddd3e960d3b0d0b) 
+- [2020-12-12-AI消除马赛克神器！宅男小电影神器！GitHub开源项目上线三天收获近8000星](https://www.ershicimi.com/p/b8e43bec50b9d5c06b0f1a2a0efe319f) 
 - [2020-11-29-​你可能不太会用的10个Git命令](https://www.ershicimi.com/p/26a2f6873eee49449e4d222aa4299a4e) 
 - [2020-11-28-别乱提交代码了，你必须知道的-Git-分支开发规范！](https://www.ershicimi.com/p/0354a8990fd39aeb32a08ffa5f027fa6) 
 - [2020-09-17-GitHub上最励志的计算机自学教程，绝对牛B](https://www.ershicimi.com/p/a3a31e96c60c3e1e44882f7edc1b12a2) 
