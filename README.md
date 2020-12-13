@@ -11,22 +11,22 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-13 06:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-13 12:00:26，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -70,6 +70,8 @@
 </summary>
 
 
+- [2020-12-12-大规模采用-TypeScript-之后的-10-个见解](https://www.ershicimi.com/p/35168a944f8dba42d1c775e4ef57ead0) ![](assets/new.png)  
+- [2020-12-12-1-万-Star-！自称“最牛叉的”负载测试工具](https://www.ershicimi.com/p/82b29b2a86e48cd0cc4cf480a28109b6) ![](assets/new.png)  
 - [2020-12-11-为什么程序员互相之间不能透露薪水？是怕“凡尔赛”吗？](https://www.ershicimi.com/p/0be73d690b5f7d9e590a42f0e1c80125)  
 - [2020-12-11-「科普」前端工程师简史](https://www.ershicimi.com/p/d5b6c5ad1437db530955cbda8d5a417a)  
 - [2020-12-11-你不能错过的超赞色彩组合！设计师的配色宝典](https://www.ershicimi.com/p/0dca022f64204a29932d5b20f28681a5)  
@@ -88,8 +90,6 @@
 - [2020-12-06-面向对象：活泼开朗的巨蟹宝宝，希望遇到温柔体贴的你](https://www.ershicimi.com/p/499b1d16e42721f97c213b085a109cf1)  
 - [2020-12-05-程序员用-M1-MacBook-当主力开发机​是什么体验？](https://www.ershicimi.com/p/b436415a52fee3b6f61e5f0f46d788dd)  
 - [2020-12-05-JavaScript-弱依赖项的使用场景](https://www.ershicimi.com/p/9bcf8d9b03df37139145f13a49bea24c)  
-- [2020-12-05-「新拟物化」过时了！此刻你最应该拥抱的是「玻璃拟物化」](https://www.ershicimi.com/p/5d4d009d7eaa741763d06fd7e8eb7901)  
-- [2020-12-04-知乎热榜：找工作时普遍要求35岁以下，网友吐槽：35岁招谁惹谁了！](https://www.ershicimi.com/p/e07b5898c0bd4ef736ea6f400fc86c0d)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -163,7 +163,7 @@
 </summary>
 
 
-- [2020-12-13-纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/) ![](assets/new.png)  
+- [2020-12-13-纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/)  
 - [2020-12-06-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/)  
 - [2020-12-01-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/)  
 - [2020-11-28-低成本深色模式CSS实现技术探索与拓展](https://www.zhangxinxu.com/wordpress/2020/11/css-mix-blend-mode-filter-dark-theme/)  
@@ -380,9 +380,9 @@
 </summary>
 
 
-- [2020-12-12-卸载-Navicat！事实已证明，正版客户端，它更牛逼……](https://www.ershicimi.com/p/a5255071ede275e15b42e4a64b652b4a) ![](assets/new.png)  
-- [2020-12-12-AI消除马赛克神器！宅男小电影神器！GitHub开源项目上线三天收获近8000星](https://www.ershicimi.com/p/b8e43bec50b9d5c06b0f1a2a0efe319f) ![](assets/new.png)  
-- [2020-12-12-2020-最烂密码-TOP-200-大曝光，霸榜的仍旧是-123456！](https://www.ershicimi.com/p/5148d7a9f0c32100997a44fbb390a52b) ![](assets/new.png)  
+- [2020-12-12-卸载-Navicat！事实已证明，正版客户端，它更牛逼……](https://www.ershicimi.com/p/a5255071ede275e15b42e4a64b652b4a)  
+- [2020-12-12-AI消除马赛克神器！宅男小电影神器！GitHub开源项目上线三天收获近8000星](https://www.ershicimi.com/p/b8e43bec50b9d5c06b0f1a2a0efe319f)  
+- [2020-12-12-2020-最烂密码-TOP-200-大曝光，霸榜的仍旧是-123456！](https://www.ershicimi.com/p/5148d7a9f0c32100997a44fbb390a52b)  
 - [2020-12-11-Kafka-慌了！这个中间件，要火了？](https://www.ershicimi.com/p/d12d00345e56886da4eb33e3be5e91ae)  
 - [2020-12-11-腾讯-Code-Review-规范出炉！你还敢乱写代码？？](https://www.ershicimi.com/p/510c3f8a53e9cb08538d3189aecccbc3)  
 - [2020-12-11-大厂，常用，四款，大屏可视化工具](https://www.ershicimi.com/p/1efe93e854f3b82d7ceb229ca2e2c0b8)  
