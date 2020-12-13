@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-13 22:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-14 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1240,6 +1240,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-12-13-全网最全的IDEA热部署方案，看完弄懂，再也不用加班了~](https://www.ershicimi.com/p/1a816849b5dadfda91442eb2efe949ee) 
+- [2020-12-13-我的一个低级错误，导致数据库崩溃半小时！！](https://www.ershicimi.com/p/6d946a0db25ecc35927ff88025260d41) 
+- [2020-12-13-这月绩效差点没了！搞了一个“新人拼团”活动遇到黑产，搭进去了8台服务器...](https://www.ershicimi.com/p/973e184289d2b3ebb84ddebf18d9cb05) 
 - [2020-12-12-卸载-Navicat！事实已证明，正版客户端，它更牛逼……](https://www.ershicimi.com/p/a5255071ede275e15b42e4a64b652b4a) 
 - [2020-12-12-2020-最烂密码-TOP-200-大曝光，霸榜的仍旧是-123456！](https://www.ershicimi.com/p/5148d7a9f0c32100997a44fbb390a52b) 
 - [2020-12-11-Kafka-慌了！这个中间件，要火了？](https://www.ershicimi.com/p/d12d00345e56886da4eb33e3be5e91ae) 
