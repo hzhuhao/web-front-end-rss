@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-15 06:00:21，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-15 12:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -24,9 +24,9 @@
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
-- [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -318,10 +318,10 @@
 </summary>
 
 
-- [2020-12-14-搞懂-HTTP-重定向---如何优雅地使用-301](https://www.ershicimi.com/p/c8cffbfc2989291d8a6edc8db59421e3) ![](assets/new.png)  
-- [2020-12-14-奇舞团-即视-招高级前端开发工程师](https://www.ershicimi.com/p/2aac0e41f479a4ab5b7dbba7e06bddd0) ![](assets/new.png)  
-- [2020-12-14-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/0325cf7d56f9a109d2d056545078d8b8) ![](assets/new.png)  
-- [2020-12-11-奇舞周刊第-376-期：2020-年度-CSS-现状调查](https://www.ershicimi.com/p/918b02403335478e5c6dc5db6124e478) ![](assets/new.png)  
+- [2020-12-14-搞懂-HTTP-重定向---如何优雅地使用-301](https://www.ershicimi.com/p/c8cffbfc2989291d8a6edc8db59421e3)  
+- [2020-12-14-奇舞团-即视-招高级前端开发工程师](https://www.ershicimi.com/p/2aac0e41f479a4ab5b7dbba7e06bddd0)  
+- [2020-12-14-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/0325cf7d56f9a109d2d056545078d8b8)  
+- [2020-12-11-奇舞周刊第-376-期：2020-年度-CSS-现状调查](https://www.ershicimi.com/p/918b02403335478e5c6dc5db6124e478)  
 - [2020-12-10-如何优雅地解决多个-React、Vue-App-之间的状态共享](https://www.ershicimi.com/p/8207ce41e0d61aa5d5f0737f35ae9bc4)  
 - [2020-12-10-奇舞团-即视-招高级前端开发工程师](https://www.ershicimi.com/p/6acdc757a77288abfc4501d4b35ebda8)  
 - [2020-12-10-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/a81390e93ead4683038d9896c6877e83)  
@@ -349,6 +349,8 @@
 </summary>
 
 
+- [2020-12-15-3-年经验的前端开发是如何造轮子的？](https://www.ershicimi.com/p/246e9f152a0f65ffb86a034480f1146f) ![](assets/new.png)  
+- [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) ![](assets/new.png)  
 - [2020-12-11-推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/18c08bde7a831bbd26ace73f5cd169ee)  
 - [2020-12-10-又作什么妖？会-Vue-也是错……](https://www.ershicimi.com/p/ae08e4308e9b3c9c8dd44f2c7481bb14)  
 - [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/b6fc5952f438c1246d78ffc3730d6668)  
@@ -367,8 +369,6 @@
 - [2020-11-08-Tips|如何写出健壮而不失风度的代码](https://www.ershicimi.com/p/5b022955a0054edc500dadf4e33e4c9c)  
 - [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882)  
 - [2020-11-02-“打工人”火爆朋友圈，我看到了前端人心酸](https://www.ershicimi.com/p/a3a43c83a17ab0bea1a69499a0adfeca)  
-- [2020-10-30-宁愿高薪招新人，也不给老员工涨工资，怎么办](https://www.ershicimi.com/p/a015862cf21f20cdfbedba9b3e2be13a)  
-- [2020-10-29-这里有打破20-30K薪资瓶颈的方法，前端小伙伴进](https://www.ershicimi.com/p/bc395208f858bbbd8a41a0c3ede44607)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,9 +380,9 @@
 </summary>
 
 
-- [2020-12-14-震惊！某程序员受不了996，创建6个涉黄平台，涉案5000余万元](https://www.ershicimi.com/p/ec56450c6435526ccaf34cd422a1715f) ![](assets/new.png)  
-- [2020-12-14-为什么建议大家使用-Linux-开发？爽（外加七个感叹号）](https://www.ershicimi.com/p/ebab61a2058018f08bf64afb2dba089a) ![](assets/new.png)  
-- [2020-12-14-Google-推荐和鼓励的-13-条代码审查标准，建议收藏！](https://www.ershicimi.com/p/ced4c0c7c77d97dbb09ec79156a318ae) ![](assets/new.png)  
+- [2020-12-14-震惊！某程序员受不了996，创建6个涉黄平台，涉案5000余万元](https://www.ershicimi.com/p/ec56450c6435526ccaf34cd422a1715f)  
+- [2020-12-14-为什么建议大家使用-Linux-开发？爽（外加七个感叹号）](https://www.ershicimi.com/p/ebab61a2058018f08bf64afb2dba089a)  
+- [2020-12-14-Google-推荐和鼓励的-13-条代码审查标准，建议收藏！](https://www.ershicimi.com/p/ced4c0c7c77d97dbb09ec79156a318ae)  
 - [2020-12-13-全网最全的IDEA热部署方案，看完弄懂，再也不用加班了~](https://www.ershicimi.com/p/1a816849b5dadfda91442eb2efe949ee)  
 - [2020-12-13-我的一个低级错误，导致数据库崩溃半小时！！](https://www.ershicimi.com/p/6d946a0db25ecc35927ff88025260d41)  
 - [2020-12-13-这月绩效差点没了！搞了一个“新人拼团”活动遇到黑产，搭进去了8台服务器...](https://www.ershicimi.com/p/973e184289d2b3ebb84ddebf18d9cb05)  
