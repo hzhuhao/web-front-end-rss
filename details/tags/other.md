@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-16 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-16 18:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1547,6 +1547,16 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-12-16-鸿蒙2.0手机Beta版本发布！华为小目标：一年内自研设备搭载HarmonyOS数量过亿](https://www.ershicimi.com/p/2eed43a6b399418f51499653647ddd77) 
+- [2020-12-16-蚂蚁金服的Service-Mesh实践和展望｜QCon](https://www.ershicimi.com/p/44ae0d46a0c1d0c313187a378de208bb) 
+- [2020-12-16-架构师成长计划：把握AI生涯的平衡与火候｜Q推荐](https://www.ershicimi.com/p/a47a41e8ac1323b8ccbe2d20e05cdc0c) 
+- [2020-12-16-仅5000位开发者抢到了门票，这个技术大会有多牛？｜Q推荐](https://www.ershicimi.com/p/c5d2bbdc7f1fd487ca750ff3859cb4e4) 
+- [2020-12-16-.NET-5的重大改变：消失的历史技术](https://www.ershicimi.com/p/9f54fd9773930a4d81ce358c6cd202d5) 
+- [2020-12-15-百度不需要用户](https://www.ershicimi.com/p/e4eaa97098c5434c0071347ba93bad99) 
+- [2020-12-15-什么是低代码，到底用不用？](https://www.ershicimi.com/p/01805a85d85230e2b994bf68793484f5) 
+- [2020-12-15-关注AI/ML的小伙伴看过来：AWS年度盛会机器学习部分专家解读](https://www.ershicimi.com/p/07f6a6fc146652c77e7dbac8bd89005d) 
+- [2020-12-15-Microsoft-云采用框架，助力企业快速完成云迁移-｜-Q推荐](https://www.ershicimi.com/p/e9fa927cf7783041321f64690160feac) 
+- [2020-12-15-从单体迁移到微服务的7个重要原则](https://www.ershicimi.com/p/0432d0ee0d4732e455603e1bc5ec0bd4) 
 - [2020-12-14-华人工程师“逃离”硅谷](https://www.ershicimi.com/p/52419d03f7cfd190c3e9c5eb1ad35c46) 
 - [2020-12-14-欠下“技术债”，谁负责？](https://www.ershicimi.com/p/3e4462a0a18714914eb94e0e5023c519) 
 - [2020-12-14-端云协同推动数字转型，华为机器视觉开拓企业全新边界](https://www.ershicimi.com/p/f3f711f1a19ce49f30bc2978a347dafe) 

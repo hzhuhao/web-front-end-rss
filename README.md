@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-16 12:00:26，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-16 18:00:18，:rocket: 更新条数: +10， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -27,7 +27,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -70,14 +70,14 @@
 </summary>
 
 
-- [2020-12-16-最火的-Vue-前端框架，你用对了么？](https://www.ershicimi.com/p/22192dc16df677b659d8ee42082d829d) ![](assets/new.png)  
-- [2020-12-16-跟着官方文档能学懂-Hooks-就怪了](https://www.ershicimi.com/p/27406fa6ccc4854dace2dc090d879dd3) ![](assets/new.png)  
-- [2020-12-16-下载神器被-Github-下架后，作者写下了这篇回应](https://www.ershicimi.com/p/b4f8c624ebceabf1805fbb1c46a83719) ![](assets/new.png)  
-- [2020-12-15-我的电脑不联网，很安全，黑客：你还有风扇呢](https://www.ershicimi.com/p/193900fec8ed92b7acb7eedfb5a6f547) ![](assets/new.png)  
-- [2020-12-15-1.2-万-Star！Monica-为你的人际交往助力！](https://www.ershicimi.com/p/88df8ddb841f275f19fa1c003ef9fda4) ![](assets/new.png)  
-- [2020-12-14-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/2a9e02219e56475fd45fb05b331c5938) ![](assets/new.png)  
-- [2020-12-14-H5-基于-canvas-实现电子签名并生成PDF文档](https://www.ershicimi.com/p/5e07da7d12634131928d104f2003af50) ![](assets/new.png)  
-- [2020-12-14-2.8-万-Star！制作数学动画的超棒工具：Manim](https://www.ershicimi.com/p/ee856c8130ff8c8b8a9503f94efd0c64) ![](assets/new.png)  
+- [2020-12-16-最火的-Vue-前端框架，你用对了么？](https://www.ershicimi.com/p/22192dc16df677b659d8ee42082d829d)  
+- [2020-12-16-跟着官方文档能学懂-Hooks-就怪了](https://www.ershicimi.com/p/27406fa6ccc4854dace2dc090d879dd3)  
+- [2020-12-16-下载神器被-Github-下架后，作者写下了这篇回应](https://www.ershicimi.com/p/b4f8c624ebceabf1805fbb1c46a83719)  
+- [2020-12-15-我的电脑不联网，很安全，黑客：你还有风扇呢](https://www.ershicimi.com/p/193900fec8ed92b7acb7eedfb5a6f547)  
+- [2020-12-15-1.2-万-Star！Monica-为你的人际交往助力！](https://www.ershicimi.com/p/88df8ddb841f275f19fa1c003ef9fda4)  
+- [2020-12-14-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/2a9e02219e56475fd45fb05b331c5938)  
+- [2020-12-14-H5-基于-canvas-实现电子签名并生成PDF文档](https://www.ershicimi.com/p/5e07da7d12634131928d104f2003af50)  
+- [2020-12-14-2.8-万-Star！制作数学动画的超棒工具：Manim](https://www.ershicimi.com/p/ee856c8130ff8c8b8a9503f94efd0c64)  
 - [2020-12-13-Node.js-实现定时每天给女朋友发消息—nodemailer模块](https://www.ershicimi.com/p/d735150f427275ce16dbde1727f52349)  
 - [2020-12-13-GitHub-月榜第-3，微软的老照片修复工具火了](https://www.ershicimi.com/p/fb97b4e9fd1455e1a5424deb7acbad8e)  
 - [2020-12-13-灵感-|-大火的夜间模式APP界面如何设计？](https://www.ershicimi.com/p/51a7ffc340e295343a5dc93fd1f59d04)  
@@ -411,6 +411,16 @@
 </summary>
 
 
+- [2020-12-16-鸿蒙2.0手机Beta版本发布！华为小目标：一年内自研设备搭载HarmonyOS数量过亿](https://www.ershicimi.com/p/2eed43a6b399418f51499653647ddd77) ![](assets/new.png)  
+- [2020-12-16-蚂蚁金服的Service-Mesh实践和展望｜QCon](https://www.ershicimi.com/p/44ae0d46a0c1d0c313187a378de208bb) ![](assets/new.png)  
+- [2020-12-16-架构师成长计划：把握AI生涯的平衡与火候｜Q推荐](https://www.ershicimi.com/p/a47a41e8ac1323b8ccbe2d20e05cdc0c) ![](assets/new.png)  
+- [2020-12-16-仅5000位开发者抢到了门票，这个技术大会有多牛？｜Q推荐](https://www.ershicimi.com/p/c5d2bbdc7f1fd487ca750ff3859cb4e4) ![](assets/new.png)  
+- [2020-12-16-.NET-5的重大改变：消失的历史技术](https://www.ershicimi.com/p/9f54fd9773930a4d81ce358c6cd202d5) ![](assets/new.png)  
+- [2020-12-15-百度不需要用户](https://www.ershicimi.com/p/e4eaa97098c5434c0071347ba93bad99) ![](assets/new.png)  
+- [2020-12-15-什么是低代码，到底用不用？](https://www.ershicimi.com/p/01805a85d85230e2b994bf68793484f5) ![](assets/new.png)  
+- [2020-12-15-关注AI/ML的小伙伴看过来：AWS年度盛会机器学习部分专家解读](https://www.ershicimi.com/p/07f6a6fc146652c77e7dbac8bd89005d) ![](assets/new.png)  
+- [2020-12-15-Microsoft-云采用框架，助力企业快速完成云迁移-｜-Q推荐](https://www.ershicimi.com/p/e9fa927cf7783041321f64690160feac) ![](assets/new.png)  
+- [2020-12-15-从单体迁移到微服务的7个重要原则](https://www.ershicimi.com/p/0432d0ee0d4732e455603e1bc5ec0bd4) ![](assets/new.png)  
 - [2020-12-14-华人工程师“逃离”硅谷](https://www.ershicimi.com/p/52419d03f7cfd190c3e9c5eb1ad35c46)  
 - [2020-12-14-欠下“技术债”，谁负责？](https://www.ershicimi.com/p/3e4462a0a18714914eb94e0e5023c519)  
 - [2020-12-14-学而思网校直播课堂架构演进之路](https://www.ershicimi.com/p/516e1db057bf695b89f7faf10b38f43a)  
@@ -421,16 +431,6 @@
 - [2020-12-13-自主掌控AI迭代，华为云ModelArts-Pro让模型越用越精准](https://www.ershicimi.com/p/ec334b2102ac809c9719db53c7c5c945)  
 - [2020-12-13-调查了6万多名开发者后，我们发现了这些...](https://www.ershicimi.com/p/0058f28cb8c1157966de161d80acf650)  
 - [2020-12-12-官方回应阿里海康等成立HR联盟共享员工信息；ofo退押金要等988年；教育部将编程教育纳入中小学课程](https://www.ershicimi.com/p/14b4d8e3aa876897bef047043c957cdc)  
-- [2020-12-12-5G和云原生时代，技术的下半场从哪里开始？](https://www.ershicimi.com/p/3d44e1b703d4a02b6b9251fd942c0039)  
-- [2020-12-12-HUAWEI-AppGallery-Connect-研习社，破解移动应用的成功密码｜Q推荐](https://www.ershicimi.com/p/eeea8fb41267572d381ba4c3c896d126)  
-- [2020-12-12-数据及AI技术如何更好加持智能网联及出海业务的应用开发？|-Q推荐](https://www.ershicimi.com/p/95d95e392aaa9fb1181c542465248dbe)  
-- [2020-12-11-那个-CEO-写下-70-万行代码的公司，马上要上市了](https://www.ershicimi.com/p/fda595eea1753f4d93b336060bd1b9ac)  
-- [2020-12-11-给世界多一个操作系统的选择，openEuler的开源故事](https://www.ershicimi.com/p/109328fe3c1667ed91fd6f96e995a287)  
-- [2020-12-11-技术赋能原来如此轻松！15分钟教你企业智慧变革的最佳路径-｜-Q推荐](https://www.ershicimi.com/p/6147d7bdedea09db357c84220b493746)  
-- [2020-12-11-QCon-2020深圳，看华为云云原生应用开发实践](https://www.ershicimi.com/p/be0157dbd1ef898badcc48c32ef4090c)  
-- [2020-12-11-烧光25亿美元后终于清醒？Uber正式出售自动驾驶部门](https://www.ershicimi.com/p/b2a79d5660ad1ddda48e07372810ba5e)  
-- [2020-12-10-小马哥：不懂-Spring-AOP-就去面试，怎么敢的？｜-极客时间](https://www.ershicimi.com/p/3f0723f1e922404b90c125e05cffb586)  
-- [2020-12-10-Kubernetes太香了！我的两年使用经验总结](https://www.ershicimi.com/p/b1a593a2e42aefc255085f9d9f2dd4bc)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
