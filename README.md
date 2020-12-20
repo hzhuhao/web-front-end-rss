@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-20 18:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-21 06:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,8 +26,8 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -380,6 +380,9 @@
 </summary>
 
 
+- [2020-12-20-JDK-16-即将发布，新特性速览！](https://www.ershicimi.com/p/2791ba7cd853a43faa8b23369e9bbb17) ![](assets/new.png)  
+- [2020-12-20-非常有价值的电商系统，包括前台商城和后台管理系统！直接拿来用](https://www.ershicimi.com/p/3483db732e7b18ba1fc9fe3fb69f9141) ![](assets/new.png)  
+- [2020-12-20-一文详解-LVS、Nginx-及-HAProxy-工作原理（-附大图-）](https://www.ershicimi.com/p/3ee857ec86a7db335028f6d9daf5bd75) ![](assets/new.png)  
 - [2020-12-19-顶着压力，分享几个我经常看片的高清资源网站（手慢无）！！！](https://www.ershicimi.com/p/779bcb66121cc90f17128a26eb98789c)  
 - [2020-12-19-使用-Redis-实现一个轻量级的搜索引擎，牛逼啊！](https://www.ershicimi.com/p/6b3815a25b616f784d8871a249255791)  
 - [2020-12-19-lazy-mock-，一个生成后端模拟数据的懒人工具](https://www.ershicimi.com/p/0e7dfdab0bc6f95308e9c5999af9ae21)  
@@ -397,9 +400,6 @@
 - [2020-12-15-一款PO-VO-DTO-转换神器，求求你别在到处找工具类了！](https://www.ershicimi.com/p/447dcbcfab3a06a4832532724062c6a1)  
 - [2020-12-14-震惊！某程序员受不了996，创建6个涉黄平台，涉案5000余万元](https://www.ershicimi.com/p/ec56450c6435526ccaf34cd422a1715f)  
 - [2020-12-14-为什么建议大家使用-Linux-开发？爽（外加七个感叹号）](https://www.ershicimi.com/p/ebab61a2058018f08bf64afb2dba089a)  
-- [2020-12-14-Google-推荐和鼓励的-13-条代码审查标准，建议收藏！](https://www.ershicimi.com/p/ced4c0c7c77d97dbb09ec79156a318ae)  
-- [2020-12-13-全网最全的IDEA热部署方案，看完弄懂，再也不用加班了~](https://www.ershicimi.com/p/1a816849b5dadfda91442eb2efe949ee)  
-- [2020-12-13-我的一个低级错误，导致数据库崩溃半小时！！](https://www.ershicimi.com/p/6d946a0db25ecc35927ff88025260d41)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,10 +411,10 @@
 </summary>
 
 
-- [2020-12-20-谷歌、AWS宕机事故频发，热闹看完该学会什么？](https://www.ershicimi.com/p/202c1d1a7c8b33de4fd3dc2f251d15ce) ![](assets/new.png)  
-- [2020-12-20-安全地拥抱数字货币，PayPal的底气是什么？](https://www.ershicimi.com/p/5d2b853ef09dfeff27301059a0112aaa) ![](assets/new.png)  
-- [2020-12-20-大厂刚发布的现代化应用服务和工具，可精细到1ms计费，为开发者扫除部署障碍！｜Q推荐](https://www.ershicimi.com/p/dd5c0fd0869b7406945c0f92259c8141) ![](assets/new.png)  
-- [2020-12-20-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/9fcf58b28b62a29d8df2ffa346bef03a) ![](assets/new.png)  
+- [2020-12-20-谷歌、AWS宕机事故频发，热闹看完该学会什么？](https://www.ershicimi.com/p/202c1d1a7c8b33de4fd3dc2f251d15ce)  
+- [2020-12-20-安全地拥抱数字货币，PayPal的底气是什么？](https://www.ershicimi.com/p/5d2b853ef09dfeff27301059a0112aaa)  
+- [2020-12-20-大厂刚发布的现代化应用服务和工具，可精细到1ms计费，为开发者扫除部署障碍！｜Q推荐](https://www.ershicimi.com/p/dd5c0fd0869b7406945c0f92259c8141)  
+- [2020-12-20-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/9fcf58b28b62a29d8df2ffa346bef03a)  
 - [2020-12-19-阿里巴巴回应中央联合调查组进驻；全球最大成人网站Pornhub或将关停；美团否认“外卖会员杀熟”-|](https://www.ershicimi.com/p/f97980fce0dba3cae0439ce55e7f418e)  
 - [2020-12-19-一个50岁中国操作系统开发者的故事丨openEuler英雄汇](https://www.ershicimi.com/p/75ecd111197b995d515d622072ef7941)  
 - [2020-12-19-这场年度盛会，为你展现国产数据库的变革与精彩-｜-Q推荐](https://www.ershicimi.com/p/f7f8974ae312ea06fa095ed18bbaac33)  

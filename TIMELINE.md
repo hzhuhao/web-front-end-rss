@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-21 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -241,6 +241,9 @@
 - [【前端日刊】2020-12-04-小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/89fa25c16114790ca3b257faed3da5de) 
 - [【前端日刊】2020-12-03-这一次彻底弄懂React-Router路由原理](https://www.ershicimi.com/p/91483570618fec8b1325f5aa8e1da6ae) 
 - [【前端日刊】2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
+- [【互联网架构师】2020-12-20-JDK-16-即将发布，新特性速览！](https://www.ershicimi.com/p/2791ba7cd853a43faa8b23369e9bbb17) 
+- [【互联网架构师】2020-12-20-非常有价值的电商系统，包括前台商城和后台管理系统！直接拿来用](https://www.ershicimi.com/p/3483db732e7b18ba1fc9fe3fb69f9141) 
+- [【互联网架构师】2020-12-20-一文详解-LVS、Nginx-及-HAProxy-工作原理（-附大图-）](https://www.ershicimi.com/p/3ee857ec86a7db335028f6d9daf5bd75) 
 - [【互联网架构师】2020-12-19-顶着压力，分享几个我经常看片的高清资源网站（手慢无）！！！](https://www.ershicimi.com/p/779bcb66121cc90f17128a26eb98789c) 
 - [【互联网架构师】2020-12-19-使用-Redis-实现一个轻量级的搜索引擎，牛逼啊！](https://www.ershicimi.com/p/6b3815a25b616f784d8871a249255791) 
 - [【互联网架构师】2020-12-19-lazy-mock-，一个生成后端模拟数据的懒人工具](https://www.ershicimi.com/p/0e7dfdab0bc6f95308e9c5999af9ae21) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1264,6 +1264,8 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-12-20-JDK-16-即将发布，新特性速览！](https://www.ershicimi.com/p/2791ba7cd853a43faa8b23369e9bbb17) 
+- [2020-12-20-非常有价值的电商系统，包括前台商城和后台管理系统！直接拿来用](https://www.ershicimi.com/p/3483db732e7b18ba1fc9fe3fb69f9141) 
 - [2020-12-19-顶着压力，分享几个我经常看片的高清资源网站（手慢无）！！！](https://www.ershicimi.com/p/779bcb66121cc90f17128a26eb98789c) 
 - [2020-12-19-使用-Redis-实现一个轻量级的搜索引擎，牛逼啊！](https://www.ershicimi.com/p/6b3815a25b616f784d8871a249255791) 
 - [2020-12-19-lazy-mock-，一个生成后端模拟数据的懒人工具](https://www.ershicimi.com/p/0e7dfdab0bc6f95308e9c5999af9ae21) 
