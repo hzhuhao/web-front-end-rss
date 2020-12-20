@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-20 12:00:32。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-20 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -298,6 +298,10 @@
 - [【互联网架构师】2020-12-01-看看人家架构师那消息队列中间件玩的，那叫一个优雅！](https://www.ershicimi.com/p/e3be9a09f87253fae396f5bd32df7648) 
 - [【互联网架构师】2020-12-01-介绍一款-API-敏捷开发工具](https://www.ershicimi.com/p/87453a3481a86aa75986aa5f9f35c6ff) 
 - [【互联网架构师】2020-12-01-查询提升-200-倍，ClickHouse-你值得拥有！](https://www.ershicimi.com/p/b12170f712f3d9c2ed6552bd652983e3) 
+- [【InfoQ】2020-12-20-谷歌、AWS宕机事故频发，热闹看完该学会什么？](https://www.ershicimi.com/p/202c1d1a7c8b33de4fd3dc2f251d15ce) 
+- [【InfoQ】2020-12-20-安全地拥抱数字货币，PayPal的底气是什么？](https://www.ershicimi.com/p/5d2b853ef09dfeff27301059a0112aaa) 
+- [【InfoQ】2020-12-20-大厂刚发布的现代化应用服务和工具，可精细到1ms计费，为开发者扫除部署障碍！｜Q推荐](https://www.ershicimi.com/p/dd5c0fd0869b7406945c0f92259c8141) 
+- [【InfoQ】2020-12-20-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/9fcf58b28b62a29d8df2ffa346bef03a) 
 - [【InfoQ】2020-12-19-阿里巴巴回应中央联合调查组进驻；全球最大成人网站Pornhub或将关停；美团否认“外卖会员杀熟”-|](https://www.ershicimi.com/p/f97980fce0dba3cae0439ce55e7f418e) 
 - [【InfoQ】2020-12-19-一个50岁中国操作系统开发者的故事丨openEuler英雄汇](https://www.ershicimi.com/p/75ecd111197b995d515d622072ef7941) 
 - [【InfoQ】2020-12-19-这场年度盛会，为你展现国产数据库的变革与精彩-｜-Q推荐](https://www.ershicimi.com/p/f7f8974ae312ea06fa095ed18bbaac33) 

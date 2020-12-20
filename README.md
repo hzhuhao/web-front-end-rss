@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-20 12:00:32，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-20 18:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -27,7 +27,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -70,15 +70,15 @@
 </summary>
 
 
-- [2020-12-19-花-4-小时写的-JS-脚本，帮医院省了-40-万澳元](https://www.ershicimi.com/p/edfc7597eedb9323010f685d8c94e002) ![](assets/new.png)  
-- [2020-12-19-6.7k-Star！超全面的中文版-JS-开发资源列表](https://www.ershicimi.com/p/ab81f321d6fd0771ba6d2e5e636e55d3) ![](assets/new.png)  
-- [2020-12-19-设计灵感：12个App的登录注册界面案例参考](https://www.ershicimi.com/p/2073d1e20693255740b36003e3e3239a) ![](assets/new.png)  
-- [2020-12-18-3-年的前端大厂面经分享，不想被刷下可以看看](https://www.ershicimi.com/p/90d017b2fb577282a430260ab4039d8e) ![](assets/new.png)  
-- [2020-12-18-这个-29.7-K-的剪贴板-JS-库有点东西！](https://www.ershicimi.com/p/e60add1d8543af886933de01b434b95e) ![](assets/new.png)  
-- [2020-12-18-8.7k-Star！不剁手-Mac-也能用-macOS](https://www.ershicimi.com/p/2f5af5bcf3973770b212bddff5932476) ![](assets/new.png)  
-- [2020-12-17-MongoDB-首席前端工程师的技术栈（2020版）](https://www.ershicimi.com/p/0fb5419c112c5af013be04e9f9d6711c) ![](assets/new.png)  
-- [2020-12-17-Chrome-录屏神器！自称“最强大”的屏幕录制和注释工具！](https://www.ershicimi.com/p/fe24d92ebe99875cec2313cbcdbbcafa) ![](assets/new.png)  
-- [2020-12-17-设计灵感-|-夜间模式网页界面如何设计？](https://www.ershicimi.com/p/0d83e17624105b64d8d72814c619262b) ![](assets/new.png)  
+- [2020-12-19-花-4-小时写的-JS-脚本，帮医院省了-40-万澳元](https://www.ershicimi.com/p/edfc7597eedb9323010f685d8c94e002)  
+- [2020-12-19-6.7k-Star！超全面的中文版-JS-开发资源列表](https://www.ershicimi.com/p/ab81f321d6fd0771ba6d2e5e636e55d3)  
+- [2020-12-19-设计灵感：12个App的登录注册界面案例参考](https://www.ershicimi.com/p/2073d1e20693255740b36003e3e3239a)  
+- [2020-12-18-3-年的前端大厂面经分享，不想被刷下可以看看](https://www.ershicimi.com/p/90d017b2fb577282a430260ab4039d8e)  
+- [2020-12-18-这个-29.7-K-的剪贴板-JS-库有点东西！](https://www.ershicimi.com/p/e60add1d8543af886933de01b434b95e)  
+- [2020-12-18-8.7k-Star！不剁手-Mac-也能用-macOS](https://www.ershicimi.com/p/2f5af5bcf3973770b212bddff5932476)  
+- [2020-12-17-MongoDB-首席前端工程师的技术栈（2020版）](https://www.ershicimi.com/p/0fb5419c112c5af013be04e9f9d6711c)  
+- [2020-12-17-Chrome-录屏神器！自称“最强大”的屏幕录制和注释工具！](https://www.ershicimi.com/p/fe24d92ebe99875cec2313cbcdbbcafa)  
+- [2020-12-17-设计灵感-|-夜间模式网页界面如何设计？](https://www.ershicimi.com/p/0d83e17624105b64d8d72814c619262b)  
 - [2020-12-16-最火的-Vue-前端框架，你用对了么？](https://www.ershicimi.com/p/22192dc16df677b659d8ee42082d829d)  
 - [2020-12-16-跟着官方文档能学懂-Hooks-就怪了](https://www.ershicimi.com/p/27406fa6ccc4854dace2dc090d879dd3)  
 - [2020-12-16-下载神器被-Github-下架后，作者写下了这篇回应](https://www.ershicimi.com/p/b4f8c624ebceabf1805fbb1c46a83719)  
@@ -411,6 +411,10 @@
 </summary>
 
 
+- [2020-12-20-谷歌、AWS宕机事故频发，热闹看完该学会什么？](https://www.ershicimi.com/p/202c1d1a7c8b33de4fd3dc2f251d15ce) ![](assets/new.png)  
+- [2020-12-20-安全地拥抱数字货币，PayPal的底气是什么？](https://www.ershicimi.com/p/5d2b853ef09dfeff27301059a0112aaa) ![](assets/new.png)  
+- [2020-12-20-大厂刚发布的现代化应用服务和工具，可精细到1ms计费，为开发者扫除部署障碍！｜Q推荐](https://www.ershicimi.com/p/dd5c0fd0869b7406945c0f92259c8141) ![](assets/new.png)  
+- [2020-12-20-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/9fcf58b28b62a29d8df2ffa346bef03a) ![](assets/new.png)  
 - [2020-12-19-阿里巴巴回应中央联合调查组进驻；全球最大成人网站Pornhub或将关停；美团否认“外卖会员杀熟”-|](https://www.ershicimi.com/p/f97980fce0dba3cae0439ce55e7f418e)  
 - [2020-12-19-一个50岁中国操作系统开发者的故事丨openEuler英雄汇](https://www.ershicimi.com/p/75ecd111197b995d515d622072ef7941)  
 - [2020-12-19-这场年度盛会，为你展现国产数据库的变革与精彩-｜-Q推荐](https://www.ershicimi.com/p/f7f8974ae312ea06fa095ed18bbaac33)  
@@ -427,10 +431,6 @@
 - [2020-12-17-企业架构中的坑：你是否搞混了“服务”？](https://www.ershicimi.com/p/29536208cc784c6a1aed703d89a8d626)  
 - [2020-12-16-鸿蒙2.0手机Beta版本发布！华为小目标：一年内自研设备搭载HarmonyOS数量过亿](https://www.ershicimi.com/p/2eed43a6b399418f51499653647ddd77)  
 - [2020-12-16-蚂蚁金服的Service-Mesh实践和展望｜QCon](https://www.ershicimi.com/p/44ae0d46a0c1d0c313187a378de208bb)  
-- [2020-12-16-架构师成长计划：把握AI生涯的平衡与火候｜Q推荐](https://www.ershicimi.com/p/a47a41e8ac1323b8ccbe2d20e05cdc0c)  
-- [2020-12-16-仅5000位开发者抢到了门票，这个技术大会有多牛？｜Q推荐](https://www.ershicimi.com/p/c5d2bbdc7f1fd487ca750ff3859cb4e4)  
-- [2020-12-16-.NET-5的重大改变：消失的历史技术](https://www.ershicimi.com/p/9f54fd9773930a4d81ce358c6cd202d5)  
-- [2020-12-15-百度不需要用户](https://www.ershicimi.com/p/e4eaa97098c5434c0071347ba93bad99)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
