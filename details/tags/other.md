@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 12:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-21 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1581,6 +1581,11 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-12-21-亚马逊程序员：我曾拼命逃离996](https://www.ershicimi.com/p/3bdf8f905632c27172ea1392b4d95709) 
+- [2020-12-21-微众开源：从聚木成林到生态领先](https://www.ershicimi.com/p/1a89f2f7bca7451cc002227f06e9e25d) 
+- [2020-12-21-阿里、快手、好未来：业务架构应该这么做！｜-QCon](https://www.ershicimi.com/p/7d4ffc546eb8bfb417facceec8b8c69e) 
+- [2020-12-21-中台技术解析之微服务架构下的测试实践](https://www.ershicimi.com/p/35256096f9916159de009295c9d055ef) 
+- [2020-12-21-为什么-StackOverflow-上的代码片段会摧毁你的项目？](https://www.ershicimi.com/p/1ac9ac4370091e4084b383e3b7054637) 
 - [2020-12-20-谷歌、AWS宕机事故频发，热闹看完该学会什么？](https://www.ershicimi.com/p/202c1d1a7c8b33de4fd3dc2f251d15ce) 
 - [2020-12-20-大厂刚发布的现代化应用服务和工具，可精细到1ms计费，为开发者扫除部署障碍！｜Q推荐](https://www.ershicimi.com/p/dd5c0fd0869b7406945c0f92259c8141) 
 - [2020-12-19-阿里巴巴回应中央联合调查组进驻；全球最大成人网站Pornhub或将关停；美团否认“外卖会员杀熟”-|](https://www.ershicimi.com/p/f97980fce0dba3cae0439ce55e7f418e) 

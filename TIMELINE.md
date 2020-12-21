@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-21 12:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-21 18:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -307,6 +307,11 @@
 - [【互联网架构师】2020-12-01-看看人家架构师那消息队列中间件玩的，那叫一个优雅！](https://www.ershicimi.com/p/e3be9a09f87253fae396f5bd32df7648) 
 - [【互联网架构师】2020-12-01-介绍一款-API-敏捷开发工具](https://www.ershicimi.com/p/87453a3481a86aa75986aa5f9f35c6ff) 
 - [【互联网架构师】2020-12-01-查询提升-200-倍，ClickHouse-你值得拥有！](https://www.ershicimi.com/p/b12170f712f3d9c2ed6552bd652983e3) 
+- [【InfoQ】2020-12-21-亚马逊程序员：我曾拼命逃离996](https://www.ershicimi.com/p/3bdf8f905632c27172ea1392b4d95709) 
+- [【InfoQ】2020-12-21-微众开源：从聚木成林到生态领先](https://www.ershicimi.com/p/1a89f2f7bca7451cc002227f06e9e25d) 
+- [【InfoQ】2020-12-21-阿里、快手、好未来：业务架构应该这么做！｜-QCon](https://www.ershicimi.com/p/7d4ffc546eb8bfb417facceec8b8c69e) 
+- [【InfoQ】2020-12-21-中台技术解析之微服务架构下的测试实践](https://www.ershicimi.com/p/35256096f9916159de009295c9d055ef) 
+- [【InfoQ】2020-12-21-为什么-StackOverflow-上的代码片段会摧毁你的项目？](https://www.ershicimi.com/p/1ac9ac4370091e4084b383e3b7054637) 
 - [【InfoQ】2020-12-20-谷歌、AWS宕机事故频发，热闹看完该学会什么？](https://www.ershicimi.com/p/202c1d1a7c8b33de4fd3dc2f251d15ce) 
 - [【InfoQ】2020-12-20-安全地拥抱数字货币，PayPal的底气是什么？](https://www.ershicimi.com/p/5d2b853ef09dfeff27301059a0112aaa) 
 - [【InfoQ】2020-12-20-大厂刚发布的现代化应用服务和工具，可精细到1ms计费，为开发者扫除部署障碍！｜Q推荐](https://www.ershicimi.com/p/dd5c0fd0869b7406945c0f92259c8141) 
@@ -402,6 +407,7 @@
 - [【InfoQ】2020-12-01-腾讯云面向泛娱乐行业的六大技术实践](https://www.ershicimi.com/p/3e75267ca70b5e053bb6a09d8c8e5ccb) 
 - [【InfoQ】2020-12-01-在生产中使用Rust的著名公司及他们选择Rust的理由](https://www.ershicimi.com/p/977525a65afe915e3fb8793d8548a976) 
 - [【InfoQ】2020-12-01-Flutter状态State的5种应对方法](https://www.ershicimi.com/p/015ab102f706bf0ed1f9f4546e4160fc) 
+- [【JavaScript】2020-12-21-Vue-3.0-进阶玩法，想一起造轮子的进](https://www.ershicimi.com/p/ecd6b1fe71dd157caf1abab769da4900) 
 - [【JavaScript】2020-12-18-最火的-Vue-前端框架，你用对了么？](https://www.ershicimi.com/p/7d14f8a7f058a7d1e1ecde4ceb2b8a7f) 
 - [【JavaScript】2020-12-17-太真实了](https://www.ershicimi.com/p/29a3a8478877c73487ea61f490534e49) 
 - [【JavaScript】2020-12-16-为什么程序员互相之间不能透露薪水?是怕“凡尔赛”吗？](https://www.ershicimi.com/p/7836f1f8c500a1bb5a56582081e381ab) 
