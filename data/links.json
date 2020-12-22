@@ -18542,6 +18542,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "那些被技术难以提升搞垮的Java架构师都怎么样了？",
+        "link": "https://www.ershicimi.com/p/0231389d9324e1cb9b9ba8780ffdbb57",
+        "date": "2020-12-22"
+      },
+      {
+        "title": "8年开发，连登陆接口都写这么烂...",
+        "link": "https://www.ershicimi.com/p/6e1eda5bd057e826bf701610f0a809f6",
+        "date": "2020-12-22"
+      },
+      {
+        "title": "几百万消息在消息队列里积压了几个小时！完了。。。",
+        "link": "https://www.ershicimi.com/p/3fd081b8a0e754264ad2c8efba446558",
+        "date": "2020-12-22"
+      },
+      {
         "title": "再见，Kafka！阿里架构师钟爱的消息队列，竟是它？",
         "link": "https://www.ershicimi.com/p/f852723a3f7e76b7a2b89e1a93689b81",
         "date": "2020-12-21"
