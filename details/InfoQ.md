@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-12-22 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-23 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-12-23-关于中台的思考和尝试](https://www.ershicimi.com/p/d3741d4dba0f0fd910d7996c4c8c8a3e) 
+- [2020-12-23-从业18年，我总结了9个最有价值的经验](https://www.ershicimi.com/p/c30226aad138b1e429553b7ca0152c57) 
+- [2020-12-23-这个圣诞你想怎么过？来-openEuler-Summit-2020-解锁不一样的大会“玩法”-|-Q](https://www.ershicimi.com/p/da4a8ee699364a6aaf66df2d270afa21) 
+- [2020-12-23-体验提升，成本下降：直播平台的技术升级新神器](https://www.ershicimi.com/p/1864bc378a9374cc51ea9dd3130a1e1f) 
+- [2020-12-23-如何只使用CSS提升页面渲染速度](https://www.ershicimi.com/p/7798d919e91a817e1408b101f7ab6a5d) 
 - [2020-12-22-蚂蚁金服暂缓上市，怎样凭借技术在金融机构分一杯羹-｜-极客时间](https://www.ershicimi.com/p/d00ad706febc8b2b1a2729766a08880a) 
 - [2020-12-22-在中国做操作系统研发-20-年是种什么体验？丨-openEuler-英雄汇](https://www.ershicimi.com/p/a949969f81586d9b3654ff3b66bffcd0) 
 - [2020-12-22-亚马逊-CTO：从无数实践中总结出-4-条云端构建的铁律](https://www.ershicimi.com/p/665f797bd08338d0ae87ddfb3aa0ed60) 
