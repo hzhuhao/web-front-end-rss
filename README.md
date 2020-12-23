@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-23 06:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-23 12:00:24，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -25,8 +25,8 @@
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [前端日刊](#前端日刊)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -349,6 +349,8 @@
 </summary>
 
 
+- [2020-12-21-来一起用-Vue3.0-造轮子](https://www.ershicimi.com/p/34e97f93b5d651329bf09ddd0e0e8b2a) ![](assets/new.png)  
+- [2020-12-18-从0到1带你开发一个人脸识别考勤小程序](https://www.ershicimi.com/p/7fdc7a8a92088c3678ae5553440b47ec) ![](assets/new.png)  
 - [2020-12-15-3-年经验的前端开发是如何造轮子的？](https://www.ershicimi.com/p/246e9f152a0f65ffb86a034480f1146f)  
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0)  
 - [2020-12-11-推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/18c08bde7a831bbd26ace73f5cd169ee)  
@@ -367,8 +369,6 @@
 - [2020-11-12-与后端分手，做独立自强的前端人！](https://www.ershicimi.com/p/21f1a9041411dc5053bd2f76dba8f177)  
 - [2020-11-11-字节前端技术岗发布+最新内部面试题](https://www.ershicimi.com/p/f8720b9ba9028e4081b1345e6367f3c5)  
 - [2020-11-08-Tips|如何写出健壮而不失风度的代码](https://www.ershicimi.com/p/5b022955a0054edc500dadf4e33e4c9c)  
-- [2020-11-05-基于-Web-Component-组件化开发，前端人必备！](https://www.ershicimi.com/p/63513890211cc492643f74942e78c882)  
-- [2020-11-02-“打工人”火爆朋友圈，我看到了前端人心酸](https://www.ershicimi.com/p/a3a43c83a17ab0bea1a69499a0adfeca)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,9 +380,9 @@
 </summary>
 
 
-- [2020-12-22-那些被技术难以提升搞垮的Java架构师都怎么样了？](https://www.ershicimi.com/p/0231389d9324e1cb9b9ba8780ffdbb57) ![](assets/new.png)  
-- [2020-12-22-8年开发，连登陆接口都写这么烂...](https://www.ershicimi.com/p/6e1eda5bd057e826bf701610f0a809f6) ![](assets/new.png)  
-- [2020-12-22-几百万消息在消息队列里积压了几个小时！完了。。。](https://www.ershicimi.com/p/3fd081b8a0e754264ad2c8efba446558) ![](assets/new.png)  
+- [2020-12-22-那些被技术难以提升搞垮的Java架构师都怎么样了？](https://www.ershicimi.com/p/0231389d9324e1cb9b9ba8780ffdbb57)  
+- [2020-12-22-8年开发，连登陆接口都写这么烂...](https://www.ershicimi.com/p/6e1eda5bd057e826bf701610f0a809f6)  
+- [2020-12-22-几百万消息在消息队列里积压了几个小时！完了。。。](https://www.ershicimi.com/p/3fd081b8a0e754264ad2c8efba446558)  
 - [2020-12-21-再见，Kafka！阿里架构师钟爱的消息队列，竟是它？](https://www.ershicimi.com/p/f852723a3f7e76b7a2b89e1a93689b81)  
 - [2020-12-21-微信技术总监：11亿日活的超大型系统架构之道！13页ppt详解](https://www.ershicimi.com/p/3c42109121d9edb171a13da65bf3b8a8)  
 - [2020-12-21-未来-10-年，软件开发涨工资的-8-个-技术发展趋势](https://www.ershicimi.com/p/84b22438f8f6e2fda322f38076f43f59)  
