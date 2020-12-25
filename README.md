@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-25 06:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-25 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -19,14 +19,14 @@
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -163,7 +163,7 @@
 </summary>
 
 
-- [2020-12-25-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/) ![](assets/new.png)  
+- [2020-12-25-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/)  
 - [2020-12-13-纯CSS实现微信列表左滑显示按钮的交互效果](https://www.zhangxinxu.com/wordpress/2020/12/css-touch-scroll-show-button/)  
 - [2020-12-06-原来DOM还有toggleAttribute这样的JS-API](https://www.zhangxinxu.com/wordpress/2020/12/js-toggleattribute-dom-api/)  
 - [2020-12-01-尝试使用JS-IntersectionObserver让标题和导航联动](https://www.zhangxinxu.com/wordpress/2020/12/js-intersectionobserver-nav/)  
@@ -194,6 +194,7 @@
 </summary>
 
 
+- [2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html) ![](assets/new.png)  
 - [2020-12-18-科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html)  
 - [2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html)  
 - [2020-12-11-科技爱好者周刊（第-137-期）：Slack-被收购，以及企业的技术选型](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-137.html)  
@@ -213,7 +214,6 @@
 - [2020-09-30-科技爱好者周刊（第-127-期）：未来人人开发软件，几乎没人编码](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-127.html)  
 - [2020-09-25-科技爱好者周刊（第-126-期）：内卷化是什么？](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-126.html)  
 - [2020-09-18-科技爱好者周刊（第-125-期）：数字人民币要取代谁](http://www.ruanyifeng.com/blog/2020/09/weekly-issue-125.html)  
-- [2020-09-15-轻松学会-React-钩子：以-useEffect-为例](http://www.ruanyifeng.com/blog/2020/09/react-hooks-useeffect-tutorial.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -318,15 +318,15 @@
 </summary>
 
 
-- [2020-12-24-React-RFC-Server-Components](https://www.ershicimi.com/p/c99a5108f785fd2d47efcb0d5dc58264) ![](assets/new.png)  
-- [2020-12-24-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/b4e113035653a3b2f347898bfacb7c9a) ![](assets/new.png)  
-- [2020-12-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/c13b097a2fde7ca465214a3b9ecad1bb) ![](assets/new.png)  
-- [2020-12-23-想要复制图像？Clipboard-API-了解一下](https://www.ershicimi.com/p/7fe6b2bd2ccbaa82acc0db7202ae2e78) ![](assets/new.png)  
-- [2020-12-23-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/a1f64e99998ccd359b2dd840cc92df92) ![](assets/new.png)  
-- [2020-12-23-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1727695208da3ba7fc1f02dbecf06a80) ![](assets/new.png)  
-- [2020-12-22-前端性能优化之自定义性能指标及上报方法详解](https://www.ershicimi.com/p/b202d42ddce89da17847ef223591e653) ![](assets/new.png)  
-- [2020-12-22-奇舞团-即视-招高级前端开发工程师](https://www.ershicimi.com/p/72b47df23083e1cb5e049d63724903a9) ![](assets/new.png)  
-- [2020-12-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/dffce92ce2d73970b0258620b218b56f) ![](assets/new.png)  
+- [2020-12-24-React-RFC-Server-Components](https://www.ershicimi.com/p/c99a5108f785fd2d47efcb0d5dc58264)  
+- [2020-12-24-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/b4e113035653a3b2f347898bfacb7c9a)  
+- [2020-12-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/c13b097a2fde7ca465214a3b9ecad1bb)  
+- [2020-12-23-想要复制图像？Clipboard-API-了解一下](https://www.ershicimi.com/p/7fe6b2bd2ccbaa82acc0db7202ae2e78)  
+- [2020-12-23-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/a1f64e99998ccd359b2dd840cc92df92)  
+- [2020-12-23-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/1727695208da3ba7fc1f02dbecf06a80)  
+- [2020-12-22-前端性能优化之自定义性能指标及上报方法详解](https://www.ershicimi.com/p/b202d42ddce89da17847ef223591e653)  
+- [2020-12-22-奇舞团-即视-招高级前端开发工程师](https://www.ershicimi.com/p/72b47df23083e1cb5e049d63724903a9)  
+- [2020-12-22-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/dffce92ce2d73970b0258620b218b56f)  
 - [2020-12-21-从Context源码实现谈React性能优化](https://www.ershicimi.com/p/bffe7b23889969499d9fdd6162a70bc8)  
 - [2020-12-21-奇舞团-即视-招高级前端开发工程师](https://www.ershicimi.com/p/0b5e763e96f3a171b8ef3f2f59c9fb6e)  
 - [2020-12-21-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/00ed5f7a95a2f2a4d9eac84f1a8f62d2)  
@@ -380,9 +380,9 @@
 </summary>
 
 
-- [2020-12-24-全球最大成人网站-Pornhub-或将关停](https://www.ershicimi.com/p/6d43a90e6515a2344959536ca9d91f6f) ![](assets/new.png)  
-- [2020-12-24-卧槽！你竟然不晓得Java中可以用-::-吗？](https://www.ershicimi.com/p/12ad649ce5363bc5d33f611f0725fd78) ![](assets/new.png)  
-- [2020-12-24-盘点-15-个好用的-API-接口管理神器](https://www.ershicimi.com/p/8aa675e37a5888d06f2c85bba843ce05) ![](assets/new.png)  
+- [2020-12-24-全球最大成人网站-Pornhub-或将关停](https://www.ershicimi.com/p/6d43a90e6515a2344959536ca9d91f6f)  
+- [2020-12-24-卧槽！你竟然不晓得Java中可以用-::-吗？](https://www.ershicimi.com/p/12ad649ce5363bc5d33f611f0725fd78)  
+- [2020-12-24-盘点-15-个好用的-API-接口管理神器](https://www.ershicimi.com/p/8aa675e37a5888d06f2c85bba843ce05)  
 - [2020-12-23-我做了13年架构，离职后才明白：决定你工资上限的，是这3件事](https://www.ershicimi.com/p/1ffd54921169c9c6ea72a6739580fead)  
 - [2020-12-23-我决定把IDEA神器这些你可能不知道的但是又实用的小技巧分享出来，超赞！](https://www.ershicimi.com/p/2665bbc585ded7b07d635e75a764f303)  
 - [2020-12-23-Spring-事务的那些坑，都在这里了！](https://www.ershicimi.com/p/e963be408dfadb75722cf61b359fa5da)  
