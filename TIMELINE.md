@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 18:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-26 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -288,6 +288,9 @@
 - [【前端日刊】2020-12-04-小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/89fa25c16114790ca3b257faed3da5de) 
 - [【前端日刊】2020-12-03-这一次彻底弄懂React-Router路由原理](https://www.ershicimi.com/p/91483570618fec8b1325f5aa8e1da6ae) 
 - [【前端日刊】2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b) 
+- [【互联网架构师】2020-12-25-内部泄露版！互联网大厂的最新薪资和职级一览](https://www.ershicimi.com/p/06de718a9808a246fd2d9659742ebfa3) 
+- [【互联网架构师】2020-12-25-Oracle-要慌了！华为终于开源了自家的-Huawei-JDK——毕昇-JDK！](https://www.ershicimi.com/p/47cd17aac717ac1a0c6958f0f3df06b7) 
+- [【互联网架构师】2020-12-25-无语！JDK-8-中的-HashMap-依然会死循环…](https://www.ershicimi.com/p/dc04cb025827df75696763798a7455b8) 
 - [【互联网架构师】2020-12-24-全球最大成人网站-Pornhub-或将关停](https://www.ershicimi.com/p/6d43a90e6515a2344959536ca9d91f6f) 
 - [【互联网架构师】2020-12-24-卧槽！你竟然不晓得Java中可以用-::-吗？](https://www.ershicimi.com/p/12ad649ce5363bc5d33f611f0725fd78) 
 - [【互联网架构师】2020-12-24-盘点-15-个好用的-API-接口管理神器](https://www.ershicimi.com/p/8aa675e37a5888d06f2c85bba843ce05) 
