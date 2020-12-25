@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2020-12-24 18:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-12-25-我真的逃不掉拼多多真香定律](https://www.ershicimi.com/p/48dda5dfe2b3a753d1cd6038c7340dd7) 
+- [2020-12-25-这5个程序员，改变了世界](https://www.ershicimi.com/p/8c288a2071e72ad0e7356bd78b0c7a00) 
+- [2020-12-25-数仓+AI-如何构建智能网联与出海业务的实战利器？](https://www.ershicimi.com/p/1d4d689468f4562d1b893f19c6f77f42) 
+- [2020-12-25-华为全栈全场景AI助力智能升级，一文看懂企业AI开发路线](https://www.ershicimi.com/p/c020536d71da32b1c9f847a97b374232) 
+- [2020-12-25-BBC在线云迁移成功的8个原则](https://www.ershicimi.com/p/54327f19ababc7022d4b312130fbb678) 
 - [2020-12-24-突发！阿里巴巴涉嫌垄断被立案调查](https://www.ershicimi.com/p/d75fe46f96a09e37d4c898cb4f0b3fae) 
 - [2020-12-24-挑战，送钱-|-福利](https://www.ershicimi.com/p/e09284012a7e34909bd8677d266742a6) 
 - [2020-12-24-0元免费领-|-这个圣诞你想怎么过？](https://www.ershicimi.com/p/19cf48dc48c6b991c833d27198b80d6c) 

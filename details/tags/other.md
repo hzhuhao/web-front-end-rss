@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-25 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -216,6 +216,9 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2020-12-25-程序员也被“内卷”？网友：前景一片昏暗！-但真的是这样吗？](https://www.ershicimi.com/p/aafdb6625afbee114f0d372d2efed47d) 
+- [2020-12-25-初级前端如何突破瓶颈？做了-3-年组长，我有这些体会](https://www.ershicimi.com/p/5874986a9786a611e8115fcdf86cd221) 
+- [2020-12-25-设计灵感：一眼就吸引人的网页着陆页长什么样？](https://www.ershicimi.com/p/c1dd0584588bfad433e80996a5015e60) 
 - [2020-12-24-华为要承包前端开发者整年需求？](https://www.ershicimi.com/p/433e70c12df1ec9cb53f53815429b6fb) 
 - [2020-12-24-设计灵感：数据可视化！12-个仪表盘网页界面设计](https://www.ershicimi.com/p/e0e783d59dd8af201f7bdde9d03a49bb) 
 - [2020-12-23-设计灵感：12款资讯博客类App界面设计](https://www.ershicimi.com/p/f6991b6644f5fe15b9c6bbeeaecf7a42) 
@@ -997,6 +1000,8 @@
 - [2018-12-25-新范式小群效应设计-实例分析“淘宝合伙人&京东好玩节Ⅰ”](https://jdc.jd.com/archives/212815) 
 - [2018-10-19-可以说的秘密-那些我们该讨论的前端加密方法](https://jdc.jd.com/archives/212773) 
 - [2018-09-13-不依赖wifi热点的移动web真机测试解决方案Carefree](https://jdc.jd.com/archives/212702) 
+- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) 
+- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) 
 - [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/) 
 - [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/) 
 - [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/) 
@@ -1611,6 +1616,9 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2020-12-25-我真的逃不掉拼多多真香定律](https://www.ershicimi.com/p/48dda5dfe2b3a753d1cd6038c7340dd7) 
+- [2020-12-25-这5个程序员，改变了世界](https://www.ershicimi.com/p/8c288a2071e72ad0e7356bd78b0c7a00) 
+- [2020-12-25-BBC在线云迁移成功的8个原则](https://www.ershicimi.com/p/54327f19ababc7022d4b312130fbb678) 
 - [2020-12-24-突发！阿里巴巴涉嫌垄断被立案调查](https://www.ershicimi.com/p/d75fe46f96a09e37d4c898cb4f0b3fae) 
 - [2020-12-24-挑战，送钱-|-福利](https://www.ershicimi.com/p/e09284012a7e34909bd8677d266742a6) 
 - [2020-12-24-0元免费领-|-这个圣诞你想怎么过？](https://www.ershicimi.com/p/19cf48dc48c6b991c833d27198b80d6c) 

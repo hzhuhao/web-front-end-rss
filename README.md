@@ -11,23 +11,23 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-25 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-25 18:00:22，:rocket: 更新条数: +11， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
+- [前端大全](#前端大全)![](assets/dot.png)   
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -70,6 +70,10 @@
 </summary>
 
 
+- [2020-12-25-程序员也被“内卷”？网友：前景一片昏暗！-但真的是这样吗？](https://www.ershicimi.com/p/aafdb6625afbee114f0d372d2efed47d) ![](assets/new.png)  
+- [2020-12-25-初级前端如何突破瓶颈？做了-3-年组长，我有这些体会](https://www.ershicimi.com/p/5874986a9786a611e8115fcdf86cd221) ![](assets/new.png)  
+- [2020-12-25-设计灵感：一眼就吸引人的网页着陆页长什么样？](https://www.ershicimi.com/p/c1dd0584588bfad433e80996a5015e60) ![](assets/new.png)  
+- [2020-12-25-每天学点-JS-编码规范（3）：Arrays-和-Destructuring](https://www.ershicimi.com/p/c625d1f91a10aa0e2b350813cdc77b84) ![](assets/new.png)  
 - [2020-12-24-基于-Vue-的前端架构，我做了这-15-点](https://www.ershicimi.com/p/49a31310b2bfb7159222739f70eb6a7a)  
 - [2020-12-24-华为要承包前端开发者整年需求？](https://www.ershicimi.com/p/433e70c12df1ec9cb53f53815429b6fb)  
 - [2020-12-24-设计灵感：数据可视化！12-个仪表盘网页界面设计](https://www.ershicimi.com/p/e0e783d59dd8af201f7bdde9d03a49bb)  
@@ -86,10 +90,6 @@
 - [2020-12-20-小姐姐盗用他人设计作品找工作，入职京东...](https://www.ershicimi.com/p/82a7fab428d8f367bebc69d4aefb658f)  
 - [2020-12-20-从-Context-源码实现谈-React-性能优化](https://www.ershicimi.com/p/a302d516dc7302de639a8cde01500bf9)  
 - [2020-12-20-1.5-万-Star！Vim-党不能缺少的-IDE：SpaceVim](https://www.ershicimi.com/p/eb455fac2ef1b64de7bfe8203aa12720)  
-- [2020-12-19-花-4-小时写的-JS-脚本，帮医院省了-40-万澳元](https://www.ershicimi.com/p/edfc7597eedb9323010f685d8c94e002)  
-- [2020-12-19-6.7k-Star！超全面的中文版-JS-开发资源列表](https://www.ershicimi.com/p/ab81f321d6fd0771ba6d2e5e636e55d3)  
-- [2020-12-19-设计灵感：12个App的登录注册界面案例参考](https://www.ershicimi.com/p/2073d1e20693255740b36003e3e3239a)  
-- [2020-12-18-3-年的前端大厂面经分享，不想被刷下可以看看](https://www.ershicimi.com/p/90d017b2fb577282a430260ab4039d8e)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html) ![](assets/new.png)  
+- [2020-12-25-科技爱好者周刊（第-139-期）：生物学的可怕进展](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-139.html)  
 - [2020-12-18-科技爱好者周刊（第-138-期）：失业难以避免，重构人生规划](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-138.html)  
 - [2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html)  
 - [2020-12-11-科技爱好者周刊（第-137-期）：Slack-被收购，以及企业的技术选型](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-137.html)  
@@ -287,6 +287,8 @@
 </summary>
 
 
+- [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) ![](assets/new.png)  
+- [2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) ![](assets/new.png)  
 - [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/)  
 - [2020-11-12-React-入门儿](https://aotu.io/notes/2020/11/12/react-indoor/)  
 - [2020-11-12-MongoDB-副本集之入门篇](https://aotu.io/notes/2020/11/12/mongo-replica-set/)  
@@ -305,8 +307,6 @@
 - [2020-09-01-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/)  
 - [2020-08-25-三分钟打造七夕专属的插件化脚手架](https://aotu.io/notes/2020/08/25/valentine-plugin-cli/)  
 - [2020-08-25-京喜小程序体验评分优化实践](https://aotu.io/notes/2020/08/25/jx-audit-grade-optimization/)  
-- [2020-08-18-Design-Tokens-——-设计与开发碰撞的火花](https://aotu.io/notes/2020/08/18/design-tokens/)  
-- [2020-07-27-使用react-docgen自动生成组件文档](https://aotu.io/notes/2020/07/27/how-to-use-react-docgen/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,6 +411,11 @@
 </summary>
 
 
+- [2020-12-25-我真的逃不掉拼多多真香定律](https://www.ershicimi.com/p/48dda5dfe2b3a753d1cd6038c7340dd7) ![](assets/new.png)  
+- [2020-12-25-这5个程序员，改变了世界](https://www.ershicimi.com/p/8c288a2071e72ad0e7356bd78b0c7a00) ![](assets/new.png)  
+- [2020-12-25-数仓+AI-如何构建智能网联与出海业务的实战利器？](https://www.ershicimi.com/p/1d4d689468f4562d1b893f19c6f77f42) ![](assets/new.png)  
+- [2020-12-25-华为全栈全场景AI助力智能升级，一文看懂企业AI开发路线](https://www.ershicimi.com/p/c020536d71da32b1c9f847a97b374232) ![](assets/new.png)  
+- [2020-12-25-BBC在线云迁移成功的8个原则](https://www.ershicimi.com/p/54327f19ababc7022d4b312130fbb678) ![](assets/new.png)  
 - [2020-12-24-突发！阿里巴巴涉嫌垄断被立案调查](https://www.ershicimi.com/p/d75fe46f96a09e37d4c898cb4f0b3fae)  
 - [2020-12-24-挑战，送钱-|-福利](https://www.ershicimi.com/p/e09284012a7e34909bd8677d266742a6)  
 - [2020-12-24-0元免费领-|-这个圣诞你想怎么过？](https://www.ershicimi.com/p/19cf48dc48c6b991c833d27198b80d6c)  
@@ -426,11 +431,6 @@
 - [2020-12-22-CentOS-：被-Red-Hat-抛弃后，我更有活力了](https://www.ershicimi.com/p/3aced2ef47377f4962a453e83467db5f)  
 - [2020-12-22-7个顶级静态代码分析工具](https://www.ershicimi.com/p/1d389de1b241ad0c838f5cc2c61d614d)  
 - [2020-12-21-亚马逊程序员：我曾拼命逃离996](https://www.ershicimi.com/p/3bdf8f905632c27172ea1392b4d95709)  
-- [2020-12-21-微众开源：从聚木成林到生态领先](https://www.ershicimi.com/p/1a89f2f7bca7451cc002227f06e9e25d)  
-- [2020-12-21-阿里、快手、好未来：业务架构应该这么做！｜-QCon](https://www.ershicimi.com/p/7d4ffc546eb8bfb417facceec8b8c69e)  
-- [2020-12-21-中台技术解析之微服务架构下的测试实践](https://www.ershicimi.com/p/35256096f9916159de009295c9d055ef)  
-- [2020-12-21-为什么-StackOverflow-上的代码片段会摧毁你的项目？](https://www.ershicimi.com/p/1ac9ac4370091e4084b383e3b7054637)  
-- [2020-12-20-谷歌、AWS宕机事故频发，热闹看完该学会什么？](https://www.ershicimi.com/p/202c1d1a7c8b33de4fd3dc2f251d15ce)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-25 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-25 18:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,10 @@
 </summary>
 
 
+- [【前端大全】2020-12-25-程序员也被“内卷”？网友：前景一片昏暗！-但真的是这样吗？](https://www.ershicimi.com/p/aafdb6625afbee114f0d372d2efed47d) 
+- [【前端大全】2020-12-25-初级前端如何突破瓶颈？做了-3-年组长，我有这些体会](https://www.ershicimi.com/p/5874986a9786a611e8115fcdf86cd221) 
+- [【前端大全】2020-12-25-设计灵感：一眼就吸引人的网页着陆页长什么样？](https://www.ershicimi.com/p/c1dd0584588bfad433e80996a5015e60) 
+- [【前端大全】2020-12-25-每天学点-JS-编码规范（3）：Arrays-和-Destructuring](https://www.ershicimi.com/p/c625d1f91a10aa0e2b350813cdc77b84) 
 - [【前端大全】2020-12-24-基于-Vue-的前端架构，我做了这-15-点](https://www.ershicimi.com/p/49a31310b2bfb7159222739f70eb6a7a) 
 - [【前端大全】2020-12-24-华为要承包前端开发者整年需求？](https://www.ershicimi.com/p/433e70c12df1ec9cb53f53815429b6fb) 
 - [【前端大全】2020-12-24-设计灵感：数据可视化！12-个仪表盘网页界面设计](https://www.ershicimi.com/p/e0e783d59dd8af201f7bdde9d03a49bb) 
@@ -233,6 +237,8 @@
 - [【阮一峰的网络日志】2020-12-13-《SSH-入门教程》发布了](http://www.ruanyifeng.com/blog/2020/12/ssh-tutorial.html) 
 - [【阮一峰的网络日志】2020-12-11-科技爱好者周刊（第-137-期）：Slack-被收购，以及企业的技术选型](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-137.html) 
 - [【阮一峰的网络日志】2020-12-04-科技爱好者周刊（第-136-期）：利特伍德奇迹定律](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-136.html) 
+- [【Aotu-|-凹凸实验室】2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/) 
+- [【Aotu-|-凹凸实验室】2020-12-24-凹凸实验室的过去与未来](https://aotu.io/notes/2020/12/24/aotu-5-year/) 
 - [【奇舞周刊】2020-12-24-React-RFC-Server-Components](https://www.ershicimi.com/p/c99a5108f785fd2d47efcb0d5dc58264) 
 - [【奇舞周刊】2020-12-24-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/b4e113035653a3b2f347898bfacb7c9a) 
 - [【奇舞周刊】2020-12-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/c13b097a2fde7ca465214a3b9ecad1bb) 
@@ -354,6 +360,11 @@
 - [【互联网架构师】2020-12-01-看看人家架构师那消息队列中间件玩的，那叫一个优雅！](https://www.ershicimi.com/p/e3be9a09f87253fae396f5bd32df7648) 
 - [【互联网架构师】2020-12-01-介绍一款-API-敏捷开发工具](https://www.ershicimi.com/p/87453a3481a86aa75986aa5f9f35c6ff) 
 - [【互联网架构师】2020-12-01-查询提升-200-倍，ClickHouse-你值得拥有！](https://www.ershicimi.com/p/b12170f712f3d9c2ed6552bd652983e3) 
+- [【InfoQ】2020-12-25-我真的逃不掉拼多多真香定律](https://www.ershicimi.com/p/48dda5dfe2b3a753d1cd6038c7340dd7) 
+- [【InfoQ】2020-12-25-这5个程序员，改变了世界](https://www.ershicimi.com/p/8c288a2071e72ad0e7356bd78b0c7a00) 
+- [【InfoQ】2020-12-25-数仓+AI-如何构建智能网联与出海业务的实战利器？](https://www.ershicimi.com/p/1d4d689468f4562d1b893f19c6f77f42) 
+- [【InfoQ】2020-12-25-华为全栈全场景AI助力智能升级，一文看懂企业AI开发路线](https://www.ershicimi.com/p/c020536d71da32b1c9f847a97b374232) 
+- [【InfoQ】2020-12-25-BBC在线云迁移成功的8个原则](https://www.ershicimi.com/p/54327f19ababc7022d4b312130fbb678) 
 - [【InfoQ】2020-12-24-突发！阿里巴巴涉嫌垄断被立案调查](https://www.ershicimi.com/p/d75fe46f96a09e37d4c898cb4f0b3fae) 
 - [【InfoQ】2020-12-24-挑战，送钱-|-福利](https://www.ershicimi.com/p/e09284012a7e34909bd8677d266742a6) 
 - [【InfoQ】2020-12-24-0元免费领-|-这个圣诞你想怎么过？](https://www.ershicimi.com/p/19cf48dc48c6b991c833d27198b80d6c) 
