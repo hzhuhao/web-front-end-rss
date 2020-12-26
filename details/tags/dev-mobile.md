@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-26 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-27 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -15,6 +15,7 @@
 - [2018-12-13-【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect) 
 - [2020-12-07-一套代码、多端运行，Flutter是如何实现的？](https://www.ershicimi.com/p/092bb0b96ddfd4245d4c2991d19578a6) 
 - [2020-01-08-PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect) 
+- [2020-12-25-Flutter真香！2020大事件全纪录](https://www.ershicimi.com/p/42f09af6139c9aad7691a9fa45efb30f) 
 - [2020-12-07-纯-Dart-的挑战：美团外卖-Flutter-动态化实践](https://www.ershicimi.com/p/a500006868d6e35166629cba5d567825) 
 - [2020-12-02-如何使用BLoC架构开发Flutter应用](https://www.ershicimi.com/p/5c11306e2c96c52a90888eaf667f9f83) 
 - [2020-11-27-Flutter状态State的5种应对方法](https://www.ershicimi.com/p/45fff8577709ea71dcfaa006792f1794) 
