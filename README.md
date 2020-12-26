@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-26 06:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-26 18:00:23，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,8 +26,8 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [互联网架构师](#互联网架构师)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -380,9 +380,9 @@
 </summary>
 
 
-- [2020-12-25-内部泄露版！互联网大厂的最新薪资和职级一览](https://www.ershicimi.com/p/06de718a9808a246fd2d9659742ebfa3) ![](assets/new.png)  
-- [2020-12-25-Oracle-要慌了！华为终于开源了自家的-Huawei-JDK——毕昇-JDK！](https://www.ershicimi.com/p/47cd17aac717ac1a0c6958f0f3df06b7) ![](assets/new.png)  
-- [2020-12-25-无语！JDK-8-中的-HashMap-依然会死循环…](https://www.ershicimi.com/p/dc04cb025827df75696763798a7455b8) ![](assets/new.png)  
+- [2020-12-25-内部泄露版！互联网大厂的最新薪资和职级一览](https://www.ershicimi.com/p/06de718a9808a246fd2d9659742ebfa3)  
+- [2020-12-25-Oracle-要慌了！华为终于开源了自家的-Huawei-JDK——毕昇-JDK！](https://www.ershicimi.com/p/47cd17aac717ac1a0c6958f0f3df06b7)  
+- [2020-12-25-无语！JDK-8-中的-HashMap-依然会死循环…](https://www.ershicimi.com/p/dc04cb025827df75696763798a7455b8)  
 - [2020-12-24-全球最大成人网站-Pornhub-或将关停](https://www.ershicimi.com/p/6d43a90e6515a2344959536ca9d91f6f)  
 - [2020-12-24-卧槽！你竟然不晓得Java中可以用-::-吗？](https://www.ershicimi.com/p/12ad649ce5363bc5d33f611f0725fd78)  
 - [2020-12-24-盘点-15-个好用的-API-接口管理神器](https://www.ershicimi.com/p/8aa675e37a5888d06f2c85bba843ce05)  
@@ -411,6 +411,10 @@
 </summary>
 
 
+- [2020-12-26-传美团通知北京员工带电脑回家，做好远程办公准备；国产开源软件GitHub“刷星”被diss-|-Q资](https://www.ershicimi.com/p/cccaa7c77517b6146db5a566b5204f10) ![](assets/new.png)  
+- [2020-12-26-业务架构设计迭代演进思路](https://www.ershicimi.com/p/dd3be6896dac555df48e071589c3dab1) ![](assets/new.png)  
+- [2020-12-26-解读-WebAssembly-的-2020：Web-以外的进展与计划](https://www.ershicimi.com/p/14ddc21c2786aa3e9099038c014807b2) ![](assets/new.png)  
+- [2020-12-26-NVIDIA技术大咖亲授！教你30分钟实现基于Python的路况目标跟踪系统-｜-Q推荐](https://www.ershicimi.com/p/9da71fab40808544af100e43832ecd18) ![](assets/new.png)  
 - [2020-12-25-我真的逃不掉拼多多真香定律](https://www.ershicimi.com/p/48dda5dfe2b3a753d1cd6038c7340dd7)  
 - [2020-12-25-这5个程序员，改变了世界](https://www.ershicimi.com/p/8c288a2071e72ad0e7356bd78b0c7a00)  
 - [2020-12-25-数仓+AI-如何构建智能网联与出海业务的实战利器？](https://www.ershicimi.com/p/1d4d689468f4562d1b893f19c6f77f42)  
@@ -427,10 +431,6 @@
 - [2020-12-23-如何只使用CSS提升页面渲染速度](https://www.ershicimi.com/p/7798d919e91a817e1408b101f7ab6a5d)  
 - [2020-12-22-蚂蚁金服暂缓上市，怎样凭借技术在金融机构分一杯羹-｜-极客时间](https://www.ershicimi.com/p/d00ad706febc8b2b1a2729766a08880a)  
 - [2020-12-22-在中国做操作系统研发-20-年是种什么体验？丨-openEuler-英雄汇](https://www.ershicimi.com/p/a949969f81586d9b3654ff3b66bffcd0)  
-- [2020-12-22-亚马逊-CTO：从无数实践中总结出-4-条云端构建的铁律](https://www.ershicimi.com/p/665f797bd08338d0ae87ddfb3aa0ed60)  
-- [2020-12-22-CentOS-：被-Red-Hat-抛弃后，我更有活力了](https://www.ershicimi.com/p/3aced2ef47377f4962a453e83467db5f)  
-- [2020-12-22-7个顶级静态代码分析工具](https://www.ershicimi.com/p/1d389de1b241ad0c838f5cc2c61d614d)  
-- [2020-12-21-亚马逊程序员：我曾拼命逃离996](https://www.ershicimi.com/p/3bdf8f905632c27172ea1392b4d95709)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

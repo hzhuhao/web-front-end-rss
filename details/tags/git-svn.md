@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-26 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-26 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -46,6 +46,7 @@
 - [2020-03-22-GitHub-热榜：文字识别神器，超轻量级中文-OCR！一个超级厉害的开源库](https://www.ershicimi.com/p/ba81af60a36c1d620a728429394e29e7) 
 - [2020-01-09-1-月份-Github-上最热门最有价值的开源项目](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489569&idx=1&sn=d837aa8d3b2920172acf0b86c8dfd82b&chksm=ea5cd547dd2b5c513337c8303bb6e338b15aa47afb1fefe867ae7cbf6a62a34991047aa8bfe2&scene=27#wechat_redirect) 
 - [2020-01-09-如何设计-QQ、微信、微博、Github-等等，第三方账号登陆-？（附表设计）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489569&idx=3&sn=e2ee31a44db15f87ce4553bc4cc66d4c&chksm=ea5cd547dd2b5c513393d2f4086ad7eb3adffac96d1dfa0b333b71f8c041e025c116390f9fce&scene=27#wechat_redirect) 
+- [2020-12-26-传美团通知北京员工带电脑回家，做好远程办公准备；国产开源软件GitHub“刷星”被diss-|-Q资](https://www.ershicimi.com/p/cccaa7c77517b6146db5a566b5204f10) 
 - [2020-12-18-GitHub新规：Git操作的身份验证将放弃密码，改用令牌或SSH密钥](https://www.ershicimi.com/p/eaa5d3d22e40a5cdb80b35e3dce7a001) 
 - [2020-09-28-对开发者而言，GitHub-Profile可能是比简历更好的求职利器](https://www.ershicimi.com/p/8eaff225f99f2efb27e06277c75d47e7) 
 - [2020-05-27-GitHub-左右为难：软件侵权，但开源代码合法，责任由谁来负？](https://www.ershicimi.com/p/06dd88c07385b9333b6e75834b8b3775) 

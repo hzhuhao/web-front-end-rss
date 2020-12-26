@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-26 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-26 18:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -363,6 +363,10 @@
 - [【互联网架构师】2020-12-01-看看人家架构师那消息队列中间件玩的，那叫一个优雅！](https://www.ershicimi.com/p/e3be9a09f87253fae396f5bd32df7648) 
 - [【互联网架构师】2020-12-01-介绍一款-API-敏捷开发工具](https://www.ershicimi.com/p/87453a3481a86aa75986aa5f9f35c6ff) 
 - [【互联网架构师】2020-12-01-查询提升-200-倍，ClickHouse-你值得拥有！](https://www.ershicimi.com/p/b12170f712f3d9c2ed6552bd652983e3) 
+- [【InfoQ】2020-12-26-传美团通知北京员工带电脑回家，做好远程办公准备；国产开源软件GitHub“刷星”被diss-|-Q资](https://www.ershicimi.com/p/cccaa7c77517b6146db5a566b5204f10) 
+- [【InfoQ】2020-12-26-业务架构设计迭代演进思路](https://www.ershicimi.com/p/dd3be6896dac555df48e071589c3dab1) 
+- [【InfoQ】2020-12-26-解读-WebAssembly-的-2020：Web-以外的进展与计划](https://www.ershicimi.com/p/14ddc21c2786aa3e9099038c014807b2) 
+- [【InfoQ】2020-12-26-NVIDIA技术大咖亲授！教你30分钟实现基于Python的路况目标跟踪系统-｜-Q推荐](https://www.ershicimi.com/p/9da71fab40808544af100e43832ecd18) 
 - [【InfoQ】2020-12-25-我真的逃不掉拼多多真香定律](https://www.ershicimi.com/p/48dda5dfe2b3a753d1cd6038c7340dd7) 
 - [【InfoQ】2020-12-25-这5个程序员，改变了世界](https://www.ershicimi.com/p/8c288a2071e72ad0e7356bd78b0c7a00) 
 - [【InfoQ】2020-12-25-数仓+AI-如何构建智能网联与出海业务的实战利器？](https://www.ershicimi.com/p/1d4d689468f4562d1b893f19c6f77f42) 
