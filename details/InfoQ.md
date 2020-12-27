@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2020-12-26 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-27 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-12-27-2020年，不可错过的技术圈十大“翻车”事件](https://www.ershicimi.com/p/6cdf1895ef9e353b43ecf50333616ae2) 
+- [2020-12-27-来自谷歌前员工的软件开发工具指南](https://www.ershicimi.com/p/87c8389b44e06d25c3efc1572cb6cea6) 
+- [2020-12-27-2021年快来了，Techo-Park带你解密技术趋势-｜-Q推荐](https://www.ershicimi.com/p/c2cc492a3e5cb169e2e034a902079d02) 
+- [2020-12-27-我们为什么选择Rust开发顶尖实时通信产品？](https://www.ershicimi.com/p/adb5294240ca8e4a8c9a53a49a9dea86) 
 - [2020-12-26-传美团通知北京员工带电脑回家，做好远程办公准备；国产开源软件GitHub“刷星”被diss-|-Q资](https://www.ershicimi.com/p/cccaa7c77517b6146db5a566b5204f10) 
 - [2020-12-26-业务架构设计迭代演进思路](https://www.ershicimi.com/p/dd3be6896dac555df48e071589c3dab1) 
 - [2020-12-26-解读-WebAssembly-的-2020：Web-以外的进展与计划](https://www.ershicimi.com/p/14ddc21c2786aa3e9099038c014807b2) 
