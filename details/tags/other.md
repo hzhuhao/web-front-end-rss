@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-27 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-28 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1058,6 +1058,7 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2020-12-25-奇舞周刊第-378-期：2020-年大前端技术趋势解读](https://www.ershicimi.com/p/98460407d9e9c22a01ce341d1de33cce) 
 - [2020-12-24-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/b4e113035653a3b2f347898bfacb7c9a) 
 - [2020-12-24-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/c13b097a2fde7ca465214a3b9ecad1bb) 
 - [2020-12-23-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/a1f64e99998ccd359b2dd840cc92df92) 
@@ -1292,6 +1293,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2020-12-27-取代房子，这是未来5年最好的投资！](https://www.ershicimi.com/p/30be53face0553cf7b98902dcdc596b4) 
+- [2020-12-27-Eclipse-官宣，要干掉-VS-Code，你怎么看？](https://www.ershicimi.com/p/abe1287980b122b56c3b2a0ba7c8da06) 
+- [2020-12-27-为什么-MySQL-不推荐默认值为-null-？](https://www.ershicimi.com/p/2e3f57cb61f1e60250d98d251b2bf8e9) 
 - [2020-12-26-你还在用分页？试试-MyBatis-流式查询，真心强大！](https://www.ershicimi.com/p/fd6b4d0e1be8ddac427d1657d7f6dc11) 
 - [2020-12-26-一步步实现-Redis-搜索引擎](https://www.ershicimi.com/p/e7d0628c22557165c678636686483351) 
 - [2020-12-25-内部泄露版！互联网大厂的最新薪资和职级一览](https://www.ershicimi.com/p/06de718a9808a246fd2d9659742ebfa3) 

@@ -8609,6 +8609,11 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "前端周报：VS Code的Issue列表被黑产“攻陷”；国产开源软件“购买”GitHub星标被批评；",
+        "link": "https://www.ershicimi.com/p/514b20007ed8b002fdaa40f940dbb77b",
+        "date": "2020-12-27"
+      },
+      {
         "title": "月影：别更新了，学不动了？千万别有这样的心态",
         "link": "https://www.ershicimi.com/p/ee26edb03b77092a522518ab9ebba576",
         "date": "2020-12-26"
@@ -16803,6 +16808,11 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "奇舞周刊第 378 期：2020 年大前端技术趋势解读",
+        "link": "https://www.ershicimi.com/p/98460407d9e9c22a01ce341d1de33cce",
+        "date": "2020-12-25"
+      },
+      {
         "title": "React RFC Server Components",
         "link": "https://www.ershicimi.com/p/c99a5108f785fd2d47efcb0d5dc58264",
         "date": "2020-12-24"
@@ -18766,6 +18776,21 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "取代房子，这是未来5年最好的投资！",
+        "link": "https://www.ershicimi.com/p/30be53face0553cf7b98902dcdc596b4",
+        "date": "2020-12-27"
+      },
+      {
+        "title": "Eclipse 官宣，要干掉 VS Code，你怎么看？",
+        "link": "https://www.ershicimi.com/p/abe1287980b122b56c3b2a0ba7c8da06",
+        "date": "2020-12-27"
+      },
+      {
+        "title": "为什么 MySQL 不推荐默认值为 null ？",
+        "link": "https://www.ershicimi.com/p/2e3f57cb61f1e60250d98d251b2bf8e9",
+        "date": "2020-12-27"
+      },
       {
         "title": "你还在用分页？试试 MyBatis 流式查询，真心强大！",
         "link": "https://www.ershicimi.com/p/fd6b4d0e1be8ddac427d1657d7f6dc11",
