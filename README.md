@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2020-12-28 18:00:22，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2020-12-29 06:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,7 +26,7 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -70,14 +70,14 @@
 </summary>
 
 
-- [2020-12-28-来一起用-Vue3.0-做个飞机大战游戏](https://www.ershicimi.com/p/f5618bf977523edd7068367b58fe5f00) ![](assets/new.png)  
-- [2020-12-28-一份不可多得的-TypeScript-学习指南](https://www.ershicimi.com/p/ec7efd2ceaeea5cd42756e9e4dff96c7) ![](assets/new.png)  
-- [2020-12-28-4.2-万-Star！开发-Web-和移动端应用的全栈平台](https://www.ershicimi.com/p/e99316a14d758ea85631a0182fa0676e) ![](assets/new.png)  
-- [2020-12-28-设计灵感：12-个投资理财仪表盘界面设计](https://www.ershicimi.com/p/7c33c2d58a6f6a359e0529346a6b4b24) ![](assets/new.png)  
-- [2020-12-27-分享-8-个非常实用的-Vue-自定义指令](https://www.ershicimi.com/p/d855bc0d8453186962ffdb15da7f0e9f) ![](assets/new.png)  
-- [2020-12-27-备战2021：vite-工程化实践，建议收藏](https://www.ershicimi.com/p/e6f7f32592acc8bfef3ddd3376536a2a) ![](assets/new.png)  
-- [2020-12-27-复盘-Node-项目中遇到的-15-个常见问题和解决方案](https://www.ershicimi.com/p/0586c7674708853753b320f0196a62ed) ![](assets/new.png)  
-- [2020-12-27-设计灵感：App-数据图表的-12-种展示方式](https://www.ershicimi.com/p/12abf3c3d77df5fc1b26ea01edb9e0be) ![](assets/new.png)  
+- [2020-12-28-来一起用-Vue3.0-做个飞机大战游戏](https://www.ershicimi.com/p/f5618bf977523edd7068367b58fe5f00)  
+- [2020-12-28-一份不可多得的-TypeScript-学习指南](https://www.ershicimi.com/p/ec7efd2ceaeea5cd42756e9e4dff96c7)  
+- [2020-12-28-4.2-万-Star！开发-Web-和移动端应用的全栈平台](https://www.ershicimi.com/p/e99316a14d758ea85631a0182fa0676e)  
+- [2020-12-28-设计灵感：12-个投资理财仪表盘界面设计](https://www.ershicimi.com/p/7c33c2d58a6f6a359e0529346a6b4b24)  
+- [2020-12-27-分享-8-个非常实用的-Vue-自定义指令](https://www.ershicimi.com/p/d855bc0d8453186962ffdb15da7f0e9f)  
+- [2020-12-27-备战2021：vite-工程化实践，建议收藏](https://www.ershicimi.com/p/e6f7f32592acc8bfef3ddd3376536a2a)  
+- [2020-12-27-复盘-Node-项目中遇到的-15-个常见问题和解决方案](https://www.ershicimi.com/p/0586c7674708853753b320f0196a62ed)  
+- [2020-12-27-设计灵感：App-数据图表的-12-种展示方式](https://www.ershicimi.com/p/12abf3c3d77df5fc1b26ea01edb9e0be)  
 - [2020-12-26-我在成人网站-PornHub-做前端开发](https://www.ershicimi.com/p/4ea228379cba5038ed3bd0181bb54c40)  
 - [2020-12-26-4-万-Star！最全面的-Node.js-资源汇总](https://www.ershicimi.com/p/3cc53495460e54208c7f00da9208a578)  
 - [2020-12-26-8-个硬核技巧带你迅速提升-CSS-技术](https://www.ershicimi.com/p/84ecb037a5569fe919c033824ad65f06)  
@@ -101,6 +101,9 @@
 </summary>
 
 
+- [2020-12-28-解读前端的2020：一直走在“变化”的路上](https://www.ershicimi.com/p/8c5b0f19dd73dba936f2d3bb7acdb357) ![](assets/new.png)  
+- [2020-12-28-从Flask到FastAPI的平滑迁移](https://www.ershicimi.com/p/2cd1618f1464e899f41b0af47e7d8dd7) ![](assets/new.png)  
+- [2020-12-28-到底要刷多少道算法题面试才稳？-|-活动推荐](https://www.ershicimi.com/p/4d609e3da2d9c0e3119fe4f024d1e9b1) ![](assets/new.png)  
 - [2020-12-27-前端周报：VS-Code的Issue列表被黑产“攻陷”；国产开源软件“购买”GitHub星标被批评；](https://www.ershicimi.com/p/514b20007ed8b002fdaa40f940dbb77b)  
 - [2020-12-26-月影：别更新了，学不动了？千万别有这样的心态](https://www.ershicimi.com/p/ee26edb03b77092a522518ab9ebba576)  
 - [2020-12-25-Flutter真香！2020大事件全纪录](https://www.ershicimi.com/p/42f09af6139c9aad7691a9fa45efb30f)  
@@ -118,9 +121,6 @@
 - [2020-12-18-来自谷歌前员工的最佳软件开发工具指南](https://www.ershicimi.com/p/36f5b1476b4ce0f8e5a40c320afcf1fc)  
 - [2020-12-18-提升网站的加载速度，你选择-Brotli-还是-Gzip？](https://www.ershicimi.com/p/90355d8f99005af517ea8718efca7157)  
 - [2020-12-18-仅5000位开发者抢到了门票，这个技术大会有多牛？-|-活动推荐](https://www.ershicimi.com/p/6176122c19ac3803716dbd7a07b86c6c)  
-- [2020-12-16-美团：高速发展下如何做好移动端持续交付](https://www.ershicimi.com/p/333c8c83ed278616b8d021ebe66240e7)  
-- [2020-12-16-大龄程序员必须得转行吗？-|-活动推荐](https://www.ershicimi.com/p/e4133808e178b1469bec3a3d096ca2c9)  
-- [2020-12-14-9-个极其强大的-JavaScript-技巧](https://www.ershicimi.com/p/06af08880240e0908248ba052a0e73d8)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,6 +380,9 @@
 </summary>
 
 
+- [2020-12-28-推荐一款配置中心新贵：Nacos，阿里开源，是真的香！！](https://www.ershicimi.com/p/aa8bb545daf07fed12d283f9ebdcfe3b) ![](assets/new.png)  
+- [2020-12-28-外包公司干了不到3个月，我离职了...](https://www.ershicimi.com/p/558fb42e4f098d8ba135b940f1313a7b) ![](assets/new.png)  
+- [2020-12-28-Kafka-居然还会丢消息?](https://www.ershicimi.com/p/8855148f0f3e986ed20b26d484edf829) ![](assets/new.png)  
 - [2020-12-27-取代房子，这是未来5年最好的投资！](https://www.ershicimi.com/p/30be53face0553cf7b98902dcdc596b4)  
 - [2020-12-27-Eclipse-官宣，要干掉-VS-Code，你怎么看？](https://www.ershicimi.com/p/abe1287980b122b56c3b2a0ba7c8da06)  
 - [2020-12-27-为什么-MySQL-不推荐默认值为-null-？](https://www.ershicimi.com/p/2e3f57cb61f1e60250d98d251b2bf8e9)  
@@ -397,9 +400,6 @@
 - [2020-12-23-Spring-事务的那些坑，都在这里了！](https://www.ershicimi.com/p/e963be408dfadb75722cf61b359fa5da)  
 - [2020-12-22-那些被技术难以提升搞垮的Java架构师都怎么样了？](https://www.ershicimi.com/p/0231389d9324e1cb9b9ba8780ffdbb57)  
 - [2020-12-22-8年开发，连登陆接口都写这么烂...](https://www.ershicimi.com/p/6e1eda5bd057e826bf701610f0a809f6)  
-- [2020-12-22-几百万消息在消息队列里积压了几个小时！完了。。。](https://www.ershicimi.com/p/3fd081b8a0e754264ad2c8efba446558)  
-- [2020-12-21-再见，Kafka！阿里架构师钟爱的消息队列，竟是它？](https://www.ershicimi.com/p/f852723a3f7e76b7a2b89e1a93689b81)  
-- [2020-12-21-微信技术总监：11亿日活的超大型系统架构之道！13页ppt详解](https://www.ershicimi.com/p/3c42109121d9edb171a13da65bf3b8a8)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
