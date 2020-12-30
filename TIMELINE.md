@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-30 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2020-12-30 18:00:27。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -122,6 +122,10 @@
 </summary>
 
 
+- [【前端大全】2020-12-29-纯-CSS-制作赛博朋克-2077-“故障风”按钮](https://www.ershicimi.com/p/33c8f346efcc7a357cf66b05530af985) 
+- [【前端大全】2020-12-29-面向对象：希望未来的他有责任心、自信，遇到问题愿意一起解决](https://www.ershicimi.com/p/d6a97825e5c86a1f7996cfb38b43819b) 
+- [【前端大全】2020-12-29-Node.js-模块化你所需要知道的事](https://www.ershicimi.com/p/133ae1a57f493a3925b5aff423268786) 
+- [【前端大全】2020-12-29-设计灵感：12-个手机钱包-UI-设计案例](https://www.ershicimi.com/p/be8f9aa277a2f9e7543af816cfbe85f7) 
 - [【前端大全】2020-12-28-来一起用-Vue3.0-做个飞机大战游戏](https://www.ershicimi.com/p/f5618bf977523edd7068367b58fe5f00) 
 - [【前端大全】2020-12-28-一份不可多得的-TypeScript-学习指南](https://www.ershicimi.com/p/ec7efd2ceaeea5cd42756e9e4dff96c7) 
 - [【前端大全】2020-12-28-4.2-万-Star！开发-Web-和移动端应用的全栈平台](https://www.ershicimi.com/p/e99316a14d758ea85631a0182fa0676e) 
@@ -401,6 +405,21 @@
 - [【互联网架构师】2020-12-01-看看人家架构师那消息队列中间件玩的，那叫一个优雅！](https://www.ershicimi.com/p/e3be9a09f87253fae396f5bd32df7648) 
 - [【互联网架构师】2020-12-01-介绍一款-API-敏捷开发工具](https://www.ershicimi.com/p/87453a3481a86aa75986aa5f9f35c6ff) 
 - [【互联网架构师】2020-12-01-查询提升-200-倍，ClickHouse-你值得拥有！](https://www.ershicimi.com/p/b12170f712f3d9c2ed6552bd652983e3) 
+- [【InfoQ】2020-12-30-2021年，不能错过的十大技术趋势-|-InfoQ特别策划](https://www.ershicimi.com/p/2b15c7efba7004ab25d4982f9461b114) 
+- [【InfoQ】2020-12-30-框架在左网格在右，云原生时代的微服务路在何方？](https://www.ershicimi.com/p/8b2006abe41ccb9a69c520ace3f14d06) 
+- [【InfoQ】2020-12-30-10+位机器学习大神测评-Amazon-SageMaker-全流程实战](https://www.ershicimi.com/p/f0d036acb3bcc0e3ca96392c7f780b1f) 
+- [【InfoQ】2020-12-30-移动应用发展趋势生变，AppGallery-Connect一站式服务解决应用全生命周期难点](https://www.ershicimi.com/p/95811aa2f0d69f168fc2867136c8613f) 
+- [【InfoQ】2020-12-30-Kafka不是数据库](https://www.ershicimi.com/p/3e66102380b1ef30bb3447a9f191c06c) 
+- [【InfoQ】2020-12-29-代码可维护性差？给你套实用的“代码坏味道”自查清单-｜-极客时间](https://www.ershicimi.com/p/cfea602df77a685956ea92db76eb6367) 
+- [【InfoQ】2020-12-29-从CentOS-8停止维护说起，聊聊操作系统的另一种选择](https://www.ershicimi.com/p/36dda893cec55c77da6ee8a63a5260e3) 
+- [【InfoQ】2020-12-29-云计算的再次变迁：从容器云到数据云丨报告下载](https://www.ershicimi.com/p/6bc5a68db1068cec4b728649545bcc60) 
+- [【InfoQ】2020-12-29-2020年，不可错过的前端、大数据、云原生、AI技术大事件和未来走向-｜-直播](https://www.ershicimi.com/p/275f2ba7fc6479da09c8a20a5ddc83da) 
+- [【InfoQ】2020-12-29-机器学习应用设计阶段的-10-个陷阱和-11-个最佳实践](https://www.ershicimi.com/p/3601d658497fc5ba92c58e3b01ce7c4f) 
+- [【InfoQ】2020-12-28-40岁C++没有中年危机](https://www.ershicimi.com/p/087afff19f69b59db66aca33629aa306) 
+- [【InfoQ】2020-12-28-解读Go语言的2020：变革前夜](https://www.ershicimi.com/p/b9a7695795a07659f3cf8654fce8cac4) 
+- [【InfoQ】2020-12-28-爆火的低代码，是炒作还是趋势？｜-QCon](https://www.ershicimi.com/p/f87005162f2110bebbebcec595aa63d6) 
+- [【InfoQ】2020-12-28-腾讯终于把云原生改造说明白了](https://www.ershicimi.com/p/5c45c23a96c7dc568193e21d396e15b9) 
+- [【InfoQ】2020-12-28-微服务架构及其最重要的10个设计模式](https://www.ershicimi.com/p/28d0105c0cab12893fc58c1f95cc6bfb) 
 - [【InfoQ】2020-12-27-2020年，不可错过的技术圈十大“翻车”事件](https://www.ershicimi.com/p/6cdf1895ef9e353b43ecf50333616ae2) 
 - [【InfoQ】2020-12-27-来自谷歌前员工的软件开发工具指南](https://www.ershicimi.com/p/87c8389b44e06d25c3efc1572cb6cea6) 
 - [【InfoQ】2020-12-27-2021年快来了，Techo-Park带你解密技术趋势-｜-Q推荐](https://www.ershicimi.com/p/c2cc492a3e5cb169e2e034a902079d02) 

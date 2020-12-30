@@ -1,10 +1,25 @@
-:alarm_clock: 更新时间: 2020-12-27 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-30 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2020-12-30-2021年，不能错过的十大技术趋势-|-InfoQ特别策划](https://www.ershicimi.com/p/2b15c7efba7004ab25d4982f9461b114) 
+- [2020-12-30-框架在左网格在右，云原生时代的微服务路在何方？](https://www.ershicimi.com/p/8b2006abe41ccb9a69c520ace3f14d06) 
+- [2020-12-30-10+位机器学习大神测评-Amazon-SageMaker-全流程实战](https://www.ershicimi.com/p/f0d036acb3bcc0e3ca96392c7f780b1f) 
+- [2020-12-30-移动应用发展趋势生变，AppGallery-Connect一站式服务解决应用全生命周期难点](https://www.ershicimi.com/p/95811aa2f0d69f168fc2867136c8613f) 
+- [2020-12-30-Kafka不是数据库](https://www.ershicimi.com/p/3e66102380b1ef30bb3447a9f191c06c) 
+- [2020-12-29-代码可维护性差？给你套实用的“代码坏味道”自查清单-｜-极客时间](https://www.ershicimi.com/p/cfea602df77a685956ea92db76eb6367) 
+- [2020-12-29-从CentOS-8停止维护说起，聊聊操作系统的另一种选择](https://www.ershicimi.com/p/36dda893cec55c77da6ee8a63a5260e3) 
+- [2020-12-29-云计算的再次变迁：从容器云到数据云丨报告下载](https://www.ershicimi.com/p/6bc5a68db1068cec4b728649545bcc60) 
+- [2020-12-29-2020年，不可错过的前端、大数据、云原生、AI技术大事件和未来走向-｜-直播](https://www.ershicimi.com/p/275f2ba7fc6479da09c8a20a5ddc83da) 
+- [2020-12-29-机器学习应用设计阶段的-10-个陷阱和-11-个最佳实践](https://www.ershicimi.com/p/3601d658497fc5ba92c58e3b01ce7c4f) 
+- [2020-12-28-40岁C++没有中年危机](https://www.ershicimi.com/p/087afff19f69b59db66aca33629aa306) 
+- [2020-12-28-解读Go语言的2020：变革前夜](https://www.ershicimi.com/p/b9a7695795a07659f3cf8654fce8cac4) 
+- [2020-12-28-爆火的低代码，是炒作还是趋势？｜-QCon](https://www.ershicimi.com/p/f87005162f2110bebbebcec595aa63d6) 
+- [2020-12-28-腾讯终于把云原生改造说明白了](https://www.ershicimi.com/p/5c45c23a96c7dc568193e21d396e15b9) 
+- [2020-12-28-微服务架构及其最重要的10个设计模式](https://www.ershicimi.com/p/28d0105c0cab12893fc58c1f95cc6bfb) 
 - [2020-12-27-2020年，不可错过的技术圈十大“翻车”事件](https://www.ershicimi.com/p/6cdf1895ef9e353b43ecf50333616ae2) 
 - [2020-12-27-来自谷歌前员工的软件开发工具指南](https://www.ershicimi.com/p/87c8389b44e06d25c3efc1572cb6cea6) 
 - [2020-12-27-2021年快来了，Techo-Park带你解密技术趋势-｜-Q推荐](https://www.ershicimi.com/p/c2cc492a3e5cb169e2e034a902079d02) 
