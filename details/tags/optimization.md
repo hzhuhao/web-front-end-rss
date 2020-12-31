@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2020-12-31 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2020-12-31 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -83,6 +83,7 @@
 - [2020-12-22-前端性能优化之自定义性能指标及上报方法详解](https://www.ershicimi.com/p/b202d42ddce89da17847ef223591e653) 
 - [2020-07-18-聊一聊前端性能优化-CRP](https://www.ershicimi.com/p/5c14be4e893f3261a0add4d4f152b003) 
 - [2020-02-26-前端高级进阶：如何更好地优化打包资源](https://www.ershicimi.com/p/f75535aab170a223ac5b638cb2a4f5f4) 
+- [2020-12-28-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8) 
 - [2020-12-17-注意了！System.currentTimeMillis-存在性能问题...](https://www.ershicimi.com/p/7cb37589c19918881fe01c3fde6374aa) 
 - [2020-12-10-不重启JVM，替换掉已经加载的类，偷天换日？](https://www.ershicimi.com/p/2c826faf85bfe176adbcff6cf30c6b00) 
 - [2020-12-03-52-条-SQL-语句性能优化策略，建议收藏！](https://www.ershicimi.com/p/941610dbdcb6cc827189900a78d9d390) 
