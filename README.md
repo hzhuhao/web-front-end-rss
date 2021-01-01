@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-01 18:00:22，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-02 06:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -26,8 +26,8 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -70,10 +70,10 @@
 </summary>
 
 
-- [2020-12-31-两天狂揽-4k+-Star，抢茅台脚本霸榜-GitHub](https://www.ershicimi.com/p/a9d7732fa3b71eea0d76688cf6057ad2) ![](assets/new.png)  
-- [2020-12-31-4-万-Star！最全面的-Node.js-资源汇总](https://www.ershicimi.com/p/69048361a9cc4630bf5e8a9b2f33ea88) ![](assets/new.png)  
-- [2020-12-31-这些高阶的函数技术，你掌握了么](https://www.ershicimi.com/p/5c2ada55a6d37914b2bba452d7900c0a) ![](assets/new.png)  
-- [2020-12-31-设计灵感：12-组智能家居-APP-界面设计](https://www.ershicimi.com/p/485104833b74b9e5e95464ead9f8f90f) ![](assets/new.png)  
+- [2020-12-31-两天狂揽-4k+-Star，抢茅台脚本霸榜-GitHub](https://www.ershicimi.com/p/a9d7732fa3b71eea0d76688cf6057ad2)  
+- [2020-12-31-4-万-Star！最全面的-Node.js-资源汇总](https://www.ershicimi.com/p/69048361a9cc4630bf5e8a9b2f33ea88)  
+- [2020-12-31-这些高阶的函数技术，你掌握了么](https://www.ershicimi.com/p/5c2ada55a6d37914b2bba452d7900c0a)  
+- [2020-12-31-设计灵感：12-组智能家居-APP-界面设计](https://www.ershicimi.com/p/485104833b74b9e5e95464ead9f8f90f)  
 - [2020-12-30-冬天到了，女朋友想让我的网站也下雪，我立马打开电脑撸代码…](https://www.ershicimi.com/p/b16a7e1a05363da8ebc2321ae375c558)  
 - [2020-12-30-2.2-万-Star！前端开发必收藏的-JS-开发资源](https://www.ershicimi.com/p/faa59a40fc36955085942f1e38ba8771)  
 - [2020-12-30-React-RFC-Server-Components是什么，有啥用](https://www.ershicimi.com/p/57a4f7d865c70e5ab053286ff964ef0c)  
@@ -380,6 +380,9 @@
 </summary>
 
 
+- [2021-01-01-SpringBoot实战：整合Redis、mybatis，封装RedisUtils工具类等（附源码）](https://www.ershicimi.com/p/fd1a4307202d75fd2ab65de023dcb9f5) ![](assets/new.png)  
+- [2021-01-01-MyBatis-的-4-个妙用，别再踩坑了！](https://www.ershicimi.com/p/4cbbda75dfe0650a0598b84caf658ff4) ![](assets/new.png)  
+- [2021-01-01-为什么强烈推荐-Java-程序员使用-Google-Guava-编程！](https://www.ershicimi.com/p/ded22ed5fea51eadecd0e6b377ae6e9b) ![](assets/new.png)  
 - [2020-12-31-MySQL-慌了！这个分库分表方法论，要火了？](https://www.ershicimi.com/p/e3311fc2a9e49894e00dadb18e6eb500)  
 - [2020-12-31-阿里P8架构师：淘宝技术架构从1.0到4.0的架构变迁！12页PPT详解](https://www.ershicimi.com/p/b840fda994fe5d16cea7d0a5f336bb13)  
 - [2020-12-31-12个非常适合做外包项目的开源后台管理系统](https://www.ershicimi.com/p/994734ebe947100d28b780d227eaeb0a)  
@@ -397,9 +400,6 @@
 - [2020-12-27-为什么-MySQL-不推荐默认值为-null-？](https://www.ershicimi.com/p/2e3f57cb61f1e60250d98d251b2bf8e9)  
 - [2020-12-26-你还在用分页？试试-MyBatis-流式查询，真心强大！](https://www.ershicimi.com/p/fd6b4d0e1be8ddac427d1657d7f6dc11)  
 - [2020-12-26-Kubernetes-弃用-Docker刷爆了网络，我们公司也慌了！](https://www.ershicimi.com/p/d74478fe27066755ba235dd1a77b0891)  
-- [2020-12-26-一步步实现-Redis-搜索引擎](https://www.ershicimi.com/p/e7d0628c22557165c678636686483351)  
-- [2020-12-25-内部泄露版！互联网大厂的最新薪资和职级一览](https://www.ershicimi.com/p/06de718a9808a246fd2d9659742ebfa3)  
-- [2020-12-25-Oracle-要慌了！华为终于开源了自家的-Huawei-JDK——毕昇-JDK！](https://www.ershicimi.com/p/47cd17aac717ac1a0c6958f0f3df06b7)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,9 +411,9 @@
 </summary>
 
 
-- [2021-01-01-2020年度最全IT吃瓜指南](https://www.ershicimi.com/p/7fb37933b7c31fcb7ecfcab010f66052) ![](assets/new.png)  
-- [2021-01-01-从五家领先硅谷公司看中国To-B软件企业的“危”与“机”](https://www.ershicimi.com/p/fcb667299769cfd9600b3cbf13ec64ac) ![](assets/new.png)  
-- [2021-01-01-深入浅出Spark：存储系统](https://www.ershicimi.com/p/835d3f3471a3fbabfa1c81de1e71da12) ![](assets/new.png)  
+- [2021-01-01-2020年度最全IT吃瓜指南](https://www.ershicimi.com/p/7fb37933b7c31fcb7ecfcab010f66052)  
+- [2021-01-01-从五家领先硅谷公司看中国To-B软件企业的“危”与“机”](https://www.ershicimi.com/p/fcb667299769cfd9600b3cbf13ec64ac)  
+- [2021-01-01-深入浅出Spark：存储系统](https://www.ershicimi.com/p/835d3f3471a3fbabfa1c81de1e71da12)  
 - [2020-12-31-微博老矣：被抖音快手拍在沙滩上](https://www.ershicimi.com/p/27ae9c46b5371daa8f8f9ba3f7560642)  
 - [2020-12-31-这100篇文章，你一定要收藏-|-InfoQ-年度最受欢迎文章排行榜](https://www.ershicimi.com/p/fa6267d232ae6cb9631e858244f6796d)  
 - [2020-12-31-行走在开源之路上的操作系统，openEuler-如何从-0-到-1-构建开放社区？](https://www.ershicimi.com/p/1e7f089458055b3dda2b11e5802d3abc)  
