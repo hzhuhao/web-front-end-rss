@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-01-01 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-01-02-深圳发2000万数字人民币红包；奇虎360元旦植发6折福利；快手开启全员大小周；员工上厕所次数超过规](https://www.ershicimi.com/p/ac8ce5b894caf41f7341c4fc43360762) 
+- [2021-01-02-别再吹Rust了，它太难学了！](https://www.ershicimi.com/p/09b7a26a1e30ea15d6dee6343b26e28b) 
+- [2021-01-02-短短一年，-openEuler-社区是如何繁荣起来的？](https://www.ershicimi.com/p/3c0e14395e56a45e414d529722776527) 
+- [2021-01-02-云原生2.0：以应用为中心-构建高效、敏捷的云原生基础设施](https://www.ershicimi.com/p/d46b9aa0bc4449dda5dc092b0d547b9e) 
 - [2021-01-01-2020年度最全IT吃瓜指南](https://www.ershicimi.com/p/7fb37933b7c31fcb7ecfcab010f66052) 
 - [2021-01-01-从五家领先硅谷公司看中国To-B软件企业的“危”与“机”](https://www.ershicimi.com/p/fcb667299769cfd9600b3cbf13ec64ac) 
 - [2021-01-01-深入浅出Spark：存储系统](https://www.ershicimi.com/p/835d3f3471a3fbabfa1c81de1e71da12) 

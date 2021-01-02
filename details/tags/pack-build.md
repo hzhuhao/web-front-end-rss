@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-02 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -110,6 +110,7 @@
 - [2020-11-30-如何构建一个可靠的分布式系统？](https://www.ershicimi.com/p/c88f766db7e78e81a7af763191eaa5bf) 
 - [2020-11-27-架构师成长计划｜如何利用云原生构建一个企业级高可用架构？](https://www.ershicimi.com/p/78b3f12c8db850f63bc1d2be87431b8c) 
 - [2020-03-25-Java项目构建基础：统一结果，统一异常，统一日志](https://www.ershicimi.com/p/e96c39260684a49f9468f2fb54649c0d) 
+- [2021-01-02-云原生2.0：以应用为中心-构建高效、敏捷的云原生基础设施](https://www.ershicimi.com/p/d46b9aa0bc4449dda5dc092b0d547b9e) 
 - [2020-12-31-行走在开源之路上的操作系统，openEuler-如何从-0-到-1-构建开放社区？](https://www.ershicimi.com/p/1e7f089458055b3dda2b11e5802d3abc) 
 - [2020-12-31-怎样挑选一个好的NPM包？](https://www.ershicimi.com/p/9d579f5d6d29257c7c75818e9f410e89) 
 - [2020-12-25-数仓+AI-如何构建智能网联与出海业务的实战利器？](https://www.ershicimi.com/p/1d4d689468f4562d1b893f19c6f77f42) 

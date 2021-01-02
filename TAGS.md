@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-01-02 06:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 18:00:24。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -300,6 +300,7 @@
 - [【前端早读课】【微信小游戏】一笔一连](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230639&idx=2&sn=93ecaa66b0f4524ad37140b4c11af141#wechat_redirect)
 - [【前端早读课】【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect)
 - [【前端早读课】【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect)
+- [【前端大全】Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/ffa5e0b6edf3d6208ac8fa547a84ad9b)
 - [【前端大全】玩游戏一样学-Git-分支，这个-GitHub-热门别再错过了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555724&idx=1&sn=cc20ac2fe8e0230a4a0a21a811a96a0a#wechat_redirect)
 - [【前端大全】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554949&idx=1&sn=8f5e52799febe5f3137cf1c21fc65b20#wechat_redirect)
 - [【前端之巅】如何打造出超“音”“速”的游戏体验？技术专家带你实战解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492807&idx=3&sn=40da212281a70ae26b9ceb3104b9b502&chksm=f9525184ce25d892d1b808f60be2165015e852ffc02fcafafbe796e838c0599359dc666d1b66&scene=27#wechat_redirect)
@@ -309,7 +310,6 @@
 - [【Taobao-FED-|-淘宝前端团队】Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/taofed/do71ct/fccon-share-taobao-3d-appandgame)
 - [【Taobao-FED-|-淘宝前端团队】Fdcon-2018-分享：淘宝Web-3D应用与游戏开发实战](https://fed.taobao.org/blog/2019/08/08/fccon-share-taobao-3d-appandgame/)
 - [【阮一峰的网络日志】科技爱好者周刊（第-134-期）：未来的游戏业比现在大100倍](http://www.ruanyifeng.com/blog/2020/11/weekly-issue-134.html)
-- [【阮一峰的网络日志】Epic-Games-研究：Fortnite-和游戏行业的未来](http://www.ruanyifeng.com/blog/2020/06/epic-games.html)
 - [......【查看更多】......](./details/tags/dev-game.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

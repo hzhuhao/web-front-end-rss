@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-02 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-02 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -17,6 +17,7 @@
 - [2018-12-05-【微信小游戏】一笔一连](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230639&idx=2&sn=93ecaa66b0f4524ad37140b4c11af141#wechat_redirect) 
 - [2018-11-21-【微信小游戏】牙牙快跑](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230460&idx=2&sn=e9fb95069d9fcd85a395ec9875a5524a#wechat_redirect) 
 - [2018-09-20-【小册】一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=1&sn=eedae5958157d82239b91934721df32e#wechat_redirect) 
+- [2021-01-01-Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/ffa5e0b6edf3d6208ac8fa547a84ad9b) 
 - [2019-01-15-玩游戏一样学-Git-分支，这个-GitHub-热门别再错过了](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555724&idx=1&sn=cc20ac2fe8e0230a4a0a21a811a96a0a#wechat_redirect) 
 - [2018-09-20-一线大厂是如何开发微信小游戏的？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554949&idx=1&sn=8f5e52799febe5f3137cf1c21fc65b20#wechat_redirect) 
 - [2019-10-16-如何打造出超“音”“速”的游戏体验？技术专家带你实战解读](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247492807&idx=3&sn=40da212281a70ae26b9ceb3104b9b502&chksm=f9525184ce25d892d1b808f60be2165015e852ffc02fcafafbe796e838c0599359dc666d1b66&scene=27#wechat_redirect) 
