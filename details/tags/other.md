@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-04 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-05 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -458,6 +458,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-01-04-30个编程领域的趣图](https://www.ershicimi.com/p/aca5ad15de4dddd493c1902382d711ff) 
+- [2021-01-04-产品经理训练营有偿招募兼职助教-|-助教招募](https://www.ershicimi.com/p/f4cca46b2d6aba75ee6cfef472ce90a7) 
+- [2021-01-03-前端周报：开发者向开源项目提交-issue-表达谢意引发争论；国内开发者开源抢茅台软件；小米新手机](https://www.ershicimi.com/p/53514a4d3a2900719ae6ab02eab56d21) 
 - [2020-12-31-Thresh-今天正式开源，有望成为替代-RN-的一种长期方案](https://www.ershicimi.com/p/1556263b759a915fcc4a1e92c9e877b3) 
 - [2020-12-30-改善代码可读性的5种方法](https://www.ershicimi.com/p/849d22e4f721435ace29d5fb92438d89) 
 - [2020-12-29-别让框架成为你前端成长路上的“绊脚石”](https://www.ershicimi.com/p/04ed722884e53c7aa6619f96dd3ac617) 
@@ -1324,6 +1327,12 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2021-01-04-运维总监怒怼开发：你真的需要K8S吗？](https://www.ershicimi.com/p/7eda699f2f2b66b6484247e50a3bbdfe) 
+- [2021-01-04-每一个都能笑抽的39个奇葩代码注释](https://www.ershicimi.com/p/39cfbfc47f1881ce7255fb4341cc98b1) 
+- [2021-01-03-它们把色情版-“微信”-的底裤都给挖出来了，网友:-草率了。。。](https://www.ershicimi.com/p/9f4848e7f62e1f51fcaee92f0554eab9) 
+- [2021-01-03-字节小组长无意中得知整个部门的薪资，自己28K，手下却有35K，怎么办](https://www.ershicimi.com/p/6a71f1d45eacc6275c0daec043e629a7) 
+- [2021-01-03-记一次订单号重复的事故，快看看你的-UUID-在并发下还正确吗？](https://www.ershicimi.com/p/1ee6d9ea02016b9e3f88a11b475236fb) 
+- [2021-01-02-面经：20年裸辞！投了100多份简历，大部分都石城大海~](https://www.ershicimi.com/p/a0489cda88fc97490a673c65d97bdd98) 
 - [2021-01-01-SpringBoot实战：整合Redis、mybatis，封装RedisUtils工具类等（附源码）](https://www.ershicimi.com/p/fd1a4307202d75fd2ab65de023dcb9f5) 
 - [2021-01-01-MyBatis-的-4-个妙用，别再踩坑了！](https://www.ershicimi.com/p/4cbbda75dfe0650a0598b84caf658ff4) 
 - [2021-01-01-为什么强烈推荐-Java-程序员使用-Google-Guava-编程！](https://www.ershicimi.com/p/ded22ed5fea51eadecd0e6b377ae6e9b) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-04 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-05 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -151,6 +151,20 @@
 - [【前端大全】2021-01-01-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/903c07a14be084ea16836e588ddaf093) 
 - [【前端大全】2021-01-01-Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/ffa5e0b6edf3d6208ac8fa547a84ad9b) 
 - [【前端大全】2021-01-01-设计灵感：12-组投资-APP-界面设计](https://www.ershicimi.com/p/0466cf017c87343793ffe08e12f34c96) 
+- [【前端之巅】2021-01-04-你应该了解的25个JS技巧](https://www.ershicimi.com/p/2f392c26ff75efe0a0bfb03d83af565f) 
+- [【前端之巅】2021-01-04-30个编程领域的趣图](https://www.ershicimi.com/p/aca5ad15de4dddd493c1902382d711ff) 
+- [【前端之巅】2021-01-04-产品经理训练营有偿招募兼职助教-|-助教招募](https://www.ershicimi.com/p/f4cca46b2d6aba75ee6cfef472ce90a7) 
+- [【前端之巅】2021-01-03-前端周报：开发者向开源项目提交-issue-表达谢意引发争论；国内开发者开源抢茅台软件；小米新手机](https://www.ershicimi.com/p/53514a4d3a2900719ae6ab02eab56d21) 
+- [【张鑫旭-鑫空间-鑫生活】2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
+- [【互联网架构师】2021-01-04-运维总监怒怼开发：你真的需要K8S吗？](https://www.ershicimi.com/p/7eda699f2f2b66b6484247e50a3bbdfe) 
+- [【互联网架构师】2021-01-04-每一个都能笑抽的39个奇葩代码注释](https://www.ershicimi.com/p/39cfbfc47f1881ce7255fb4341cc98b1) 
+- [【互联网架构师】2021-01-04-Nginx-凭啥并发数可以达到-3w？](https://www.ershicimi.com/p/c519823fc262e4c3666cf0397db5e95b) 
+- [【互联网架构师】2021-01-03-它们把色情版-“微信”-的底裤都给挖出来了，网友:-草率了。。。](https://www.ershicimi.com/p/9f4848e7f62e1f51fcaee92f0554eab9) 
+- [【互联网架构师】2021-01-03-字节小组长无意中得知整个部门的薪资，自己28K，手下却有35K，怎么办](https://www.ershicimi.com/p/6a71f1d45eacc6275c0daec043e629a7) 
+- [【互联网架构师】2021-01-03-记一次订单号重复的事故，快看看你的-UUID-在并发下还正确吗？](https://www.ershicimi.com/p/1ee6d9ea02016b9e3f88a11b475236fb) 
+- [【互联网架构师】2021-01-02-阿里中台搞了3年，凉了？网传：副总裁玄难“背锅”，辞职创业！咸鱼放弃维护-Flutter!](https://www.ershicimi.com/p/afb12c1dba75c8727465bb608dbe28b9) 
+- [【互联网架构师】2021-01-02-美团一面：你既然写过Mybatis插件，能给我说说它底层是怎么加载一个自定义插件的吗？](https://www.ershicimi.com/p/0df5f1f90a111e42f1ea3bab5812157b) 
+- [【互联网架构师】2021-01-02-面经：20年裸辞！投了100多份简历，大部分都石城大海~](https://www.ershicimi.com/p/a0489cda88fc97490a673c65d97bdd98) 
 - [【互联网架构师】2021-01-01-SpringBoot实战：整合Redis、mybatis，封装RedisUtils工具类等（附源码）](https://www.ershicimi.com/p/fd1a4307202d75fd2ab65de023dcb9f5) 
 - [【互联网架构师】2021-01-01-MyBatis-的-4-个妙用，别再踩坑了！](https://www.ershicimi.com/p/4cbbda75dfe0650a0598b84caf658ff4) 
 - [【互联网架构师】2021-01-01-为什么强烈推荐-Java-程序员使用-Google-Guava-编程！](https://www.ershicimi.com/p/ded22ed5fea51eadecd0e6b377ae6e9b) 
