@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-05 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-05 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1684,6 +1684,10 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2021-01-05-反思中国互联网特色996：不应要求每一个员工都变成马云](https://www.ershicimi.com/p/e9ecdfb62dead127e69c13345c812b33) 
+- [2021-01-05-21个2021年软件开发趋势预测](https://www.ershicimi.com/p/396a16d9962cb85d6c52cce1aa81df0a) 
+- [2021-01-05-避免不完全的云原生](https://www.ershicimi.com/p/297509efc25fb051d71d97d759611d58) 
+- [2021-01-05-数据库走入全面云化时代：这场年度盛典，为产业未来点亮转型明灯](https://www.ershicimi.com/p/5c0ed50daac2b8692513897a18a4555b) 
 - [2021-01-04-中国三大电信运营商被迫从美股退市，商务部：将采取必要措施](https://www.ershicimi.com/p/7d96ccf7b33a5d5f2f791016ac7e1605) 
 - [2021-01-04-解读物联网的2020：生态梦从何说起](https://www.ershicimi.com/p/0268f357eba098be97dfa3c88e5448ed) 
 - [2021-01-04-阿里技术实战：数十万云服务器如何高效运维？｜-QCon](https://www.ershicimi.com/p/5c89f8133bb81fabe7e45455e1f1ff17) 

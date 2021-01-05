@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-01-04 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-05 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-01-05-反思中国互联网特色996：不应要求每一个员工都变成马云](https://www.ershicimi.com/p/e9ecdfb62dead127e69c13345c812b33) 
+- [2021-01-05-21个2021年软件开发趋势预测](https://www.ershicimi.com/p/396a16d9962cb85d6c52cce1aa81df0a) 
+- [2021-01-05-避免不完全的云原生](https://www.ershicimi.com/p/297509efc25fb051d71d97d759611d58) 
+- [2021-01-05-数据库走入全面云化时代：这场年度盛典，为产业未来点亮转型明灯](https://www.ershicimi.com/p/5c0ed50daac2b8692513897a18a4555b) 
+- [2021-01-05-你应该了解的25个JS技巧](https://www.ershicimi.com/p/875faed232f6cb209cde545ef5ac4050) 
 - [2021-01-04-中国三大电信运营商被迫从美股退市，商务部：将采取必要措施](https://www.ershicimi.com/p/7d96ccf7b33a5d5f2f791016ac7e1605) 
 - [2021-01-04-解读物联网的2020：生态梦从何说起](https://www.ershicimi.com/p/0268f357eba098be97dfa3c88e5448ed) 
 - [2021-01-04-阿里技术实战：数十万云服务器如何高效运维？｜-QCon](https://www.ershicimi.com/p/5c89f8133bb81fabe7e45455e1f1ff17) 
