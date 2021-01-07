@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-07 18:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-07 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1030,6 +1030,7 @@
 - [2018-12-25-新范式小群效应设计-实例分析“淘宝合伙人&京东好玩节Ⅰ”](https://jdc.jd.com/archives/212815) 
 - [2018-10-19-可以说的秘密-那些我们该讨论的前端加密方法](https://jdc.jd.com/archives/212773) 
 - [2018-09-13-不依赖wifi热点的移动web真机测试解决方案Carefree](https://jdc.jd.com/archives/212702) 
+- [2021-01-07-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) 
 - [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) 
 - [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/) 
 - [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/) 

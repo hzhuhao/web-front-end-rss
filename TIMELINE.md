@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-07 18:00:28。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-07 22:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -165,6 +165,7 @@
 - [【前端之巅】2021-01-04-产品经理训练营有偿招募兼职助教-|-助教招募](https://www.ershicimi.com/p/f4cca46b2d6aba75ee6cfef472ce90a7) 
 - [【前端之巅】2021-01-03-前端周报：开发者向开源项目提交-issue-表达谢意引发争论；国内开发者开源抢茅台软件；小米新手机](https://www.ershicimi.com/p/53514a4d3a2900719ae6ab02eab56d21) 
 - [【张鑫旭-鑫空间-鑫生活】2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
+- [【Aotu-|-凹凸实验室】2021-01-07-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) 
 - [【Aotu-|-凹凸实验室】2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) 
 - [【奇舞周刊】2021-01-05-我是如何将网页性能提升5倍的-—-网络优化篇](https://www.ershicimi.com/p/43c90f7f7ed205c839476a1f909c1990) 
 - [【奇舞周刊】2021-01-05-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/1048ab7161c2c25082fa69624b6590eb) 
