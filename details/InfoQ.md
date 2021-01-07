@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-01-06 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-07 18:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-01-07-Kotlin开发团队惹上麻烦了](https://www.ershicimi.com/p/ed46337de00ea4f05eea07482a239bb2) 
+- [2021-01-07-别再空谈云原生，来看实战方法论](https://www.ershicimi.com/p/3d99079d3d589ab15dbc87d5072e1b3a) 
+- [2021-01-07-你熟悉的TDSQL不一样了](https://www.ershicimi.com/p/7af6b049f9db889c59eb2a4a7193b217) 
+- [2021-01-07-5大芯片代表巅峰对话：一个面向未来的操作系统是怎样的？](https://www.ershicimi.com/p/95e32ed825195f43e3c6a50bf8671b36) 
+- [2021-01-07-GitHub的挣扎：已获美国许可，恢复在伊朗的服务](https://www.ershicimi.com/p/6beff97a66d87d7fb70a43c9202eb686) 
 - [2021-01-06-前阿里P9：聊聊大厂晋升“潜规则”｜-极客时间](https://www.ershicimi.com/p/041f5a9ae91701fe4e8b168943fecfc5) 
 - [2021-01-06-是时候跟Docker说再见了](https://www.ershicimi.com/p/7263636401620b03c23984bbfc960cc2) 
 - [2021-01-06-5年间服务分钟数翻100倍，声网Agora如何做到又快又稳？](https://www.ershicimi.com/p/c0a6149caf2f7d44f9062e8d32706fd8) 
