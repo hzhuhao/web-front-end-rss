@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-07 06:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-07 12:00:33，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,12 +23,12 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -287,6 +287,8 @@
 </summary>
 
 
+- [2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) ![](assets/new.png)  
+- [2020-11-24-因为-Vue-Ref-提案，我又刷了遍-label-语法](https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/) ![](assets/new.png)  
 - [2020-12-31-凹凸技术揭秘-·-Deco-智能代码-·-开启产研效率革命](https://aotu.io/notes/2020/12/31/deco/)  
 - [2020-12-31-凹凸技术揭秘·羚珑页面可视化·成长蜕变之路](https://aotu.io/notes/2020/12/31/ling-atom-design/)  
 - [2020-12-25-凹凸技术揭秘·羚珑智能设计平台·逐梦设计数智化](https://aotu.io/notes/2020/12/25/ling-ai-design/)  
@@ -305,8 +307,6 @@
 - [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/)  
 - [2020-09-10-规范GIT代码提交信息&自动化版本管理](https://aotu.io/notes/2020/09/10/git-commit-control/)  
 - [2020-09-08-硬核看房利器——Web-全景的实现](https://aotu.io/notes/2020/09/08/web-vr/)  
-- [2020-09-01-羚珑视频编辑器开发总结](https://aotu.io/notes/2020/09/01/video-editor-summary/)  
-- [2020-09-01-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/)  
 - [......【查看更多】......](./details/Aotu-|-凹凸实验室.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,9 +380,9 @@
 </summary>
 
 
-- [2021-01-06-自从上了-SkyWalking，睡觉真香！！来，通过-Excel-来认识神器——POI](https://www.ershicimi.com/p/c448f62fe3e39ebc3f045c327b174767) ![](assets/new.png)  
-- [2021-01-06-一个小小的签到功能，到底用MySQL还是Redis？](https://www.ershicimi.com/p/08fe8c0cddb9e01936b7f2c7bb008c8f) ![](assets/new.png)  
-- [2021-01-06-牛逼！只需-3-步，Java-也能做图片识别！](https://www.ershicimi.com/p/00e51348c1a40edfc69a947554262f74) ![](assets/new.png)  
+- [2021-01-06-自从上了-SkyWalking，睡觉真香！！来，通过-Excel-来认识神器——POI](https://www.ershicimi.com/p/c448f62fe3e39ebc3f045c327b174767)  
+- [2021-01-06-一个小小的签到功能，到底用MySQL还是Redis？](https://www.ershicimi.com/p/08fe8c0cddb9e01936b7f2c7bb008c8f)  
+- [2021-01-06-牛逼！只需-3-步，Java-也能做图片识别！](https://www.ershicimi.com/p/00e51348c1a40edfc69a947554262f74)  
 - [2021-01-05-好家伙！B站，被扫黄了！B站变P站？](https://www.ershicimi.com/p/09bfc712168570007288386c29231968)  
 - [2021-01-05-全球第二大浏览器升级！内存/CPU占用暴降](https://www.ershicimi.com/p/cffbbc29f86b228e242ea56364b23b87)  
 - [2021-01-05-来，通过-Excel-来认识神器——POI](https://www.ershicimi.com/p/274801b837b25908c68bdcb6f03e6045)  
@@ -442,9 +442,9 @@
 </summary>
 
 
-- [2021-01-06-老哥们都是几点出门上班的？我目前-7-点-50](https://www.ershicimi.com/p/052a327ea920374522fdf0b3a6fc1166) ![](assets/new.png)  
-- [2021-01-05-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48) ![](assets/new.png)  
-- [2021-01-04-做前端的你，如何克服技术焦虑？](https://www.ershicimi.com/p/a2a52231262575ca27e064b97746deea) ![](assets/new.png)  
+- [2021-01-06-老哥们都是几点出门上班的？我目前-7-点-50](https://www.ershicimi.com/p/052a327ea920374522fdf0b3a6fc1166)  
+- [2021-01-05-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)  
+- [2021-01-04-做前端的你，如何克服技术焦虑？](https://www.ershicimi.com/p/a2a52231262575ca27e064b97746deea)  
 - [2020-12-30-万物可卷的时代，程序员也被“内卷”？](https://www.ershicimi.com/p/56127bd8aa48f0cd994acbf4cef8867b)  
 - [2020-12-29-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/34beb2409059c6b78e3c63f643c9736a)  
 - [2020-12-28-Vant3.0宣布全面拥抱Vue3，Vue3.0成为主流还有多远？](https://www.ershicimi.com/p/ce2da327d67f7cc95055497d457dfc21)  

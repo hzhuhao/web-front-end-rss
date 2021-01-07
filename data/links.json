@@ -15891,6 +15891,16 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "凹凸技术揭秘 · 夸克设计资产 · 打造全矩阵优质物料",
+        "link": "https://aotu.io/notes/2021/01/06/quark-design-asset/",
+        "date": "2021-01-06"
+      },
+      {
+        "title": "因为 Vue Ref 提案，我又刷了遍 label 语法",
+        "link": "https://aotu.io/notes/2020/11/23/vue-ref-sugar-javascript-label/",
+        "date": "2020-11-24"
+      },
+      {
         "title": "凹凸技术揭秘 · Deco 智能代码 · 开启产研效率革命",
         "link": "https://aotu.io/notes/2020/12/31/deco/",
         "date": "2020-12-31"
