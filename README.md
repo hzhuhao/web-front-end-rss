@@ -11,12 +11,12 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-08 18:00:22，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-09 18:00:29，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
@@ -70,9 +70,9 @@
 </summary>
 
 
-- [2021-01-08-“2020-年度程序员收入报告”来袭，字节排第-7](https://www.ershicimi.com/p/9cf93f07f619bc6b8c4ffa875671059d) ![](assets/new.png)  
-- [2021-01-08-一个-1-分钟就学会的-vue-小技巧（真的一看就会）](https://www.ershicimi.com/p/59d66f9e7bb730c9eb71d0dc81b4efd1) ![](assets/new.png)  
-- [2021-01-08-设计灵感-：12-组证券理财数据图表网页界面设计](https://www.ershicimi.com/p/3495c8cdfdf22fa1084f93fa0aa27dd3) ![](assets/new.png)  
+- [2021-01-08-“2020-年度程序员收入报告”来袭，字节排第-7](https://www.ershicimi.com/p/9cf93f07f619bc6b8c4ffa875671059d)  
+- [2021-01-08-一个-1-分钟就学会的-vue-小技巧（真的一看就会）](https://www.ershicimi.com/p/59d66f9e7bb730c9eb71d0dc81b4efd1)  
+- [2021-01-08-设计灵感-：12-组证券理财数据图表网页界面设计](https://www.ershicimi.com/p/3495c8cdfdf22fa1084f93fa0aa27dd3)  
 - [2021-01-07-如何开发一款-H5-小程序直播？](https://www.ershicimi.com/p/dc8cf96ef89297f729a8c24b030c6098)  
 - [2021-01-07-「一次写过瘾」手写-Promise-全家桶-+-Generator-+-async/await](https://www.ershicimi.com/p/2e70c183d3569a0f8d06c23ce6db3a47)  
 - [2021-01-07-设计灵感：博客类-App-如何设计？](https://www.ershicimi.com/p/94548bc2fe89f9feb4d85eadb95f179a)  
@@ -411,11 +411,14 @@
 </summary>
 
 
-- [2021-01-08-比特币首次突破40000美元，10年涨千万倍但依然极具风险](https://www.ershicimi.com/p/559ad36b094f2f0cd62cd77931831fb2) ![](assets/new.png)  
-- [2021-01-08-中小团队开始回归单体架构，那么电信运营商该不该用微服务？](https://www.ershicimi.com/p/38e2d2694cb261beeb250611db885bd3) ![](assets/new.png)  
-- [2021-01-08-Fit健身APP联手HarmonyOS，升级在线健身体验](https://www.ershicimi.com/p/44d884c6a50821bc52bcdfe6fbf59ad4) ![](assets/new.png)  
-- [2021-01-08-2021年Web开发的7大趋势](https://www.ershicimi.com/p/fa0f8fab632219f45a3b452199b58fcd) ![](assets/new.png)  
-- [2021-01-08-Docker镜像优化：从1.16GB到22.4MB](https://www.ershicimi.com/p/b0074d439ce05777dbfde78580920777) ![](assets/new.png)  
+- [2021-01-09-抖音因涉黄受行政处罚；应届生拒绝996被申通辞退；拼多多23岁员工猝死引发广泛关注-|-Q资讯](https://www.ershicimi.com/p/a8ca809aebae4e752f884fc148a8202b) ![](assets/new.png)  
+- [2021-01-09-从-DAU-5-万到用户数破亿，揭秘腾讯会议增长背后的技术实践](https://www.ershicimi.com/p/216a16abf0007cdf8a24aa722b1dff62) ![](assets/new.png)  
+- [2021-01-09-解读容器的-2020：寻找云原生的下一站](https://www.ershicimi.com/p/379c531e9118028672215113ac77f85f) ![](assets/new.png)  
+- [2021-01-08-比特币首次突破40000美元，10年涨千万倍但依然极具风险](https://www.ershicimi.com/p/559ad36b094f2f0cd62cd77931831fb2)  
+- [2021-01-08-中小团队开始回归单体架构，那么电信运营商该不该用微服务？](https://www.ershicimi.com/p/38e2d2694cb261beeb250611db885bd3)  
+- [2021-01-08-Fit健身APP联手HarmonyOS，升级在线健身体验](https://www.ershicimi.com/p/44d884c6a50821bc52bcdfe6fbf59ad4)  
+- [2021-01-08-2021年Web开发的7大趋势](https://www.ershicimi.com/p/fa0f8fab632219f45a3b452199b58fcd)  
+- [2021-01-08-Docker镜像优化：从1.16GB到22.4MB](https://www.ershicimi.com/p/b0074d439ce05777dbfde78580920777)  
 - [2021-01-07-Kotlin开发团队惹上麻烦了](https://www.ershicimi.com/p/ed46337de00ea4f05eea07482a239bb2)  
 - [2021-01-07-别再空谈云原生，来看实战方法论](https://www.ershicimi.com/p/3d99079d3d589ab15dbc87d5072e1b3a)  
 - [2021-01-07-你熟悉的TDSQL不一样了](https://www.ershicimi.com/p/7af6b049f9db889c59eb2a4a7193b217)  
@@ -428,9 +431,6 @@
 - [2021-01-06-用编程赚外快的三个“副业”](https://www.ershicimi.com/p/4112953ea4669b9f5545ea2f3a8a4498)  
 - [2021-01-05-反思中国互联网特色996：不应要求每一个员工都变成马云](https://www.ershicimi.com/p/e9ecdfb62dead127e69c13345c812b33)  
 - [2021-01-05-21个2021年软件开发趋势预测](https://www.ershicimi.com/p/396a16d9962cb85d6c52cce1aa81df0a)  
-- [2021-01-05-避免不完全的云原生](https://www.ershicimi.com/p/297509efc25fb051d71d97d759611d58)  
-- [2021-01-05-数据库走入全面云化时代：这场年度盛典，为产业未来点亮转型明灯](https://www.ershicimi.com/p/5c0ed50daac2b8692513897a18a4555b)  
-- [2021-01-05-你应该了解的25个JS技巧](https://www.ershicimi.com/p/875faed232f6cb209cde545ef5ac4050)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

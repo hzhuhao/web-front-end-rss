@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-01-08 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-09 18:00:29。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-01-09-抖音因涉黄受行政处罚；应届生拒绝996被申通辞退；拼多多23岁员工猝死引发广泛关注-|-Q资讯](https://www.ershicimi.com/p/a8ca809aebae4e752f884fc148a8202b) 
+- [2021-01-09-从-DAU-5-万到用户数破亿，揭秘腾讯会议增长背后的技术实践](https://www.ershicimi.com/p/216a16abf0007cdf8a24aa722b1dff62) 
+- [2021-01-09-解读容器的-2020：寻找云原生的下一站](https://www.ershicimi.com/p/379c531e9118028672215113ac77f85f) 
 - [2021-01-08-比特币首次突破40000美元，10年涨千万倍但依然极具风险](https://www.ershicimi.com/p/559ad36b094f2f0cd62cd77931831fb2) 
 - [2021-01-08-中小团队开始回归单体架构，那么电信运营商该不该用微服务？](https://www.ershicimi.com/p/38e2d2694cb261beeb250611db885bd3) 
 - [2021-01-08-Fit健身APP联手HarmonyOS，升级在线健身体验](https://www.ershicimi.com/p/44d884c6a50821bc52bcdfe6fbf59ad4) 
