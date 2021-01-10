@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-10 06:00:21，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-10 18:00:23，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,8 +26,8 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [互联网架构师](#互联网架构师)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -380,12 +380,12 @@
 </summary>
 
 
-- [2021-01-09-宇宙最全的架构开发技术百科全书](https://www.ershicimi.com/p/b32118d4d5fc8d805c666d5714eea183) ![](assets/new.png)  
-- [2021-01-09-P0级重大事故：超卖了100瓶飞天茅台，整个项目组慌得一逼~](https://www.ershicimi.com/p/b65b30c004c9fa3292ed6f7231692833) ![](assets/new.png)  
-- [2021-01-09-排名前-16-的-Java-工具类，哪个你没用过？](https://www.ershicimi.com/p/cafed98915f448d3ba87827c0eb8a9d1) ![](assets/new.png)  
-- [2021-01-08-牛逼！Docker遇到Intellij-IDEA，再次解放了生产力~](https://www.ershicimi.com/p/a8ef387560c1834841a25d5c1be891e7) ![](assets/new.png)  
-- [2021-01-08-Chrome-上最必不可少的29-款插件，超级提高效率](https://www.ershicimi.com/p/5ae7b4c22ba61e81d8b0809f0a006bd5) ![](assets/new.png)  
-- [2021-01-08-有了这个王座，写代码的速度都加快了](https://www.ershicimi.com/p/33b3672c223ebb1db753058953184315) ![](assets/new.png)  
+- [2021-01-09-宇宙最全的架构开发技术百科全书](https://www.ershicimi.com/p/b32118d4d5fc8d805c666d5714eea183)  
+- [2021-01-09-P0级重大事故：超卖了100瓶飞天茅台，整个项目组慌得一逼~](https://www.ershicimi.com/p/b65b30c004c9fa3292ed6f7231692833)  
+- [2021-01-09-排名前-16-的-Java-工具类，哪个你没用过？](https://www.ershicimi.com/p/cafed98915f448d3ba87827c0eb8a9d1)  
+- [2021-01-08-牛逼！Docker遇到Intellij-IDEA，再次解放了生产力~](https://www.ershicimi.com/p/a8ef387560c1834841a25d5c1be891e7)  
+- [2021-01-08-Chrome-上最必不可少的29-款插件，超级提高效率](https://www.ershicimi.com/p/5ae7b4c22ba61e81d8b0809f0a006bd5)  
+- [2021-01-08-有了这个王座，写代码的速度都加快了](https://www.ershicimi.com/p/33b3672c223ebb1db753058953184315)  
 - [2021-01-07-让你页面速度飞起来的前端性能优化方案](https://www.ershicimi.com/p/9e0578eab7ad4f3a2fdcb6da1bb9d584)  
 - [2021-01-07-12306架构到底是不是国内最牛逼的架构](https://www.ershicimi.com/p/0bd472fc29f61a3aff4fd800ac612f52)  
 - [2021-01-07-Spring-Boot-解决跨域问题的-3-种方案！](https://www.ershicimi.com/p/840e630e0e3ecfcbfbf976b9219f9e5f)  
@@ -411,6 +411,9 @@
 </summary>
 
 
+- [2021-01-10-链家40岁员工删除公司9T数据，被判7年](https://www.ershicimi.com/p/0a4cef098c88195dfc1654db48ba5754) ![](assets/new.png)  
+- [2021-01-10-架构升级，Serverless到底是不是趋势？](https://www.ershicimi.com/p/541c45cdbfce0c2873ef3b9fac37cddb) ![](assets/new.png)  
+- [2021-01-10-4种主流的API架构风格对比](https://www.ershicimi.com/p/2a5f660f33a1b29b131086f373d050dd) ![](assets/new.png)  
 - [2021-01-09-抖音因涉黄受行政处罚；应届生拒绝996被申通辞退；拼多多23岁员工猝死引发广泛关注-|-Q资讯](https://www.ershicimi.com/p/a8ca809aebae4e752f884fc148a8202b)  
 - [2021-01-09-从-DAU-5-万到用户数破亿，揭秘腾讯会议增长背后的技术实践](https://www.ershicimi.com/p/216a16abf0007cdf8a24aa722b1dff62)  
 - [2021-01-09-解读容器的-2020：寻找云原生的下一站](https://www.ershicimi.com/p/379c531e9118028672215113ac77f85f)  
@@ -428,9 +431,6 @@
 - [2021-01-06-是时候跟Docker说再见了](https://www.ershicimi.com/p/7263636401620b03c23984bbfc960cc2)  
 - [2021-01-06-5年间服务分钟数翻100倍，声网Agora如何做到又快又稳？](https://www.ershicimi.com/p/c0a6149caf2f7d44f9062e8d32706fd8)  
 - [2021-01-06-一家知识付费独角兽的App项目实践：3天开发，获得4重收益](https://www.ershicimi.com/p/424d06b6bbf4b7697bdadf47610f9e2e)  
-- [2021-01-06-用编程赚外快的三个“副业”](https://www.ershicimi.com/p/4112953ea4669b9f5545ea2f3a8a4498)  
-- [2021-01-05-反思中国互联网特色996：不应要求每一个员工都变成马云](https://www.ershicimi.com/p/e9ecdfb62dead127e69c13345c812b33)  
-- [2021-01-05-21个2021年软件开发趋势预测](https://www.ershicimi.com/p/396a16d9962cb85d6c52cce1aa81df0a)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
