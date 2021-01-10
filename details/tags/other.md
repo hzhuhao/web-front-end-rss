@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-10 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-11 06:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1346,6 +1346,8 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2021-01-10-2020-中国软件-100-强，腾讯第二、阿里第三，他第一！](https://www.ershicimi.com/p/305bbd1884687046600288f8fd9b55a5) 
+- [2021-01-10-IntelliJ-IDEA-15款-神级超级牛逼插件推荐（自用，真的超级牛逼）](https://www.ershicimi.com/p/08b4ee3d0db7183c6877c8650455a0c1) 
 - [2021-01-09-宇宙最全的架构开发技术百科全书](https://www.ershicimi.com/p/b32118d4d5fc8d805c666d5714eea183) 
 - [2021-01-09-P0级重大事故：超卖了100瓶飞天茅台，整个项目组慌得一逼~](https://www.ershicimi.com/p/b65b30c004c9fa3292ed6f7231692833) 
 - [2021-01-09-排名前-16-的-Java-工具类，哪个你没用过？](https://www.ershicimi.com/p/cafed98915f448d3ba87827c0eb8a9d1) 
@@ -2233,6 +2235,8 @@
 - [2019-12-24-中台进入冷静期，看清自己比盲目追随更重要](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=2&sn=e15f0d21dd1e04efa017b5fae3305baf&chksm=bdbe9f138ac91605f4c143d9b0d3fbbed83da8514eefedb331be5e489e6c8904f71fb7404f87&scene=27#wechat_redirect) 
 - [2019-12-24-金融大数据公司接连被查，爬虫到底犯法吗？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=3&sn=7492a5ad9e6dfc522d3acb6b4e92bc19&chksm=bdbe9f138ac91605b0e5405df6f331c48586b551cc73f15d7028fb93a54d8fcb7d900961bcab&scene=27#wechat_redirect) 
 - [2019-12-24-这一天，成都的开发人员都经历了什么](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023168&idx=4&sn=7cf54be8cca25b28a57e4edfd44f7213&chksm=bdbe9f138ac916055bba182449a4c35f28747d57d0cead06d4880327e29b8c4877bc15b7e4ca&scene=27#wechat_redirect) 
+- [2021-01-08-2021年，这或许是你最容易把握住的高薪岗位](https://www.ershicimi.com/p/be88456b0b78ed7144c941ba22b6801f) 
+- [2021-01-07-2021年Web开发的7大趋势](https://www.ershicimi.com/p/f873fbbbdc11676db62fb2cc32ba0668) 
 - [2021-01-06-老哥们都是几点出门上班的？我目前-7-点-50](https://www.ershicimi.com/p/052a327ea920374522fdf0b3a6fc1166) 
 - [2021-01-04-做前端的你，如何克服技术焦虑？](https://www.ershicimi.com/p/a2a52231262575ca27e064b97746deea) 
 - [2020-12-30-万物可卷的时代，程序员也被“内卷”？](https://www.ershicimi.com/p/56127bd8aa48f0cd994acbf4cef8867b) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-10 18:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-11 06:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -189,6 +189,9 @@
 - [【奇舞周刊】2021-01-04-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6102d779640918f7d4aec1ef88f33f18) 
 - [【前端日刊】2021-01-07-前端从入门到高薪中文指南](https://www.ershicimi.com/p/b2c4ef3e818e761432bc293ed7698d2a) 
 - [【前端日刊】2021-01-05-宁愿不要年终奖，也要在年前跳槽？这是为了啥！](https://www.ershicimi.com/p/22329802f0b160695835a43352f62f54) 
+- [【互联网架构师】2021-01-10-2020-中国软件-100-强，腾讯第二、阿里第三，他第一！](https://www.ershicimi.com/p/305bbd1884687046600288f8fd9b55a5) 
+- [【互联网架构师】2021-01-10-IntelliJ-IDEA-15款-神级超级牛逼插件推荐（自用，真的超级牛逼）](https://www.ershicimi.com/p/08b4ee3d0db7183c6877c8650455a0c1) 
+- [【互联网架构师】2021-01-10-SpringBoot2.x-官方墙裂推荐的缓存框架，竟然不是Redis！](https://www.ershicimi.com/p/f000e404acc6c175e3f0f4279116bde7) 
 - [【互联网架构师】2021-01-09-宇宙最全的架构开发技术百科全书](https://www.ershicimi.com/p/b32118d4d5fc8d805c666d5714eea183) 
 - [【互联网架构师】2021-01-09-P0级重大事故：超卖了100瓶飞天茅台，整个项目组慌得一逼~](https://www.ershicimi.com/p/b65b30c004c9fa3292ed6f7231692833) 
 - [【互联网架构师】2021-01-09-排名前-16-的-Java-工具类，哪个你没用过？](https://www.ershicimi.com/p/cafed98915f448d3ba87827c0eb8a9d1) 
@@ -256,6 +259,8 @@
 - [【InfoQ】2021-01-01-2020年度最全IT吃瓜指南](https://www.ershicimi.com/p/7fb37933b7c31fcb7ecfcab010f66052) 
 - [【InfoQ】2021-01-01-从五家领先硅谷公司看中国To-B软件企业的“危”与“机”](https://www.ershicimi.com/p/fcb667299769cfd9600b3cbf13ec64ac) 
 - [【InfoQ】2021-01-01-深入浅出Spark：存储系统](https://www.ershicimi.com/p/835d3f3471a3fbabfa1c81de1e71da12) 
+- [【JavaScript】2021-01-08-2021年，这或许是你最容易把握住的高薪岗位](https://www.ershicimi.com/p/be88456b0b78ed7144c941ba22b6801f) 
+- [【JavaScript】2021-01-07-2021年Web开发的7大趋势](https://www.ershicimi.com/p/f873fbbbdc11676db62fb2cc32ba0668) 
 - [【JavaScript】2021-01-06-老哥们都是几点出门上班的？我目前-7-点-50](https://www.ershicimi.com/p/052a327ea920374522fdf0b3a6fc1166) 
 - [【JavaScript】2021-01-05-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48) 
 - [【JavaScript】2021-01-04-做前端的你，如何克服技术焦虑？](https://www.ershicimi.com/p/a2a52231262575ca27e064b97746deea) 

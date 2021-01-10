@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-10 18:00:23，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-11 06:00:23，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,9 +26,9 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
-- [JavaScript](#javascript)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)  
+- [JavaScript](#javascript)![](assets/dot.png)   
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -380,6 +380,9 @@
 </summary>
 
 
+- [2021-01-10-2020-中国软件-100-强，腾讯第二、阿里第三，他第一！](https://www.ershicimi.com/p/305bbd1884687046600288f8fd9b55a5) ![](assets/new.png)  
+- [2021-01-10-IntelliJ-IDEA-15款-神级超级牛逼插件推荐（自用，真的超级牛逼）](https://www.ershicimi.com/p/08b4ee3d0db7183c6877c8650455a0c1) ![](assets/new.png)  
+- [2021-01-10-SpringBoot2.x-官方墙裂推荐的缓存框架，竟然不是Redis！](https://www.ershicimi.com/p/f000e404acc6c175e3f0f4279116bde7) ![](assets/new.png)  
 - [2021-01-09-宇宙最全的架构开发技术百科全书](https://www.ershicimi.com/p/b32118d4d5fc8d805c666d5714eea183)  
 - [2021-01-09-P0级重大事故：超卖了100瓶飞天茅台，整个项目组慌得一逼~](https://www.ershicimi.com/p/b65b30c004c9fa3292ed6f7231692833)  
 - [2021-01-09-排名前-16-的-Java-工具类，哪个你没用过？](https://www.ershicimi.com/p/cafed98915f448d3ba87827c0eb8a9d1)  
@@ -397,9 +400,6 @@
 - [2021-01-05-来，通过-Excel-来认识神器——POI](https://www.ershicimi.com/p/274801b837b25908c68bdcb6f03e6045)  
 - [2021-01-04-运维总监怒怼开发：你真的需要K8S吗？](https://www.ershicimi.com/p/7eda699f2f2b66b6484247e50a3bbdfe)  
 - [2021-01-04-每一个都能笑抽的39个奇葩代码注释](https://www.ershicimi.com/p/39cfbfc47f1881ce7255fb4341cc98b1)  
-- [2021-01-04-Nginx-凭啥并发数可以达到-3w？](https://www.ershicimi.com/p/c519823fc262e4c3666cf0397db5e95b)  
-- [2021-01-03-它们把色情版-“微信”-的底裤都给挖出来了，网友:-草率了。。。](https://www.ershicimi.com/p/9f4848e7f62e1f51fcaee92f0554eab9)  
-- [2021-01-03-字节小组长无意中得知整个部门的薪资，自己28K，手下却有35K，怎么办](https://www.ershicimi.com/p/6a71f1d45eacc6275c0daec043e629a7)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,9 +411,9 @@
 </summary>
 
 
-- [2021-01-10-链家40岁员工删除公司9T数据，被判7年](https://www.ershicimi.com/p/0a4cef098c88195dfc1654db48ba5754) ![](assets/new.png)  
-- [2021-01-10-架构升级，Serverless到底是不是趋势？](https://www.ershicimi.com/p/541c45cdbfce0c2873ef3b9fac37cddb) ![](assets/new.png)  
-- [2021-01-10-4种主流的API架构风格对比](https://www.ershicimi.com/p/2a5f660f33a1b29b131086f373d050dd) ![](assets/new.png)  
+- [2021-01-10-链家40岁员工删除公司9T数据，被判7年](https://www.ershicimi.com/p/0a4cef098c88195dfc1654db48ba5754)  
+- [2021-01-10-架构升级，Serverless到底是不是趋势？](https://www.ershicimi.com/p/541c45cdbfce0c2873ef3b9fac37cddb)  
+- [2021-01-10-4种主流的API架构风格对比](https://www.ershicimi.com/p/2a5f660f33a1b29b131086f373d050dd)  
 - [2021-01-09-抖音因涉黄受行政处罚；应届生拒绝996被申通辞退；拼多多23岁员工猝死引发广泛关注-|-Q资讯](https://www.ershicimi.com/p/a8ca809aebae4e752f884fc148a8202b)  
 - [2021-01-09-从-DAU-5-万到用户数破亿，揭秘腾讯会议增长背后的技术实践](https://www.ershicimi.com/p/216a16abf0007cdf8a24aa722b1dff62)  
 - [2021-01-09-解读容器的-2020：寻找云原生的下一站](https://www.ershicimi.com/p/379c531e9118028672215113ac77f85f)  
@@ -442,6 +442,8 @@
 </summary>
 
 
+- [2021-01-08-2021年，这或许是你最容易把握住的高薪岗位](https://www.ershicimi.com/p/be88456b0b78ed7144c941ba22b6801f) ![](assets/new.png)  
+- [2021-01-07-2021年Web开发的7大趋势](https://www.ershicimi.com/p/f873fbbbdc11676db62fb2cc32ba0668) ![](assets/new.png)  
 - [2021-01-06-老哥们都是几点出门上班的？我目前-7-点-50](https://www.ershicimi.com/p/052a327ea920374522fdf0b3a6fc1166)  
 - [2021-01-05-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/3b792c07a9e01a9291b92ce21c84af48)  
 - [2021-01-04-做前端的你，如何克服技术焦虑？](https://www.ershicimi.com/p/a2a52231262575ca27e064b97746deea)  
@@ -460,8 +462,6 @@
 - [2020-12-11-推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/101ffccef2fa9c22d157a7664725b323)  
 - [2020-12-09-为什么总有人说：“前端饱和了”、“前端不好找工作”？](https://www.ershicimi.com/p/8110eb01c95d8f88ca335385bb3c41a2)  
 - [2020-12-08-看这篇就行！最强VUE+ElementUI管理项目来了（附实战全过程）](https://www.ershicimi.com/p/be2fe6b481813259250c47b6cd73b659)  
-- [2020-12-07-阿里面试官：单页面应用Router的实现机制是？我懵圈了……](https://www.ershicimi.com/p/196a7fb4fe0dda8d044135599df6e681)  
-- [2020-12-06-排序算法](https://www.ershicimi.com/p/1ca2e23533568845a2a484f905348a5f)  
 - [......【查看更多】......](./details/JavaScript.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
