@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-11 06:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-12 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -463,6 +463,9 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-01-11-大型-web-前端架构设计-面向抽象编程入门](https://www.ershicimi.com/p/7634b3a8194b29cfb5ec9e841bef7551) 
+- [2021-01-10-前端周报：前链家员工删库跑路，被判-7-年；向-Mac-移植-Linux-的项目正式启动；互联网公司](https://www.ershicimi.com/p/a7a07d74acd8938d955f0ae9bf76cc10) 
+- [2021-01-08-转行难道不是因为想拿高薪？-|-活动推荐](https://www.ershicimi.com/p/bb6169fdd317e18348113fc45e5f0dbb) 
 - [2021-01-06-2021年Web开发的7大趋势](https://www.ershicimi.com/p/3b9804fbd88d2e1d5928c9eecc6d1db0) 
 - [2021-01-04-30个编程领域的趣图](https://www.ershicimi.com/p/aca5ad15de4dddd493c1902382d711ff) 
 - [2021-01-04-产品经理训练营有偿招募兼职助教-|-助教招募](https://www.ershicimi.com/p/f4cca46b2d6aba75ee6cfef472ce90a7) 
@@ -1346,6 +1349,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2021-01-11-别找了，这才是应对高并发的正确处理思路](https://www.ershicimi.com/p/8fb80b5d4cfd16e8c631cd39c27abee9) 
+- [2021-01-11-再见了SpringMVC！这个框架有点厉害，甚至干掉了Servlet！](https://www.ershicimi.com/p/2a5f867b5240b729c20436c147a47745) 
+- [2021-01-11-Intellij-IDEA-不愧是最智能-IDE，轻松解决了-Java-8-数据流问题](https://www.ershicimi.com/p/9be383c7f6994d3e6407497f3c312e1e) 
 - [2021-01-10-2020-中国软件-100-强，腾讯第二、阿里第三，他第一！](https://www.ershicimi.com/p/305bbd1884687046600288f8fd9b55a5) 
 - [2021-01-10-IntelliJ-IDEA-15款-神级超级牛逼插件推荐（自用，真的超级牛逼）](https://www.ershicimi.com/p/08b4ee3d0db7183c6877c8650455a0c1) 
 - [2021-01-09-宇宙最全的架构开发技术百科全书](https://www.ershicimi.com/p/b32118d4d5fc8d805c666d5714eea183) 
@@ -1715,6 +1721,11 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2021-01-11-被特朗普带火后，这款软件却被苹果、谷歌和亚马逊全面封杀](https://www.ershicimi.com/p/b0e54f8ee7b358c1c9de40c4568f54d2) 
+- [2021-01-11-Spark-3.0新特性在FreeWheel核心业务数据团队的应用与实战](https://www.ershicimi.com/p/cc72897d3dec7e5b327b03ec9c96479e) 
+- [2021-01-11-QCon全球软件开发大会：推动创新，实现技术落地](https://www.ershicimi.com/p/76c46306a52eadec1ca7663d8b40004c) 
+- [2021-01-11-避免不完全的云原生（一）：云原生到底意味着什么？](https://www.ershicimi.com/p/7fba6fb1196d162bd27316357c805f75) 
+- [2021-01-11-2020年10个不错的Python库](https://www.ershicimi.com/p/f3d22b36720c1a809536df7cd4e3504b) 
 - [2021-01-10-链家40岁员工删除公司9T数据，被判7年](https://www.ershicimi.com/p/0a4cef098c88195dfc1654db48ba5754) 
 - [2021-01-10-4种主流的API架构风格对比](https://www.ershicimi.com/p/2a5f660f33a1b29b131086f373d050dd) 
 - [2021-01-09-抖音因涉黄受行政处罚；应届生拒绝996被申通辞退；拼多多23岁员工猝死引发广泛关注-|-Q资讯](https://www.ershicimi.com/p/a8ca809aebae4e752f884fc148a8202b) 

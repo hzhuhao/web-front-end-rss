@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-01-10 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-12 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-01-11-被特朗普带火后，这款软件却被苹果、谷歌和亚马逊全面封杀](https://www.ershicimi.com/p/b0e54f8ee7b358c1c9de40c4568f54d2) 
+- [2021-01-11-Spark-3.0新特性在FreeWheel核心业务数据团队的应用与实战](https://www.ershicimi.com/p/cc72897d3dec7e5b327b03ec9c96479e) 
+- [2021-01-11-QCon全球软件开发大会：推动创新，实现技术落地](https://www.ershicimi.com/p/76c46306a52eadec1ca7663d8b40004c) 
+- [2021-01-11-避免不完全的云原生（一）：云原生到底意味着什么？](https://www.ershicimi.com/p/7fba6fb1196d162bd27316357c805f75) 
+- [2021-01-11-2020年10个不错的Python库](https://www.ershicimi.com/p/f3d22b36720c1a809536df7cd4e3504b) 
 - [2021-01-10-链家40岁员工删除公司9T数据，被判7年](https://www.ershicimi.com/p/0a4cef098c88195dfc1654db48ba5754) 
 - [2021-01-10-架构升级，Serverless到底是不是趋势？](https://www.ershicimi.com/p/541c45cdbfce0c2873ef3b9fac37cddb) 
 - [2021-01-10-4种主流的API架构风格对比](https://www.ershicimi.com/p/2a5f660f33a1b29b131086f373d050dd) 
