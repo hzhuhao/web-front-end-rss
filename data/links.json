@@ -3862,6 +3862,26 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "来一起造轮子：手写 Vue3 reactivity 模块",
+        "link": "https://www.ershicimi.com/p/03d15c3571f6e4f7ad2ff6d208045b2c",
+        "date": "2021-01-13"
+      },
+      {
+        "title": "实现一个 async/await （typescript 版）",
+        "link": "https://www.ershicimi.com/p/b7b6789577ea91e60c246e2f754d148c",
+        "date": "2021-01-13"
+      },
+      {
+        "title": "Node.js 实现抢票小工具&短信通知提醒",
+        "link": "https://www.ershicimi.com/p/0bede926f9e43b5bf4acf810143cb3a0",
+        "date": "2021-01-12"
+      },
+      {
+        "title": "探寻 Redux useSelector 更新机制",
+        "link": "https://www.ershicimi.com/p/2add9b738a5f496150107a6dfbe62650",
+        "date": "2021-01-12"
+      },
+      {
         "title": "为什么那么多自学 Web 前端的人后来都放弃了?",
         "link": "https://www.ershicimi.com/p/17e066e618b54f5ff883b43360a94c9d",
         "date": "2021-01-11"
@@ -19387,6 +19407,36 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "拼多多员工因匿名发贴被辞退，拼多多最新回应",
+        "link": "https://www.ershicimi.com/p/64669f129c05d9f1a0d86c8031eb1480",
+        "date": "2021-01-13"
+      },
+      {
+        "title": "API快速开发平台设计思考",
+        "link": "https://www.ershicimi.com/p/47f7ff447f772f5ee60176a3ad9bc5c6",
+        "date": "2021-01-13"
+      },
+      {
+        "title": "火币网交易所架构演进",
+        "link": "https://www.ershicimi.com/p/5a031199d9a8aa0366f91073b155ebb7",
+        "date": "2021-01-13"
+      },
+      {
+        "title": "史上最污技术解读，我竟然秒懂了",
+        "link": "https://www.ershicimi.com/p/be8c0c1cfc3ddd204aaa93bdfec0223b",
+        "date": "2021-01-12"
+      },
+      {
+        "title": "缓存，确实很香，却也很受伤！",
+        "link": "https://www.ershicimi.com/p/d5d0f3ec9115c1a37bf3bef939c01c21",
+        "date": "2021-01-12"
+      },
+      {
+        "title": "基于Spring+SpringMVC+Mybatis的分布式敏捷开发系统架构",
+        "link": "https://www.ershicimi.com/p/8834ed13e483c4aa54767aa0ddf3a6a8",
+        "date": "2021-01-12"
+      },
+      {
         "title": "别找了，这才是应对高并发的正确处理思路",
         "link": "https://www.ershicimi.com/p/8fb80b5d4cfd16e8c631cd39c27abee9",
         "date": "2021-01-11"
@@ -21843,6 +21893,56 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "海外IT老兵谈996：人才不是加班加出来的，期待有企业能站出来破局",
+        "link": "https://www.ershicimi.com/p/9c56e485f279916360319c420b001c9c",
+        "date": "2021-01-13"
+      },
+      {
+        "title": "大前端不是全栈",
+        "link": "https://www.ershicimi.com/p/20941f1abc5dd1988880b3e196ee848e",
+        "date": "2021-01-13"
+      },
+      {
+        "title": "云原生数据仓库：Apache Kylin 的新使命",
+        "link": "https://www.ershicimi.com/p/06e1511b07cb1753132ce39f36bae731",
+        "date": "2021-01-13"
+      },
+      {
+        "title": "“知天命”的英特尔不想认命",
+        "link": "https://www.ershicimi.com/p/964ee9d5c74348a5842fa6015d73fe34",
+        "date": "2021-01-13"
+      },
+      {
+        "title": "如何编写漂亮的 React 代码？",
+        "link": "https://www.ershicimi.com/p/a0e88cf65b99ca48a2019b52df07d4d2",
+        "date": "2021-01-13"
+      },
+      {
+        "title": "“头腾”大战硝烟再起",
+        "link": "https://www.ershicimi.com/p/1124b77343fe81540d32ee6e1747faab",
+        "date": "2021-01-12"
+      },
+      {
+        "title": "来自Airbnb、Netflix等公司的代码评审最佳实践",
+        "link": "https://www.ershicimi.com/p/a44b1597d82468ca726fbafa930ed44c",
+        "date": "2021-01-12"
+      },
+      {
+        "title": "云原生数据库设计新思路",
+        "link": "https://www.ershicimi.com/p/8659e7c0984aa2930d96375839dab761",
+        "date": "2021-01-12"
+      },
+      {
+        "title": "一个典型的架构演变案例：金融时报数据平台",
+        "link": "https://www.ershicimi.com/p/b410a3928be51c019513d986c3a2c121",
+        "date": "2021-01-12"
+      },
+      {
+        "title": "你还在用 REST API 吗？",
+        "link": "https://www.ershicimi.com/p/3410eaa6119fffa8fb102156a1615aef",
+        "date": "2021-01-12"
+      },
       {
         "title": "被特朗普带火后，这款软件却被苹果、谷歌和亚马逊全面封杀",
         "link": "https://www.ershicimi.com/p/b0e54f8ee7b358c1c9de40c4568f54d2",
@@ -25075,6 +25175,21 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "做前端4年，还是进不去大厂，原来是…",
+        "link": "https://www.ershicimi.com/p/a393279db14e220ac3f92acfd95346cb",
+        "date": "2021-01-13"
+      },
+      {
+        "title": "这篇文章，我决定不再讲技巧",
+        "link": "https://www.ershicimi.com/p/a394762efeb67979d43b6a01f8f5b8ee",
+        "date": "2021-01-12"
+      },
+      {
+        "title": "搞这么多年前端，我竟然不懂 JavaScript？",
+        "link": "https://www.ershicimi.com/p/27033dcdf27caaae7012a928c62ea0ea",
+        "date": "2021-01-11"
+      },
       {
         "title": "2021年，这或许是你最容易把握住的高薪岗位",
         "link": "https://www.ershicimi.com/p/be88456b0b78ed7144c941ba22b6801f",
