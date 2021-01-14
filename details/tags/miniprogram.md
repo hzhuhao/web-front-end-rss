@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-14 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-15 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -99,6 +99,7 @@
 - [2018-11-09-微信小程序·云开发初体验](https://jdc.jd.com/archives/212791) 
 - [2018-10-29-快速小程序开发之微信小程序内嵌-H5](https://jdc.jd.com/archives/212779) 
 - [2018-09-07-小程序实战总结](https://jdc.jd.com/archives/212697) 
+- [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) 
 - [2020-11-30-京喜小程序首页瘦身实践](https://aotu.io/notes/2020/11/30/jx-code-slim/) 
 - [2020-09-21-京喜小程序首页无障碍优化实践](https://aotu.io/notes/2020/09/21/jx-weapp-accessible/) 
 - [2020-09-01-Taro-版本升级权威指南](https://aotu.io/notes/2020/08/31/taro-versions/) 

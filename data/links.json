@@ -3862,6 +3862,26 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "RxJS：给你如丝一般顺滑的编程体验（建议收藏）",
+        "link": "https://www.ershicimi.com/p/9b29ed68d8235b521238f3ed6ea150b3",
+        "date": "2021-01-14"
+      },
+      {
+        "title": "面向对象：跟相互喜欢的小哥哥，长长的路慢慢走",
+        "link": "https://www.ershicimi.com/p/de69342d3c1c078ace07840a5379fce9",
+        "date": "2021-01-14"
+      },
+      {
+        "title": "node_modules 困境",
+        "link": "https://www.ershicimi.com/p/89df5e23ecf1b88417922a14a73fe0c7",
+        "date": "2021-01-14"
+      },
+      {
+        "title": "2.6 万 Star！Web 已进化，前端测试工具也该变了",
+        "link": "https://www.ershicimi.com/p/347fe30f0d8758e1d22bdae0043df57d",
+        "date": "2021-01-14"
+      },
+      {
         "title": "来一起造轮子：手写 Vue3 reactivity 模块",
         "link": "https://www.ershicimi.com/p/03d15c3571f6e4f7ad2ff6d208045b2c",
         "date": "2021-01-13"
@@ -16046,6 +16066,16 @@
     "link": "/atom.xml",
     "items": [
       {
+        "title": "凹凸技术揭秘 · Taro · 开放式跨端跨框架之路",
+        "link": "https://aotu.io/notes/2021/01/14/taro-history/",
+        "date": "2021-01-14"
+      },
+      {
+        "title": "凹凸技术揭秘 · 基础服务体系 · 构筑服务端技术中枢",
+        "link": "https://aotu.io/notes/2021/01/14/exa-server/",
+        "date": "2021-01-14"
+      },
+      {
         "title": "凹凸技术揭秘 · Tide 研发平台 · 布局研发新基建",
         "link": "https://aotu.io/notes/2021/01/06/taro-ide-n-tide/",
         "date": "2021-01-07"
@@ -21893,6 +21923,31 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "大厂面试必问的设计模式，看这一篇就够了 ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/73f86dd9aa66ad336767422f37bc9ebd",
+        "date": "2021-01-14"
+      },
+      {
+        "title": "放弃微服务，我们为什么重回单体架构？",
+        "link": "https://www.ershicimi.com/p/d430336381891495b69d689b1c3bfd47",
+        "date": "2021-01-14"
+      },
+      {
+        "title": "使用Kafka，如何成功迁移SQL数据库中超过20亿条记录？",
+        "link": "https://www.ershicimi.com/p/a55c032821dda683ca97c9464733fae2",
+        "date": "2021-01-14"
+      },
+      {
+        "title": "十年三度易主，被孙正义60亿贱卖，波士顿动力还有“光明的未来”吗？",
+        "link": "https://www.ershicimi.com/p/7abcb1b24db75b67ffff3a9cb84a96f7",
+        "date": "2021-01-14"
+      },
+      {
+        "title": "容器安全最佳实践入门",
+        "link": "https://www.ershicimi.com/p/f769c10b653233b0dc77fd6206bb4983",
+        "date": "2021-01-14"
+      },
       {
         "title": "海外IT老兵谈996：人才不是加班加出来的，期待有企业能站出来破局",
         "link": "https://www.ershicimi.com/p/9c56e485f279916360319c420b001c9c",

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-14 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-15 06:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,10 @@
 </summary>
 
 
+- [【前端大全】2021-01-14-RxJS：给你如丝一般顺滑的编程体验（建议收藏）](https://www.ershicimi.com/p/9b29ed68d8235b521238f3ed6ea150b3) 
+- [【前端大全】2021-01-14-面向对象：跟相互喜欢的小哥哥，长长的路慢慢走](https://www.ershicimi.com/p/de69342d3c1c078ace07840a5379fce9) 
+- [【前端大全】2021-01-14-node_modules-困境](https://www.ershicimi.com/p/89df5e23ecf1b88417922a14a73fe0c7) 
+- [【前端大全】2021-01-14-2.6-万-Star！Web-已进化，前端测试工具也该变了](https://www.ershicimi.com/p/347fe30f0d8758e1d22bdae0043df57d) 
 - [【前端大全】2021-01-13-来一起造轮子：手写-Vue3-reactivity-模块](https://www.ershicimi.com/p/03d15c3571f6e4f7ad2ff6d208045b2c) 
 - [【前端大全】2021-01-13-实现一个-async/await-（typescript-版）](https://www.ershicimi.com/p/b7b6789577ea91e60c246e2f754d148c) 
 - [【前端大全】2021-01-12-Node.js-实现抢票小工具&短信通知提醒](https://www.ershicimi.com/p/0bede926f9e43b5bf4acf810143cb3a0) 
@@ -193,6 +197,8 @@
 - [【前端之巅】2021-01-03-前端周报：开发者向开源项目提交-issue-表达谢意引发争论；国内开发者开源抢茅台软件；小米新手机](https://www.ershicimi.com/p/53514a4d3a2900719ae6ab02eab56d21) 
 - [【张鑫旭-鑫空间-鑫生活】2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
 - [【阮一峰的网络日志】2021-01-08-科技爱好者周刊（第-141-期）：封闭系统的胜利](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html) 
+- [【Aotu-|-凹凸实验室】2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/) 
+- [【Aotu-|-凹凸实验室】2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) 
 - [【Aotu-|-凹凸实验室】2021-01-07-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) 
 - [【Aotu-|-凹凸实验室】2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) 
 - [【奇舞周刊】2021-01-12-Vue-CLI-是如何实现的----终端命令行工具篇](https://www.ershicimi.com/p/1b55a056a289ff86505dbe60773daacc) 
@@ -256,6 +262,11 @@
 - [【互联网架构师】2021-01-01-SpringBoot实战：整合Redis、mybatis，封装RedisUtils工具类等（附源码）](https://www.ershicimi.com/p/fd1a4307202d75fd2ab65de023dcb9f5) 
 - [【互联网架构师】2021-01-01-MyBatis-的-4-个妙用，别再踩坑了！](https://www.ershicimi.com/p/4cbbda75dfe0650a0598b84caf658ff4) 
 - [【互联网架构师】2021-01-01-为什么强烈推荐-Java-程序员使用-Google-Guava-编程！](https://www.ershicimi.com/p/ded22ed5fea51eadecd0e6b377ae6e9b) 
+- [【InfoQ】2021-01-14-大厂面试必问的设计模式，看这一篇就够了-｜-极客时间](https://www.ershicimi.com/p/73f86dd9aa66ad336767422f37bc9ebd) 
+- [【InfoQ】2021-01-14-放弃微服务，我们为什么重回单体架构？](https://www.ershicimi.com/p/d430336381891495b69d689b1c3bfd47) 
+- [【InfoQ】2021-01-14-使用Kafka，如何成功迁移SQL数据库中超过20亿条记录？](https://www.ershicimi.com/p/a55c032821dda683ca97c9464733fae2) 
+- [【InfoQ】2021-01-14-十年三度易主，被孙正义60亿贱卖，波士顿动力还有“光明的未来”吗？](https://www.ershicimi.com/p/7abcb1b24db75b67ffff3a9cb84a96f7) 
+- [【InfoQ】2021-01-14-容器安全最佳实践入门](https://www.ershicimi.com/p/f769c10b653233b0dc77fd6206bb4983) 
 - [【InfoQ】2021-01-13-海外IT老兵谈996：人才不是加班加出来的，期待有企业能站出来破局](https://www.ershicimi.com/p/9c56e485f279916360319c420b001c9c) 
 - [【InfoQ】2021-01-13-大前端不是全栈](https://www.ershicimi.com/p/20941f1abc5dd1988880b3e196ee848e) 
 - [【InfoQ】2021-01-13-云原生数据仓库：Apache-Kylin-的新使命](https://www.ershicimi.com/p/06e1511b07cb1753132ce39f36bae731) 
