@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-15 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-15 22:00:26，:rocket: 更新条数: +7， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,11 +20,11 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2021-01-15-科技爱好者周刊（第-142-期）：2020年才是21世纪元年](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html) ![](assets/new.png)  
+- [2021-01-15-科技爱好者周刊（第-142-期）：2020年才是21世纪元年](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html)  
 - [2021-01-08-科技爱好者周刊（第-141-期）：封闭系统的胜利](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-141.html)  
 - [2020-12-31-科技爱好者周刊（第-140-期）：印度人的工资是多少？](http://www.ruanyifeng.com/blog/2020/12/weekly-issue-140.html)  
 - [2020-12-28-Fetch-API-教程](http://www.ruanyifeng.com/blog/2020/12/fetch-tutorial.html)  
@@ -318,6 +318,13 @@
 </summary>
 
 
+- [2021-01-15-奇舞周刊第-381-期：2020-年度-JavaScript-现状调查报告](https://www.ershicimi.com/p/5c5ef59b9a94dd3de634313aa6fc6bc8) ![](assets/new.png)  
+- [2021-01-14-浅谈移动端开发技术](https://www.ershicimi.com/p/212e27f6abe6de5887edf72271fd9b26) ![](assets/new.png)  
+- [2021-01-14-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/8df423210105f488a29f9124db8340a8) ![](assets/new.png)  
+- [2021-01-14-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/493a0085e578930d4ed525d054495907) ![](assets/new.png)  
+- [2021-01-13-解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/ef007c83081a8513821e28bf22d2d98b) ![](assets/new.png)  
+- [2021-01-13-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/c558970b8bed32446f4bde322dc74ff2) ![](assets/new.png)  
+- [2021-01-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/626fd663d30d218108f00a156913fd2c) ![](assets/new.png)  
 - [2021-01-12-Vue-CLI-是如何实现的----终端命令行工具篇](https://www.ershicimi.com/p/1b55a056a289ff86505dbe60773daacc)  
 - [2021-01-12-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/b0165a5f43d868efea92180365f13314)  
 - [2021-01-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/3817e947919c47b0352020f8cbc55390)  
@@ -331,13 +338,6 @@
 - [2021-01-06-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/bd9294fc2739db31cdec59c6100cdee3)  
 - [2021-01-06-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/70e93a9d2e8ce8702d2a8b20e79c30c6)  
 - [2021-01-06-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6ffa0468e4d11e7ee8f8ec0d48c9efbb)  
-- [2021-01-05-我是如何将网页性能提升5倍的-—-网络优化篇](https://www.ershicimi.com/p/43c90f7f7ed205c839476a1f909c1990)  
-- [2021-01-05-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/1048ab7161c2c25082fa69624b6590eb)  
-- [2021-01-05-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/9af0e223cdfb645610163a1928eb33e8)  
-- [2021-01-04-一文串联-HTTP、TCP、IP、以太网](https://www.ershicimi.com/p/d66af908fd8ed45f87c046c96382a14b)  
-- [2021-01-04-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/799119c38fe5fa17aeaf3e5637df8bfa)  
-- [2021-01-04-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/6102d779640918f7d4aec1ef88f33f18)  
-- [2020-12-31-奇舞周刊第-379-期：框架带来了什么？](https://www.ershicimi.com/p/da1a56f076e421dbc3145c0f92e891a2)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

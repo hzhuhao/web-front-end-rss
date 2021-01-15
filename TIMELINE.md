@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-15 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-15 22:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -202,6 +202,13 @@
 - [【Aotu-|-凹凸实验室】2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) 
 - [【Aotu-|-凹凸实验室】2021-01-07-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) 
 - [【Aotu-|-凹凸实验室】2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) 
+- [【奇舞周刊】2021-01-15-奇舞周刊第-381-期：2020-年度-JavaScript-现状调查报告](https://www.ershicimi.com/p/5c5ef59b9a94dd3de634313aa6fc6bc8) 
+- [【奇舞周刊】2021-01-14-浅谈移动端开发技术](https://www.ershicimi.com/p/212e27f6abe6de5887edf72271fd9b26) 
+- [【奇舞周刊】2021-01-14-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/8df423210105f488a29f9124db8340a8) 
+- [【奇舞周刊】2021-01-14-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/493a0085e578930d4ed525d054495907) 
+- [【奇舞周刊】2021-01-13-解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/ef007c83081a8513821e28bf22d2d98b) 
+- [【奇舞周刊】2021-01-13-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/c558970b8bed32446f4bde322dc74ff2) 
+- [【奇舞周刊】2021-01-13-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/626fd663d30d218108f00a156913fd2c) 
 - [【奇舞周刊】2021-01-12-Vue-CLI-是如何实现的----终端命令行工具篇](https://www.ershicimi.com/p/1b55a056a289ff86505dbe60773daacc) 
 - [【奇舞周刊】2021-01-12-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/b0165a5f43d868efea92180365f13314) 
 - [【奇舞周刊】2021-01-12-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/3817e947919c47b0352020f8cbc55390) 
