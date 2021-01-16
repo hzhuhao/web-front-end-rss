@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-16 06:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-17 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -190,6 +190,7 @@
 - [2020-01-19-前端安全—你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591159&idx=1&sn=68abf498d83a849f9fb2099f1642df20&chksm=8891df93bfe6568550651cb5a32f3c0d30585818dae614772298b4c9913cb4fd2bfd3241f8f5&scene=27#wechat_redirect) 
 - [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-13-Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba) 
+- [2021-01-15-还在用-Guava-Cache？它才是-Java-本地缓存之王！](https://www.ershicimi.com/p/df84aaa49e850b82ec80d7c75b0faf3c) 
 - [2021-01-12-缓存，确实很香，却也很受伤！](https://www.ershicimi.com/p/d5d0f3ec9115c1a37bf3bef939c01c21) 
 - [2021-01-10-SpringBoot2.x-官方墙裂推荐的缓存框架，竟然不是Redis！](https://www.ershicimi.com/p/f000e404acc6c175e3f0f4279116bde7) 
 - [2021-01-08-Chrome-上最必不可少的29-款插件，超级提高效率](https://www.ershicimi.com/p/5ae7b4c22ba61e81d8b0809f0a006bd5) 

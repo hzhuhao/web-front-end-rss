@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-01-16 06:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-17 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-01-16-拼多多退出春晚红包合作；小米被美国政府“拉黑”；39-岁网络技术员入住养老院；蚂蚁集团成立整改工作组](https://www.ershicimi.com/p/39600e5b74b96e5b81804efdc616e348) 
+- [2021-01-16-百度造车AB面](https://www.ershicimi.com/p/c2ddd18352da32ac4951a9e822997370) 
+- [2021-01-16-开源的六大谎言](https://www.ershicimi.com/p/cf9a23d8839a3ca923811db138c49974) 
+- [2021-01-16-一份处理宕机的应急响应入门指南](https://www.ershicimi.com/p/b3846c34681284bdacfd62bbb24bb65f) 
 - [2021-01-15-微软、思科等企业源代码被黑客在线售卖，打包价100万美元](https://www.ershicimi.com/p/4a238a660ee9bbd1e77c57bc8d5ff18d) 
 - [2021-01-15-2021中国云计算市场展望：行业变革的三大关键](https://www.ershicimi.com/p/0d5aae3478d3889dcfb3b4017f05a712) 
 - [2021-01-15-400万Docker镜像中，51%的镜像存在高危漏洞](https://www.ershicimi.com/p/284dee305dae0afe68085760b9a09035) 

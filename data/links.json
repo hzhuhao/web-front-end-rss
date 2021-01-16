@@ -3862,6 +3862,16 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "iPhone 12 页面卷动逐行滑入效果",
+        "link": "https://www.ershicimi.com/p/f2f1df17ff1445ee44ea3dcfb046cc71",
+        "date": "2021-01-16"
+      },
+      {
+        "title": "大前端进击之路(二)：JavaScript异步编程",
+        "link": "https://www.ershicimi.com/p/8f1da5856a11c367157fd26deab9923d",
+        "date": "2021-01-16"
+      },
+      {
         "title": "做前端4年，就能够对标阿里 P7 级别的？",
         "link": "https://www.ershicimi.com/p/1d4ac1b1d668849dd87c95b13320c80e",
         "date": "2021-01-15"
@@ -19492,6 +19502,51 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "看了扎心：39岁单身程序员入住养老院！养老院：院内平均年龄瞬间年轻了",
+        "link": "https://www.ershicimi.com/p/7510dd2331146e43f8618ccf7becadf0",
+        "date": "2021-01-16"
+      },
+      {
+        "title": "我为什么要放弃RESTful，选择拥抱GraphQL？",
+        "link": "https://www.ershicimi.com/p/988355b07130f641da8f634072fad949",
+        "date": "2021-01-16"
+      },
+      {
+        "title": "卧槽！我的IDEA中XML显示屎黄色，怎么去掉？",
+        "link": "https://www.ershicimi.com/p/a96980ddbd1c8b0e7a96de70d27c3aff",
+        "date": "2021-01-16"
+      },
+      {
+        "title": "还在用 Guava Cache？它才是 Java 本地缓存之王！",
+        "link": "https://www.ershicimi.com/p/df84aaa49e850b82ec80d7c75b0faf3c",
+        "date": "2021-01-15"
+      },
+      {
+        "title": "大佬的\"抢茅台\"脚本开源了，网友：太强了~",
+        "link": "https://www.ershicimi.com/p/5fa4dc144093da91fa11ae804d864a75",
+        "date": "2021-01-15"
+      },
+      {
+        "title": "Java项目权威排名：Nacos未上版，gradle排名第二，Maven排名28",
+        "link": "https://www.ershicimi.com/p/4b73c5bce90ee801f26a259a55766593",
+        "date": "2021-01-15"
+      },
+      {
+        "title": "程序员热招岗位Java第一？没做过完整项目的你如何自救？",
+        "link": "https://www.ershicimi.com/p/7447ba4eaa46439939b038f6a26abad9",
+        "date": "2021-01-14"
+      },
+      {
+        "title": "远程删除用户照片？刚刚，拼多多承认了！",
+        "link": "https://www.ershicimi.com/p/736ca372dde4a18e764365bb802a8fce",
+        "date": "2021-01-14"
+      },
+      {
+        "title": "Spring Boot 集成 JUnit5，优雅单元测试！",
+        "link": "https://www.ershicimi.com/p/7625c723420a9dca76f46cd3dec95a0d",
+        "date": "2021-01-14"
+      },
+      {
         "title": "拼多多员工因匿名发贴被辞退，拼多多最新回应",
         "link": "https://www.ershicimi.com/p/64669f129c05d9f1a0d86c8031eb1480",
         "date": "2021-01-13"
@@ -21978,6 +22033,26 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "拼多多退出春晚红包合作；小米被美国政府“拉黑”；39 岁网络技术员入住养老院；蚂蚁集团成立整改工作组",
+        "link": "https://www.ershicimi.com/p/39600e5b74b96e5b81804efdc616e348",
+        "date": "2021-01-16"
+      },
+      {
+        "title": "百度造车AB面",
+        "link": "https://www.ershicimi.com/p/c2ddd18352da32ac4951a9e822997370",
+        "date": "2021-01-16"
+      },
+      {
+        "title": "开源的六大谎言",
+        "link": "https://www.ershicimi.com/p/cf9a23d8839a3ca923811db138c49974",
+        "date": "2021-01-16"
+      },
+      {
+        "title": "一份处理宕机的应急响应入门指南",
+        "link": "https://www.ershicimi.com/p/b3846c34681284bdacfd62bbb24bb65f",
+        "date": "2021-01-16"
+      },
       {
         "title": "微软、思科等企业源代码被黑客在线售卖，打包价100万美元",
         "link": "https://www.ershicimi.com/p/4a238a660ee9bbd1e77c57bc8d5ff18d",
@@ -25305,6 +25380,11 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "一起手写Vue3核心模块源码，掌握阅读源码的正确方法",
+        "link": "https://www.ershicimi.com/p/3493d7cf9b33872393ebbf87dfad2eaa",
+        "date": "2021-01-15"
+      },
       {
         "title": "做前端4年，还是进不去大厂，原来是…",
         "link": "https://www.ershicimi.com/p/a393279db14e220ac3f92acfd95346cb",
