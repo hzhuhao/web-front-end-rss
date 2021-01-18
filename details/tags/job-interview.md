@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-18 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-19 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -166,6 +166,7 @@
 - [2020-01-20-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484401&idx=1&sn=700ebc0b555f8d9f11d82860952c2d0e&chksm=eb1cc61bdc6b4f0d03d2a624dc9ab9950ba404338f4b35463ca04f25e3d3e3f006904dd40c61&scene=27#wechat_redirect) 
 - [2019-12-09-2020年将至，大厂面试都喜欢考些什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484352&idx=1&sn=c780f09731fcc32823b287686562dcb4&chksm=eb1cc62adc6b4f3cc08902d4ee2e250dce5b5af06bed69de13c4ee9b4f38d841db376af74e51&scene=27#wechat_redirect) 
 - [2019-12-03-记一次腾讯社招前端面试（已拿到offer入职）](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484346&idx=1&sn=2a8dd02ba85e1e87d6d9ca87734fa16c&chksm=eb1cc650dc6b4f46763c21eab612794983a94149ceb2509a7bef31e7e430aeaef07038763eae&scene=27#wechat_redirect) 
+- [2021-01-17-面试官：MyBatis的SQL执行流程说这么详细，网上抄的吧！](https://www.ershicimi.com/p/0b60de4fdcd052f414d58f757a9b7196) 
 - [2020-11-30-Redis面试题汇总（附答案），面试突击专用](https://www.ershicimi.com/p/05760c6e919470ea52e1ddbc7754c0d9) 
 - [2020-11-28-面试官：String长度有限制吗？是多少？](https://www.ershicimi.com/p/b1152ace164188124e7eea9891b35cdf) 
 - [2020-11-25-面试官就是这么欺负人：new-Object到底占用几个字节？](https://www.ershicimi.com/p/b56f88d1f40b017ef8816508ad42d173) 
