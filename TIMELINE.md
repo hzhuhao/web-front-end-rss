@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-20 22:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-21 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -205,6 +205,7 @@
 - [【前端之巅】2021-01-04-30个编程领域的趣图](https://www.ershicimi.com/p/aca5ad15de4dddd493c1902382d711ff) 
 - [【前端之巅】2021-01-04-产品经理训练营有偿招募兼职助教-|-助教招募](https://www.ershicimi.com/p/f4cca46b2d6aba75ee6cfef472ce90a7) 
 - [【前端之巅】2021-01-03-前端周报：开发者向开源项目提交-issue-表达谢意引发争论；国内开发者开源抢茅台软件；小米新手机](https://www.ershicimi.com/p/53514a4d3a2900719ae6ab02eab56d21) 
+- [【张鑫旭-鑫空间-鑫生活】2021-01-21-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/) 
 - [【张鑫旭-鑫空间-鑫生活】2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/) 
 - [【阮一峰的网络日志】2021-01-20-剪贴板操作-Clipboard-API-教程](http://www.ruanyifeng.com/blog/2021/01/clipboard-api.html) 
 - [【阮一峰的网络日志】2021-01-15-科技爱好者周刊（第-142-期）：2020年才是21世纪元年](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html) 
@@ -296,6 +297,16 @@
 - [【互联网架构师】2021-01-01-SpringBoot实战：整合Redis、mybatis，封装RedisUtils工具类等（附源码）](https://www.ershicimi.com/p/fd1a4307202d75fd2ab65de023dcb9f5) 
 - [【互联网架构师】2021-01-01-MyBatis-的-4-个妙用，别再踩坑了！](https://www.ershicimi.com/p/4cbbda75dfe0650a0598b84caf658ff4) 
 - [【互联网架构师】2021-01-01-为什么强烈推荐-Java-程序员使用-Google-Guava-编程！](https://www.ershicimi.com/p/ded22ed5fea51eadecd0e6b377ae6e9b) 
+- [【InfoQ】2021-01-20-Elastic坚决更改开源协议抵制“白嫖”，CEO狂怼AWS行为不端](https://www.ershicimi.com/p/38c759260c8361775f44e4945d7f814c) 
+- [【InfoQ】2021-01-20-像多人实时编辑文档一样编辑图片，钉钉新功能背后的技术解读](https://www.ershicimi.com/p/5c8458369f94ee945a682f7f48c1daaa) 
+- [【InfoQ】2021-01-20-云原生带来的云安全领域变化｜Q推荐](https://www.ershicimi.com/p/3c606b70f990988ce97c55164396b1dd) 
+- [【InfoQ】2021-01-20-没有学位就当不了数据科学家吗？](https://www.ershicimi.com/p/cd8a021777b8d8ef06f100fc5e415ec3) 
+- [【InfoQ】2021-01-20-将一个纯本地应用移植到Web端](https://www.ershicimi.com/p/d2a0d3843721bfb2d0033d46c6b4a0f2) 
+- [【InfoQ】2021-01-19-这是你想要的技术-leader-吗？｜-极客时间](https://www.ershicimi.com/p/ddad88ed921888b5e139ce375d79054d) 
+- [【InfoQ】2021-01-19-Python-太慢了吗？](https://www.ershicimi.com/p/278824f1ef47d1b9c50c4c6c508b7112) 
+- [【InfoQ】2021-01-19-上微前端后，我司的祖传代码有救了](https://www.ershicimi.com/p/7a463d47299b5c140511f7b93461adc9) 
+- [【InfoQ】2021-01-19-聊聊微服务的通信模式](https://www.ershicimi.com/p/efba8652d821d0e6c8a871eb427f552a) 
+- [【InfoQ】2021-01-19-MLOps正在改变机器学习模型的开发方式](https://www.ershicimi.com/p/0b250665bca92bec1e1b682ead2c41b4) 
 - [【InfoQ】2021-01-18-特朗普最后一击：再打华为，8份许可被撤销，150份申请大部分被拒绝](https://www.ershicimi.com/p/3a369a4a4deb4bdd1e89dd7d2b33b261) 
 - [【InfoQ】2021-01-18-不满云厂商“白嫖”，Elasticsearch-和-Kibana更改开源协议](https://www.ershicimi.com/p/a5a25caae72829be4c5bc4770499b639) 
 - [【InfoQ】2021-01-18-从Lambda到无Lambda，领英吸取到的教训](https://www.ershicimi.com/p/a28a4695e83c6c73e7397ff5cee4d690) 
