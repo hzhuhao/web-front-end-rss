@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-21 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -476,6 +476,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2021-01-21-JS-Bridge-通信原理](https://www.ershicimi.com/p/9d8e5891e7848424673d88e953115a41) 
 - [2021-01-15-奇舞周刊第-381-期：2020-年度-JavaScript-现状调查报告](https://www.ershicimi.com/p/5c5ef59b9a94dd3de634313aa6fc6bc8) 
 - [2021-01-11-JavaScript-世界万物诞生记](https://www.ershicimi.com/p/a5cb6ca02c757298f550c9f3aa23291c) 
 - [2021-01-06-可视化拖拽组件库一些技术要点原理分析](https://www.ershicimi.com/p/bd9294fc2739db31cdec59c6100cdee3) 
