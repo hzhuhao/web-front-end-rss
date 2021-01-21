@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -99,6 +99,7 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2021-01-19-深拷贝-浅拷贝](https://www.ershicimi.com/p/15c7654014ef8a7171c7f2e19b4a9e59) 
 - [2021-01-17-11个-Javascript-小技巧帮你提升代码质量](https://www.ershicimi.com/p/09fd671e6a4f65957eda5434113dc906) 
 - [2021-01-16-大前端进击之路二：JavaScript异步编程](https://www.ershicimi.com/p/8f1da5856a11c367157fd26deab9923d) 
 - [2021-01-15-大前端进击之路一：函数式编程](https://www.ershicimi.com/p/474ed810e029d9711ffe2f1960f793d9) 
@@ -516,6 +517,7 @@
 - [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) 
 - [2020-06-20-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/55104bee964d5d850177325ca99218a3) 
 - [2020-02-14-JavaScript-造就年薪超过-10-万美元的开发者们！](https://www.ershicimi.com/p/16c82eb48f89e36a8dd6f4352e974951) 
+- [2021-01-19-数数FastJson那些年犯下的'血案'...](https://www.ershicimi.com/p/478efa9b21e83ec17a7f05e4b0bab5c3) 
 - [2020-12-16-公司这套架构统一处理try...catch这么香，求求你不要再满屏写了，再发现扣绩效！](https://www.ershicimi.com/p/cc4efe822851934c84e0bd833157dcc1) 
 - [2020-09-19-这么多牛逼的Java常用Json库，万万没想到它的性能最好！](https://www.ershicimi.com/p/2143db4de99ac09c766b522045d4bc7d) 
 - [2020-09-15-辣鸡，你怎么天天就会-try...catch-？试试这个](https://www.ershicimi.com/p/67b17e3c659a1ba9ab6fb6dd809b2b2e) 

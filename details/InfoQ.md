@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-01-21 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-01-21-硅谷工程师被特普朗特赦，免去牢狱之灾和2亿美金赔款](https://www.ershicimi.com/p/83e756ad09e2fd8e6ed57d2dce05bbad) 
+- [2021-01-21-混合云趋势已成，云管理成政企智能升级关键能力](https://www.ershicimi.com/p/10e207a1ab071600c46d79348f82c93e) 
+- [2021-01-21-在日新月异的数字世界加速前行：Akamai-Edge-Live峰会精彩全回顾](https://www.ershicimi.com/p/8a3c72e9676339c41e37a1920afb387a) 
+- [2021-01-21-如何解决模板式的冗余代码问题？](https://www.ershicimi.com/p/9575a40e7ba9610af9c460c51818fd2e) 
+- [2021-01-21-国产操作系统UOS一周年：桌面生态已具备Win7替代能力，曾被质疑“套壳”](https://www.ershicimi.com/p/9a4cf128ce8731b9719c73b81703f336) 
 - [2021-01-20-Elastic坚决更改开源协议抵制“白嫖”，CEO狂怼AWS行为不端](https://www.ershicimi.com/p/38c759260c8361775f44e4945d7f814c) 
 - [2021-01-20-像多人实时编辑文档一样编辑图片，钉钉新功能背后的技术解读](https://www.ershicimi.com/p/5c8458369f94ee945a682f7f48c1daaa) 
 - [2021-01-20-云原生带来的云安全领域变化｜Q推荐](https://www.ershicimi.com/p/3c606b70f990988ce97c55164396b1dd) 

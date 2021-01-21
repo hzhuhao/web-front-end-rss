@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-21 22:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-22 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -215,6 +215,7 @@
 - [2019-12-30-4-种数据库缓存最终一致性的优缺点对比？最终选择方案四！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489465&idx=1&sn=2f3a74f8ba7056e973c0657a6492f652&chksm=ea5cdadfdd2b53c9dd49126c962029b4548a0c8a2fc3e96e06de8271b1fa00ccd05e0ded5857&scene=27#wechat_redirect) 
 - [2019-12-29-每个公司都会用的短-URL-服务，怎么设计与实现？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=2&sn=b1b7f944fb39fd1cdfeae2d6b6099dca&chksm=ea5cdad7dd2b53c18db3a7872c7d0e1f40a7c9c1a46356761d8557e8dbdfd2bd0851d12246b0&scene=27#wechat_redirect) 
 - [2019-12-24-去宇宙条面试被问：HashMap-为什么线程不安全？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=3&sn=f0fdc5e0f9b13249bb67020d018238f1&chksm=ea5cdaeddd2b53fbe3f84d4822fcc8f1b83c79e0d979e9c35d58e07a2cd5b7afe7f2425a8bd0&scene=27#wechat_redirect) 
+- [2021-01-21-在日新月异的数字世界加速前行：Akamai-Edge-Live峰会精彩全回顾](https://www.ershicimi.com/p/8a3c72e9676339c41e37a1920afb387a) 
 - [2021-01-20-云原生带来的云安全领域变化｜Q推荐](https://www.ershicimi.com/p/3c606b70f990988ce97c55164396b1dd) 
 - [2021-01-17-Shopify-如何在浏览器之外使用-WebAssembly？](https://www.ershicimi.com/p/62a885bfc97bd5882524a41646853c07) 
 - [2021-01-14-容器安全最佳实践入门](https://www.ershicimi.com/p/f769c10b653233b0dc77fd6206bb4983) 
