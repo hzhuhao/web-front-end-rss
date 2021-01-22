@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-22 12:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-23 06:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -216,6 +216,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-01-22-2021-年-1-月程序员工资新出炉，你猜涨了多少？](https://www.ershicimi.com/p/a6b9c12d51f2986987b406917745d3b0) 
+- [2021-01-22-前端每日一题-#02](https://www.ershicimi.com/p/590f15cd3990f0c911a54f835f327ac5) 
 - [2021-01-21-前端每日一题-#01](https://www.ershicimi.com/p/1502cc6307b3948e669c6a70ad278841) 
 - [2021-01-21-设计灵感：12-款旅行类-App-界面设计](https://www.ershicimi.com/p/bb9bab60710d33d5bd579ab61edac043) 
 - [2021-01-20-《前端中文入门手册》.pdf](https://www.ershicimi.com/p/72585ae7b8a1dda8c3d63cc779f36e20) 
@@ -1387,6 +1389,8 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2021-01-22-离任前，特朗普再"疯狂"一把：将千亿中芯国际彻底"封杀"！更狠的是...](https://www.ershicimi.com/p/5439b997e86befa6c2514c33cc82bc46) 
+- [2021-01-22-39-个奇葩代码注释，看完笑哭了。](https://www.ershicimi.com/p/e3dec2040050556d6b891387554e1826) 
 - [2021-01-21-码写得好就是架构师？你太天真了！](https://www.ershicimi.com/p/aca9a62fc3010cc6bb4ae38834219eee) 
 - [2021-01-21-阿里“拆台”，中台真的不香了？](https://www.ershicimi.com/p/c6a36c2c62d7d34dc02f9ff289904f2c) 
 - [2021-01-21-推荐一款-ES-集群可视化工具：Cerebro，简单、实用！](https://www.ershicimi.com/p/9db372e40a49ab931c7dd73229c85252) 
@@ -1783,6 +1787,10 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2021-01-22-程序员大神JWZ和Linux-Mint干起来了：两个熊孩子引起的“口水”大战](https://www.ershicimi.com/p/cc2b47a1a3f0181749c52d17c7952068) 
+- [2021-01-22-2020中国开源年度报告：中国开源力量崛起，开源世界分裂趋势初现](https://www.ershicimi.com/p/e0af4c87335246dfdbe7267e77da989c) 
+- [2021-01-22-始于TensorFlow-，终于PyTorch](https://www.ershicimi.com/p/2d99b9ff2603f36113b8f7574048e52b) 
+- [2021-01-22-NVIDIA技术大咖亲临！教你30分钟实现基于-Python-的路况多模型推理系统-｜-Q推荐](https://www.ershicimi.com/p/108094ca55d7fb173f9f7a25fc9c1d39) 
 - [2021-01-21-硅谷工程师被特普朗特赦，免去牢狱之灾和2亿美金赔款](https://www.ershicimi.com/p/83e756ad09e2fd8e6ed57d2dce05bbad) 
 - [2021-01-21-混合云趋势已成，云管理成政企智能升级关键能力](https://www.ershicimi.com/p/10e207a1ab071600c46d79348f82c93e) 
 - [2021-01-21-如何解决模板式的冗余代码问题？](https://www.ershicimi.com/p/9575a40e7ba9610af9c460c51818fd2e) 
