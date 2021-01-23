@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-23 06:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-24 06:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -15,6 +15,8 @@
 - [2018-12-13-【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect) 
 - [2020-12-07-一套代码、多端运行，Flutter是如何实现的？](https://www.ershicimi.com/p/092bb0b96ddfd4245d4c2991d19578a6) 
 - [2020-01-08-PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect) 
+- [2021-01-22-飞猪Flutter技术演进及业务改造实践](https://www.ershicimi.com/p/490b7750dcf084e3f1867ec6437797c4) 
+- [2021-01-17-飞猪Flutter技术演进及业务改造的实践与思考-|-InfoQ公开课](https://www.ershicimi.com/p/bc9f2556d525cd16a8ef7317964e9eb5) 
 - [2021-01-11-Flutter-的性能分析、工程架构与细节处理](https://www.ershicimi.com/p/9853a03827d044f44972d09c9e8450f1) 
 - [2021-01-06-滴滴DoKit-For-Flutter正式开源，功能及核心实现解读](https://www.ershicimi.com/p/bc9e685e409839177e94d751afd62e73) 
 - [2020-12-31-如何在Flutter和JavaScript之间创建通信桥](https://www.ershicimi.com/p/afee8aac2c23114983a99f5b8a432781) 
@@ -63,6 +65,7 @@
 - [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) 
 - [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) 
 - [2021-01-02-阿里中台搞了3年，凉了？网传：副总裁玄难“背锅”，辞职创业！咸鱼放弃维护-Flutter!](https://www.ershicimi.com/p/afb12c1dba75c8727465bb608dbe28b9) 
+- [2021-01-23-网易北京一员工核酸检测阳性，全员居家办公；Flutter成功在鸿蒙上运行；蚂蚁否认阿里股权无偿划转浙](https://www.ershicimi.com/p/e6b8893d008db678cf4598179e0ae55f) 
 - [2020-12-31-移动开发者的必备“助手”！AppGallery-Connect的全生命周期“服务之道”-｜-Q推荐](https://www.ershicimi.com/p/8d7bf75ba0c8ea94b1763ebb6a4ce86a) 
 - [2020-12-01-Flutter状态State的5种应对方法](https://www.ershicimi.com/p/015ab102f706bf0ed1f9f4546e4160fc) 
 - [2020-09-29-Flutter-完成全平台制霸：实现-Windows-应用支持](https://www.ershicimi.com/p/f29cf83e4d8ef0441df5077c6e07f74c) 
