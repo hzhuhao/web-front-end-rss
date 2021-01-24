@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-24 22:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-25 06:00:21，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -24,10 +24,10 @@
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -318,7 +318,7 @@
 </summary>
 
 
-- [2021-01-22-奇舞周刊第-382-期：ECMAScript-2021-新特征](https://www.ershicimi.com/p/b95d61e0d0bf6a67ddb034ca108c53bf) ![](assets/new.png)  
+- [2021-01-22-奇舞周刊第-382-期：ECMAScript-2021-新特征](https://www.ershicimi.com/p/b95d61e0d0bf6a67ddb034ca108c53bf)  
 - [2021-01-21-JS-Bridge-通信原理](https://www.ershicimi.com/p/9d8e5891e7848424673d88e953115a41)  
 - [2021-01-21-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/af49d90fa8ce132963460db51ef431ca)  
 - [2021-01-21-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/c0753cfcce0e47c7133d56f99b5b44cb)  
@@ -411,6 +411,9 @@
 </summary>
 
 
+- [2021-01-24-这可能是国内最权威的编程语言排行榜](https://www.ershicimi.com/p/0701bceae88f55097df1ced7b829e4c7) ![](assets/new.png)  
+- [2021-01-24-2021-年值得-CTO-期待的十大-Web-开发趋势](https://www.ershicimi.com/p/9b613dd9b47b45584ac62ae05a6b990b) ![](assets/new.png)  
+- [2021-01-24-开发运维视角下，影响软件高可扩展性的6个因素](https://www.ershicimi.com/p/1152a831f5b8f0d5cbd3ac5ef81e0686) ![](assets/new.png)  
 - [2021-01-23-网易北京一员工核酸检测阳性，全员居家办公；Flutter成功在鸿蒙上运行；蚂蚁否认阿里股权无偿划转浙](https://www.ershicimi.com/p/e6b8893d008db678cf4598179e0ae55f)  
 - [2021-01-23-在应用开发中，我为什么选择-Flutter-而不是-React-Native-？](https://www.ershicimi.com/p/0c724ee312996c3c9bc4549d4a226eeb)  
 - [2021-01-23-API-开发者永不“REST”](https://www.ershicimi.com/p/e2adf48f25f098cf72c16ff293ae3002)  
@@ -428,9 +431,6 @@
 - [2021-01-20-像多人实时编辑文档一样编辑图片，钉钉新功能背后的技术解读](https://www.ershicimi.com/p/5c8458369f94ee945a682f7f48c1daaa)  
 - [2021-01-20-云原生带来的云安全领域变化｜Q推荐](https://www.ershicimi.com/p/3c606b70f990988ce97c55164396b1dd)  
 - [2021-01-20-没有学位就当不了数据科学家吗？](https://www.ershicimi.com/p/cd8a021777b8d8ef06f100fc5e415ec3)  
-- [2021-01-20-将一个纯本地应用移植到Web端](https://www.ershicimi.com/p/d2a0d3843721bfb2d0033d46c6b4a0f2)  
-- [2021-01-19-这是你想要的技术-leader-吗？｜-极客时间](https://www.ershicimi.com/p/ddad88ed921888b5e139ce375d79054d)  
-- [2021-01-19-Python-太慢了吗？](https://www.ershicimi.com/p/278824f1ef47d1b9c50c4c6c508b7112)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

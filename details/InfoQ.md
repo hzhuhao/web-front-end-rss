@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-01-24 06:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-25 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-01-24-这可能是国内最权威的编程语言排行榜](https://www.ershicimi.com/p/0701bceae88f55097df1ced7b829e4c7) 
+- [2021-01-24-2021-年值得-CTO-期待的十大-Web-开发趋势](https://www.ershicimi.com/p/9b613dd9b47b45584ac62ae05a6b990b) 
+- [2021-01-24-开发运维视角下，影响软件高可扩展性的6个因素](https://www.ershicimi.com/p/1152a831f5b8f0d5cbd3ac5ef81e0686) 
 - [2021-01-23-网易北京一员工核酸检测阳性，全员居家办公；Flutter成功在鸿蒙上运行；蚂蚁否认阿里股权无偿划转浙](https://www.ershicimi.com/p/e6b8893d008db678cf4598179e0ae55f) 
 - [2021-01-23-在应用开发中，我为什么选择-Flutter-而不是-React-Native-？](https://www.ershicimi.com/p/0c724ee312996c3c9bc4549d4a226eeb) 
 - [2021-01-23-API-开发者永不“REST”](https://www.ershicimi.com/p/e2adf48f25f098cf72c16ff293ae3002) 
