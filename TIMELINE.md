@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-24 06:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-24 22:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -244,6 +244,7 @@
 - [【Aotu-|-凹凸实验室】2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/) 
 - [【Aotu-|-凹凸实验室】2021-01-07-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/) 
 - [【Aotu-|-凹凸实验室】2021-01-06-凹凸技术揭秘-·-夸克设计资产-·-打造全矩阵优质物料](https://aotu.io/notes/2021/01/06/quark-design-asset/) 
+- [【奇舞周刊】2021-01-22-奇舞周刊第-382-期：ECMAScript-2021-新特征](https://www.ershicimi.com/p/b95d61e0d0bf6a67ddb034ca108c53bf) 
 - [【奇舞周刊】2021-01-21-JS-Bridge-通信原理](https://www.ershicimi.com/p/9d8e5891e7848424673d88e953115a41) 
 - [【奇舞周刊】2021-01-21-奇舞团--招高级iOS开发工程师](https://www.ershicimi.com/p/af49d90fa8ce132963460db51ef431ca) 
 - [【奇舞周刊】2021-01-21-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/c0753cfcce0e47c7133d56f99b5b44cb) 
