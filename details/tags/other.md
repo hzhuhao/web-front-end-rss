@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-25 08:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-25 12:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1396,6 +1396,10 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2021-01-24-再见-Win10！下一代操作系统要来了！](https://www.ershicimi.com/p/61a4e69a89f8ecd769cf3b978345c555) 
+- [2021-01-24-CTO-说了，如果发现谁用-kill--9-关闭程序就开除](https://www.ershicimi.com/p/abecd45b644a613aed5e0fa1cd587a19) 
+- [2021-01-24-链家程序员怒删-9TB-数据，被判-7-年！](https://www.ershicimi.com/p/7d32a8b3172b1df0ba05176e4730d448) 
+- [2021-01-23-程序员之间的鄙视链，太真实了！](https://www.ershicimi.com/p/8417bd4f8e136358613a9890345ec6cb) 
 - [2021-01-22-离任前，特朗普再"疯狂"一把：将千亿中芯国际彻底"封杀"！更狠的是...](https://www.ershicimi.com/p/5439b997e86befa6c2514c33cc82bc46) 
 - [2021-01-22-39-个奇葩代码注释，看完笑哭了。](https://www.ershicimi.com/p/e3dec2040050556d6b891387554e1826) 
 - [2021-01-21-码写得好就是架构师？你太天真了！](https://www.ershicimi.com/p/aca9a62fc3010cc6bb4ae38834219eee) 

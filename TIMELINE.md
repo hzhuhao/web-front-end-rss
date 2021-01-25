@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-25 08:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-25 12:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -293,6 +293,11 @@
 - [【前端日刊】2021-01-11-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/fa27bfb41b2cd95468c33a411b83ba33) 
 - [【前端日刊】2021-01-07-前端从入门到高薪中文指南](https://www.ershicimi.com/p/b2c4ef3e818e761432bc293ed7698d2a) 
 - [【前端日刊】2021-01-05-宁愿不要年终奖，也要在年前跳槽？这是为了啥！](https://www.ershicimi.com/p/22329802f0b160695835a43352f62f54) 
+- [【互联网架构师】2021-01-24-再见-Win10！下一代操作系统要来了！](https://www.ershicimi.com/p/61a4e69a89f8ecd769cf3b978345c555) 
+- [【互联网架构师】2021-01-24-CTO-说了，如果发现谁用-kill--9-关闭程序就开除](https://www.ershicimi.com/p/abecd45b644a613aed5e0fa1cd587a19) 
+- [【互联网架构师】2021-01-24-链家程序员怒删-9TB-数据，被判-7-年！](https://www.ershicimi.com/p/7d32a8b3172b1df0ba05176e4730d448) 
+- [【互联网架构师】2021-01-23-并发重复请求，这才是优雅的处理方式！](https://www.ershicimi.com/p/a2cedd6a265ba3537fcf6c62d7570611) 
+- [【互联网架构师】2021-01-23-程序员之间的鄙视链，太真实了！](https://www.ershicimi.com/p/8417bd4f8e136358613a9890345ec6cb) 
 - [【互联网架构师】2021-01-22-最深刻最通俗的HTTPS-原理详解，图文并茂](https://www.ershicimi.com/p/ee10efebe3425ac9864822e54e827697) 
 - [【互联网架构师】2021-01-22-离任前，特朗普再"疯狂"一把：将千亿中芯国际彻底"封杀"！更狠的是...](https://www.ershicimi.com/p/5439b997e86befa6c2514c33cc82bc46) 
 - [【互联网架构师】2021-01-22-39-个奇葩代码注释，看完笑哭了。](https://www.ershicimi.com/p/e3dec2040050556d6b891387554e1826) 
