@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-25 12:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-27 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -484,6 +484,8 @@
 - [2018-09-28-2018年超火的Web教程，看完弄懂，工资少说加5K](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555016&idx=1&sn=1acc36efc13c05021afba19dcbe1a1df#wechat_redirect) 
 - [2018-09-23-前端小知识——地图坐标转换](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=2&sn=1cd144eee0cd788451f5e4c6abe5cde4#wechat_redirect) 
 - [2018-09-22-前端小团队建设](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=1&sn=bcb9114482b427a6b34a13420ee2c04e#wechat_redirect) 
+- [2021-01-25-每个程序员都应该尝试的项目](https://www.ershicimi.com/p/1fc0b2c54c0f99cd7544f816af102565) 
+- [2021-01-24-“熊孩子”乱敲键盘攻破Linux桌面；Win10漏洞：访问特定本地设备会使系统崩溃；Objectiv](https://www.ershicimi.com/p/8930082573eb1a00dc10ce48e9d8b8c0) 
 - [2021-01-20-不在-BAT，如何才有大厂程序员的眼界？-|-活动推荐](https://www.ershicimi.com/p/5f880004373a8c8d3acd0178e25f0c0f) 
 - [2021-01-18-将一个纯本地应用移植到-Web-端](https://www.ershicimi.com/p/d67acc2b929e77485a9c915227ef8424) 
 - [2021-01-17-前端周报：伪造虚假健康码-App-作者被抓；停用-Flash-致铁路瘫痪？大连车务段回应；开发者开源](https://www.ershicimi.com/p/984fff1f15a3bc7083cb906050237418) 
@@ -1798,6 +1800,11 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2021-01-26-15年资深华为人讲述企业创新方法论：价值创造、战略定力、价值分配](https://www.ershicimi.com/p/c086cfdb5563e2d02259a53273d5837e) 
+- [2021-01-26-每个程序员都应该尝试的项目](https://www.ershicimi.com/p/328fd8cf0c33d06772d55abd35834b21) 
+- [2021-01-25-女友的一个建议，让26岁程序员做了个价值10亿美元的App](https://www.ershicimi.com/p/028dceee840558823a0f5e5dd92d2e28) 
+- [2021-01-25-规避云服务宕机的架构设计方法](https://www.ershicimi.com/p/09474f7a48601911ba37f8e70900349d) 
+- [2021-01-25-MongoDB-最常见的-10-个错误说法](https://www.ershicimi.com/p/836018b7c3da117c7a9b1e22cf91b7f3) 
 - [2021-01-24-这可能是国内最权威的编程语言排行榜](https://www.ershicimi.com/p/0701bceae88f55097df1ced7b829e4c7) 
 - [2021-01-24-2021-年值得-CTO-期待的十大-Web-开发趋势](https://www.ershicimi.com/p/9b613dd9b47b45584ac62ae05a6b990b) 
 - [2021-01-24-开发运维视角下，影响软件高可扩展性的6个因素](https://www.ershicimi.com/p/1152a831f5b8f0d5cbd3ac5ef81e0686) 

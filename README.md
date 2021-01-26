@@ -11,23 +11,23 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-25 12:00:22，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-27 06:00:21，:rocket: 更新条数: +13， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
-- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
+- [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)![](assets/dot.png)   
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [互联网架构师](#互联网架构师)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -101,6 +101,10 @@
 </summary>
 
 
+- [2021-01-25-JS框架性能对比：Soild-高居榜首，Vue、React-和-Angular-竟纷纷跌出前十](https://www.ershicimi.com/p/6f6ee81610578200a4edbee69d2ca53e) ![](assets/new.png)  
+- [2021-01-25-每个程序员都应该尝试的项目](https://www.ershicimi.com/p/1fc0b2c54c0f99cd7544f816af102565) ![](assets/new.png)  
+- [2021-01-25-日常使用Git，这些问题你遇到过吗？|-活动推荐](https://www.ershicimi.com/p/9142801871399e4e1d00288938ab6201) ![](assets/new.png)  
+- [2021-01-24-“熊孩子”乱敲键盘攻破Linux桌面；Win10漏洞：访问特定本地设备会使系统崩溃；Objectiv](https://www.ershicimi.com/p/8930082573eb1a00dc10ce48e9d8b8c0) ![](assets/new.png)  
 - [2021-01-22-飞猪Flutter技术演进及业务改造实践](https://www.ershicimi.com/p/490b7750dcf084e3f1867ec6437797c4)  
 - [2021-01-22-程序员必备的10大GitHub仓库](https://www.ershicimi.com/p/4527c2aca097748967284fd029ed8607)  
 - [2021-01-22-云原生带来的云安全领域变化-|-活动推荐](https://www.ershicimi.com/p/2bf7f7494361b6638ae82b2a31ef67a3)  
@@ -117,10 +121,6 @@
 - [2021-01-15-为什么我不再用-Vue-，改用-React-？-|-活动推荐](https://www.ershicimi.com/p/5f7cac50196f653765abece70750ede8)  
 - [2021-01-13-2021-年-JS-框架预测和-IT-领域技术趋势](https://www.ershicimi.com/p/f9ca799eb17113c22f4f22df4177f45c)  
 - [2021-01-13-高中生成功将-Linux-移植到-iPhone-上，并贴出详细指南](https://www.ershicimi.com/p/1bfef780c2ef94aff468d82bd74b3d4a)  
-- [2021-01-13-大厂面试中那些无中生有的事-|-活动推荐](https://www.ershicimi.com/p/9ebe3a08763ceea6e19535548e24bd20)  
-- [2021-01-11-Flutter-的性能分析、工程架构与细节处理](https://www.ershicimi.com/p/9853a03827d044f44972d09c9e8450f1)  
-- [2021-01-11-大型-web-前端架构设计-面向抽象编程入门](https://www.ershicimi.com/p/7634b3a8194b29cfb5ec9e841bef7551)  
-- [2021-01-11-搞这么多年前端，我竟然不懂-JavaScript？-|-活动推荐](https://www.ershicimi.com/p/1cc079efeafb7358827dc65c38bff401)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -163,6 +163,7 @@
 </summary>
 
 
+- [2021-01-27-一行CSS实现全站中文简繁转换](https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/) ![](assets/new.png)  
 - [2021-01-21-巧用DOM-API实现HTML字符的转义和反转义](https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/)  
 - [2021-01-04-告别JS-keyCode](https://www.zhangxinxu.com/wordpress/2021/01/js-keycode-deprecated/)  
 - [2020-12-25-几个常见功能重合DOM-API的细节差异](https://www.zhangxinxu.com/wordpress/2020/12/dom-api-diff/)  
@@ -182,7 +183,6 @@
 - [2020-10-11-快速学习CSS-Color-Level-4的色值新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-color-level-4/)  
 - [2020-10-11-巧借CSS-var变量实现任意的CSS自定义语法](https://www.zhangxinxu.com/wordpress/2020/10/css-var-custom-any-function-polyfill/)  
 - [2020-10-10-Polyfill吊炸天的CSS-attr新语法](https://www.zhangxinxu.com/wordpress/2020/10/css-attr-polyfill/)  
-- [2020-10-06-flex:0-flex:1-flex:none-flex:auto应该在什么场景下使用？](https://www.zhangxinxu.com/wordpress/2020/10/css-flex-0-1-none/)  
 - [......【查看更多】......](./details/张鑫旭-鑫空间-鑫生活.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,11 +380,11 @@
 </summary>
 
 
-- [2021-01-24-再见-Win10！下一代操作系统要来了！](https://www.ershicimi.com/p/61a4e69a89f8ecd769cf3b978345c555) ![](assets/new.png)  
-- [2021-01-24-CTO-说了，如果发现谁用-kill--9-关闭程序就开除](https://www.ershicimi.com/p/abecd45b644a613aed5e0fa1cd587a19) ![](assets/new.png)  
-- [2021-01-24-链家程序员怒删-9TB-数据，被判-7-年！](https://www.ershicimi.com/p/7d32a8b3172b1df0ba05176e4730d448) ![](assets/new.png)  
-- [2021-01-23-并发重复请求，这才是优雅的处理方式！](https://www.ershicimi.com/p/a2cedd6a265ba3537fcf6c62d7570611) ![](assets/new.png)  
-- [2021-01-23-程序员之间的鄙视链，太真实了！](https://www.ershicimi.com/p/8417bd4f8e136358613a9890345ec6cb) ![](assets/new.png)  
+- [2021-01-24-再见-Win10！下一代操作系统要来了！](https://www.ershicimi.com/p/61a4e69a89f8ecd769cf3b978345c555)  
+- [2021-01-24-CTO-说了，如果发现谁用-kill--9-关闭程序就开除](https://www.ershicimi.com/p/abecd45b644a613aed5e0fa1cd587a19)  
+- [2021-01-24-链家程序员怒删-9TB-数据，被判-7-年！](https://www.ershicimi.com/p/7d32a8b3172b1df0ba05176e4730d448)  
+- [2021-01-23-并发重复请求，这才是优雅的处理方式！](https://www.ershicimi.com/p/a2cedd6a265ba3537fcf6c62d7570611)  
+- [2021-01-23-程序员之间的鄙视链，太真实了！](https://www.ershicimi.com/p/8417bd4f8e136358613a9890345ec6cb)  
 - [2021-01-22-最深刻最通俗的HTTPS-原理详解，图文并茂](https://www.ershicimi.com/p/ee10efebe3425ac9864822e54e827697)  
 - [2021-01-22-离任前，特朗普再"疯狂"一把：将千亿中芯国际彻底"封杀"！更狠的是...](https://www.ershicimi.com/p/5439b997e86befa6c2514c33cc82bc46)  
 - [2021-01-22-39-个奇葩代码注释，看完笑哭了。](https://www.ershicimi.com/p/e3dec2040050556d6b891387554e1826)  
@@ -411,6 +411,14 @@
 </summary>
 
 
+- [2021-01-26-15年资深华为人讲述企业创新方法论：价值创造、战略定力、价值分配](https://www.ershicimi.com/p/c086cfdb5563e2d02259a53273d5837e) ![](assets/new.png)  
+- [2021-01-26-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/561dbe7c196a6e251c4fe7f306ae2e93) ![](assets/new.png)  
+- [2021-01-26-Netflix-联邦-GraphQL-平台的实现过程及经验教训](https://www.ershicimi.com/p/0f4ac5092485f0087f13009c6f6b8a45) ![](assets/new.png)  
+- [2021-01-26-每个程序员都应该尝试的项目](https://www.ershicimi.com/p/328fd8cf0c33d06772d55abd35834b21) ![](assets/new.png)  
+- [2021-01-25-女友的一个建议，让26岁程序员做了个价值10亿美元的App](https://www.ershicimi.com/p/028dceee840558823a0f5e5dd92d2e28) ![](assets/new.png)  
+- [2021-01-25-规避云服务宕机的架构设计方法](https://www.ershicimi.com/p/09474f7a48601911ba37f8e70900349d) ![](assets/new.png)  
+- [2021-01-25-Postman-如何处理庞大难以管理的网关服务](https://www.ershicimi.com/p/fe0bafb534dc83b2df4a75e7f2196eb2) ![](assets/new.png)  
+- [2021-01-25-MongoDB-最常见的-10-个错误说法](https://www.ershicimi.com/p/836018b7c3da117c7a9b1e22cf91b7f3) ![](assets/new.png)  
 - [2021-01-24-这可能是国内最权威的编程语言排行榜](https://www.ershicimi.com/p/0701bceae88f55097df1ced7b829e4c7)  
 - [2021-01-24-2021-年值得-CTO-期待的十大-Web-开发趋势](https://www.ershicimi.com/p/9b613dd9b47b45584ac62ae05a6b990b)  
 - [2021-01-24-开发运维视角下，影响软件高可扩展性的6个因素](https://www.ershicimi.com/p/1152a831f5b8f0d5cbd3ac5ef81e0686)  
@@ -423,14 +431,6 @@
 - [2021-01-22-NVIDIA技术大咖亲临！教你30分钟实现基于-Python-的路况多模型推理系统-｜-Q推荐](https://www.ershicimi.com/p/108094ca55d7fb173f9f7a25fc9c1d39)  
 - [2021-01-22-5种常见的Docker-Compose错误](https://www.ershicimi.com/p/c84344a8ca35f845f340e852af2b7d83)  
 - [2021-01-21-硅谷工程师被特普朗特赦，免去牢狱之灾和2亿美金赔款](https://www.ershicimi.com/p/83e756ad09e2fd8e6ed57d2dce05bbad)  
-- [2021-01-21-混合云趋势已成，云管理成政企智能升级关键能力](https://www.ershicimi.com/p/10e207a1ab071600c46d79348f82c93e)  
-- [2021-01-21-在日新月异的数字世界加速前行：Akamai-Edge-Live峰会精彩全回顾](https://www.ershicimi.com/p/8a3c72e9676339c41e37a1920afb387a)  
-- [2021-01-21-如何解决模板式的冗余代码问题？](https://www.ershicimi.com/p/9575a40e7ba9610af9c460c51818fd2e)  
-- [2021-01-21-国产操作系统UOS一周年：桌面生态已具备Win7替代能力，曾被质疑“套壳”](https://www.ershicimi.com/p/9a4cf128ce8731b9719c73b81703f336)  
-- [2021-01-20-Elastic坚决更改开源协议抵制“白嫖”，CEO狂怼AWS行为不端](https://www.ershicimi.com/p/38c759260c8361775f44e4945d7f814c)  
-- [2021-01-20-像多人实时编辑文档一样编辑图片，钉钉新功能背后的技术解读](https://www.ershicimi.com/p/5c8458369f94ee945a682f7f48c1daaa)  
-- [2021-01-20-云原生带来的云安全领域变化｜Q推荐](https://www.ershicimi.com/p/3c606b70f990988ce97c55164396b1dd)  
-- [2021-01-20-没有学位就当不了数据科学家吗？](https://www.ershicimi.com/p/cd8a021777b8d8ef06f100fc5e415ec3)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

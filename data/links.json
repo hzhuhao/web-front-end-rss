@@ -9059,6 +9059,26 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "JS框架性能对比：Soild 高居榜首，Vue、React 和 Angular 竟纷纷跌出前十",
+        "link": "https://www.ershicimi.com/p/6f6ee81610578200a4edbee69d2ca53e",
+        "date": "2021-01-25"
+      },
+      {
+        "title": "每个程序员都应该尝试的项目",
+        "link": "https://www.ershicimi.com/p/1fc0b2c54c0f99cd7544f816af102565",
+        "date": "2021-01-25"
+      },
+      {
+        "title": "日常使用Git，这些问题你遇到过吗？| 活动推荐",
+        "link": "https://www.ershicimi.com/p/9142801871399e4e1d00288938ab6201",
+        "date": "2021-01-25"
+      },
+      {
+        "title": "“熊孩子”乱敲键盘攻破Linux桌面；Win10漏洞：访问特定本地设备会使系统崩溃；Objectiv",
+        "link": "https://www.ershicimi.com/p/8930082573eb1a00dc10ce48e9d8b8c0",
+        "date": "2021-01-24"
+      },
+      {
         "title": "飞猪Flutter技术演进及业务改造实践",
         "link": "https://www.ershicimi.com/p/490b7750dcf084e3f1867ec6437797c4",
         "date": "2021-01-22"
@@ -13987,6 +14007,11 @@
     "title": "张鑫旭-鑫空间-鑫生活",
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
+      {
+        "title": "一行CSS实现全站中文简繁转换",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/01/css-simplified-traditional-chinese/",
+        "date": "2021-01-27"
+      },
       {
         "title": "巧用DOM API实现HTML字符的转义和反转义",
         "link": "https://www.zhangxinxu.com/wordpress/2021/01/dom-api-html-encode-decode/",
@@ -22433,6 +22458,46 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "15年资深华为人讲述企业创新方法论：价值创造、战略定力、价值分配",
+        "link": "https://www.ershicimi.com/p/c086cfdb5563e2d02259a53273d5837e",
+        "date": "2021-01-26"
+      },
+      {
+        "title": "2020 年的 JavaScript 后起之秀",
+        "link": "https://www.ershicimi.com/p/561dbe7c196a6e251c4fe7f306ae2e93",
+        "date": "2021-01-26"
+      },
+      {
+        "title": "Netflix 联邦 GraphQL 平台的实现过程及经验教训",
+        "link": "https://www.ershicimi.com/p/0f4ac5092485f0087f13009c6f6b8a45",
+        "date": "2021-01-26"
+      },
+      {
+        "title": "每个程序员都应该尝试的项目",
+        "link": "https://www.ershicimi.com/p/328fd8cf0c33d06772d55abd35834b21",
+        "date": "2021-01-26"
+      },
+      {
+        "title": "女友的一个建议，让26岁程序员做了个价值10亿美元的App",
+        "link": "https://www.ershicimi.com/p/028dceee840558823a0f5e5dd92d2e28",
+        "date": "2021-01-25"
+      },
+      {
+        "title": "规避云服务宕机的架构设计方法",
+        "link": "https://www.ershicimi.com/p/09474f7a48601911ba37f8e70900349d",
+        "date": "2021-01-25"
+      },
+      {
+        "title": "Postman 如何处理庞大难以管理的网关服务",
+        "link": "https://www.ershicimi.com/p/fe0bafb534dc83b2df4a75e7f2196eb2",
+        "date": "2021-01-25"
+      },
+      {
+        "title": "MongoDB 最常见的 10 个错误说法",
+        "link": "https://www.ershicimi.com/p/836018b7c3da117c7a9b1e22cf91b7f3",
+        "date": "2021-01-25"
+      },
       {
         "title": "这可能是国内最权威的编程语言排行榜",
         "link": "https://www.ershicimi.com/p/0701bceae88f55097df1ced7b829e4c7",
