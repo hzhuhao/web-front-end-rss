@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-27 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-28 12:00:22，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,13 +20,13 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2021-01-27-异或运算-XOR-教程](http://www.ruanyifeng.com/blog/2021/01/_xor.html) ![](assets/new.png)  
+- [2021-01-27-异或运算-XOR-教程](http://www.ruanyifeng.com/blog/2021/01/_xor.html)  
 - [2021-01-22-科技爱好者周刊（第-143-期）：世界尽头与冷酷仙境](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-143.html)  
 - [2021-01-20-剪贴板操作-Clipboard-API-教程](http://www.ruanyifeng.com/blog/2021/01/clipboard-api.html)  
 - [2021-01-15-科技爱好者周刊（第-142-期）：2020年才是21世纪元年](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-142.html)  
@@ -380,6 +380,15 @@
 </summary>
 
 
+- [2021-01-27-女友的一个建议，让26岁程序员做了个价值-10-亿美元的-App](https://www.ershicimi.com/p/f96333482b9bbb284dad98aca34bd700) ![](assets/new.png)  
+- [2021-01-27-NullPointerException-的处理新方式，Java14-真的太香了！](https://www.ershicimi.com/p/fda75a2ba7a28c4129e693a5e9b6125e) ![](assets/new.png)  
+- [2021-01-27-你还在用HTTP吗？HTTP/3都来了。。。](https://www.ershicimi.com/p/c74af2403a9f81f1c832835995b78d46) ![](assets/new.png)  
+- [2021-01-26-Flink技术到底是什么？Flink原理及深度解析](https://www.ershicimi.com/p/24777ea7032ff2c1eb96d1e65f75e216) ![](assets/new.png)  
+- [2021-01-26-Spring-Boot-2.x-把-Guava-干掉了，拥抱本地缓存之王-Caffeine！](https://www.ershicimi.com/p/fc3dd814376a55a55fdecfeed0b09b7f) ![](assets/new.png)  
+- [2021-01-26-为什么不建议把数据库部署在Docker容器内](https://www.ershicimi.com/p/c5657e89d6d6950c5524c3e289cae617) ![](assets/new.png)  
+- [2021-01-25-扎心！程序员的崩溃，是从“你薪资比我高”开始的…](https://www.ershicimi.com/p/ed3aa5e9ce3356be30fe100459a8e76d) ![](assets/new.png)  
+- [2021-01-25-骚操作-！IDEA-防止写代码沉迷插件-!](https://www.ershicimi.com/p/327be14a135fd2b7f7c5b5b9953958a1) ![](assets/new.png)  
+- [2021-01-25-网易开源的高性能、高可用、高可靠分布式存储系统！](https://www.ershicimi.com/p/408482c3c8f03ace47c64b2cb6e08d75) ![](assets/new.png)  
 - [2021-01-24-再见-Win10！下一代操作系统要来了！](https://www.ershicimi.com/p/61a4e69a89f8ecd769cf3b978345c555)  
 - [2021-01-24-CTO-说了，如果发现谁用-kill--9-关闭程序就开除](https://www.ershicimi.com/p/abecd45b644a613aed5e0fa1cd587a19)  
 - [2021-01-24-链家程序员怒删-9TB-数据，被判-7-年！](https://www.ershicimi.com/p/7d32a8b3172b1df0ba05176e4730d448)  
@@ -391,15 +400,6 @@
 - [2021-01-21-码写得好就是架构师？你太天真了！](https://www.ershicimi.com/p/aca9a62fc3010cc6bb4ae38834219eee)  
 - [2021-01-21-阿里“拆台”，中台真的不香了？](https://www.ershicimi.com/p/c6a36c2c62d7d34dc02f9ff289904f2c)  
 - [2021-01-21-推荐一款-ES-集群可视化工具：Cerebro，简单、实用！](https://www.ershicimi.com/p/9db372e40a49ab931c7dd73229c85252)  
-- [2021-01-20-厉害！某生鲜电商平台竟然是这样设计监控模块的（已开源）~](https://www.ershicimi.com/p/08ee96747419c66261c2f535b31f8041)  
-- [2021-01-20-知乎面试官：为什么不建议在-MySQL-中使用-UTF-8？](https://www.ershicimi.com/p/39aaedc1e88f0fdd8432a185332e9684)  
-- [2021-01-20-裸辞1天-vs-裸辞10天-vs-裸辞一个月](https://www.ershicimi.com/p/35bac7af91693f337a300eb7e5dfe5f9)  
-- [2021-01-19-痛心！最近两家互联网公司同时传出员工猝死，发生了什么？网友：996福报何时是个头？](https://www.ershicimi.com/p/4cac8e51b759b2e3ecf15b3755616673)  
-- [2021-01-19-4-大软件架构，你们公司用哪种？](https://www.ershicimi.com/p/36f0808bc5f04e3b261dc9f933e6345f)  
-- [2021-01-19-数数FastJson那些年犯下的'血案'...](https://www.ershicimi.com/p/478efa9b21e83ec17a7f05e4b0bab5c3)  
-- [2021-01-18-IDEA-上位？不！Eclipse-Theia-1.0-发布！](https://www.ershicimi.com/p/d7871c5cc080de9bffed6aa8ecd842fb)  
-- [2021-01-18-阿里开源新一代单元测试-Mock-工具！](https://www.ershicimi.com/p/3c6868354a4f1f502b8c28e64cb892ce)  
-- [2021-01-18-Spring-双层事务，我抛出的异常去哪了？](https://www.ershicimi.com/p/10949d8001c23e158297e01a7f1d13b1)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

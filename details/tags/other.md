@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-28 12:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1404,6 +1404,11 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2021-01-27-女友的一个建议，让26岁程序员做了个价值-10-亿美元的-App](https://www.ershicimi.com/p/f96333482b9bbb284dad98aca34bd700) 
+- [2021-01-27-NullPointerException-的处理新方式，Java14-真的太香了！](https://www.ershicimi.com/p/fda75a2ba7a28c4129e693a5e9b6125e) 
+- [2021-01-26-Flink技术到底是什么？Flink原理及深度解析](https://www.ershicimi.com/p/24777ea7032ff2c1eb96d1e65f75e216) 
+- [2021-01-25-扎心！程序员的崩溃，是从“你薪资比我高”开始的…](https://www.ershicimi.com/p/ed3aa5e9ce3356be30fe100459a8e76d) 
+- [2021-01-25-骚操作-！IDEA-防止写代码沉迷插件-!](https://www.ershicimi.com/p/327be14a135fd2b7f7c5b5b9953958a1) 
 - [2021-01-24-再见-Win10！下一代操作系统要来了！](https://www.ershicimi.com/p/61a4e69a89f8ecd769cf3b978345c555) 
 - [2021-01-24-CTO-说了，如果发现谁用-kill--9-关闭程序就开除](https://www.ershicimi.com/p/abecd45b644a613aed5e0fa1cd587a19) 
 - [2021-01-24-链家程序员怒删-9TB-数据，被判-7-年！](https://www.ershicimi.com/p/7d32a8b3172b1df0ba05176e4730d448) 

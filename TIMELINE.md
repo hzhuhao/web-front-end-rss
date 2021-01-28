@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-27 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-01-28 12:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -306,6 +306,15 @@
 - [【前端日刊】2021-01-11-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/fa27bfb41b2cd95468c33a411b83ba33) 
 - [【前端日刊】2021-01-07-前端从入门到高薪中文指南](https://www.ershicimi.com/p/b2c4ef3e818e761432bc293ed7698d2a) 
 - [【前端日刊】2021-01-05-宁愿不要年终奖，也要在年前跳槽？这是为了啥！](https://www.ershicimi.com/p/22329802f0b160695835a43352f62f54) 
+- [【互联网架构师】2021-01-27-女友的一个建议，让26岁程序员做了个价值-10-亿美元的-App](https://www.ershicimi.com/p/f96333482b9bbb284dad98aca34bd700) 
+- [【互联网架构师】2021-01-27-NullPointerException-的处理新方式，Java14-真的太香了！](https://www.ershicimi.com/p/fda75a2ba7a28c4129e693a5e9b6125e) 
+- [【互联网架构师】2021-01-27-你还在用HTTP吗？HTTP/3都来了。。。](https://www.ershicimi.com/p/c74af2403a9f81f1c832835995b78d46) 
+- [【互联网架构师】2021-01-26-Flink技术到底是什么？Flink原理及深度解析](https://www.ershicimi.com/p/24777ea7032ff2c1eb96d1e65f75e216) 
+- [【互联网架构师】2021-01-26-Spring-Boot-2.x-把-Guava-干掉了，拥抱本地缓存之王-Caffeine！](https://www.ershicimi.com/p/fc3dd814376a55a55fdecfeed0b09b7f) 
+- [【互联网架构师】2021-01-26-为什么不建议把数据库部署在Docker容器内](https://www.ershicimi.com/p/c5657e89d6d6950c5524c3e289cae617) 
+- [【互联网架构师】2021-01-25-扎心！程序员的崩溃，是从“你薪资比我高”开始的…](https://www.ershicimi.com/p/ed3aa5e9ce3356be30fe100459a8e76d) 
+- [【互联网架构师】2021-01-25-骚操作-！IDEA-防止写代码沉迷插件-!](https://www.ershicimi.com/p/327be14a135fd2b7f7c5b5b9953958a1) 
+- [【互联网架构师】2021-01-25-网易开源的高性能、高可用、高可靠分布式存储系统！](https://www.ershicimi.com/p/408482c3c8f03ace47c64b2cb6e08d75) 
 - [【互联网架构师】2021-01-24-再见-Win10！下一代操作系统要来了！](https://www.ershicimi.com/p/61a4e69a89f8ecd769cf3b978345c555) 
 - [【互联网架构师】2021-01-24-CTO-说了，如果发现谁用-kill--9-关闭程序就开除](https://www.ershicimi.com/p/abecd45b644a613aed5e0fa1cd587a19) 
 - [【互联网架构师】2021-01-24-链家程序员怒删-9TB-数据，被判-7-年！](https://www.ershicimi.com/p/7d32a8b3172b1df0ba05176e4730d448) 
