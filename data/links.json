@@ -14835,6 +14835,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 144 期）：提高收入的根本途径",
+        "link": "http://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html",
+        "date": "2021-01-29"
+      },
+      {
         "title": "异或运算 XOR 教程",
         "link": "http://www.ruanyifeng.com/blog/2021/01/_xor.html",
         "date": "2021-01-27"
@@ -19851,6 +19856,21 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "蚂蚁金服开源增强版 Spring Boot 的研发框架！",
+        "link": "https://www.ershicimi.com/p/ab6fac498e0f79a64a85ebcc358aec13",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "字节跳动员工晒出税后工资，网友：怀疑你是日薪",
+        "link": "https://www.ershicimi.com/p/1560c3c9d48c2be256f2d8994f52528b",
+        "date": "2021-01-28"
+      },
+      {
+        "title": "SpringBoot集成WebSocket，实现后台向前端推送信息",
+        "link": "https://www.ershicimi.com/p/b1377779cd0a4e7583add7ef0b211879",
+        "date": "2021-01-28"
+      },
       {
         "title": "女友的一个建议，让26岁程序员做了个价值 10 亿美元的 App",
         "link": "https://www.ershicimi.com/p/f96333482b9bbb284dad98aca34bd700",
