@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-29 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-30 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -65,6 +65,7 @@
 - [2020-01-22-TypeScript：拥有超能力的-JavaScript](https://www.ershicimi.com/p/3b4eb8d6ad883142ebecee68fd9fa635) 
 - [2020-01-22-TypeScript：拥有超能力的-JavaScript](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484405&idx=1&sn=31c218c5203ce9f8e575ec93c22c85f7&chksm=eb1cc61fdc6b4f09737e58df18fce3a11c0da1cdfdc122d2e4834da7adb39c5c2a24dd3ba843&scene=27#wechat_redirect) 
 - [2020-01-03-JavaScript-败北，TypeScript-大势所趋？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484379&idx=1&sn=1a4f37167ab1e6670ad371d49e28f567&chksm=eb1cc631dc6b4f27b90a56a1e582a5ae22e1c82bf97eea28c08e73ff2c26e9b7fcec7461e91f&scene=27#wechat_redirect) 
+- [2021-01-28-TypeScript-4.1-发布，新增模板字面量类型](https://www.ershicimi.com/p/ed5b2ee3ec4acace4a381f15d2f4cb55) 
 - [2020-12-04-TypeScript超越C++成第四大语言！无惧中国开源托管平台竞争：GitHub发布2020年开发](https://www.ershicimi.com/p/526f9b7c020a89dfe02fe0a47bc783d1) 
 - [2020-11-29-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/8bbe958abf1f27a9a3a9bd26db78d335) 
 - [2020-09-14-尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/d95588bb2dfefaac5fb01927aca21dad) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-01-29 12:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-01-30 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -65,6 +65,7 @@
 - [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) 
 - [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) 
 - [2021-01-02-阿里中台搞了3年，凉了？网传：副总裁玄难“背锅”，辞职创业！咸鱼放弃维护-Flutter!](https://www.ershicimi.com/p/afb12c1dba75c8727465bb608dbe28b9) 
+- [2021-01-27-飞猪Flutter技术演进及业务改造实践](https://www.ershicimi.com/p/94c47d077a34f32a7f0a8cc8c9f4e152) 
 - [2021-01-23-网易北京一员工核酸检测阳性，全员居家办公；Flutter成功在鸿蒙上运行；蚂蚁否认阿里股权无偿划转浙](https://www.ershicimi.com/p/e6b8893d008db678cf4598179e0ae55f) 
 - [2020-12-31-移动开发者的必备“助手”！AppGallery-Connect的全生命周期“服务之道”-｜-Q推荐](https://www.ershicimi.com/p/8d7bf75ba0c8ea94b1763ebb6a4ce86a) 
 - [2020-12-01-Flutter状态State的5种应对方法](https://www.ershicimi.com/p/015ab102f706bf0ed1f9f4546e4160fc) 

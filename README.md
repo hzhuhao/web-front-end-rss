@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-01-29 12:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-01-30 06:00:21，:rocket: 更新条数: +14， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,14 +20,14 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
+- [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [互联网架构师](#互联网架构师)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -194,7 +194,7 @@
 </summary>
 
 
-- [2021-01-29-科技爱好者周刊（第-144-期）：提高收入的根本途径](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html) ![](assets/new.png)  
+- [2021-01-29-科技爱好者周刊（第-144-期）：提高收入的根本途径](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html)  
 - [2021-01-27-异或运算-XOR-教程](http://www.ruanyifeng.com/blog/2021/01/_xor.html)  
 - [2021-01-22-科技爱好者周刊（第-143-期）：世界尽头与冷酷仙境](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-143.html)  
 - [2021-01-20-剪贴板操作-Clipboard-API-教程](http://www.ruanyifeng.com/blog/2021/01/clipboard-api.html)  
@@ -380,9 +380,9 @@
 </summary>
 
 
-- [2021-01-28-蚂蚁金服开源增强版-Spring-Boot-的研发框架！](https://www.ershicimi.com/p/ab6fac498e0f79a64a85ebcc358aec13) ![](assets/new.png)  
-- [2021-01-28-字节跳动员工晒出税后工资，网友：怀疑你是日薪](https://www.ershicimi.com/p/1560c3c9d48c2be256f2d8994f52528b) ![](assets/new.png)  
-- [2021-01-28-SpringBoot集成WebSocket，实现后台向前端推送信息](https://www.ershicimi.com/p/b1377779cd0a4e7583add7ef0b211879) ![](assets/new.png)  
+- [2021-01-28-蚂蚁金服开源增强版-Spring-Boot-的研发框架！](https://www.ershicimi.com/p/ab6fac498e0f79a64a85ebcc358aec13)  
+- [2021-01-28-字节跳动员工晒出税后工资，网友：怀疑你是日薪](https://www.ershicimi.com/p/1560c3c9d48c2be256f2d8994f52528b)  
+- [2021-01-28-SpringBoot集成WebSocket，实现后台向前端推送信息](https://www.ershicimi.com/p/b1377779cd0a4e7583add7ef0b211879)  
 - [2021-01-27-女友的一个建议，让26岁程序员做了个价值-10-亿美元的-App](https://www.ershicimi.com/p/f96333482b9bbb284dad98aca34bd700)  
 - [2021-01-27-NullPointerException-的处理新方式，Java14-真的太香了！](https://www.ershicimi.com/p/fda75a2ba7a28c4129e693a5e9b6125e)  
 - [2021-01-27-你还在用HTTP吗？HTTP/3都来了。。。](https://www.ershicimi.com/p/c74af2403a9f81f1c832835995b78d46)  
@@ -411,26 +411,26 @@
 </summary>
 
 
+- [2021-01-29-被接连封杀后，出海的“TikTok们”还在坚持什么？](https://www.ershicimi.com/p/300b53d6b78203d22cf3165e68e52e05) ![](assets/new.png)  
+- [2021-01-29-3年从0到300万用户，我们怎样在高速发展中扩展云基础设施？](https://www.ershicimi.com/p/7f86a8e4951e597593e29adb577cd88f) ![](assets/new.png)  
+- [2021-01-29-创业失败后，我决定开源所有产品代码](https://www.ershicimi.com/p/cefa5fd05408a9c9e46c08b9be9ce84e) ![](assets/new.png)  
+- [2021-01-29-如何在纯-JavaScript-中使用-GraphQL](https://www.ershicimi.com/p/55895bf6e965db8170ff6369a6a4209c) ![](assets/new.png)  
+- [2021-01-28-能短时间解决秒杀业务需求的架构师，是怎样炼成的？｜-极客大学](https://www.ershicimi.com/p/9724bc207e1f4c0ddcf9c42c4d73261c) ![](assets/new.png)  
+- [2021-01-28-华为人事突变：余承东“接管”华为云，将给云计算怎样的未来？](https://www.ershicimi.com/p/41de66ac32baa2f4d5669cf3c814e121) ![](assets/new.png)  
+- [2021-01-28-创新三人行：企业技术创新是否“有迹可循”？](https://www.ershicimi.com/p/abcf0d22f8b973dee717e1b11ed7c997) ![](assets/new.png)  
+- [2021-01-28-打造全球最大规模-Kafka-集群，Uber-的多区域灾备实践](https://www.ershicimi.com/p/b4198e6133a20473b4feb7234291bd63) ![](assets/new.png)  
+- [2021-01-28-TypeScript-4.1-发布，新增模板字面量类型](https://www.ershicimi.com/p/ed5b2ee3ec4acace4a381f15d2f4cb55) ![](assets/new.png)  
+- [2021-01-27-谁挤走了IBM们](https://www.ershicimi.com/p/b42f3631639c00bb790bcb33e67939f4) ![](assets/new.png)  
+- [2021-01-27-为什么-79000+-企业研发人员都在这里学习？｜-极客时间企业版](https://www.ershicimi.com/p/10b593dd9291bc4321fb20b9d4e94ab2) ![](assets/new.png)  
+- [2021-01-27-AI、IoT、区块链、自主系统、下一代计算五大技术引领未来供应链发展](https://www.ershicimi.com/p/4828c94b2ddced7a6d651ccb000081cb) ![](assets/new.png)  
+- [2021-01-27-飞猪Flutter技术演进及业务改造实践](https://www.ershicimi.com/p/94c47d077a34f32a7f0a8cc8c9f4e152) ![](assets/new.png)  
+- [2021-01-27-机器学习应用设计阶段的-10-个陷阱和-11-个最佳实践](https://www.ershicimi.com/p/53455fe359a97a99087879f1553cea67) ![](assets/new.png)  
 - [2021-01-26-15年资深华为人讲述企业创新方法论：价值创造、战略定力、价值分配](https://www.ershicimi.com/p/c086cfdb5563e2d02259a53273d5837e)  
 - [2021-01-26-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/561dbe7c196a6e251c4fe7f306ae2e93)  
 - [2021-01-26-Netflix-联邦-GraphQL-平台的实现过程及经验教训](https://www.ershicimi.com/p/0f4ac5092485f0087f13009c6f6b8a45)  
 - [2021-01-26-每个程序员都应该尝试的项目](https://www.ershicimi.com/p/328fd8cf0c33d06772d55abd35834b21)  
 - [2021-01-25-女友的一个建议，让26岁程序员做了个价值10亿美元的App](https://www.ershicimi.com/p/028dceee840558823a0f5e5dd92d2e28)  
 - [2021-01-25-规避云服务宕机的架构设计方法](https://www.ershicimi.com/p/09474f7a48601911ba37f8e70900349d)  
-- [2021-01-25-Postman-如何处理庞大难以管理的网关服务](https://www.ershicimi.com/p/fe0bafb534dc83b2df4a75e7f2196eb2)  
-- [2021-01-25-MongoDB-最常见的-10-个错误说法](https://www.ershicimi.com/p/836018b7c3da117c7a9b1e22cf91b7f3)  
-- [2021-01-24-这可能是国内最权威的编程语言排行榜](https://www.ershicimi.com/p/0701bceae88f55097df1ced7b829e4c7)  
-- [2021-01-24-2021-年值得-CTO-期待的十大-Web-开发趋势](https://www.ershicimi.com/p/9b613dd9b47b45584ac62ae05a6b990b)  
-- [2021-01-24-开发运维视角下，影响软件高可扩展性的6个因素](https://www.ershicimi.com/p/1152a831f5b8f0d5cbd3ac5ef81e0686)  
-- [2021-01-23-网易北京一员工核酸检测阳性，全员居家办公；Flutter成功在鸿蒙上运行；蚂蚁否认阿里股权无偿划转浙](https://www.ershicimi.com/p/e6b8893d008db678cf4598179e0ae55f)  
-- [2021-01-23-在应用开发中，我为什么选择-Flutter-而不是-React-Native-？](https://www.ershicimi.com/p/0c724ee312996c3c9bc4549d4a226eeb)  
-- [2021-01-23-API-开发者永不“REST”](https://www.ershicimi.com/p/e2adf48f25f098cf72c16ff293ae3002)  
-- [2021-01-22-程序员大神JWZ和Linux-Mint干起来了：两个熊孩子引起的“口水”大战](https://www.ershicimi.com/p/cc2b47a1a3f0181749c52d17c7952068)  
-- [2021-01-22-2020中国开源年度报告：中国开源力量崛起，开源世界分裂趋势初现](https://www.ershicimi.com/p/e0af4c87335246dfdbe7267e77da989c)  
-- [2021-01-22-始于TensorFlow-，终于PyTorch](https://www.ershicimi.com/p/2d99b9ff2603f36113b8f7574048e52b)  
-- [2021-01-22-NVIDIA技术大咖亲临！教你30分钟实现基于-Python-的路况多模型推理系统-｜-Q推荐](https://www.ershicimi.com/p/108094ca55d7fb173f9f7a25fc9c1d39)  
-- [2021-01-22-5种常见的Docker-Compose错误](https://www.ershicimi.com/p/c84344a8ca35f845f340e852af2b7d83)  
-- [2021-01-21-硅谷工程师被特普朗特赦，免去牢狱之灾和2亿美金赔款](https://www.ershicimi.com/p/83e756ad09e2fd8e6ed57d2dce05bbad)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
