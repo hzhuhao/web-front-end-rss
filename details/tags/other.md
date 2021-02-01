@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-01 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-02 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1831,6 +1831,9 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2021-01-31-2021成为“Rust年”！Facebook、微软、谷歌与亚马逊上演Rust人才争夺大战](https://www.ershicimi.com/p/d126c2a7555052f650fe68a097298162) 
+- [2021-01-30-蚂蚁集团酝酿重大重组；苹果因不送充电器被告；字节员工组团参与快手打新；贾跃亭的FF要上市-|-Q资讯](https://www.ershicimi.com/p/10d8e617e1856d8e87a67ebe550a6df2) 
+- [2021-01-30-CTO-观点：如何为企业选择合适的消息系统？](https://www.ershicimi.com/p/13e0912fe54e85475be25d25fd68114e) 
 - [2021-01-29-被接连封杀后，出海的“TikTok们”还在坚持什么？](https://www.ershicimi.com/p/300b53d6b78203d22cf3165e68e52e05) 
 - [2021-01-29-3年从0到300万用户，我们怎样在高速发展中扩展云基础设施？](https://www.ershicimi.com/p/7f86a8e4951e597593e29adb577cd88f) 
 - [2021-01-29-创业失败后，我决定开源所有产品代码](https://www.ershicimi.com/p/cefa5fd05408a9c9e46c08b9be9ce84e) 
