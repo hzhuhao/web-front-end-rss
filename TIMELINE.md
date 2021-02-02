@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-02 18:00:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-02-03 06:00:12。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -147,6 +147,11 @@
 - [【互联网架构师】2021-02-01-初、中、高级Java工程师有哪些区别？](https://www.ershicimi.com/p/2b5f956b90e6c50966782722881c6a7d) 
 - [【互联网架构师】2021-02-01-RabbitMQ-消息-100%-投递的解决方案！](https://www.ershicimi.com/p/f0f2071a9508b4b14605bd47f3c1c01a) 
 - [【互联网架构师】2021-02-01-重庆百架无人机集体撞楼，疑因程序写错，程序员背锅。。](https://www.ershicimi.com/p/f2f2309b076d4062f0a5bdbd5bf92924) 
+- [【InfoQ】2021-02-02-Kubernetes-凭什么成为大厂标配？｜-极客时间](https://www.ershicimi.com/p/8f88ea983ed1a1bb7b8b31c36d8cfb53) 
+- [【InfoQ】2021-02-02-为什么我们无法写出真正可重用的代码？](https://www.ershicimi.com/p/4da7ceec87fdb93af095161d470f4759) 
+- [【InfoQ】2021-02-02-向左还是向右？程序员的两难选择-|-InfoQ-大咖说](https://www.ershicimi.com/p/b3b0ee7b8686d1486a46b0f6206ed6be) 
+- [【InfoQ】2021-02-02-Rust-不适合开发-Web-API](https://www.ershicimi.com/p/4a3438003569ce37e446ffc83c04259e) 
+- [【InfoQ】2021-02-02-Apache-软件基金会-2020-安全报告：六件值得被关注的事](https://www.ershicimi.com/p/13f8ca47c355c4c533f63679834b188c) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
 </details>

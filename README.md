@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-02 18:00:30，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-03 06:00:12，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -23,11 +23,11 @@
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
-- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)![](assets/dot.png)   
+- [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -287,7 +287,7 @@
 </summary>
 
 
-- [2021-02-02-凹凸技术揭秘-·-技术精进与业务发展两不误](https://aotu.io/notes/2021/02/01/both-tech-n-biz/) ![](assets/new.png)  
+- [2021-02-02-凹凸技术揭秘-·-技术精进与业务发展两不误](https://aotu.io/notes/2021/02/01/both-tech-n-biz/)  
 - [2021-01-14-凹凸技术揭秘-·-Taro-·-开放式跨端跨框架之路](https://aotu.io/notes/2021/01/14/taro-history/)  
 - [2021-01-14-凹凸技术揭秘-·-基础服务体系-·-构筑服务端技术中枢](https://aotu.io/notes/2021/01/14/exa-server/)  
 - [2021-01-07-凹凸技术揭秘-·-Tide-研发平台-·-布局研发新基建](https://aotu.io/notes/2021/01/06/taro-ide-n-tide/)  
@@ -411,6 +411,11 @@
 </summary>
 
 
+- [2021-02-02-Kubernetes-凭什么成为大厂标配？｜-极客时间](https://www.ershicimi.com/p/8f88ea983ed1a1bb7b8b31c36d8cfb53) ![](assets/new.png)  
+- [2021-02-02-为什么我们无法写出真正可重用的代码？](https://www.ershicimi.com/p/4da7ceec87fdb93af095161d470f4759) ![](assets/new.png)  
+- [2021-02-02-向左还是向右？程序员的两难选择-|-InfoQ-大咖说](https://www.ershicimi.com/p/b3b0ee7b8686d1486a46b0f6206ed6be) ![](assets/new.png)  
+- [2021-02-02-Rust-不适合开发-Web-API](https://www.ershicimi.com/p/4a3438003569ce37e446ffc83c04259e) ![](assets/new.png)  
+- [2021-02-02-Apache-软件基金会-2020-安全报告：六件值得被关注的事](https://www.ershicimi.com/p/13f8ca47c355c4c533f63679834b188c) ![](assets/new.png)  
 - [2021-01-31-2021成为“Rust年”！Facebook、微软、谷歌与亚马逊上演Rust人才争夺大战](https://www.ershicimi.com/p/d126c2a7555052f650fe68a097298162)  
 - [2021-01-31-JS框架性能对比：Soild高居榜首，Vue、React和Angular竟纷纷跌出前十](https://www.ershicimi.com/p/0d1615c2bc80890fcf04a079b3e83328)  
 - [2021-01-31-构建基于Service-Mesh-的云原生微服务框架](https://www.ershicimi.com/p/684e13af2908c5497a05cef80d48e4ef)  
@@ -426,11 +431,6 @@
 - [2021-01-28-创新三人行：企业技术创新是否“有迹可循”？](https://www.ershicimi.com/p/abcf0d22f8b973dee717e1b11ed7c997)  
 - [2021-01-28-打造全球最大规模-Kafka-集群，Uber-的多区域灾备实践](https://www.ershicimi.com/p/b4198e6133a20473b4feb7234291bd63)  
 - [2021-01-28-TypeScript-4.1-发布，新增模板字面量类型](https://www.ershicimi.com/p/ed5b2ee3ec4acace4a381f15d2f4cb55)  
-- [2021-01-27-谁挤走了IBM们](https://www.ershicimi.com/p/b42f3631639c00bb790bcb33e67939f4)  
-- [2021-01-27-为什么-79000+-企业研发人员都在这里学习？｜-极客时间企业版](https://www.ershicimi.com/p/10b593dd9291bc4321fb20b9d4e94ab2)  
-- [2021-01-27-AI、IoT、区块链、自主系统、下一代计算五大技术引领未来供应链发展](https://www.ershicimi.com/p/4828c94b2ddced7a6d651ccb000081cb)  
-- [2021-01-27-飞猪Flutter技术演进及业务改造实践](https://www.ershicimi.com/p/94c47d077a34f32a7f0a8cc8c9f4e152)  
-- [2021-01-27-机器学习应用设计阶段的-10-个陷阱和-11-个最佳实践](https://www.ershicimi.com/p/53455fe359a97a99087879f1553cea67)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>

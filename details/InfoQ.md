@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-02-02 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-03 06:00:12。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-02-02-Kubernetes-凭什么成为大厂标配？｜-极客时间](https://www.ershicimi.com/p/8f88ea983ed1a1bb7b8b31c36d8cfb53) 
+- [2021-02-02-为什么我们无法写出真正可重用的代码？](https://www.ershicimi.com/p/4da7ceec87fdb93af095161d470f4759) 
+- [2021-02-02-向左还是向右？程序员的两难选择-|-InfoQ-大咖说](https://www.ershicimi.com/p/b3b0ee7b8686d1486a46b0f6206ed6be) 
+- [2021-02-02-Rust-不适合开发-Web-API](https://www.ershicimi.com/p/4a3438003569ce37e446ffc83c04259e) 
+- [2021-02-02-Apache-软件基金会-2020-安全报告：六件值得被关注的事](https://www.ershicimi.com/p/13f8ca47c355c4c533f63679834b188c) 
 - [2021-01-31-2021成为“Rust年”！Facebook、微软、谷歌与亚马逊上演Rust人才争夺大战](https://www.ershicimi.com/p/d126c2a7555052f650fe68a097298162) 
 - [2021-01-31-JS框架性能对比：Soild高居榜首，Vue、React和Angular竟纷纷跌出前十](https://www.ershicimi.com/p/0d1615c2bc80890fcf04a079b3e83328) 
 - [2021-01-31-构建基于Service-Mesh-的云原生微服务框架](https://www.ershicimi.com/p/684e13af2908c5497a05cef80d48e4ef) 
