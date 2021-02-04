@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-04 06:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-04 12:00:24，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -25,7 +25,7 @@
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
-- [前端日刊](#前端日刊)  
+- [前端日刊](#前端日刊)![](assets/dot.png)   
 - [互联网架构师](#互联网架构师)  
 - [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
@@ -101,11 +101,11 @@
 </summary>
 
 
-- [2021-02-03-重磅！贝索斯宣告即将卸任亚马逊CEO](https://www.ershicimi.com/p/48bdcd0aaed76f3226fb6d451a196039) ![](assets/new.png)  
-- [2021-02-03-API请求失败后发生了什么？](https://www.ershicimi.com/p/cf521555b6f7d2c0d0fcca507baa1769) ![](assets/new.png)  
-- [2021-02-01-2021年前端发展预测](https://www.ershicimi.com/p/91c03d55d7f05840ee44e416377a2382) ![](assets/new.png)  
-- [2021-02-01-12-个顶级-Bug-跟踪工具](https://www.ershicimi.com/p/176f68b448f3e45791ae78bc019cbeee) ![](assets/new.png)  
-- [2021-01-31-Angular-发布新调试指南；谷歌正在研发“新”安卓系统；Twitter-为-iOS-开发者开源文](https://www.ershicimi.com/p/aca4a8d40096cc5688675b58d8bfda73) ![](assets/new.png)  
+- [2021-02-03-重磅！贝索斯宣告即将卸任亚马逊CEO](https://www.ershicimi.com/p/48bdcd0aaed76f3226fb6d451a196039)  
+- [2021-02-03-API请求失败后发生了什么？](https://www.ershicimi.com/p/cf521555b6f7d2c0d0fcca507baa1769)  
+- [2021-02-01-2021年前端发展预测](https://www.ershicimi.com/p/91c03d55d7f05840ee44e416377a2382)  
+- [2021-02-01-12-个顶级-Bug-跟踪工具](https://www.ershicimi.com/p/176f68b448f3e45791ae78bc019cbeee)  
+- [2021-01-31-Angular-发布新调试指南；谷歌正在研发“新”安卓系统；Twitter-为-iOS-开发者开源文](https://www.ershicimi.com/p/aca4a8d40096cc5688675b58d8bfda73)  
 - [2021-01-29-Rust不适合开发Web-API](https://www.ershicimi.com/p/5433220786e252b6bb6e0c869ef5c6a8)  
 - [2021-01-29-如何培养成长型-IT-团队？华为、海尔、银联等企业值得学习-|-极客时间](https://www.ershicimi.com/p/05179cbacc33b70b0f248768577f1a5b)  
 - [2021-01-29-最火的前端框架，你用对了么？-|-活动推荐](https://www.ershicimi.com/p/de927adbfec0f460639a889f9f22be58)  
@@ -349,6 +349,7 @@
 </summary>
 
 
+- [2021-02-01-就地过年！看看程序员们都在囤什么？](https://www.ershicimi.com/p/35cd10904f2768d2521add0c792ab155) ![](assets/new.png)  
 - [2021-01-28-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/4d5c147d5b5e7dac5ceaa7320b5677b3)  
 - [2021-01-11-前端框架这么火，还有必要学好原生-JavaScript-吗？](https://www.ershicimi.com/p/fa27bfb41b2cd95468c33a411b83ba33)  
 - [2021-01-07-前端从入门到高薪中文指南](https://www.ershicimi.com/p/b2c4ef3e818e761432bc293ed7698d2a)  
@@ -368,7 +369,6 @@
 - [2020-12-01-笔试都答对，面试被刷了，面试官到底想听到什么？](https://www.ershicimi.com/p/d0b1857da42752a091f70bc0b8d7776b)  
 - [2020-11-30-前端人必备：前端与图形学](https://www.ershicimi.com/p/b6b31f502c3edb6798883387d936ba96)  
 - [2020-11-26-【试学1个月】|-限量100份，30天“Web全栈架构师”直播课速抢](https://www.ershicimi.com/p/5a78dee1dca449f7e78b0a8ef38979aa)  
-- [2020-11-25-看到程序员11月平均工资后，我第一反应：这是假的吧！](https://www.ershicimi.com/p/17570dd9f35d5357446c2cb8dcfad21c)  
 - [......【查看更多】......](./details/前端日刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
