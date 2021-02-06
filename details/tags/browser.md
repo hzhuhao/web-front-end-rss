@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-06 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-06 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -195,6 +195,7 @@
 - [2020-01-19-前端安全—你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591159&idx=1&sn=68abf498d83a849f9fb2099f1642df20&chksm=8891df93bfe6568550651cb5a32f3c0d30585818dae614772298b4c9913cb4fd2bfd3241f8f5&scene=27#wechat_redirect) 
 - [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-13-Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba) 
+- [2021-02-04-阿里-Nacos-惊爆安全漏洞，火速升级！](https://www.ershicimi.com/p/8e55eb2dc31e7ef154fadd9a2ba16b26) 
 - [2021-01-28-SpringBoot集成WebSocket，实现后台向前端推送信息](https://www.ershicimi.com/p/b1377779cd0a4e7583add7ef0b211879) 
 - [2021-01-26-Spring-Boot-2.x-把-Guava-干掉了，拥抱本地缓存之王-Caffeine！](https://www.ershicimi.com/p/fc3dd814376a55a55fdecfeed0b09b7f) 
 - [2021-01-23-并发重复请求，这才是优雅的处理方式！](https://www.ershicimi.com/p/a2cedd6a265ba3537fcf6c62d7570611) 
@@ -223,6 +224,7 @@
 - [2019-12-30-4-种数据库缓存最终一致性的优缺点对比？最终选择方案四！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489465&idx=1&sn=2f3a74f8ba7056e973c0657a6492f652&chksm=ea5cdadfdd2b53c9dd49126c962029b4548a0c8a2fc3e96e06de8271b1fa00ccd05e0ded5857&scene=27#wechat_redirect) 
 - [2019-12-29-每个公司都会用的短-URL-服务，怎么设计与实现？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=2&sn=b1b7f944fb39fd1cdfeae2d6b6099dca&chksm=ea5cdad7dd2b53c18db3a7872c7d0e1f40a7c9c1a46356761d8557e8dbdfd2bd0851d12246b0&scene=27#wechat_redirect) 
 - [2019-12-24-去宇宙条面试被问：HashMap-为什么线程不安全？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=3&sn=f0fdc5e0f9b13249bb67020d018238f1&chksm=ea5cdaeddd2b53fbe3f84d4822fcc8f1b83c79e0d979e9c35d58e07a2cd5b7afe7f2425a8bd0&scene=27#wechat_redirect) 
+- [2021-02-03-云计算助力影视行业，揭开《刺杀小说家》电影特效渲染的秘密](https://www.ershicimi.com/p/e3e84eb1e9c41d42fcdb8abe95686020) 
 - [2021-02-02-Apache-软件基金会-2020-安全报告：六件值得被关注的事](https://www.ershicimi.com/p/13f8ca47c355c4c533f63679834b188c) 
 - [2021-01-25-Postman-如何处理庞大难以管理的网关服务](https://www.ershicimi.com/p/fe0bafb534dc83b2df4a75e7f2196eb2) 
 - [2021-01-21-在日新月异的数字世界加速前行：Akamai-Edge-Live峰会精彩全回顾](https://www.ershicimi.com/p/8a3c72e9676339c41e37a1920afb387a) 
