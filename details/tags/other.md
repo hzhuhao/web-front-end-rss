@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-08 18:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-10 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1439,6 +1439,10 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2021-02-10-阿里技术小哥，写了一个“​废话生成器”！火爆内网，演绎了什么叫“阿里味“！](https://www.ershicimi.com/p/2c386e8b578c21177a59bf0c845cc992) 
+- [2021-02-10-分库分表-vs-NewSQL，怎么选择？](https://www.ershicimi.com/p/5295462bd943ecea34dd40d26e76cdf1) 
+- [2021-02-09-K8S-还没用，K9S-又是什么鬼？](https://www.ershicimi.com/p/620047585c85ae06e45092b2f80c7cdb) 
+- [2021-02-09-全球当下最厉害的14位程序员，说没听过简直离谱~](https://www.ershicimi.com/p/ced8eb5c372a860348a753e1619c47a1) 
 - [2021-02-08-说实话，DataGrip真得牛逼，只是你不会用而已~](https://www.ershicimi.com/p/18faa84f94d52ee248254cbb62fe674c) 
 - [2021-02-08-IntelliJ-IDEA-查看类继承关系图，太强大了！](https://www.ershicimi.com/p/09effa9a36ff558a269070328999f27a) 
 - [2021-02-08-让程序员崩溃的一句话。。。](https://www.ershicimi.com/p/09a397453f7fda05d49bd3fd83f5c7a7) 

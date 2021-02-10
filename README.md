@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-08 18:00:13，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-10 18:00:24，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -380,12 +380,18 @@
 </summary>
 
 
-- [2021-02-08-说实话，DataGrip真得牛逼，只是你不会用而已~](https://www.ershicimi.com/p/18faa84f94d52ee248254cbb62fe674c) ![](assets/new.png)  
-- [2021-02-08-IntelliJ-IDEA-查看类继承关系图，太强大了！](https://www.ershicimi.com/p/09effa9a36ff558a269070328999f27a) ![](assets/new.png)  
-- [2021-02-08-让程序员崩溃的一句话。。。](https://www.ershicimi.com/p/09a397453f7fda05d49bd3fd83f5c7a7) ![](assets/new.png)  
-- [2021-02-07-你还在用命令看日志？快用-Kibana-吧，一张图片胜过千万行日志！](https://www.ershicimi.com/p/691df37a095fd16c9c2f799e1625996b) ![](assets/new.png)  
-- [2021-02-07-推荐一款神仙颜值的-Redis-客户端工具](https://www.ershicimi.com/p/09d44983eb7e0ee8f8c1875f8c58b028) ![](assets/new.png)  
-- [2021-02-07-职近10年被查出学历虚假，公司还能解雇吗？](https://www.ershicimi.com/p/17570d83e9b751c2f71ad25f692deb75) ![](assets/new.png)  
+- [2021-02-10-阿里技术小哥，写了一个“​废话生成器”！火爆内网，演绎了什么叫“阿里味“！](https://www.ershicimi.com/p/2c386e8b578c21177a59bf0c845cc992) ![](assets/new.png)  
+- [2021-02-10-分库分表-vs-NewSQL，怎么选择？](https://www.ershicimi.com/p/5295462bd943ecea34dd40d26e76cdf1) ![](assets/new.png)  
+- [2021-02-10-我和面试官之间关于操作系统的一场对弈！写了很久，希望对你有帮助！](https://www.ershicimi.com/p/7019f8518c80fa542fab4a0eb2e7c134) ![](assets/new.png)  
+- [2021-02-09-BOSS直聘变BOSS直约，这种招聘太荒唐](https://www.ershicimi.com/p/594e3696906f6c8e9698cebf484a7c2a) ![](assets/new.png)  
+- [2021-02-09-K8S-还没用，K9S-又是什么鬼？](https://www.ershicimi.com/p/620047585c85ae06e45092b2f80c7cdb) ![](assets/new.png)  
+- [2021-02-09-全球当下最厉害的14位程序员，说没听过简直离谱~](https://www.ershicimi.com/p/ced8eb5c372a860348a753e1619c47a1) ![](assets/new.png)  
+- [2021-02-08-说实话，DataGrip真得牛逼，只是你不会用而已~](https://www.ershicimi.com/p/18faa84f94d52ee248254cbb62fe674c)  
+- [2021-02-08-IntelliJ-IDEA-查看类继承关系图，太强大了！](https://www.ershicimi.com/p/09effa9a36ff558a269070328999f27a)  
+- [2021-02-08-让程序员崩溃的一句话。。。](https://www.ershicimi.com/p/09a397453f7fda05d49bd3fd83f5c7a7)  
+- [2021-02-07-你还在用命令看日志？快用-Kibana-吧，一张图片胜过千万行日志！](https://www.ershicimi.com/p/691df37a095fd16c9c2f799e1625996b)  
+- [2021-02-07-推荐一款神仙颜值的-Redis-客户端工具](https://www.ershicimi.com/p/09d44983eb7e0ee8f8c1875f8c58b028)  
+- [2021-02-07-职近10年被查出学历虚假，公司还能解雇吗？](https://www.ershicimi.com/p/17570d83e9b751c2f71ad25f692deb75)  
 - [2021-02-06-9名程序员被抓！这次我并不同情他们！](https://www.ershicimi.com/p/fd65d35b8a72f80e809312cffff969cd)  
 - [2021-02-06-我们公司放弃了微服务，重回单体架构](https://www.ershicimi.com/p/5bd6cfcc8456f4de8f3ff97b42edb69b)  
 - [2021-02-06-2021-年-Web-开发的-7-大趋势，我只能说牛逼！](https://www.ershicimi.com/p/1d777d54716915f6fbcf467e6c5bff68)  
@@ -394,12 +400,6 @@
 - [2021-02-05-为什么-Nginx-比-Apache-更牛叉？](https://www.ershicimi.com/p/087030cd225833ccffcd42f6fb40fbee)  
 - [2021-02-04-阿里-Nacos-惊爆安全漏洞，火速升级！](https://www.ershicimi.com/p/8e55eb2dc31e7ef154fadd9a2ba16b26)  
 - [2021-02-04-面试官：你能说清楚分布式锁，进程锁，线程锁的区别吗？](https://www.ershicimi.com/p/5e7c40e3cb1e149daf0bf89b43a251b8)  
-- [2021-02-04-日志收集神器-Logstash，闪亮登场～](https://www.ershicimi.com/p/ff72287e28f7f014998cef40e05fcb9e)  
-- [2021-02-03-太火了！MyBatis-Plus为啥这么牛？](https://www.ershicimi.com/p/7f715c906c101cc8ee4ab97c24832b5b)  
-- [2021-02-03-腾讯推出高性能-RPC-开发框架](https://www.ershicimi.com/p/d3a73492ed6e31f4db98669c00a63fa7)  
-- [2021-02-03-并发减库存，怎么保证不超卖？](https://www.ershicimi.com/p/c77b451a4c73dd7832c6763f14d7e00f)  
-- [2021-02-02-TMD，肾虚了...早知道不看这些网站了！](https://www.ershicimi.com/p/ae8275fac9500cad456b04f19479827d)  
-- [2021-02-02-推荐一款日志切割神器！我常用~](https://www.ershicimi.com/p/6158a1d633cf4271524612b6286ba5f1)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
