@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-19 12:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-19 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -138,6 +138,7 @@
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
+- [2021-02-18-15-个常见的-Node.js-面试问题及答案](https://www.ershicimi.com/p/28bf51b6e65a98ba0e0d667f97b27218) 
 - [2020-03-19-JavaScript-执行效率不行？因为你还没用-V8丨极客时间](https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f) 
 - [2020-07-30-如何修改-node_modules-里的文件（同事看了直呼内行）](https://www.ershicimi.com/p/0fdd2f00ff00ff845c1ec89c0de2e776) 
 - [2020-03-17-NodeJs入门,带你获取头条热搜形成好看的标签云](https://www.ershicimi.com/p/1c8b05ff1207f0030e45943937747a57) 
