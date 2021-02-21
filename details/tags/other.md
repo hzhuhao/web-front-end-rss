@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-20 22:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-22 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1172,6 +1172,7 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2021-02-19-奇舞周刊第-385-期：Vite-2.0-正式发布了！](https://www.ershicimi.com/p/dc1f11038d33ea5166bc9e97eac7ea95) 
 - [2021-02-09-​Web前端剪切板文本分享到文件发送](https://www.ershicimi.com/p/44cc2e1059800a1520c0e05abb542c10) 
 - [2021-02-09-来奇舞团吧，让自己过得快乐一点](https://www.ershicimi.com/p/8b1b9b691fa48d7f6151f90b7f3f4092) 
 - [2021-02-04-你不知道的-Proxy](https://www.ershicimi.com/p/eb7b2d6f35028de4bb9cfb0fc5f84d22) 
@@ -1917,6 +1918,9 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2021-02-21-硅式鄙视：我们还在996，他们已经连955都不要了](https://www.ershicimi.com/p/6a31b09477d61af7b083d11586d34a03) 
+- [2021-02-21-50年长盛不衰，SQL为什么如此成功？](https://www.ershicimi.com/p/5ff241901f252eaad4e6c56bb84c2d9e) 
+- [2021-02-21-每一位程序员都应该学习的优秀代码](https://www.ershicimi.com/p/ed4745f89864f9b076462ecc2f7ef045) 
 - [2021-02-20-小米回应雷军带队造车；程序员拒带电脑回家被开除获赔19.4万；库克称苹果很多功能来自中国消费者反馈](https://www.ershicimi.com/p/1c95f33a0d6e7a04c7a0fb016f23ba2f) 
 - [2021-02-20-青云科技投资人陈维广:-计算资源导向是过去式，应用导向才是云计算的未来](https://www.ershicimi.com/p/dac1a464f1578b21e1f675370fab0da7) 
 - [2021-02-20-Facebook-的焦虑](https://www.ershicimi.com/p/bd0d9ff683ceb49de58beaa935ec7f7a) 

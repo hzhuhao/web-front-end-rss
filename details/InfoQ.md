@@ -1,10 +1,13 @@
-:alarm_clock: 更新时间: 2021-02-20 18:00:18。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-22 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-02-21-硅式鄙视：我们还在996，他们已经连955都不要了](https://www.ershicimi.com/p/6a31b09477d61af7b083d11586d34a03) 
+- [2021-02-21-50年长盛不衰，SQL为什么如此成功？](https://www.ershicimi.com/p/5ff241901f252eaad4e6c56bb84c2d9e) 
+- [2021-02-21-每一位程序员都应该学习的优秀代码](https://www.ershicimi.com/p/ed4745f89864f9b076462ecc2f7ef045) 
 - [2021-02-20-小米回应雷军带队造车；程序员拒带电脑回家被开除获赔19.4万；库克称苹果很多功能来自中国消费者反馈](https://www.ershicimi.com/p/1c95f33a0d6e7a04c7a0fb016f23ba2f) 
 - [2021-02-20-青云科技投资人陈维广:-计算资源导向是过去式，应用导向才是云计算的未来](https://www.ershicimi.com/p/dac1a464f1578b21e1f675370fab0da7) 
 - [2021-02-20-Facebook-的焦虑](https://www.ershicimi.com/p/bd0d9ff683ceb49de58beaa935ec7f7a) 
