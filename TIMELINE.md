@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-22 22:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-02-23 06:00:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -263,6 +263,11 @@
 - [【互联网架构师】2021-02-01-初、中、高级Java工程师有哪些区别？](https://www.ershicimi.com/p/2b5f956b90e6c50966782722881c6a7d) 
 - [【互联网架构师】2021-02-01-RabbitMQ-消息-100%-投递的解决方案！](https://www.ershicimi.com/p/f0f2071a9508b4b14605bd47f3c1c01a) 
 - [【互联网架构师】2021-02-01-重庆百架无人机集体撞楼，疑因程序写错，程序员背锅。。](https://www.ershicimi.com/p/f2f2309b076d4062f0a5bdbd5bf92924) 
+- [【InfoQ】2021-02-22-放弃大厂高薪的程序员，涌进体制内](https://www.ershicimi.com/p/a871796a687dae724922e057aff41ab8) 
+- [【InfoQ】2021-02-22-2021-年，中台的“瓜”你还吃吗？](https://www.ershicimi.com/p/5b6cadf181365cdbf9abc42d80db243c) 
+- [【InfoQ】2021-02-22-吴翰清、汪源、叶绍志等大咖确认出席4月25日上海架构师峰会](https://www.ershicimi.com/p/00be4161de8e7bb4d782c147c071e93a) 
+- [【InfoQ】2021-02-22-在-NVIDIA-的-GPU-中构建高速计算的大脑，带-Python-玩的那种-｜-Q推荐](https://www.ershicimi.com/p/72303fe5bf532e899ff80d1652cfee69) 
+- [【InfoQ】2021-02-22-4个强大JavaScript运算符](https://www.ershicimi.com/p/04e9eec838506cf987e828f7889e1416) 
 - [【InfoQ】2021-02-21-硅式鄙视：我们还在996，他们已经连955都不要了](https://www.ershicimi.com/p/6a31b09477d61af7b083d11586d34a03) 
 - [【InfoQ】2021-02-21-50年长盛不衰，SQL为什么如此成功？](https://www.ershicimi.com/p/5ff241901f252eaad4e6c56bb84c2d9e) 
 - [【InfoQ】2021-02-21-每一位程序员都应该学习的优秀代码](https://www.ershicimi.com/p/ed4745f89864f9b076462ecc2f7ef045) 
