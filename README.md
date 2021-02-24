@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-24 08:00:13，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-25 06:00:21，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -27,7 +27,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -132,9 +132,9 @@
 </summary>
 
 
-- [2021-01-20-2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7) ![](assets/new.png)  
-- [2021-01-14-设计实现中后台搭建-PaaS-平台](https://fed.taobao.org/blog/taofed/do71ct/qg8x2q) ![](assets/new.png)  
-- [2020-10-12-用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx) ![](assets/new.png)  
+- [2021-01-20-2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7)  
+- [2021-01-14-设计实现中后台搭建-PaaS-平台](https://fed.taobao.org/blog/taofed/do71ct/qg8x2q)  
+- [2020-10-12-用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx)  
 - [2020-12-10-舒文：浅谈阿里前端的多样化](https://fed.taobao.org/blog/taofed/do71ct/krg5m9)  
 - [2020-12-31-前端智能化实践—-P2C-从需求文档生成代码](https://fed.taobao.org/blog/taofed/do71ct/ffeogu)  
 - [2020-12-09-从需求生成代码？D2-最具争议的分享，你值得来瞄一眼](https://fed.taobao.org/blog/taofed/do71ct/gm3a57)  
@@ -411,6 +411,10 @@
 </summary>
 
 
+- [2021-02-24-83-位嘉宾，71场录制｜-InfoQ-最具收获感的视频栏目盘点](https://www.ershicimi.com/p/9849c22f529df8c2ed4415efd05c0640) ![](assets/new.png)  
+- [2021-02-24-十亿级流量的搜索前端，是怎么做架构升级的？](https://www.ershicimi.com/p/6db6dfdb016ad44fd6eceb653b9f4082) ![](assets/new.png)  
+- [2021-02-24-我的一年数据科学学习之旅](https://www.ershicimi.com/p/96ab767efd4314abc395531f5914f431) ![](assets/new.png)  
+- [2021-02-24-开发者怎样才能写出好的-API？](https://www.ershicimi.com/p/4447f26c2e294311f0a9de6b9e56d1e5) ![](assets/new.png)  
 - [2021-02-23-10-分钟干完-2-小时的活，用-Python-自动化办公有多爽？｜极客时间](https://www.ershicimi.com/p/a89c8715a21719d9aba9b2369062e09b)  
 - [2021-02-23-代码优化是一把双刃剑](https://www.ershicimi.com/p/07ca72685979106ec8b0f188f4fa19de)  
 - [2021-02-23-Apache-Pulsar-对现代数据堆栈至关重要的四个原因](https://www.ershicimi.com/p/c46f1363592b179546619ce02fa2dd72)  
@@ -427,10 +431,6 @@
 - [2021-02-20-小米回应雷军带队造车；程序员拒带电脑回家被开除获赔19.4万；库克称苹果很多功能来自中国消费者反馈](https://www.ershicimi.com/p/1c95f33a0d6e7a04c7a0fb016f23ba2f)  
 - [2021-02-20-青云科技投资人陈维广:-计算资源导向是过去式，应用导向才是云计算的未来](https://www.ershicimi.com/p/dac1a464f1578b21e1f675370fab0da7)  
 - [2021-02-20-Facebook-的焦虑](https://www.ershicimi.com/p/bd0d9ff683ceb49de58beaa935ec7f7a)  
-- [2021-02-19-用Rust重构核心开源软件吧，谷歌愿意给你钱](https://www.ershicimi.com/p/9c771f1c992bf67f30438fef83977957)  
-- [2021-02-19-Deno-2020-大事记](https://www.ershicimi.com/p/ddc50ce08d6ddef57ab2777dc002bf9f)  
-- [2021-02-19-Java-on-Truffle：实现真正的元循环](https://www.ershicimi.com/p/26bb17fbb19b393498d5acc5ac2d62eb)  
-- [2021-02-19-搭建个人项目时，如何节省Kubernetes集群的费用？](https://www.ershicimi.com/p/baa32ecc7332d2d5792a01722f50481c)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
