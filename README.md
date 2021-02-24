@@ -11,14 +11,14 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-02-24 06:00:13，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-02-24 08:00:13，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
 - [前端之巅](#前端之巅)  
-- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
+- [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)![](assets/dot.png)   
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
@@ -27,7 +27,7 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -132,6 +132,9 @@
 </summary>
 
 
+- [2021-01-20-2021年前端趋势预测](https://fed.taobao.org/blog/taofed/do71ct/tfeye7) ![](assets/new.png)  
+- [2021-01-14-设计实现中后台搭建-PaaS-平台](https://fed.taobao.org/blog/taofed/do71ct/qg8x2q) ![](assets/new.png)  
+- [2020-10-12-用SVG实现一个优雅的提示框](https://fed.taobao.org/blog/taofed/do71ct/ghpnlx) ![](assets/new.png)  
 - [2020-12-10-舒文：浅谈阿里前端的多样化](https://fed.taobao.org/blog/taofed/do71ct/krg5m9)  
 - [2020-12-31-前端智能化实践—-P2C-从需求文档生成代码](https://fed.taobao.org/blog/taofed/do71ct/ffeogu)  
 - [2020-12-09-从需求生成代码？D2-最具争议的分享，你值得来瞄一眼](https://fed.taobao.org/blog/taofed/do71ct/gm3a57)  
@@ -149,9 +152,6 @@
 - [2020-08-01-可折叠Web可能会给我们带来的变化](https://fed.taobao.org/blog/taofed/do71ct/zbxacs)  
 - [2020-07-31-2020年，该如何选择小程序框架](https://fed.taobao.org/blog/taofed/do71ct/sz7x0q)  
 - [2020-07-21-现在开始：用你的Mac训练和部署一个图片分类模型](https://fed.taobao.org/blog/taofed/do71ct/gwrk8n)  
-- [2020-07-20-你可能不太熟知的布局技巧](https://fed.taobao.org/blog/taofed/do71ct/cia993)  
-- [2020-07-15-基于-React-打造高自由度的-IDE-布局系统](https://fed.taobao.org/blog/taofed/do71ct/hlxur7)  
-- [2020-07-09-频道业务黑科技--行业魔方](https://fed.taobao.org/blog/taofed/do71ct/qsv9lg)  
 - [......【查看更多】......](./details/Taobao-FED-|-淘宝前端团队.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,11 +411,11 @@
 </summary>
 
 
-- [2021-02-23-10-分钟干完-2-小时的活，用-Python-自动化办公有多爽？｜极客时间](https://www.ershicimi.com/p/a89c8715a21719d9aba9b2369062e09b) ![](assets/new.png)  
-- [2021-02-23-代码优化是一把双刃剑](https://www.ershicimi.com/p/07ca72685979106ec8b0f188f4fa19de) ![](assets/new.png)  
-- [2021-02-23-Apache-Pulsar-对现代数据堆栈至关重要的四个原因](https://www.ershicimi.com/p/c46f1363592b179546619ce02fa2dd72) ![](assets/new.png)  
-- [2021-02-23-马斯克炒币俩月大赚10余亿美元，超过特斯拉一年利润](https://www.ershicimi.com/p/c04c52962ec545a916a5c4865dc1a3df) ![](assets/new.png)  
-- [2021-02-23-Deno-现在能够编译为独立的自包含二进制文件](https://www.ershicimi.com/p/6b2748179506ef627a64b2cc546a1051) ![](assets/new.png)  
+- [2021-02-23-10-分钟干完-2-小时的活，用-Python-自动化办公有多爽？｜极客时间](https://www.ershicimi.com/p/a89c8715a21719d9aba9b2369062e09b)  
+- [2021-02-23-代码优化是一把双刃剑](https://www.ershicimi.com/p/07ca72685979106ec8b0f188f4fa19de)  
+- [2021-02-23-Apache-Pulsar-对现代数据堆栈至关重要的四个原因](https://www.ershicimi.com/p/c46f1363592b179546619ce02fa2dd72)  
+- [2021-02-23-马斯克炒币俩月大赚10余亿美元，超过特斯拉一年利润](https://www.ershicimi.com/p/c04c52962ec545a916a5c4865dc1a3df)  
+- [2021-02-23-Deno-现在能够编译为独立的自包含二进制文件](https://www.ershicimi.com/p/6b2748179506ef627a64b2cc546a1051)  
 - [2021-02-22-放弃大厂高薪的程序员，涌进体制内](https://www.ershicimi.com/p/a871796a687dae724922e057aff41ab8)  
 - [2021-02-22-2021-年，中台的“瓜”你还吃吗？](https://www.ershicimi.com/p/5b6cadf181365cdbf9abc42d80db243c)  
 - [2021-02-22-吴翰清、汪源、叶绍志等大咖确认出席4月25日上海架构师峰会](https://www.ershicimi.com/p/00be4161de8e7bb4d782c147c071e93a)  
