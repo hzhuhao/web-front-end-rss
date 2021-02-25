@@ -3862,6 +3862,96 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "大厂技术面试，到底考什么内容？",
+        "link": "https://www.ershicimi.com/p/b62b001934d62c1a247e73fc1f0a8426",
+        "date": "2021-02-25"
+      },
+      {
+        "title": "Javascript 中数据类型那些可能会中招的细节",
+        "link": "https://www.ershicimi.com/p/3bf41b2b3b1ade5d39e121ba1631d275",
+        "date": "2021-02-25"
+      },
+      {
+        "title": "前端每日一题 #30",
+        "link": "https://www.ershicimi.com/p/0feb44e778d50549e23cd9f093012dc1",
+        "date": "2021-02-25"
+      },
+      {
+        "title": "实时监测手部运动的 JS 库，可以实现很多有趣功能",
+        "link": "https://www.ershicimi.com/p/c141ed7b22df70ad210c86cbd8999d1b",
+        "date": "2021-02-24"
+      },
+      {
+        "title": "华为宣布：免费培养 2000 名 VUE&H5 开发者！",
+        "link": "https://www.ershicimi.com/p/2ba522fb7221f84089bd6d425ac8f68a",
+        "date": "2021-02-24"
+      },
+      {
+        "title": "前端每日一题 #29",
+        "link": "https://www.ershicimi.com/p/21c8919a41e25ee353668b0796bb4b47",
+        "date": "2021-02-24"
+      },
+      {
+        "title": "设计灵感：12 组天气预报界面设计灵感",
+        "link": "https://www.ershicimi.com/p/faa54692a9564cc62e74311be414d5ab",
+        "date": "2021-02-24"
+      },
+      {
+        "title": "二月，不要跳槽！",
+        "link": "https://www.ershicimi.com/p/388060ddf56e70f6664b1b3540469898",
+        "date": "2021-02-23"
+      },
+      {
+        "title": "对跨域的最后一战",
+        "link": "https://www.ershicimi.com/p/a579c8dda984a633b806aea59a0c87b3",
+        "date": "2021-02-23"
+      },
+      {
+        "title": "前端每日一题 #28",
+        "link": "https://www.ershicimi.com/p/44499f4cccf4c4483be42f1f6925a6c6",
+        "date": "2021-02-23"
+      },
+      {
+        "title": "设计灵感：12 个人物插画风格闪屏设计",
+        "link": "https://www.ershicimi.com/p/f36e2363bb558f7a27eb26bcc8476f02",
+        "date": "2021-02-23"
+      },
+      {
+        "title": "前端小白如何快速上手jQuery、Swiper、Flex？",
+        "link": "https://www.ershicimi.com/p/9aa30dc9cd512441d81ded1c900c82df",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "一篇搞懂TCP、HTTP、Socket、Socket连接池",
+        "link": "https://www.ershicimi.com/p/96e1d378f46c668e38529577b3a7d0fd",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "前端每日一题 #27",
+        "link": "https://www.ershicimi.com/p/b76707c53ab9b7c184dba58c420a7e91",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "设计灵感：12 个视频播放器界面设计",
+        "link": "https://www.ershicimi.com/p/ec908c826b43785416499fbf5bdcb505",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "手摸手教你写一个命令行终端[electron实战]",
+        "link": "https://www.ershicimi.com/p/fcf797795291819912fba892ecb69c15",
+        "date": "2021-02-21"
+      },
+      {
+        "title": "前端每日一题 #26",
+        "link": "https://www.ershicimi.com/p/6fff1568e4327172cdf1bdea607eacc0",
+        "date": "2021-02-21"
+      },
+      {
+        "title": "设计灵感：12 组旅行类 App 界面设计",
+        "link": "https://www.ershicimi.com/p/cb2e6bfa4c87c166d5d162aabb0c6dcc",
+        "date": "2021-02-21"
+      },
+      {
         "title": "深入浅出前端本地储存",
         "link": "https://www.ershicimi.com/p/85d23147bb0c9526fcbb614288c164f0",
         "date": "2021-02-20"
@@ -20366,6 +20456,51 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "Idea公司真牛逼，发行最适合程序员编程字体~",
+        "link": "https://www.ershicimi.com/p/920ded666a89e19d1060a7c2170bf848",
+        "date": "2021-02-25"
+      },
+      {
+        "title": "牛逼了！第一份程序员考公指南居然在Github上被我扒出来",
+        "link": "https://www.ershicimi.com/p/edf9566f7fb4afc5e3ba05d4006e10d2",
+        "date": "2021-02-25"
+      },
+      {
+        "title": "来自Airbnb、Netflix等公司的代码评审最佳实践",
+        "link": "https://www.ershicimi.com/p/cbf5cbaa29e79c7f335dc73aff03cb04",
+        "date": "2021-02-25"
+      },
+      {
+        "title": "华为正式宣布养猪，网友沸腾：支持华为自救！",
+        "link": "https://www.ershicimi.com/p/5e2fd4e0a7210b5ad784145f8602c3fd",
+        "date": "2021-02-24"
+      },
+      {
+        "title": "你还在手写 CRUD？试试 MybatisGenerator，再也不用加班了！",
+        "link": "https://www.ershicimi.com/p/354859696bfd1f05ca3bd04fe89bbaf2",
+        "date": "2021-02-24"
+      },
+      {
+        "title": "四步，搞定一个短信验证码登录！",
+        "link": "https://www.ershicimi.com/p/c2b9bd23bc479d8257743efc3e3db676",
+        "date": "2021-02-24"
+      },
+      {
+        "title": "API 面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？",
+        "link": "https://www.ershicimi.com/p/d84d65c7d356b4017d20134b964001e1",
+        "date": "2021-02-23"
+      },
+      {
+        "title": "爱了爱了！0.052 秒打开 100GB 数据，这个开源库火爆了！",
+        "link": "https://www.ershicimi.com/p/912333e8deecc62c8d5e62cfb35f893c",
+        "date": "2021-02-23"
+      },
+      {
+        "title": "MySQL每秒57万的写入，带你装逼，带你飞 ！！",
+        "link": "https://www.ershicimi.com/p/5988af7860362da13e2e0dd818a8dc51",
+        "date": "2021-02-23"
+      },
       {
         "title": "再见，MySQL！性能被 MariaDB 吊打…",
         "link": "https://www.ershicimi.com/p/c5983166b5b981a701c82a173a023f80",
