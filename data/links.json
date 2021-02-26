@@ -15270,6 +15270,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 147 期）：寻找你愿意忍受的痛苦",
+        "link": "http://www.ruanyifeng.com/blog/2021/02/weekly-issue-147.html",
+        "date": "2021-02-26"
+      },
+      {
         "title": "科技爱好者周刊（第 146 期）：网课应该怎么上？",
         "link": "http://www.ruanyifeng.com/blog/2021/02/weekly-issue-146.html",
         "date": "2021-02-19"
@@ -27580,6 +27585,56 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "你所有的底气来源于 有钱！",
+        "link": "https://www.ershicimi.com/p/3e50630bfd9cec64e2de7240516416f8",
+        "date": "2021-02-25"
+      },
+      {
+        "title": "【纯文字】2021 的 Node.js 开发人员路线图",
+        "link": "https://www.ershicimi.com/p/5bca80dd99c61fad9cae2c3f288d40c1",
+        "date": "2021-02-24"
+      },
+      {
+        "title": "熬夜写了一份 Web 性能优化干货总结！",
+        "link": "https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142",
+        "date": "2021-02-22"
+      },
+      {
+        "title": "新年快乐！上班啦，开工大吉！大家的开工红包是多少呢？",
+        "link": "https://www.ershicimi.com/p/28a9b06af4115d54cbfa9eb5de5da424",
+        "date": "2021-02-19"
+      },
+      {
+        "title": "从刚入门前端月薪2K到4年后跳槽大厂月薪40K,他是怎么做到的？",
+        "link": "https://www.ershicimi.com/p/4b563e07c2641675ad318b6e4d465e4c",
+        "date": "2021-02-18"
+      },
+      {
+        "title": "Vue面试必问虚拟dom和diff算法，一次解决",
+        "link": "https://www.ershicimi.com/p/43f6b9c635ff3ccba8d875730609e156",
+        "date": "2021-02-05"
+      },
+      {
+        "title": "2021 年你需要了解的 13 种 JavaScript 代码技巧",
+        "link": "https://www.ershicimi.com/p/2e5501ec8920ba7e18c2ea453ff4fc1d",
+        "date": "2021-02-04"
+      },
+      {
+        "title": "3 个被低估的 JavaScript 框架",
+        "link": "https://www.ershicimi.com/p/7987b1eb71f59d2bfe8fc473931688d5",
+        "date": "2021-02-03"
+      },
+      {
+        "title": "《 2020 互联网人才招聘白皮书》出路，2021最热门职位是？",
+        "link": "https://www.ershicimi.com/p/80640a8eeb9231da6d8604ba9c7ee195",
+        "date": "2021-02-02"
+      },
+      {
+        "title": "Vue3.0 PK React17 ，谁胜?",
+        "link": "https://www.ershicimi.com/p/4eb436932c6e479268862243fab62365",
+        "date": "2021-01-29"
+      },
       {
         "title": "作为初级开发人员应该知道的8件事",
         "link": "https://www.ershicimi.com/p/dc7fdff3bd62a44a3ec877c03cd87718",
