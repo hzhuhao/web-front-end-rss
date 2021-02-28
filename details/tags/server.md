@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-27 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-02-28 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -39,6 +39,7 @@
 - [2018-08-31-【译】关于GraphQL，你需要知道这些](https://jdc.jd.com/archives/212690) 
 - [2017-12-15-GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/) 
 - [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 
+- [2021-02-27-再见！RESTful...](https://www.ershicimi.com/p/59ce98553014309c5f1b3153d911fc6a) 
 - [2021-02-05-为什么-Nginx-比-Apache-更牛叉？](https://www.ershicimi.com/p/087030cd225833ccffcd42f6fb40fbee) 
 - [2021-01-26-为什么不建议把数据库部署在Docker容器内](https://www.ershicimi.com/p/c5657e89d6d6950c5524c3e289cae617) 
 - [2021-01-16-我为什么要放弃RESTful，选择拥抱GraphQL？](https://www.ershicimi.com/p/988355b07130f641da8f634072fad949) 
