@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-02-28 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-01 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,10 @@
 </summary>
 
 
+- [【前端大全】2021-02-28-2021前端学习路径书单—自我成长之路](https://www.ershicimi.com/p/c246d1af585ba85e0b863478782eac47) 
+- [【前端大全】2021-02-28-Node.js-+-typescript-写一个命令批处理辅助工具](https://www.ershicimi.com/p/652dcb6fc7c7d6760508a372d05bef0f) 
+- [【前端大全】2021-02-28-前端每日一题-#33](https://www.ershicimi.com/p/3de7a8852dbd2199ed1a31227ac4edaa) 
+- [【前端大全】2021-02-28-设计灵感：12组能让用户强化品牌记忆的闪屏设计](https://www.ershicimi.com/p/e4447a8c88f40667cd37ba629ce31404) 
 - [【前端大全】2021-02-27-十分钟教你用svg做出精美的动画！](https://www.ershicimi.com/p/2a6228c63170a5aa5320f7863cb987b4) 
 - [【前端大全】2021-02-27-Redux的设计模式](https://www.ershicimi.com/p/4d134b438668f5c722b1d8ba1b94bb6f) 
 - [【前端大全】2021-02-27-前端每日一题-#32](https://www.ershicimi.com/p/9d49d343da7a3b840e06fc5c33f9a7e6) 
@@ -253,6 +257,9 @@
 - [【前端日刊】2021-02-18-从入门时月薪2K到跳槽大厂月薪40K,他经历了什么？](https://www.ershicimi.com/p/ba37ba06aa1cc74d89cf855e89f651b6) 
 - [【前端日刊】2021-02-04-面试官：谈一下Vue3响应式数据原理](https://www.ershicimi.com/p/d66cd5e3973a28eed5cc5c8b5114a6be) 
 - [【前端日刊】2021-02-01-就地过年！看看程序员们都在囤什么？](https://www.ershicimi.com/p/35cd10904f2768d2521add0c792ab155) 
+- [【互联网架构师】2021-02-28-程序员失业一月转行去送外卖，晒出当天收入，还以为看错了](https://www.ershicimi.com/p/b9ee86dd9ebe3fb6231dc69ff523b7ab) 
+- [【互联网架构师】2021-02-28-新特效火爆抖音！各路神仙齐唱《蚂蚁呀嘿》，网友：短短几秒需一生来治愈](https://www.ershicimi.com/p/8492c3cd272b3ebea7f90dec453808bd) 
+- [【互联网架构师】2021-02-28-Spring-中的重试机制，简单、实用！](https://www.ershicimi.com/p/ee66497397ac25dec5657a7aeb92baf2) 
 - [【互联网架构师】2021-02-27-20亿条记录的MySQL大表，我们这样迁移的](https://www.ershicimi.com/p/07af9fb6d260cddf3add4441a5997d23) 
 - [【互联网架构师】2021-02-27-程序员过年大数据：最怕问工资、谈对象，要见的姑娘比亲戚还多。。](https://www.ershicimi.com/p/8e622431869950814fc6b23be24645e4) 
 - [【互联网架构师】2021-02-27-再见！RESTful...](https://www.ershicimi.com/p/59ce98553014309c5f1b3153d911fc6a) 
@@ -324,6 +331,14 @@
 - [【互联网架构师】2021-02-01-初、中、高级Java工程师有哪些区别？](https://www.ershicimi.com/p/2b5f956b90e6c50966782722881c6a7d) 
 - [【互联网架构师】2021-02-01-RabbitMQ-消息-100%-投递的解决方案！](https://www.ershicimi.com/p/f0f2071a9508b4b14605bd47f3c1c01a) 
 - [【互联网架构师】2021-02-01-重庆百架无人机集体撞楼，疑因程序写错，程序员背锅。。](https://www.ershicimi.com/p/f2f2309b076d4062f0a5bdbd5bf92924) 
+- [【InfoQ】2021-02-28-最强“打工人”：库克喜提8亿年终奖](https://www.ershicimi.com/p/fe92ccd73add7e52ba2afb457585c67a) 
+- [【InfoQ】2021-02-28-我做了一个-Go-语言的微服务工具包](https://www.ershicimi.com/p/6c204988469a013d63ee9b410a048e7b) 
+- [【InfoQ】2021-02-28-成为一名顶尖程序员，你需要多少数学知识？](https://www.ershicimi.com/p/9cc2d61ec54a1bbea5b645ff9f320ec6) 
+- [【InfoQ】2021-02-28-今日直播-|-数字化变革阶段，如何打造10倍速IT团队？](https://www.ershicimi.com/p/5b26216802d8504322be2fed7fa8ae3f) 
+- [【InfoQ】2021-02-27-周鸿祎称微信靠摇妹子起家；华为东莞实验室爆炸损失3945万元；人社部回应延迟退休-|-Q资讯](https://www.ershicimi.com/p/bc5010320c9d1fc1a03560abb29a5348) 
+- [【InfoQ】2021-02-27-“榨干”EMR开销！AWS-EMR在搭建大数据平台ETL的应用实践](https://www.ershicimi.com/p/a16c6b281160184c548c30cfe49e3c04) 
+- [【InfoQ】2021-02-27-如何探索大型开源软件库](https://www.ershicimi.com/p/1cd4fc37718b1055d32cc4d515231a9a) 
+- [【InfoQ】2021-02-27-AI技术更迭，如何让你的技能加分？](https://www.ershicimi.com/p/a830f45f749013fdbf699528e55a9881) 
 - [【InfoQ】2021-02-26-赔偿9200万美元！TikTok与美国用户和解隐私诉讼](https://www.ershicimi.com/p/9be9f4410eab11ce5c040e1fe74fc446) 
 - [【InfoQ】2021-02-26-为什么软件开发很难？](https://www.ershicimi.com/p/1a20d48d56f7c78e867c2bee78e385fa) 
 - [【InfoQ】2021-02-26-阿里、百度、滴滴在智能化监控平台建设上的探索](https://www.ershicimi.com/p/0f7e85e43f44f5e48b31378c9049d5d5) 
@@ -411,6 +426,7 @@
 - [【InfoQ】2021-02-02-向左还是向右？程序员的两难选择-|-InfoQ-大咖说](https://www.ershicimi.com/p/b3b0ee7b8686d1486a46b0f6206ed6be) 
 - [【InfoQ】2021-02-02-Rust-不适合开发-Web-API](https://www.ershicimi.com/p/4a3438003569ce37e446ffc83c04259e) 
 - [【InfoQ】2021-02-02-Apache-软件基金会-2020-安全报告：六件值得被关注的事](https://www.ershicimi.com/p/13f8ca47c355c4c533f63679834b188c) 
+- [【JavaScript】2021-02-26-各位下班都背电脑吗？](https://www.ershicimi.com/p/be2f3b47643fc5f179a775ea24c890c7) 
 - [【JavaScript】2021-02-25-你所有的底气来源于-有钱！](https://www.ershicimi.com/p/3e50630bfd9cec64e2de7240516416f8) 
 - [【JavaScript】2021-02-24-【纯文字】2021-的-Node.js-开发人员路线图](https://www.ershicimi.com/p/5bca80dd99c61fad9cae2c3f288d40c1) 
 - [【JavaScript】2021-02-22-熬夜写了一份-Web-性能优化干货总结！](https://www.ershicimi.com/p/51f2207c7cb1153808bb70bc64602142) 
