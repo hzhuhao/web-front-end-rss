@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-01 22:00:25，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-02 06:00:21，:rocket: 更新条数: +5， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,8 +26,8 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)![](assets/dot.png)   
-- [InfoQ](#infoq)  
+- [互联网架构师](#互联网架构师)  
+- [InfoQ](#infoq)![](assets/dot.png)   
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -380,9 +380,9 @@
 </summary>
 
 
-- [2021-03-01-“力挺Java！拒绝Python”9万程序员刷爆朋友圈……](https://www.ershicimi.com/p/89ddd06cec07d13a1b1e9db6d0560c70) ![](assets/new.png)  
-- [2021-03-01-校招毁约污点公司名录.pdf](https://www.ershicimi.com/p/f147b4f439b9a316bd2eb75c45d4bea4) ![](assets/new.png)  
-- [2021-03-01-27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构，彭博：Superstar](https://www.ershicimi.com/p/cda63e7bf8030fe04e75ee73b5fbf338) ![](assets/new.png)  
+- [2021-03-01-“力挺Java！拒绝Python”9万程序员刷爆朋友圈……](https://www.ershicimi.com/p/89ddd06cec07d13a1b1e9db6d0560c70)  
+- [2021-03-01-校招毁约污点公司名录.pdf](https://www.ershicimi.com/p/f147b4f439b9a316bd2eb75c45d4bea4)  
+- [2021-03-01-27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构，彭博：Superstar](https://www.ershicimi.com/p/cda63e7bf8030fe04e75ee73b5fbf338)  
 - [2021-02-28-程序员失业一月转行去送外卖，晒出当天收入，还以为看错了](https://www.ershicimi.com/p/b9ee86dd9ebe3fb6231dc69ff523b7ab)  
 - [2021-02-28-新特效火爆抖音！各路神仙齐唱《蚂蚁呀嘿》，网友：短短几秒需一生来治愈](https://www.ershicimi.com/p/8492c3cd272b3ebea7f90dec453808bd)  
 - [2021-02-28-Spring-中的重试机制，简单、实用！](https://www.ershicimi.com/p/ee66497397ac25dec5657a7aeb92baf2)  
@@ -411,6 +411,11 @@
 </summary>
 
 
+- [2021-03-01-马云、马斯克齐唱“蚂蚁呀嘿”，这股风潮你跟上了吗？](https://www.ershicimi.com/p/46744659e0ce79885fe9097dc3f1a3a8) ![](assets/new.png)  
+- [2021-03-01-每一位程序员都应该学习的优秀代码](https://www.ershicimi.com/p/1b6fdd9136ded383d5a85a0f322e4d85) ![](assets/new.png)  
+- [2021-03-01-达达集团高可用系统架构进化之路](https://www.ershicimi.com/p/1e6301a65da14d52e4f88384c8193b14) ![](assets/new.png)  
+- [2021-03-01-当我们谈数字化转型时，我们在说什么](https://www.ershicimi.com/p/8dbdc0cbd745c71b60a2f6281bcdcd99) ![](assets/new.png)  
+- [2021-03-01-React的未来：服务端组件](https://www.ershicimi.com/p/fea09e8e575698fc09edeb7f03aca162) ![](assets/new.png)  
 - [2021-02-28-最强“打工人”：库克喜提8亿年终奖](https://www.ershicimi.com/p/fe92ccd73add7e52ba2afb457585c67a)  
 - [2021-02-28-我做了一个-Go-语言的微服务工具包](https://www.ershicimi.com/p/6c204988469a013d63ee9b410a048e7b)  
 - [2021-02-28-成为一名顶尖程序员，你需要多少数学知识？](https://www.ershicimi.com/p/9cc2d61ec54a1bbea5b645ff9f320ec6)  
@@ -426,11 +431,6 @@
 - [2021-02-26-你可能用错了-kafka-的重试机制](https://www.ershicimi.com/p/983700806021f78f996bf6401b135519)  
 - [2021-02-25-程序员的“黄金时代”，死去又重来？](https://www.ershicimi.com/p/ad86f3098a328a31b639536b0e2a7652)  
 - [2021-02-25-低代码开发平台缺失的5个关键组件](https://www.ershicimi.com/p/0c2ea2e55c6075fa423c6e21ea8cffce)  
-- [2021-02-25-VUCA时代，打造-10-倍速-IT-团队的优化调整法则](https://www.ershicimi.com/p/ae3944e43871f50bf5a82dbe8e59b89f)  
-- [2021-02-25-抛弃V8参数适配器框架！JavaScript调用提速40%的实践](https://www.ershicimi.com/p/b45362e1ef00711758f768f2b6e4f806)  
-- [2021-02-25-5款好用且有代表性的GraphQL工具](https://www.ershicimi.com/p/4a5bfab767f6566d40ee8dd4178a0fda)  
-- [2021-02-24-83-位嘉宾，71场录制｜-InfoQ-最具收获感的视频栏目盘点](https://www.ershicimi.com/p/9849c22f529df8c2ed4415efd05c0640)  
-- [2021-02-24-十亿级流量的搜索前端，是怎么做架构升级的？](https://www.ershicimi.com/p/6db6dfdb016ad44fd6eceb653b9f4082)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
