@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-06 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 06:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 小程序
 
@@ -41,6 +41,7 @@
 - [2018-09-23-【第1402期】云开发初探-——-更简便的小程序开发模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229939&idx=1&sn=7da77cc15457721951a82477d68a6263#wechat_redirect) 
 - [2018-09-21-【第1400期】小程序的全栈开发新时代](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229914&idx=1&sn=c4da922ac376114079b5f54abc3c6eaa#wechat_redirect) 
 - [2018-09-21-多端统一开发框架-Taro-1.0-正式发布](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229914&idx=2&sn=8815ff5cc983fb9021a988c3f46fa7b6#wechat_redirect) 
+- [2021-03-06-百度智能小程序框架性能优化实践](https://www.ershicimi.com/p/94190db828e72ed80460a8001ba5c72f) 
 - [2021-01-07-如何开发一款-H5-小程序直播？](https://www.ershicimi.com/p/dc8cf96ef89297f729a8c24b030c6098) 
 - [2020-08-26-强烈推介的几个微信小程序开发小技巧，简单又实用](https://www.ershicimi.com/p/d32dab3654e88770e432c010526e7e91) 
 - [2020-07-20-微信支持-H5-跳转-App、跳转小程序](https://www.ershicimi.com/p/797dfe20a3a6c99a7f963f9afc4b91d7) 
@@ -144,6 +145,7 @@
 - [2020-12-11-推荐一个小程序实战项目！0基础可做](https://www.ershicimi.com/p/18c08bde7a831bbd26ace73f5cd169ee) 
 - [2020-12-04-小程序开发其实不难！学会这几个组件你也会](https://www.ershicimi.com/p/89fa25c16114790ca3b257faed3da5de) 
 - [2020-03-03-重磅！微信官方推出-Web-前端和小程序统一框架](https://www.ershicimi.com/p/fafa51d57615018ca009e957ce9ea338) 
+- [2021-03-06-想接私活收入翻倍，建议根据这几个开源SpringBoot项目（含小程序）改改~](https://www.ershicimi.com/p/f9d0b0c6dbc9ac45d666c377a6e76dd4) 
 - [2021-03-04-两天快速开发一个自己的微信小程序](https://www.ershicimi.com/p/ba253dd255abb3ab51c111efba31a6f0) 
 - [2020-12-03-投身蓝海，拥抱生态：百度大牛带你玩转小程序](https://www.ershicimi.com/p/aff9749b33aa7f306f9978c0d6dc8b18) 
 - [2020-11-26-同样的能力，为什么开发小程序要比App简单100倍？](https://www.ershicimi.com/p/3a245b0a234a8299dc96a16b5e90824c) 
