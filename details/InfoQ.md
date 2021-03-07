@@ -1,10 +1,11 @@
-:alarm_clock: 更新时间: 2021-03-06 18:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-07 12:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-03-07-大手笔！中芯国际狂砸78亿买光刻机](https://www.ershicimi.com/p/488e840ba0e6b62c0a60d945998e1de6) 
 - [2021-03-06-腾讯前员工因违反竞业协议赔偿近百万；中国居民人均资产36万元；拼多多日活首超淘宝；网络表情已成为“呈](https://www.ershicimi.com/p/2b01c3d4f5a84e6320b0e34b8f28f21a) 
 - [2021-03-06-2021-年-Istio-大型“入坑”指南](https://www.ershicimi.com/p/87f98aa84f567eda439a41a831bbb7cc) 
 - [2021-03-06-短视频风口，如何实现快速变现？](https://www.ershicimi.com/p/36a3d02e9ada682359d6b89704ce1a27) 
