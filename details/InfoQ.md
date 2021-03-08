@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-03-07 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-03-08-网易云醒醒吧，虾米都被“情怀”搞死了](https://www.ershicimi.com/p/7d0e6b1a2bf487e5ae91a4e6762b7006) 
+- [2021-03-08-2021年Node.js开发人员学习路线图](https://www.ershicimi.com/p/dd991e90459d7c3504b9c8f019f38867) 
+- [2021-03-08-队伍逐渐庞大，谁说女程序员是稀缺物种？|-附38节惊喜福利](https://www.ershicimi.com/p/aa85f6e1566a8b04f401004983a01069) 
+- [2021-03-08-人生苦短，我用-Python](https://www.ershicimi.com/p/71d769103ced8e81d9d3d1801cd8edd2) 
+- [2021-03-08-怎样安全地关闭老旧的-API？](https://www.ershicimi.com/p/2dbee48784961b8d13630e3fb066bc41) 
 - [2021-03-07-如何通过分解和增量更改将单体迁移到微服务？](https://www.ershicimi.com/p/028b5c8fb177755fa7f249e3bca69bd2) 
 - [2021-03-07-技术人如何无障碍阅读官方文档？](https://www.ershicimi.com/p/5f92c99fcb36a3149485ff47c1619850) 
 - [2021-03-07-量子机器学习-：IT-领域的下一件大事](https://www.ershicimi.com/p/614047c1f864f47a98528f2e76fd6e02) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-08 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-08 18:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -202,6 +202,11 @@
 - [【互联网架构师】2021-03-01-“力挺Java！拒绝Python”9万程序员刷爆朋友圈……](https://www.ershicimi.com/p/89ddd06cec07d13a1b1e9db6d0560c70) 
 - [【互联网架构师】2021-03-01-校招毁约污点公司名录.pdf](https://www.ershicimi.com/p/f147b4f439b9a316bd2eb75c45d4bea4) 
 - [【互联网架构师】2021-03-01-27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构，彭博：Superstar](https://www.ershicimi.com/p/cda63e7bf8030fe04e75ee73b5fbf338) 
+- [【InfoQ】2021-03-08-网易云醒醒吧，虾米都被“情怀”搞死了](https://www.ershicimi.com/p/7d0e6b1a2bf487e5ae91a4e6762b7006) 
+- [【InfoQ】2021-03-08-2021年Node.js开发人员学习路线图](https://www.ershicimi.com/p/dd991e90459d7c3504b9c8f019f38867) 
+- [【InfoQ】2021-03-08-队伍逐渐庞大，谁说女程序员是稀缺物种？|-附38节惊喜福利](https://www.ershicimi.com/p/aa85f6e1566a8b04f401004983a01069) 
+- [【InfoQ】2021-03-08-人生苦短，我用-Python](https://www.ershicimi.com/p/71d769103ced8e81d9d3d1801cd8edd2) 
+- [【InfoQ】2021-03-08-怎样安全地关闭老旧的-API？](https://www.ershicimi.com/p/2dbee48784961b8d13630e3fb066bc41) 
 - [【InfoQ】2021-03-07-如何通过分解和增量更改将单体迁移到微服务？](https://www.ershicimi.com/p/028b5c8fb177755fa7f249e3bca69bd2) 
 - [【InfoQ】2021-03-07-技术人如何无障碍阅读官方文档？](https://www.ershicimi.com/p/5f92c99fcb36a3149485ff47c1619850) 
 - [【InfoQ】2021-03-07-量子机器学习-：IT-领域的下一件大事](https://www.ershicimi.com/p/614047c1f864f47a98528f2e76fd6e02) 
@@ -235,6 +240,8 @@
 - [【InfoQ】2021-03-01-达达集团高可用系统架构进化之路](https://www.ershicimi.com/p/1e6301a65da14d52e4f88384c8193b14) 
 - [【InfoQ】2021-03-01-当我们谈数字化转型时，我们在说什么](https://www.ershicimi.com/p/8dbdc0cbd745c71b60a2f6281bcdcd99) 
 - [【InfoQ】2021-03-01-React的未来：服务端组件](https://www.ershicimi.com/p/fea09e8e575698fc09edeb7f03aca162) 
+- [【JavaScript】2021-03-08-进大厂必会的Vue，你还没搞懂吗？](https://www.ershicimi.com/p/3b9469aac5f6961aba1b431602644437) 
+- [【JavaScript】2021-03-07-Deno-1.8-发布](https://www.ershicimi.com/p/7bf3841f9538defad4ae083c5127e605) 
 - [【JavaScript】2021-03-05-6个你可以马上使用的JavaScipt小技巧](https://www.ershicimi.com/p/3626a8d597f84773ff3b870d00ba8c79) 
 - [【JavaScript】2021-03-04-React面试必问Fiber和Hooks，一次解决](https://www.ershicimi.com/p/c326f772256b25d1466c7f954d154157) 
 - [【JavaScript】2021-03-03-你是一名优秀的前端工程师吗？](https://www.ershicimi.com/p/ee9c905d4e7cb403d7b111eb94d52c80) 

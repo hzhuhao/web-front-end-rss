@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-08 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-08 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -144,6 +144,7 @@
 - [2020-12-14-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/ce0ca64987136c4d684e2cfb2e9b20a0) 
 - [2020-09-24-从0到1用Node完成一个CLI工具](https://www.ershicimi.com/p/546b61b0a1bf0bcae2c3ef22fc5e8f30) 
 - [2020-08-08-node_modules-困境](https://www.ershicimi.com/p/9dccaca72958888247f975285c5059f2) 
+- [2021-03-08-2021年Node.js开发人员学习路线图](https://www.ershicimi.com/p/dd991e90459d7c3504b9c8f019f38867) 
 - [2021-02-25-抛弃V8参数适配器框架！JavaScript调用提速40%的实践](https://www.ershicimi.com/p/b45362e1ef00711758f768f2b6e4f806) 
 - [2021-02-18-15-个常见的-Node.js-面试问题及答案](https://www.ershicimi.com/p/28bf51b6e65a98ba0e0d667f97b27218) 
 - [2020-03-19-JavaScript-执行效率不行？因为你还没用-V8丨极客时间](https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f) 
