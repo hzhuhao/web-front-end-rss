@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-08 22:00:34。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-09 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -186,6 +186,7 @@
 - [【奇舞周刊】2021-03-02-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/ff4d4eb8af808c9cbddf22f594a97e33) 
 - [【奇舞周刊】2021-03-01-实战：Express-模拟-CSRF-攻击](https://www.ershicimi.com/p/df45c6b3647b1559a1ba5f3491b9a468) 
 - [【奇舞周刊】2021-03-01-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/9949f1e8dcfc3cca5b3879667d9327ed) 
+- [【前端日刊】2021-03-08-进大厂必会的Vue，你还没搞懂吗？](https://www.ershicimi.com/p/b9bead3a148b9c6e9ce92a0dd68e8472) 
 - [【前端日刊】2021-03-03-面试官：谈谈虚拟dom在Vue和React中的应用](https://www.ershicimi.com/p/fb8079a9d2d3d57ed387b22c88b3b6b4) 
 - [【互联网架构师】2021-03-08-17-张程序员专属壁纸，太太太太太太骚了…](https://www.ershicimi.com/p/0ad5607a388138bf5caf53c9a4caf36b) 
 - [【互联网架构师】2021-03-08-ZooKeeper、Eureka、Consul-、Nacos，微服务注册中心怎么选？](https://www.ershicimi.com/p/ccc84946267b80c1e4a605fff967b771) 
