@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-03-08 18:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-10 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-03-09-如何看待-70%-的程序员缺乏数据结构和算法知识？-｜-极客时间](https://www.ershicimi.com/p/6c36ac3d226a7b361cefbb9191bc9a0d) 
+- [2021-03-09-程序员必读的涨薪指南](https://www.ershicimi.com/p/fe090415bada714f39d98a89d1ad9e43) 
+- [2021-03-09-面对-996，耗子叔也是很刚了！-｜-极客时间](https://www.ershicimi.com/p/ce5b739a09ecd78373a47eba3e3822bf) 
+- [2021-03-09-为什么-Haskell-是我们构建生产软件系统的首选](https://www.ershicimi.com/p/bc84666d450adac1f898f3ec1e8ee535) 
+- [2021-03-09-揭秘新的供应链攻击：一研究员靠它成功入侵微软、苹果等-35-家科技公司](https://www.ershicimi.com/p/05f0bdae74c5eb6051b6bad67db86927) 
 - [2021-03-08-网易云醒醒吧，虾米都被“情怀”搞死了](https://www.ershicimi.com/p/7d0e6b1a2bf487e5ae91a4e6762b7006) 
 - [2021-03-08-2021年Node.js开发人员学习路线图](https://www.ershicimi.com/p/dd991e90459d7c3504b9c8f019f38867) 
 - [2021-03-08-队伍逐渐庞大，谁说女程序员是稀缺物种？|-附38节惊喜福利](https://www.ershicimi.com/p/aa85f6e1566a8b04f401004983a01069) 

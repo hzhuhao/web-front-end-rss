@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-09 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-10 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -136,6 +136,7 @@
 - [2016-04-07-Node读写Excel文件探究实践](https://aotu.io/notes/2016/04/07/node-excel/) 
 - [2016-02-24-Node-生产环境调试](https://aotu.io/notes/2016/02/24/node-debug-in-production/) 
 - [2015-12-23-【译】使用Node.js创建命令行脚本工具](https://aotu.io/notes/2015/12/23/building-command-line-tools-with-node-js/) 
+- [2021-03-09-Node.js-并发能力总结](https://www.ershicimi.com/p/9d64560d9d6993afebef990e08cee92b) 
 - [2021-03-01-实战：Express-模拟-CSRF-攻击](https://www.ershicimi.com/p/df45c6b3647b1559a1ba5f3491b9a468) 
 - [2021-02-03-Node-如何开发一个命令行工具](https://www.ershicimi.com/p/722fd10dbd2adcf728f10b3cf9b16b3b) 
 - [2021-01-07-node_modules-困境](https://www.ershicimi.com/p/d6339c9b33ebf720cbb5a915817e0d9b) 
