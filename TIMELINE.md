@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-12 12:00:24。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-12 22:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -247,6 +247,11 @@
 - [【互联网架构师】2021-03-01-“力挺Java！拒绝Python”9万程序员刷爆朋友圈……](https://www.ershicimi.com/p/89ddd06cec07d13a1b1e9db6d0560c70) 
 - [【互联网架构师】2021-03-01-校招毁约污点公司名录.pdf](https://www.ershicimi.com/p/f147b4f439b9a316bd2eb75c45d4bea4) 
 - [【互联网架构师】2021-03-01-27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构，彭博：Superstar](https://www.ershicimi.com/p/cda63e7bf8030fe04e75ee73b5fbf338) 
+- [【InfoQ】2021-03-12-损失惨重！数据中心失火，360万个网站下线，Rust游戏25台服务器数据永久丢失](https://www.ershicimi.com/p/d994499dbae1c07234f1dddde77e3a03) 
+- [【InfoQ】2021-03-12-“金三银四”，InfoQ-编程语言-3-月排行榜之求职面试篇开启投票](https://www.ershicimi.com/p/afac3732c2b238454c4ee1a795e77cbd) 
+- [【InfoQ】2021-03-12-面对不断增长的业务规模，如何打破前端效率瓶颈？](https://www.ershicimi.com/p/80df624a2165eea7d4eb7687563fd4f6) 
+- [【InfoQ】2021-03-12-前阿里-P9-华仔：成长和成事，是我快速晋升的关键-｜-GMTC](https://www.ershicimi.com/p/bb81d3625340a2ee0619694de6c26e25) 
+- [【InfoQ】2021-03-12-软件开发管理的-11-条真理](https://www.ershicimi.com/p/ffaaef6babc48fe88ce0e914030c62b1) 
 - [【InfoQ】2021-03-11-联想杨元庆：旗帜鲜明反对996，两会多位委员“声讨”企业长期加班现象](https://www.ershicimi.com/p/b78b05d4c86a619571c92b36cae0ad7f) 
 - [【InfoQ】2021-03-11-百亿级流量的百度搜索中台，是怎么做可观测性建设的？](https://www.ershicimi.com/p/2b70da10b3eed46b0ffaa22a0b07781e) 
 - [【InfoQ】2021-03-11-分析师：苹果最大的错误是没有收购-Netflix](https://www.ershicimi.com/p/41e7830e41bf4cfa9aa4413a943345a5) 

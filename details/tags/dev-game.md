@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-12 12:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-12 22:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 游戏开发
 
@@ -51,6 +51,7 @@
 - [2016-01-02-使用ThreeJS在浏览器中展示全景图](https://aotu.io/notes/2016/01/02/3D-panorama/) 
 - [2015-11-24-使用ThreeJS在浏览器中展示3D物件](https://aotu.io/notes/2015/11/24/3D-CleaningCream/) 
 - [2020-08-11-Chrome-的小恐龙游戏，被我破解了...](https://www.ershicimi.com/p/3730a93bc041ddb6d24663ae9640e4c0) 
+- [2021-03-12-损失惨重！数据中心失火，360万个网站下线，Rust游戏25台服务器数据永久丢失](https://www.ershicimi.com/p/d994499dbae1c07234f1dddde77e3a03) 
 - [2021-03-04-字节游戏疯狂砸钱，头腾大战越打越烈](https://www.ershicimi.com/p/7c7b31191120a5871d13781edf50d70f) 
 - [2020-08-19-苹果报复腾讯持股游戏商：全面封杀Epic-Games，祸及大量开发者](https://www.ershicimi.com/p/2b13a0a3c8e29ed8f24bfe731e5d1a42) 
 - [2020-04-25-GitHub多次严重宕机，微软未回应；百度网盘道歉：取消用户奖励计划；王思聪接单游戏陪玩，666元/](https://www.ershicimi.com/p/9e2cce75c57d3b1d344f34a04f9320e4) 
