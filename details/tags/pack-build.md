@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-13 18:00:27。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-13 22:00:28。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -116,6 +116,7 @@
 - [2020-11-30-如何构建一个可靠的分布式系统？](https://www.ershicimi.com/p/c88f766db7e78e81a7af763191eaa5bf) 
 - [2020-11-27-架构师成长计划｜如何利用云原生构建一个企业级高可用架构？](https://www.ershicimi.com/p/78b3f12c8db850f63bc1d2be87431b8c) 
 - [2020-03-25-Java项目构建基础：统一结果，统一异常，统一日志](https://www.ershicimi.com/p/e96c39260684a49f9468f2fb54649c0d) 
+- [2021-03-13-构建开发工具正当时](https://www.ershicimi.com/p/03306556696142e69df0d110d31e623f) 
 - [2021-03-09-为什么-Haskell-是我们构建生产软件系统的首选](https://www.ershicimi.com/p/bc84666d450adac1f898f3ec1e8ee535) 
 - [2021-02-22-在-NVIDIA-的-GPU-中构建高速计算的大脑，带-Python-玩的那种-｜-Q推荐](https://www.ershicimi.com/p/72303fe5bf532e899ff80d1652cfee69) 
 - [2021-02-09-Netflix之后，如何用Spring-Cloud-新组件构建微服务架构？](https://www.ershicimi.com/p/092a1fbfc620a0a300af1735fbf1e508) 

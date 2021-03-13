@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-13 18:00:27，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-13 22:00:28，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -27,8 +27,8 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [InfoQ](#infoq)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -411,6 +411,10 @@
 </summary>
 
 
+- [2021-03-13-胡晓明辞任蚂蚁集团CEO；人大代表建议春节假期延长至10天；阿里飞猪一员工涉案66亿，非法获利千万](https://www.ershicimi.com/p/39742290d56acf129d409d7785f490f2) ![](assets/new.png)  
+- [2021-03-13-Lyft如何将100+前端微服务迁移到Next.js](https://www.ershicimi.com/p/6f177add975fe37e82abeb70112a7a85) ![](assets/new.png)  
+- [2021-03-13-物联网是互联网发展的必然趋势吗？|-极客时间](https://www.ershicimi.com/p/867c90147620a0bb87f77168f6dc2fde) ![](assets/new.png)  
+- [2021-03-13-构建开发工具正当时](https://www.ershicimi.com/p/03306556696142e69df0d110d31e623f) ![](assets/new.png)  
 - [2021-03-12-损失惨重！数据中心失火，360万个网站下线，Rust游戏25台服务器数据永久丢失](https://www.ershicimi.com/p/d994499dbae1c07234f1dddde77e3a03)  
 - [2021-03-12-“金三银四”，InfoQ-编程语言-3-月排行榜之求职面试篇开启投票](https://www.ershicimi.com/p/afac3732c2b238454c4ee1a795e77cbd)  
 - [2021-03-12-面对不断增长的业务规模，如何打破前端效率瓶颈？](https://www.ershicimi.com/p/80df624a2165eea7d4eb7687563fd4f6)  
@@ -427,10 +431,6 @@
 - [2021-03-10-RedMonk编程语言排名：JS占据统治地位，Ruby持续下滑，Dart上升最多](https://www.ershicimi.com/p/ea19821caf9d163623c54e8f864939f0)  
 - [2021-03-10-Dropbox-如何通过机器学习每年节省-170-万美元的？](https://www.ershicimi.com/p/995e98a6d0b04e91d8e61e2414c9f1b0)  
 - [2021-03-09-如何看待-70%-的程序员缺乏数据结构和算法知识？-｜-极客时间](https://www.ershicimi.com/p/6c36ac3d226a7b361cefbb9191bc9a0d)  
-- [2021-03-09-程序员必读的涨薪指南](https://www.ershicimi.com/p/fe090415bada714f39d98a89d1ad9e43)  
-- [2021-03-09-面对-996，耗子叔也是很刚了！-｜-极客时间](https://www.ershicimi.com/p/ce5b739a09ecd78373a47eba3e3822bf)  
-- [2021-03-09-为什么-Haskell-是我们构建生产软件系统的首选](https://www.ershicimi.com/p/bc84666d450adac1f898f3ec1e8ee535)  
-- [2021-03-09-揭秘新的供应链攻击：一研究员靠它成功入侵微软、苹果等-35-家科技公司](https://www.ershicimi.com/p/05f0bdae74c5eb6051b6bad67db86927)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -442,7 +442,7 @@
 </summary>
 
 
-- [2021-03-12-我差点因为在企业应用中选择-React-而被解雇](https://www.ershicimi.com/p/8ccdb4b77717a1cd9c67cc471363bbb9) ![](assets/new.png)  
+- [2021-03-12-我差点因为在企业应用中选择-React-而被解雇](https://www.ershicimi.com/p/8ccdb4b77717a1cd9c67cc471363bbb9)  
 - [2021-03-11-Vue-和-React-大厂面试通关指南.pdf](https://www.ershicimi.com/p/592906887586dd3bfd8a90a767da64f9)  
 - [2021-03-10-大家晚饭一般都花多少钱，在哪儿吃？](https://www.ershicimi.com/p/f911b3f0c47a70d4b24c1d2aad896865)  
 - [2021-03-09-如何检查JavaScript对象上是否存在一个属性？](https://www.ershicimi.com/p/bafd480e057135780211caa067ff66c6)  
