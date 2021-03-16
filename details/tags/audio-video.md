@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-15 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 12:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 音视频相关
 
@@ -78,6 +78,7 @@
 - [2020-01-16-腾讯最新开源内部跨端框架Hippy，QQ、腾讯视频等18项业务都在用](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484397&idx=1&sn=e6fe2b03a3b998e618ee097e656bd177&chksm=eb1cc607dc6b4f11402459391173d1ad329d275fe32fb7cae68e395c25134d1b79018228057c&scene=27#wechat_redirect) 
 - [2020-12-05-太牛逼了！这个开源项目，可以把我从视频中移除！](https://www.ershicimi.com/p/2bab087cd25447120f536e94d84dc9b1) 
 - [2020-03-14-Github-3.4k星，200余行代码，让你实时从视频中隐身](https://www.ershicimi.com/p/fbb11f083b57af2576eedde5b761fefa) 
+- [2021-03-15-又到315，实时音视频行业“入学避坑”测试题出炉了](https://www.ershicimi.com/p/c04ad5cc7688df7d0375580cb1715aaf) 
 - [2021-03-06-短视频风口，如何实现快速变现？](https://www.ershicimi.com/p/36a3d02e9ada682359d6b89704ce1a27) 
 - [2021-03-05-字节、美团、阿里等国内大公司的200+技术干货视频，任你选](https://www.ershicimi.com/p/2a878a17a49230bcd0dd6373c99c479d) 
 - [2021-02-28-今日直播-|-数字化变革阶段，如何打造10倍速IT团队？](https://www.ershicimi.com/p/5b26216802d8504322be2fed7fa8ae3f) 

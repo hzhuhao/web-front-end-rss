@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-15 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-16 12:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -71,6 +71,7 @@
 - [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) 
 - [2021-03-05-奇舞周刊第-387-期：Flutter-2-正式发布！](https://www.ershicimi.com/p/5533893e6b61a9dfdfc81e42caf60af2) 
 - [2021-01-02-阿里中台搞了3年，凉了？网传：副总裁玄难“背锅”，辞职创业！咸鱼放弃维护-Flutter!](https://www.ershicimi.com/p/afb12c1dba75c8727465bb608dbe28b9) 
+- [2021-03-15-Flutter将成为未来Ubuntu应用程序的默认选择](https://www.ershicimi.com/p/fb477a0afd591cb309adb72658806432) 
 - [2021-03-05-Flutter-2.0来了！成为跨平台开发终极之选](https://www.ershicimi.com/p/1881551658c01625bb78837d0b3869a8) 
 - [2021-01-27-飞猪Flutter技术演进及业务改造实践](https://www.ershicimi.com/p/94c47d077a34f32a7f0a8cc8c9f4e152) 
 - [2021-01-23-网易北京一员工核酸检测阳性，全员居家办公；Flutter成功在鸿蒙上运行；蚂蚁否认阿里股权无偿划转浙](https://www.ershicimi.com/p/e6b8893d008db678cf4598179e0ae55f) 
