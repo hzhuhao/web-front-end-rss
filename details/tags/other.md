@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-19 22:01:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-20 06:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -1562,6 +1562,8 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2021-03-19-23-种设计模式的通俗解释，虽然有点污，但是秒懂](https://www.ershicimi.com/p/9e9a49d78209cc1b00a799e7f52d3665) 
+- [2021-03-19-拼多多大跌超12%！拼多多超越阿里成为第一,黄峥辞任董事长，超级投票权失效，承诺三年不减持…未来去当](https://www.ershicimi.com/p/08d2ad87e23d60d418a8cb5316d57b2c) 
 - [2021-03-18-工作-10-年后，我突然决定读硕士了！](https://www.ershicimi.com/p/52e7cd9dc690fb5868d1314137fd0bd4) 
 - [2021-03-18-换掉-Maven，我用它！！！](https://www.ershicimi.com/p/822c01190b3031bbcb86a98019ef29ee) 
 - [2021-03-18-为什么-ConcurrentHashMap-的读操作不需要加锁？](https://www.ershicimi.com/p/ba8d80919e838f0fe7178556bea45639) 
@@ -2091,6 +2093,10 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2021-03-19-网易严选数据湖建设实践](https://www.ershicimi.com/p/1a2876d5d8792c2bb9d20b6961c91428) 
+- [2021-03-19-快手：如何又快又好的做一个高耦合App](https://www.ershicimi.com/p/4d72f49481f589da6bb77dfaec522be1) 
+- [2021-03-19-程序员最容易忽略的10大软件开发定律](https://www.ershicimi.com/p/800d24ddaafb3aa1b633ea4f4ae09d93) 
+- [2021-03-19-你可能用错了-Kafka-的重试机制](https://www.ershicimi.com/p/5fbe404d4a6105807f1ce1aad6ce6f6a) 
 - [2021-03-18-拼多多用户逼近8亿反超阿里后，黄峥急流勇退](https://www.ershicimi.com/p/8162a4861bef24012bebcfd13b7a69dc) 
 - [2021-03-18-技术转管理？这些坑你可要注意了-｜-极客时间](https://www.ershicimi.com/p/5bd527d62c1c9a9f9470ea0f095f7914) 
 - [2021-03-18-Java-16-正式发布，新特性全面解析](https://www.ershicimi.com/p/38ca047b69e72de8947d4e08f4d26d3e) 

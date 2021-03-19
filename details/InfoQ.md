@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-03-19 12:00:34。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-20 06:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-03-19-缓存踩踏：Facebook-史上最严重的宕机事件分析](https://www.ershicimi.com/p/3bb2c480b34e82ddaa402456af5d8d2e) 
+- [2021-03-19-网易严选数据湖建设实践](https://www.ershicimi.com/p/1a2876d5d8792c2bb9d20b6961c91428) 
+- [2021-03-19-快手：如何又快又好的做一个高耦合App](https://www.ershicimi.com/p/4d72f49481f589da6bb77dfaec522be1) 
+- [2021-03-19-程序员最容易忽略的10大软件开发定律](https://www.ershicimi.com/p/800d24ddaafb3aa1b633ea4f4ae09d93) 
+- [2021-03-19-你可能用错了-Kafka-的重试机制](https://www.ershicimi.com/p/5fbe404d4a6105807f1ce1aad6ce6f6a) 
 - [2021-03-18-拼多多用户逼近8亿反超阿里后，黄峥急流勇退](https://www.ershicimi.com/p/8162a4861bef24012bebcfd13b7a69dc) 
 - [2021-03-18-技术转管理？这些坑你可要注意了-｜-极客时间](https://www.ershicimi.com/p/5bd527d62c1c9a9f9470ea0f095f7914) 
 - [2021-03-18-Java-16-正式发布，新特性全面解析](https://www.ershicimi.com/p/38ca047b69e72de8947d4e08f4d26d3e) 

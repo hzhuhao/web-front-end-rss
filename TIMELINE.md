@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-19 22:01:57。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-20 06:00:30。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -234,6 +234,7 @@
 - [【阮一峰的网络日志】2021-03-19-科技爱好者周刊（第-150-期）：当音乐还是稀缺的时候](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-150.html) 
 - [【阮一峰的网络日志】2021-03-12-科技爱好者周刊（第-149-期）：新能源汽车，谁会是赢家？](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-149.html) 
 - [【阮一峰的网络日志】2021-03-05-科技爱好者周刊（第-148-期）：微增长时代](http://www.ruanyifeng.com/blog/2021/03/weekly-issue-148.html) 
+- [【奇舞周刊】2021-03-19-奇舞周刊第-389-期：深入剖析-QuickJS](https://www.ershicimi.com/p/12e31129357ed9d62a8c995f4569b946) 
 - [【奇舞周刊】2021-03-18-「react进阶」一文吃透React高阶组件HOC](https://www.ershicimi.com/p/bc882096cb903689c2d878ac25e0baaa) 
 - [【奇舞周刊】2021-03-18-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/b6a0db93823ba7b8096e2a26de8e4127) 
 - [【奇舞周刊】2021-03-17-多金的ToG项目总结——数字人民币](https://www.ershicimi.com/p/c51036cd4a604de22f3a34593e619166) 
@@ -265,6 +266,9 @@
 - [【前端日刊】2021-03-09-作为前端开发，Node.js-你得了解下～](https://www.ershicimi.com/p/0f3e9093221929dddea3c6dd757ae61b) 
 - [【前端日刊】2021-03-08-进大厂必会的Vue，你还没搞懂吗？](https://www.ershicimi.com/p/b9bead3a148b9c6e9ce92a0dd68e8472) 
 - [【前端日刊】2021-03-03-面试官：谈谈虚拟dom在Vue和React中的应用](https://www.ershicimi.com/p/fb8079a9d2d3d57ed387b22c88b3b6b4) 
+- [【互联网架构师】2021-03-19-23-种设计模式的通俗解释，虽然有点污，但是秒懂](https://www.ershicimi.com/p/9e9a49d78209cc1b00a799e7f52d3665) 
+- [【互联网架构师】2021-03-19-拼多多大跌超12%！拼多多超越阿里成为第一,黄峥辞任董事长，超级投票权失效，承诺三年不减持…未来去当](https://www.ershicimi.com/p/08d2ad87e23d60d418a8cb5316d57b2c) 
+- [【互联网架构师】2021-03-19-2021-最新-Java-面试题出炉！（带全部答案）](https://www.ershicimi.com/p/129f450c29439fc7a86888e266c61a13) 
 - [【互联网架构师】2021-03-18-工作-10-年后，我突然决定读硕士了！](https://www.ershicimi.com/p/52e7cd9dc690fb5868d1314137fd0bd4) 
 - [【互联网架构师】2021-03-18-换掉-Maven，我用它！！！](https://www.ershicimi.com/p/822c01190b3031bbcb86a98019ef29ee) 
 - [【互联网架构师】2021-03-18-为什么-ConcurrentHashMap-的读操作不需要加锁？](https://www.ershicimi.com/p/ba8d80919e838f0fe7178556bea45639) 
@@ -319,6 +323,11 @@
 - [【互联网架构师】2021-03-01-“力挺Java！拒绝Python”9万程序员刷爆朋友圈……](https://www.ershicimi.com/p/89ddd06cec07d13a1b1e9db6d0560c70) 
 - [【互联网架构师】2021-03-01-校招毁约污点公司名录.pdf](https://www.ershicimi.com/p/f147b4f439b9a316bd2eb75c45d4bea4) 
 - [【互联网架构师】2021-03-01-27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构，彭博：Superstar](https://www.ershicimi.com/p/cda63e7bf8030fe04e75ee73b5fbf338) 
+- [【InfoQ】2021-03-19-缓存踩踏：Facebook-史上最严重的宕机事件分析](https://www.ershicimi.com/p/3bb2c480b34e82ddaa402456af5d8d2e) 
+- [【InfoQ】2021-03-19-网易严选数据湖建设实践](https://www.ershicimi.com/p/1a2876d5d8792c2bb9d20b6961c91428) 
+- [【InfoQ】2021-03-19-快手：如何又快又好的做一个高耦合App](https://www.ershicimi.com/p/4d72f49481f589da6bb77dfaec522be1) 
+- [【InfoQ】2021-03-19-程序员最容易忽略的10大软件开发定律](https://www.ershicimi.com/p/800d24ddaafb3aa1b633ea4f4ae09d93) 
+- [【InfoQ】2021-03-19-你可能用错了-Kafka-的重试机制](https://www.ershicimi.com/p/5fbe404d4a6105807f1ce1aad6ce6f6a) 
 - [【InfoQ】2021-03-18-拼多多用户逼近8亿反超阿里后，黄峥急流勇退](https://www.ershicimi.com/p/8162a4861bef24012bebcfd13b7a69dc) 
 - [【InfoQ】2021-03-18-技术转管理？这些坑你可要注意了-｜-极客时间](https://www.ershicimi.com/p/5bd527d62c1c9a9f9470ea0f095f7914) 
 - [【InfoQ】2021-03-18-Java-16-正式发布，新特性全面解析](https://www.ershicimi.com/p/38ca047b69e72de8947d4e08f4d26d3e) 

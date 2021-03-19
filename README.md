@@ -11,24 +11,24 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-19 22:01:57，:rocket: 更新条数: +4， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-20 06:00:30，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
 - [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)![](assets/dot.png)   
+- [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)  
+- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -101,9 +101,9 @@
 </summary>
 
 
-- [2021-03-17-软件开发管理的11条真理](https://www.ershicimi.com/p/1d7d22ce8bcfa7afd3765cb011f93045) ![](assets/new.png)  
-- [2021-03-17-老旧的API，你应该如何处理？](https://www.ershicimi.com/p/9127522a845a0ca3bfedf8c4af6c11a5) ![](assets/new.png)  
-- [2021-03-17-两天快速开发一个自己的微信小程序-|-活动推荐](https://www.ershicimi.com/p/9f75c8284a5be9e0abc40de5a3001e08) ![](assets/new.png)  
+- [2021-03-17-软件开发管理的11条真理](https://www.ershicimi.com/p/1d7d22ce8bcfa7afd3765cb011f93045)  
+- [2021-03-17-老旧的API，你应该如何处理？](https://www.ershicimi.com/p/9127522a845a0ca3bfedf8c4af6c11a5)  
+- [2021-03-17-两天快速开发一个自己的微信小程序-|-活动推荐](https://www.ershicimi.com/p/9f75c8284a5be9e0abc40de5a3001e08)  
 - [2021-03-15-前端开发者必备的12个工具](https://www.ershicimi.com/p/3885f01ef5e406fb892c633b218f1ba6)  
 - [2021-03-15-面对不断增长的业务规模，如何打破前端效率瓶颈？|-GMTC](https://www.ershicimi.com/p/36dc5dd520b5ab8d49f675e0cdf309f8)  
 - [2021-03-14-TypeScript-手册重写发布；阿里内网离职帖引热议，员工吐槽人不如驴；联想-CEO-支持反对](https://www.ershicimi.com/p/73f64139ac2d21e4ae53a24a6e78ad9d)  
@@ -318,6 +318,7 @@
 </summary>
 
 
+- [2021-03-19-奇舞周刊第-389-期：深入剖析-QuickJS](https://www.ershicimi.com/p/12e31129357ed9d62a8c995f4569b946) ![](assets/new.png)  
 - [2021-03-18-「react进阶」一文吃透React高阶组件HOC](https://www.ershicimi.com/p/bc882096cb903689c2d878ac25e0baaa)  
 - [2021-03-18-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/b6a0db93823ba7b8096e2a26de8e4127)  
 - [2021-03-17-多金的ToG项目总结——数字人民币](https://www.ershicimi.com/p/c51036cd4a604de22f3a34593e619166)  
@@ -337,7 +338,6 @@
 - [2021-03-08-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/513030b370c08f33d5d974a5c4a4b569)  
 - [2021-03-05-奇舞周刊第-387-期：Flutter-2-正式发布！](https://www.ershicimi.com/p/5533893e6b61a9dfdfc81e42caf60af2)  
 - [2021-03-04-如何编写神奇的「插件机制」，优化基于-Antd-Table-封装表格的混乱代码](https://www.ershicimi.com/p/a57d1f4c1aa7aa3139593df6b59f94c9)  
-- [2021-03-04-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/0c1b1f53a84a5f700141ac76050d33df)  
 - [......【查看更多】......](./details/奇舞周刊.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,6 +380,9 @@
 </summary>
 
 
+- [2021-03-19-23-种设计模式的通俗解释，虽然有点污，但是秒懂](https://www.ershicimi.com/p/9e9a49d78209cc1b00a799e7f52d3665) ![](assets/new.png)  
+- [2021-03-19-拼多多大跌超12%！拼多多超越阿里成为第一,黄峥辞任董事长，超级投票权失效，承诺三年不减持…未来去当](https://www.ershicimi.com/p/08d2ad87e23d60d418a8cb5316d57b2c) ![](assets/new.png)  
+- [2021-03-19-2021-最新-Java-面试题出炉！（带全部答案）](https://www.ershicimi.com/p/129f450c29439fc7a86888e266c61a13) ![](assets/new.png)  
 - [2021-03-18-工作-10-年后，我突然决定读硕士了！](https://www.ershicimi.com/p/52e7cd9dc690fb5868d1314137fd0bd4)  
 - [2021-03-18-换掉-Maven，我用它！！！](https://www.ershicimi.com/p/822c01190b3031bbcb86a98019ef29ee)  
 - [2021-03-18-为什么-ConcurrentHashMap-的读操作不需要加锁？](https://www.ershicimi.com/p/ba8d80919e838f0fe7178556bea45639)  
@@ -397,9 +400,6 @@
 - [2021-03-14-开发者用-M1-挖矿，每天挣-1-块钱（代码已开源）](https://www.ershicimi.com/p/527705652b50092264949da29fc5a245)  
 - [2021-03-13-MySQL-默认最大连接数是多少？](https://www.ershicimi.com/p/e91d44400cbe1efcde87dc0edcd1533a)  
 - [2021-03-13-Spring-Boot-学习笔记，这个太全了！](https://www.ershicimi.com/p/d700baa3aa94b874041edb8ae91c2cec)  
-- [2021-03-13-弹窗广告关不掉？工信部：用这个方法举报！](https://www.ershicimi.com/p/323530fbc67ab0e85228054dee2ddb3f)  
-- [2021-03-12-三年白干！程序员孙某因违反《竞业协议》赔偿腾讯-97.6-万元，返还-15.8-万元](https://www.ershicimi.com/p/8da63b425f1c43c1a0e7983dcc708e06)  
-- [2021-03-12-再见-FTP/SFTP！是时候拥抱下一代文件传输利器-Croc-了！](https://www.ershicimi.com/p/baf0b51671f1ed8a40c6658c5dc41c3e)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,6 +411,11 @@
 </summary>
 
 
+- [2021-03-19-缓存踩踏：Facebook-史上最严重的宕机事件分析](https://www.ershicimi.com/p/3bb2c480b34e82ddaa402456af5d8d2e) ![](assets/new.png)  
+- [2021-03-19-网易严选数据湖建设实践](https://www.ershicimi.com/p/1a2876d5d8792c2bb9d20b6961c91428) ![](assets/new.png)  
+- [2021-03-19-快手：如何又快又好的做一个高耦合App](https://www.ershicimi.com/p/4d72f49481f589da6bb77dfaec522be1) ![](assets/new.png)  
+- [2021-03-19-程序员最容易忽略的10大软件开发定律](https://www.ershicimi.com/p/800d24ddaafb3aa1b633ea4f4ae09d93) ![](assets/new.png)  
+- [2021-03-19-你可能用错了-Kafka-的重试机制](https://www.ershicimi.com/p/5fbe404d4a6105807f1ce1aad6ce6f6a) ![](assets/new.png)  
 - [2021-03-18-拼多多用户逼近8亿反超阿里后，黄峥急流勇退](https://www.ershicimi.com/p/8162a4861bef24012bebcfd13b7a69dc)  
 - [2021-03-18-技术转管理？这些坑你可要注意了-｜-极客时间](https://www.ershicimi.com/p/5bd527d62c1c9a9f9470ea0f095f7914)  
 - [2021-03-18-Java-16-正式发布，新特性全面解析](https://www.ershicimi.com/p/38ca047b69e72de8947d4e08f4d26d3e)  
@@ -426,11 +431,6 @@
 - [2021-03-16-低代码开发，老树开新芽？](https://www.ershicimi.com/p/ebd68ac4b986983c6704522a8454be41)  
 - [2021-03-16-基础架构即代码是什么意思？](https://www.ershicimi.com/p/c6dbeda18754edbbd7cce0ce72908e9c)  
 - [2021-03-16-要改掉的10种TypeScript-坏习惯](https://www.ershicimi.com/p/e08ff5d1d685d8029013e49c1c028e2d)  
-- [2021-03-15-卖鞋月入5万、玩抖音买“大奔”：有些程序员收入靠副业，上班只为自律](https://www.ershicimi.com/p/618e7483f19718ef6b9b0b99ba8f7281)  
-- [2021-03-15-中国开发者最值得加入的公司有哪些？InfoQ-2021-最具吸引力雇主品牌榜单来啦](https://www.ershicimi.com/p/3ba4f1adebf455cb214e1850ee0e53c3)  
-- [2021-03-15-又到315，实时音视频行业“入学避坑”测试题出炉了](https://www.ershicimi.com/p/c04ad5cc7688df7d0375580cb1715aaf)  
-- [2021-03-15-90%-的程序员，都不懂计算机是怎么工作的-｜-极客时间](https://www.ershicimi.com/p/99ca1a177d8f1277132cb2d78dd1b83a)  
-- [2021-03-15-Flutter将成为未来Ubuntu应用程序的默认选择](https://www.ershicimi.com/p/fb477a0afd591cb309adb72658806432)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -442,7 +442,7 @@
 </summary>
 
 
-- [2021-03-19-周五了，随机送书，每个6本，共12本](https://www.ershicimi.com/p/ad8d24088122eecdfc362ec6cba6e8a7) ![](assets/new.png)  
+- [2021-03-19-周五了，随机送书，每个6本，共12本](https://www.ershicimi.com/p/ad8d24088122eecdfc362ec6cba6e8a7)  
 - [2021-03-18-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/8c26ee1fb7b2b09e2bc0e1825cd88896)  
 - [2021-03-17-ECMAScript®2021-语言规范](https://www.ershicimi.com/p/3bb5d916ce0142153d089cecb55f1388)  
 - [2021-03-16-Electron-12.0.0-发布](https://www.ershicimi.com/p/bef6042bbb6ec69205f21a0b3222869f)  

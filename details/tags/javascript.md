@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-19 22:01:57。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-20 06:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -498,6 +498,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2021-03-19-奇舞周刊第-389-期：深入剖析-QuickJS](https://www.ershicimi.com/p/12e31129357ed9d62a8c995f4569b946) 
 - [2021-03-15-使用JavaScript开发一个Photoshop插件](https://www.ershicimi.com/p/9aea155c7eaec3bb97e0bb6f4c430bac) 
 - [2021-03-10-可视化拖拽组件库一些技术要点原理分析（三）](https://www.ershicimi.com/p/e58567dd33121d51a1d938024f25b437) 
 - [2021-02-24-可视化拖拽组件库一些技术要点原理分析（二）](https://www.ershicimi.com/p/b7bccdc930a3778b93950179e022c7e1) 
@@ -555,6 +556,7 @@
 - [2020-01-11-Spring-Boot-异步请求和异步调用，一文搞定！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489604&idx=4&sn=3d59e8b9967a47c051bed1314fbd6403&chksm=ea5cd522dd2b5c34ec8f866eba30f5fb97583c693b0da5dc3102bf5990d494b7d63905f55fbf&scene=27#wechat_redirect) 
 - [2020-01-08-JVM-性能调优监控工具-jps、jstack、jmap、jhat、jstat、hprof-使用详解](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489552&idx=2&sn=e2caa61b1d6848309925cff45629d5d8&chksm=ea5cd576dd2b5c6055f1fac0cb3ee1b05971534daf7b9f82eb17e1c8436b9541be25598d2707&scene=27#wechat_redirect) 
 - [2020-01-04-Java-并发异步编程，原来十个接口的活现在只需要一个接口就搞定!](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489518&idx=1&sn=04bf242d2811be628ff8db49ba0a8147&chksm=ea5cda88dd2b539e217024cacebd4a929116e983a09537d686fd7362d308d8829ab0ce314aa5&scene=27#wechat_redirect) 
+- [2021-03-19-缓存踩踏：Facebook-史上最严重的宕机事件分析](https://www.ershicimi.com/p/3bb2c480b34e82ddaa402456af5d8d2e) 
 - [2021-03-13-Lyft如何将100+前端微服务迁移到Next.js](https://www.ershicimi.com/p/6f177add975fe37e82abeb70112a7a85) 
 - [2021-03-10-RedMonk编程语言排名：JS占据统治地位，Ruby持续下滑，Dart上升最多](https://www.ershicimi.com/p/ea19821caf9d163623c54e8f864939f0) 
 - [2021-02-25-低代码开发平台缺失的5个关键组件](https://www.ershicimi.com/p/0c2ea2e55c6075fa423c6e21ea8cffce) 
