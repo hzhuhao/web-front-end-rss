@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-21 22:00:13，:rocket: 更新条数: +1， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-22 06:00:21，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -27,8 +27,8 @@
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)  
-- [JavaScript](#javascript)![](assets/dot.png)   
+- [InfoQ](#infoq)![](assets/dot.png)   
+- [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
 ## 文章链接
@@ -411,6 +411,14 @@
 </summary>
 
 
+- [2021-03-21-纵观20年间程序员薪酬变化：涨幅下降，初级编码岗大幅消失](https://www.ershicimi.com/p/28275b65c8b6bc6df87085266b033d53) ![](assets/new.png)  
+- [2021-03-21-Angular、React-和-Vue-三大框架，Web-开发该如何选择？](https://www.ershicimi.com/p/70f5f659cbe2e267a9e9c71e98e8cd95) ![](assets/new.png)  
+- [2021-03-21-Linux-操作系统太难？先爬过这-6-个陡坡-｜-极客时间](https://www.ershicimi.com/p/93bb64f9cca48ad77411c901c5b084a7) ![](assets/new.png)  
+- [2021-03-21-架构转型之痛：开发运维割裂，云原生也不是万金油](https://www.ershicimi.com/p/8e66ef812e01acb41e7b01a1da7ab49f) ![](assets/new.png)  
+- [2021-03-20-腾讯技术Leader人均写3万行代码；拼多多超越阿里成为第一；360搜索、UC浏览器因虚假医药广告被](https://www.ershicimi.com/p/e41ed4c960e68a7d98a58e8b70ff9896) ![](assets/new.png)  
+- [2021-03-20-迈向Flutter深水区：美团外卖Web-App一体化架构实践](https://www.ershicimi.com/p/5e81692bce3e1a330cbc7011b6418a58) ![](assets/new.png)  
+- [2021-03-20-2020年Go开发者调查：支持泛型仍是核心需求](https://www.ershicimi.com/p/6d921a2f72a9c63c58602a8372bab0c8) ![](assets/new.png)  
+- [2021-03-20-内容系统服务的三个架构原则和操作范式](https://www.ershicimi.com/p/82b307bdd5cf14faae07ac6d5759a346) ![](assets/new.png)  
 - [2021-03-19-缓存踩踏：Facebook-史上最严重的宕机事件分析](https://www.ershicimi.com/p/3bb2c480b34e82ddaa402456af5d8d2e)  
 - [2021-03-19-网易严选数据湖建设实践](https://www.ershicimi.com/p/1a2876d5d8792c2bb9d20b6961c91428)  
 - [2021-03-19-快手：如何又快又好的做一个高耦合App](https://www.ershicimi.com/p/4d72f49481f589da6bb77dfaec522be1)  
@@ -423,14 +431,6 @@
 - [2021-03-18-推荐一些热门的DevOps工具](https://www.ershicimi.com/p/0f1390eb200fb554f9fa33c89ba07a3b)  
 - [2021-03-17-对话中国移动：支撑数亿用户的基础设施如何实施云原生改造？](https://www.ershicimi.com/p/d76efb76064f5cd31f945e558a006a2b)  
 - [2021-03-17-这个-Redis-问题画像，干掉了一摞简历-｜-极客时间](https://www.ershicimi.com/p/cd4dd3aa5cd759560b635c64d3c0cf23)  
-- [2021-03-17-一次几乎不可能的数据库迁移](https://www.ershicimi.com/p/e2859c6b6a3a6f5152169e19cd8347eb)  
-- [2021-03-17-架构师成功沟通的三个关键](https://www.ershicimi.com/p/275f747a7db460a814e2702cfc6e162d)  
-- [2021-03-17-Docker-起死回生了](https://www.ershicimi.com/p/7539772073077c09281d3b8581ff39d1)  
-- [2021-03-16-毕业-2-年成为首席架构师，他是怎么做到的？-｜-极客时间](https://www.ershicimi.com/p/b14642173c3fa31eb8f1aa8a982557ea)  
-- [2021-03-16-盘点世界上最奇怪的6种编程语言](https://www.ershicimi.com/p/f38878264bd92242c77228d5e6ec1d69)  
-- [2021-03-16-低代码开发，老树开新芽？](https://www.ershicimi.com/p/ebd68ac4b986983c6704522a8454be41)  
-- [2021-03-16-基础架构即代码是什么意思？](https://www.ershicimi.com/p/c6dbeda18754edbbd7cce0ce72908e9c)  
-- [2021-03-16-要改掉的10种TypeScript-坏习惯](https://www.ershicimi.com/p/e08ff5d1d685d8029013e49c1c028e2d)  
 - [......【查看更多】......](./details/InfoQ.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -442,7 +442,7 @@
 </summary>
 
 
-- [2021-03-21-Node.js-15.12.0-正式发布](https://www.ershicimi.com/p/1d2fa3fcba57fac3544a88b1aeadb39c) ![](assets/new.png)  
+- [2021-03-21-Node.js-15.12.0-正式发布](https://www.ershicimi.com/p/1d2fa3fcba57fac3544a88b1aeadb39c)  
 - [2021-03-20-V8（JavaScript-引擎）-v9.0-发布](https://www.ershicimi.com/p/a5db8fc9ede3ed3f2bb4d3986abc0ab9)  
 - [2021-03-19-周五了，随机送书，每个6本，共12本](https://www.ershicimi.com/p/ad8d24088122eecdfc362ec6cba6e8a7)  
 - [2021-03-18-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/8c26ee1fb7b2b09e2bc0e1825cd88896)  

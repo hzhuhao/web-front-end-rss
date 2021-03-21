@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 22:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-22 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2100,6 +2100,11 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2021-03-21-纵观20年间程序员薪酬变化：涨幅下降，初级编码岗大幅消失](https://www.ershicimi.com/p/28275b65c8b6bc6df87085266b033d53) 
+- [2021-03-21-Linux-操作系统太难？先爬过这-6-个陡坡-｜-极客时间](https://www.ershicimi.com/p/93bb64f9cca48ad77411c901c5b084a7) 
+- [2021-03-21-架构转型之痛：开发运维割裂，云原生也不是万金油](https://www.ershicimi.com/p/8e66ef812e01acb41e7b01a1da7ab49f) 
+- [2021-03-20-2020年Go开发者调查：支持泛型仍是核心需求](https://www.ershicimi.com/p/6d921a2f72a9c63c58602a8372bab0c8) 
+- [2021-03-20-内容系统服务的三个架构原则和操作范式](https://www.ershicimi.com/p/82b307bdd5cf14faae07ac6d5759a346) 
 - [2021-03-19-网易严选数据湖建设实践](https://www.ershicimi.com/p/1a2876d5d8792c2bb9d20b6961c91428) 
 - [2021-03-19-快手：如何又快又好的做一个高耦合App](https://www.ershicimi.com/p/4d72f49481f589da6bb77dfaec522be1) 
 - [2021-03-19-程序员最容易忽略的10大软件开发定律](https://www.ershicimi.com/p/800d24ddaafb3aa1b633ea4f4ae09d93) 
