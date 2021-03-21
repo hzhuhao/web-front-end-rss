@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 06:00:25。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-21 12:00:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,9 @@
 </summary>
 
 
+- [【前端大全】2021-03-20-x³+y³+z³=3第三组整数解是多少，这个58年难题被40万台电脑算出来了](https://www.ershicimi.com/p/25caae37e63e45288b99754f96d8ae57) 
+- [【前端大全】2021-03-20-Vue-CLI-是如何实现的----终端命令行工具篇](https://www.ershicimi.com/p/8ae74c70ca95418f15af5a629c38fa68) 
+- [【前端大全】2021-03-20-前端每日一题-#52](https://www.ershicimi.com/p/2ff7ac11cdc6d61cff2a1523d1846125) 
 - [【前端大全】2021-03-19-三月，不要跳槽！](https://www.ershicimi.com/p/82b8e5736bf2b5ec930e07b5fae90152) 
 - [【前端大全】2021-03-19-vue-cli-迁移-vite2-实践小结](https://www.ershicimi.com/p/9e9bc5ee15b83686f802d0d30aaa348c) 
 - [【前端大全】2021-03-19-前端每日一题-#51](https://www.ershicimi.com/p/8ec105f47c3fee3ea23e9bfc634252fc) 
@@ -270,6 +273,9 @@
 - [【前端日刊】2021-03-09-作为前端开发，Node.js-你得了解下～](https://www.ershicimi.com/p/0f3e9093221929dddea3c6dd757ae61b) 
 - [【前端日刊】2021-03-08-进大厂必会的Vue，你还没搞懂吗？](https://www.ershicimi.com/p/b9bead3a148b9c6e9ce92a0dd68e8472) 
 - [【前端日刊】2021-03-03-面试官：谈谈虚拟dom在Vue和React中的应用](https://www.ershicimi.com/p/fb8079a9d2d3d57ed387b22c88b3b6b4) 
+- [【互联网架构师】2021-03-20-多少人，一边疯狂跳槽，一边疯狂后悔](https://www.ershicimi.com/p/d36c87671bf9a9b18a1cb3a9378b1925) 
+- [【互联网架构师】2021-03-20-卸载Navicat！操作所有的数据库靠它就够了](https://www.ershicimi.com/p/715b6dbe53db2bf145069c83e05fe2c1) 
+- [【互联网架构师】2021-03-20-北京住房仰视链，你在第几层？](https://www.ershicimi.com/p/22911c87d3386fc6650d08ec69801498) 
 - [【互联网架构师】2021-03-19-23-种设计模式的通俗解释，虽然有点污，但是秒懂](https://www.ershicimi.com/p/9e9a49d78209cc1b00a799e7f52d3665) 
 - [【互联网架构师】2021-03-19-拼多多大跌超12%！拼多多超越阿里成为第一,黄峥辞任董事长，超级投票权失效，承诺三年不减持…未来去当](https://www.ershicimi.com/p/08d2ad87e23d60d418a8cb5316d57b2c) 
 - [【互联网架构师】2021-03-19-2021-最新-Java-面试题出炉！（带全部答案）](https://www.ershicimi.com/p/129f450c29439fc7a86888e266c61a13) 
