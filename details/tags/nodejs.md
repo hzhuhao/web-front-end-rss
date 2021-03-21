@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 12:00:33。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-21 22:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## NodeJS
 
@@ -151,6 +151,7 @@
 - [2021-02-25-抛弃V8参数适配器框架！JavaScript调用提速40%的实践](https://www.ershicimi.com/p/b45362e1ef00711758f768f2b6e4f806) 
 - [2021-02-18-15-个常见的-Node.js-面试问题及答案](https://www.ershicimi.com/p/28bf51b6e65a98ba0e0d667f97b27218) 
 - [2020-03-19-JavaScript-执行效率不行？因为你还没用-V8丨极客时间](https://www.ershicimi.com/p/248e97846a055d0d6ccb2e4689beac0f) 
+- [2021-03-21-Node.js-15.12.0-正式发布](https://www.ershicimi.com/p/1d2fa3fcba57fac3544a88b1aeadb39c) 
 - [2021-03-20-V8（JavaScript-引擎）-v9.0-发布](https://www.ershicimi.com/p/a5db8fc9ede3ed3f2bb4d3986abc0ab9) 
 - [2021-03-16-Electron-12.0.0-发布](https://www.ershicimi.com/p/bef6042bbb6ec69205f21a0b3222869f) 
 - [2021-02-24-【纯文字】2021-的-Node.js-开发人员路线图](https://www.ershicimi.com/p/5bca80dd99c61fad9cae2c3f288d40c1) 

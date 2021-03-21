@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-21 12:00:33。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-21 22:00:13。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -424,6 +424,7 @@
 - [【InfoQ】2021-03-01-达达集团高可用系统架构进化之路](https://www.ershicimi.com/p/1e6301a65da14d52e4f88384c8193b14) 
 - [【InfoQ】2021-03-01-当我们谈数字化转型时，我们在说什么](https://www.ershicimi.com/p/8dbdc0cbd745c71b60a2f6281bcdcd99) 
 - [【InfoQ】2021-03-01-React的未来：服务端组件](https://www.ershicimi.com/p/fea09e8e575698fc09edeb7f03aca162) 
+- [【JavaScript】2021-03-21-Node.js-15.12.0-正式发布](https://www.ershicimi.com/p/1d2fa3fcba57fac3544a88b1aeadb39c) 
 - [【JavaScript】2021-03-20-V8（JavaScript-引擎）-v9.0-发布](https://www.ershicimi.com/p/a5db8fc9ede3ed3f2bb4d3986abc0ab9) 
 - [【JavaScript】2021-03-19-周五了，随机送书，每个6本，共12本](https://www.ershicimi.com/p/ad8d24088122eecdfc362ec6cba6e8a7) 
 - [【JavaScript】2021-03-18-Vue3.0-PK-React17-，谁胜?](https://www.ershicimi.com/p/8c26ee1fb7b2b09e2bc0e1825cd88896) 
