@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-03-23 12:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-24 06:00:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-03-23-小公司应该避免的十大技术策略和应该遵循的五大建议](https://www.ershicimi.com/p/82c924bec9095cf63505b05de5a9b490) 
+- [2021-03-23-前阿里P9：聊聊大厂晋升“潜规则”-｜-极客时间](https://www.ershicimi.com/p/339844558dcbb7c3b424d8f8e14881e3) 
+- [2021-03-23-PHP“垂死”十年](https://www.ershicimi.com/p/cf489710d8b764721b1c9512fb16125b) 
+- [2021-03-23-InfoQ-写作平台2021年度100位优质创作者签约计划](https://www.ershicimi.com/p/e263391315684832bcbe5733c224a18b) 
+- [2021-03-23-困扰-80%-玩家，GTA-5-祖传-7-年的加载时间问题，现被一玩家缩短了-70%](https://www.ershicimi.com/p/1b73227a4161f97c4b3b76f50cee09ff) 
 - [2021-03-22-史上最短备战期，抖音27天通过春晚红包技术大考](https://www.ershicimi.com/p/fbfb84b46fe491e6bf6792678dd10129) 
 - [2021-03-22-不想被淘汰？关键在于要从“平台”走向“生态”](https://www.ershicimi.com/p/9417bb92f6d51ec39ce93864642a15c6) 
 - [2021-03-22-首次揭秘，快手自研性能监控系统开源项目KOOM](https://www.ershicimi.com/p/96b39ef6cc8ca19942894e20af27822b) 
