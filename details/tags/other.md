@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-22 22:01:16。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-23 12:00:30。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -216,6 +216,8 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-03-22-前端每日一题-#54](https://www.ershicimi.com/p/1a778f9b0c4f471df684365653db7e93) 
+- [2021-03-22-设计灵感：12组购物类App设计](https://www.ershicimi.com/p/6e3c60004459dd8ff050b53872542033) 
 - [2021-03-21-前端每日一题-#53](https://www.ershicimi.com/p/2283d7e2d55202c7731be8433ad32508) 
 - [2021-03-20-x³+y³+z³=3第三组整数解是多少，这个58年难题被40万台电脑算出来了](https://www.ershicimi.com/p/25caae37e63e45288b99754f96d8ae57) 
 - [2021-03-20-前端每日一题-#52](https://www.ershicimi.com/p/2ff7ac11cdc6d61cff2a1523d1846125) 
@@ -1570,6 +1572,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2021-03-23-这只拒绝内卷的-AI-狼火了！高智商却自暴自弃，不想抓羊只想躺](https://www.ershicimi.com/p/ff1fdcf464d1e658730f264007b2904f) 
+- [2021-03-23-CTO-说了，如果发现谁用-SELECT-*-查询直接开除](https://www.ershicimi.com/p/8dbe720cc90bdcef6fe6d1c2b4cf73c5) 
+- [2021-03-23-阿里某员工用野路子四年狂“赚”千万，结果被判-6-年！](https://www.ershicimi.com/p/52e1717e6fbba42da830c93448027911) 
 - [2021-03-22-你是如何一步步被职场PUA毁掉的？](https://www.ershicimi.com/p/f00970c84ab37b01b9843be00c9a1912) 
 - [2021-03-22-IntelliJ-IDEA-卡成球了？](https://www.ershicimi.com/p/45d96f5149a119b87212c912da820fbe) 
 - [2021-03-22-Redis-低成本、高可用设计，牛逼！](https://www.ershicimi.com/p/514373c003172246085f34ef363d420c) 
@@ -2110,6 +2115,10 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2021-03-22-史上最短备战期，抖音27天通过春晚红包技术大考](https://www.ershicimi.com/p/fbfb84b46fe491e6bf6792678dd10129) 
+- [2021-03-22-不想被淘汰？关键在于要从“平台”走向“生态”](https://www.ershicimi.com/p/9417bb92f6d51ec39ce93864642a15c6) 
+- [2021-03-22-汇聚IT技术先行者，展示中国技术力量！InfoQ-中国技术开放日重磅来袭](https://www.ershicimi.com/p/58b223f2d2ae2791ff0589cfc8813d94) 
+- [2021-03-22-Spring-Native-Beta-正式发布，原生更香！](https://www.ershicimi.com/p/c4829c1231c94d2e04f865e59d0bfeb6) 
 - [2021-03-21-纵观20年间程序员薪酬变化：涨幅下降，初级编码岗大幅消失](https://www.ershicimi.com/p/28275b65c8b6bc6df87085266b033d53) 
 - [2021-03-21-Linux-操作系统太难？先爬过这-6-个陡坡-｜-极客时间](https://www.ershicimi.com/p/93bb64f9cca48ad77411c901c5b084a7) 
 - [2021-03-21-架构转型之痛：开发运维割裂，云原生也不是万金油](https://www.ershicimi.com/p/8e66ef812e01acb41e7b01a1da7ab49f) 
