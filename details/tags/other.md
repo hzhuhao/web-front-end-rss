@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-24 12:00:25。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2119,6 +2119,9 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2021-03-24-我，大厂离职，拿着千万美元融资搞了个近乎全是程序员的公司](https://www.ershicimi.com/p/44c643e7876b4d8bc6005a7587cba1d3) 
+- [2021-03-24-防劣化机制、向前兼容...今日头条前端架构设计解读](https://www.ershicimi.com/p/bd201960bad81640b33601616d615898) 
+- [2021-03-24-OCR技术在爱奇艺的应用实践及演进](https://www.ershicimi.com/p/2684aa6fb44aea361b8e75cc89de8f68) 
 - [2021-03-23-小公司应该避免的十大技术策略和应该遵循的五大建议](https://www.ershicimi.com/p/82c924bec9095cf63505b05de5a9b490) 
 - [2021-03-23-前阿里P9：聊聊大厂晋升“潜规则”-｜-极客时间](https://www.ershicimi.com/p/339844558dcbb7c3b424d8f8e14881e3) 
 - [2021-03-23-PHP“垂死”十年](https://www.ershicimi.com/p/cf489710d8b764721b1c9512fb16125b) 
