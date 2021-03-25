@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-03-25 06:00:21。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 18:00:23。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -482,6 +482,7 @@
 - [【前端早读课】【第1436期】利用交叉观察器解锁懒加载新姿势](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230223&idx=1&sn=e3e3454d7cd2f784e0937ac22461c41e#wechat_redirect)
 - [【前端早读课】前端性能优化原理与实践](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=1&sn=f2a062e4aa40cf33d6903872bd5dc152#wechat_redirect)
 - [【前端早读课】【第1426期】代码优化策略-—-Idle-Until-Urgent](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230144&idx=2&sn=a26ed07cf082d418efc104f5013570e6#wechat_redirect)
+- [【前端大全】如何优雅地加载-Fonts](https://www.ershicimi.com/p/9d11a08fa5d97af9269a10307d1b0202)
 - [【前端大全】前端性能优化-24-条建议](https://www.ershicimi.com/p/64b30bdd8d7b97e76e641e9f974f1554)
 - [【前端大全】Chrome-89-新功能一览，性能提升明显，大量-DevTools-新特性！](https://www.ershicimi.com/p/ae968d313b06723a82c785b190ce71f3)
 - [【前端大全】拯救你的年底-KPI：前端性能优化](https://www.ershicimi.com/p/beb6433197213a5d151bdb3fa2ce73ea)
@@ -489,7 +490,6 @@
 - [【前端大全】Chrome-87-新特性解读，多年来-Chrome-性能最大提升！](https://www.ershicimi.com/p/5905812856c8a083c03fd9b6deae02d9)
 - [【前端大全】前端性能优化【进阶篇】](https://www.ershicimi.com/p/0d38ecc5f39a0d3787e70d0dab1347fa)
 - [【前端大全】谷歌发布-Chrome-85-稳定版，引入-PGO，页面加载速度提升-10%](https://www.ershicimi.com/p/b6ecdac0e9f67afe4f5b260a6b06ed42)
-- [【前端大全】提升低端设备的-Web-性能](https://www.ershicimi.com/p/894903f58e495500cd6089c2abef76b0)
 - [......【查看更多】......](./details/tags/optimization.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

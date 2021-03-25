@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-25 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-25 18:00:23。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -216,6 +216,11 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-03-24-终于有人把-Vite2-讲明白了！](https://www.ershicimi.com/p/8575285c4e10b5b22c0593c2ebeb260a) 
+- [2021-03-24-前端每日一题-#56](https://www.ershicimi.com/p/72a8e78753e810da5cbab2cc28da30a9) 
+- [2021-03-24-设计灵感：12个时尚购物类App设计](https://www.ershicimi.com/p/5e8a5468eacd92c0c1111ad43eed95f4) 
+- [2021-03-23-前端每日一题-#55](https://www.ershicimi.com/p/f8b82883c4032dd0f54e97bfb3f43be4) 
+- [2021-03-23-设计灵感：12组外卖App界面设计](https://www.ershicimi.com/p/b062ec12d1639eb554d5888b23e3f55b) 
 - [2021-03-22-前端每日一题-#54](https://www.ershicimi.com/p/1a778f9b0c4f471df684365653db7e93) 
 - [2021-03-22-设计灵感：12组购物类App设计](https://www.ershicimi.com/p/6e3c60004459dd8ff050b53872542033) 
 - [2021-03-21-前端每日一题-#53](https://www.ershicimi.com/p/2283d7e2d55202c7731be8433ad32508) 
@@ -1263,6 +1268,8 @@
 - [2015-11-24-精致化页面重构](https://aotu.io/notes/2015/11/24/project-summary/) 
 - [2015-11-16-101%还原](https://aotu.io/notes/2015/11/16/101-percent/) 
 - [2015-10-08-凹凸实验室博客V1.0.0发布](https://aotu.io/notes/2015/10/08/aotu-blog-v1/) 
+- [2021-03-24-HTML标签之-与](https://www.ershicimi.com/p/9137ac615535fc616ea9c443eb58b1c2) 
+- [2021-03-24-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/a0946e12fbdb9f02fac51b3cf6fd7401) 
 - [2021-03-23-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/9943a1790511e5ed85d5257616c0fe8a) 
 - [2021-03-22-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/f8cc7da99e4fbb91c6bfb8bc1f1c78d2) 
 - [2021-03-18-奇舞团，岗位多，机会好，快点来！](https://www.ershicimi.com/p/b6a0db93823ba7b8096e2a26de8e4127) 
@@ -1574,6 +1581,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2021-03-25-Spring-Boot-实现接口幂等性的-4-种方案！还有谁不会？](https://www.ershicimi.com/p/8e70b48c144b3c0d3ebf9722cccadb9b) 
+- [2021-03-25-阿里终面：优秀的代码都是如何分层的？](https://www.ershicimi.com/p/d66472b27de9dc48f8e9a5f4ac8187a2) 
+- [2021-03-25-非科班前端人的一道送命题：0.1+0.2-等于-0.3-吗？](https://www.ershicimi.com/p/e9787568551f85314b278e1ad58a16d6) 
 - [2021-03-24-讲述：一个月薪-12000-的北京程序员的真实生活](https://www.ershicimi.com/p/68fb4f0776c2c787f76c762ffe479555) 
 - [2021-03-24-Spring-Boot-启动时，让方法自动执行的-4-种方法！](https://www.ershicimi.com/p/9cb394b3a0dc8c7a52d8ce1d625b5d68) 
 - [2021-03-23-这只拒绝内卷的-AI-狼火了！高智商却自暴自弃，不想抓羊只想躺](https://www.ershicimi.com/p/ff1fdcf464d1e658730f264007b2904f) 
