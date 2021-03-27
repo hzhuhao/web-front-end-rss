@@ -1,10 +1,19 @@
-:alarm_clock: 更新时间: 2021-03-26 08:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-27 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-03-27-京东37岁程序员回应“被猝死”；腾讯员工2020年人均年薪81万；HM商城App遭多家应用商店下架](https://www.ershicimi.com/p/390753307854e6c2b39bac001376e616) 
+- [2021-03-27-从-0-开始构建核心业务微服务治理平台的实践](https://www.ershicimi.com/p/815c7a7314a377bdeb2d1aa2844e9b38) 
+- [2021-03-27-CPU-使用率过高报警，我要原地爆炸了｜极客时间](https://www.ershicimi.com/p/9c5f0fbe63d3062115a619bfadaca47a) 
+- [2021-03-27-Pinterest-大规模缓存集群的架构剖析](https://www.ershicimi.com/p/1ed60573b6a6f06f8d9f3fc6618a0b25) 
+- [2021-03-26-一年增加1.2w星，Dapr能否引领云原生中间件的未来？](https://www.ershicimi.com/p/2941f0473c3b58b9a1e827e53c5090b1) 
+- [2021-03-26-Flink集成Iceberg在同程艺龙的实践](https://www.ershicimi.com/p/62f482e1869a526c6593971477a88747) 
+- [2021-03-26-可视化落地探索，不仅仅只有数字化大屏-｜-GMTC](https://www.ershicimi.com/p/4dc2cd82291463c37f2e818e82eb22e0) 
+- [2021-03-26-晋升、面试中绕不开的性能优化问题｜极客时间](https://www.ershicimi.com/p/b99e60cb9306f07b73dc6933b8c559ba) 
+- [2021-03-26-程序员容易忽略的10大软件开发定律](https://www.ershicimi.com/p/e38a7f7db8054fb47636705944fd6f6d) 
 - [2021-03-25-Flutter落地、DDD实践、LowCode探索......一线大厂架构师的“独门秘籍”-｜-Ar](https://www.ershicimi.com/p/2d84925bd3e5061d62933290542aec63) 
 - [2021-03-25-十年，阿里云重构“计算”](https://www.ershicimi.com/p/0b52551cbf6c82b670722164107075c2) 
 - [2021-03-25-怎样才算精通软件工程？](https://www.ershicimi.com/p/593c95d9cb052d4dbfcdd86b9475f13a) 

@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-26 18:00:48。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-27 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -2141,6 +2141,12 @@
 - [2019-12-24-微服务为什么一定要Zookeeper？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=2&sn=68b8fc42df42fe3788664c4dca6ee450&chksm=ea5cdaeddd2b53fb19a2ef4ef85e4ea132a4610bffcdfa85f91fefce59013637503096504159&scene=27#wechat_redirect) 
 - [2019-12-24-Java到底如何更优雅的处理空值？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=4&sn=d84b86f61f1bb5807f07d36790bd9ed7&chksm=ea5cdaeddd2b53fbba668647c2ebbae9955a394dc5b7f8394e64b126d8840ec93058a0ed04c0&scene=27#wechat_redirect) 
 - [2019-12-23-几万年前，孙悟空的一次删库跑路...](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=2&sn=dfb551796dee1c6013061e40a43fe473&chksm=ea5cda0fdd2b53191cb3a55d06cd6a026a93c57ee591d5e0c605a66183becd293c5032929d3b&scene=27#wechat_redirect) 
+- [2021-03-27-京东37岁程序员回应“被猝死”；腾讯员工2020年人均年薪81万；HM商城App遭多家应用商店下架](https://www.ershicimi.com/p/390753307854e6c2b39bac001376e616) 
+- [2021-03-27-CPU-使用率过高报警，我要原地爆炸了｜极客时间](https://www.ershicimi.com/p/9c5f0fbe63d3062115a619bfadaca47a) 
+- [2021-03-26-一年增加1.2w星，Dapr能否引领云原生中间件的未来？](https://www.ershicimi.com/p/2941f0473c3b58b9a1e827e53c5090b1) 
+- [2021-03-26-Flink集成Iceberg在同程艺龙的实践](https://www.ershicimi.com/p/62f482e1869a526c6593971477a88747) 
+- [2021-03-26-可视化落地探索，不仅仅只有数字化大屏-｜-GMTC](https://www.ershicimi.com/p/4dc2cd82291463c37f2e818e82eb22e0) 
+- [2021-03-26-程序员容易忽略的10大软件开发定律](https://www.ershicimi.com/p/e38a7f7db8054fb47636705944fd6f6d) 
 - [2021-03-25-十年，阿里云重构“计算”](https://www.ershicimi.com/p/0b52551cbf6c82b670722164107075c2) 
 - [2021-03-25-怎样才算精通软件工程？](https://www.ershicimi.com/p/593c95d9cb052d4dbfcdd86b9475f13a) 
 - [2021-03-25-2021-OS-大赛来了，为中国操作系统发展按下加速键-｜-写作平台](https://www.ershicimi.com/p/d172ea775e9f63d9c222dc5da0b725e6) 
