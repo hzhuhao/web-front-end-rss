@@ -11,13 +11,13 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-03-27 18:00:24，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-03-28 06:00:21，:rocket: 更新条数: +9， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
 - [前端早读课](#前端早读课)  
-- [前端大全](#前端大全)  
-- [前端之巅](#前端之巅)  
+- [前端大全](#前端大全)![](assets/dot.png)   
+- [前端之巅](#前端之巅)![](assets/dot.png)   
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
 - [阮一峰的网络日志](#阮一峰的网络日志)  
@@ -26,8 +26,8 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -70,6 +70,10 @@
 </summary>
 
 
+- [2021-03-27-『前端优化』——-Vue中避免滥用this去读取data中数据](https://www.ershicimi.com/p/c15b5c6e5dba897ee5a1ff21396753c1) ![](assets/new.png)  
+- [2021-03-27-面向对象：希望找个我喜欢的，和喜欢我的小哥哥](https://www.ershicimi.com/p/ae47a9c6f23f3b107f170991c2cf1d3f) ![](assets/new.png)  
+- [2021-03-27-美团面试官：你可以手写Vue3的响应式原理吗？](https://www.ershicimi.com/p/c3766f8c0eaf47afea0eb9f4a45458bd) ![](assets/new.png)  
+- [2021-03-27-前端每日一题-#59](https://www.ershicimi.com/p/5da408164af9c79c1693b408e6395102) ![](assets/new.png)  
 - [2021-03-26-字节、百度面试真题，不会可能要凉凉了（内附答案）](https://www.ershicimi.com/p/bdf7ee0070a6fcf2a4e28f946186bfc3)  
 - [2021-03-26-如何创建一个自动改变的-favicon](https://www.ershicimi.com/p/fd34f00ab37737d2a41623bac2f491e7)  
 - [2021-03-26-前端每日一题-#58](https://www.ershicimi.com/p/1006df9e44d97221aebf6176d205475f)  
@@ -86,10 +90,6 @@
 - [2021-03-23-哔哩哔哩面试官：你可以手写Vue2的响应式原理吗？](https://www.ershicimi.com/p/0cb3bdcf264bb1710d9a84ab6a43c3dd)  
 - [2021-03-23-前端每日一题-#55](https://www.ershicimi.com/p/f8b82883c4032dd0f54e97bfb3f43be4)  
 - [2021-03-23-设计灵感：12组外卖App界面设计](https://www.ershicimi.com/p/b062ec12d1639eb554d5888b23e3f55b)  
-- [2021-03-22-2021-年提升效率的7个新-Vue实战技巧！](https://www.ershicimi.com/p/d7b974171717b4422bfc44f6a0a0a6ad)  
-- [2021-03-22-React-之道：软件设计、架构和最佳实践](https://www.ershicimi.com/p/17299f8df4aaa52ecf14912434b31a88)  
-- [2021-03-22-前端每日一题-#54](https://www.ershicimi.com/p/1a778f9b0c4f471df684365653db7e93)  
-- [2021-03-22-设计灵感：12组购物类App设计](https://www.ershicimi.com/p/6e3c60004459dd8ff050b53872542033)  
 - [......【查看更多】......](./details/前端大全.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -101,6 +101,9 @@
 </summary>
 
 
+- [2021-03-26-自由软件之父回归，遭近2500人联合签名抵制，红帽表示不再资助FSF](https://www.ershicimi.com/p/42a48f695a5914c5b4aee31ef31d2f48) ![](assets/new.png)  
+- [2021-03-26-BFF模式：微服务前端数据加载的最佳实践？](https://www.ershicimi.com/p/bd1eeb255ae2709f93adde2775fa195b) ![](assets/new.png)  
+- [2021-03-26-@程序员，如何轻松实现数据可视化？-|-活动推荐](https://www.ershicimi.com/p/b7a6b241be76ddcecb7fe41be0eabe64) ![](assets/new.png)  
 - [2021-03-25-斗胆，谈谈我对Flutter的理解](https://www.ershicimi.com/p/4b7e192cbcdfb18c6abf18bd03a96f2a)  
 - [2021-03-24-2021年前端开发者需要知道的34种JS优化技巧](https://www.ershicimi.com/p/69d032c4cdc220e4cd5517e86456f15f)  
 - [2021-03-24-InfoQ出品：金融业数字化转型研究报告-|-免费下载](https://www.ershicimi.com/p/81967c53ec5b22b456f772e659a48d8d)  
@@ -118,9 +121,6 @@
 - [2021-03-15-前端开发者必备的12个工具](https://www.ershicimi.com/p/3885f01ef5e406fb892c633b218f1ba6)  
 - [2021-03-15-面对不断增长的业务规模，如何打破前端效率瓶颈？|-GMTC](https://www.ershicimi.com/p/36dc5dd520b5ab8d49f675e0cdf309f8)  
 - [2021-03-14-TypeScript-手册重写发布；阿里内网离职帖引热议，员工吐槽人不如驴；联想-CEO-支持反对](https://www.ershicimi.com/p/73f64139ac2d21e4ae53a24a6e78ad9d)  
-- [2021-03-12-Angular、React-和-Vue-三大框架，Web-开发该如何选择？](https://www.ershicimi.com/p/694a33cfabc274ce682aa6f917ea8920)  
-- [2021-03-12-盘点世界上-6-种奇怪的编程语言](https://www.ershicimi.com/p/a24709a9d86d0ffa38954de586b9ac65)  
-- [2021-03-12-字节跳动、美团、阿里等国内大公司的-200+-技术干货视频，任你选-|-活动推荐](https://www.ershicimi.com/p/2aff6bd68b5bffede3f84395069e1105)  
 - [......【查看更多】......](./details/前端之巅.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -380,6 +380,8 @@
 </summary>
 
 
+- [2021-03-27-网传京东37岁程序员在工位猝死。当事人：我还没死，还能加班！](https://www.ershicimi.com/p/73512e29f4dee1614e35e0105f8f7999) ![](assets/new.png)  
+- [2021-03-27-新同事不讲“码”德，这SQL写得太野了，请耗子尾汁～](https://www.ershicimi.com/p/e6af11f194581325a669b47b41c55e43) ![](assets/new.png)  
 - [2021-03-26-重磅：某国产操作系统发布，称完全可替代Windows-7，由华为牵头制作！](https://www.ershicimi.com/p/020fa48a3567806441a0bdc9f3b8bb90)  
 - [2021-03-26-2020-年度开发者工具-TOP-100-名单！](https://www.ershicimi.com/p/a3946b84de41f2370bda62c140cc195b)  
 - [2021-03-26-RabbitMQ-延迟队列，太实用了！](https://www.ershicimi.com/p/64e65d1a835629baccbed75401309d75)  
@@ -398,8 +400,6 @@
 - [2021-03-21-2020-大厂研发岗薪酬排名出炉，看完我真的拖后腿了。。。](https://www.ershicimi.com/p/14e84d249968102dd6889678b5c5c6c5)  
 - [2021-03-21-简直暴利？四川某加密币矿场实拍曝光，一天营收-6300-多万](https://www.ershicimi.com/p/16029f7d383b01df59f7566caa20cc45)  
 - [2021-03-21-如何优雅的统计代码耗时？](https://www.ershicimi.com/p/6345019d11298c7d3c1329c16672aa16)  
-- [2021-03-20-多少人，一边疯狂跳槽，一边疯狂后悔](https://www.ershicimi.com/p/d36c87671bf9a9b18a1cb3a9378b1925)  
-- [2021-03-20-卸载Navicat！操作所有的数据库靠它就够了](https://www.ershicimi.com/p/715b6dbe53db2bf145069c83e05fe2c1)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,15 +411,15 @@
 </summary>
 
 
-- [2021-03-27-京东37岁程序员回应“被猝死”；腾讯员工2020年人均年薪81万；HM商城App遭多家应用商店下架](https://www.ershicimi.com/p/390753307854e6c2b39bac001376e616) ![](assets/new.png)  
-- [2021-03-27-从-0-开始构建核心业务微服务治理平台的实践](https://www.ershicimi.com/p/815c7a7314a377bdeb2d1aa2844e9b38) ![](assets/new.png)  
-- [2021-03-27-CPU-使用率过高报警，我要原地爆炸了｜极客时间](https://www.ershicimi.com/p/9c5f0fbe63d3062115a619bfadaca47a) ![](assets/new.png)  
-- [2021-03-27-Pinterest-大规模缓存集群的架构剖析](https://www.ershicimi.com/p/1ed60573b6a6f06f8d9f3fc6618a0b25) ![](assets/new.png)  
-- [2021-03-26-一年增加1.2w星，Dapr能否引领云原生中间件的未来？](https://www.ershicimi.com/p/2941f0473c3b58b9a1e827e53c5090b1) ![](assets/new.png)  
-- [2021-03-26-Flink集成Iceberg在同程艺龙的实践](https://www.ershicimi.com/p/62f482e1869a526c6593971477a88747) ![](assets/new.png)  
-- [2021-03-26-可视化落地探索，不仅仅只有数字化大屏-｜-GMTC](https://www.ershicimi.com/p/4dc2cd82291463c37f2e818e82eb22e0) ![](assets/new.png)  
-- [2021-03-26-晋升、面试中绕不开的性能优化问题｜极客时间](https://www.ershicimi.com/p/b99e60cb9306f07b73dc6933b8c559ba) ![](assets/new.png)  
-- [2021-03-26-程序员容易忽略的10大软件开发定律](https://www.ershicimi.com/p/e38a7f7db8054fb47636705944fd6f6d) ![](assets/new.png)  
+- [2021-03-27-京东37岁程序员回应“被猝死”；腾讯员工2020年人均年薪81万；HM商城App遭多家应用商店下架](https://www.ershicimi.com/p/390753307854e6c2b39bac001376e616)  
+- [2021-03-27-从-0-开始构建核心业务微服务治理平台的实践](https://www.ershicimi.com/p/815c7a7314a377bdeb2d1aa2844e9b38)  
+- [2021-03-27-CPU-使用率过高报警，我要原地爆炸了｜极客时间](https://www.ershicimi.com/p/9c5f0fbe63d3062115a619bfadaca47a)  
+- [2021-03-27-Pinterest-大规模缓存集群的架构剖析](https://www.ershicimi.com/p/1ed60573b6a6f06f8d9f3fc6618a0b25)  
+- [2021-03-26-一年增加1.2w星，Dapr能否引领云原生中间件的未来？](https://www.ershicimi.com/p/2941f0473c3b58b9a1e827e53c5090b1)  
+- [2021-03-26-Flink集成Iceberg在同程艺龙的实践](https://www.ershicimi.com/p/62f482e1869a526c6593971477a88747)  
+- [2021-03-26-可视化落地探索，不仅仅只有数字化大屏-｜-GMTC](https://www.ershicimi.com/p/4dc2cd82291463c37f2e818e82eb22e0)  
+- [2021-03-26-晋升、面试中绕不开的性能优化问题｜极客时间](https://www.ershicimi.com/p/b99e60cb9306f07b73dc6933b8c559ba)  
+- [2021-03-26-程序员容易忽略的10大软件开发定律](https://www.ershicimi.com/p/e38a7f7db8054fb47636705944fd6f6d)  
 - [2021-03-25-Flutter落地、DDD实践、LowCode探索......一线大厂架构师的“独门秘籍”-｜-Ar](https://www.ershicimi.com/p/2d84925bd3e5061d62933290542aec63)  
 - [2021-03-25-十年，阿里云重构“计算”](https://www.ershicimi.com/p/0b52551cbf6c82b670722164107075c2)  
 - [2021-03-25-怎样才算精通软件工程？](https://www.ershicimi.com/p/593c95d9cb052d4dbfcdd86b9475f13a)  
