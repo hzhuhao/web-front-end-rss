@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-28 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-28 18:01:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## TypeScript
 
@@ -75,6 +75,7 @@
 - [2020-11-29-将超过5000万行JS代码迁移到TypeScript，我们得到的10大见解](https://www.ershicimi.com/p/8bbe958abf1f27a9a3a9bd26db78d335) 
 - [2020-09-14-尤雨溪：TypeScript不会取代JavaScript](https://www.ershicimi.com/p/d95588bb2dfefaac5fb01927aca21dad) 
 - [2020-09-01-你应该了解的5种TypeScript设计模式](https://www.ershicimi.com/p/600a86127284ce5e132fa0128df3bbc5) 
+- [2021-03-28-TypeScript-手册【重制版】](https://www.ershicimi.com/p/512f23a38cacd2115cb5ef5994d217ae) 
 - [2020-09-05-【软件更新】TypeScript-4.0正式发布！](https://www.ershicimi.com/p/8a2344e4dbdfdd6502c56441d6475911) 
 - [2020-01-22-TypeScript：拥有超能力的-JavaScript](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498173&idx=1&sn=127d50c2122d1c7320129990116c54ba&chksm=80f1af75b7862663943deae427567265686536249cab8755926a2f0928c1e04192523a0bd220&scene=27#wechat_redirect) 
 - [2020-01-14-TS-真香系列：7个-TypeScript-新功能](http://mp.weixin.qq.com/s?__biz=MzAwNjI5MTYyMw==&mid=2651498159&idx=1&sn=ba42ba6d929dad91a91b3d9912cf8a2d&chksm=80f1af67b78626718739fb5878336ea1ac7e23fc2918a73bcfafe5c206091fe4b10029f23ca9&scene=27#wechat_redirect) 

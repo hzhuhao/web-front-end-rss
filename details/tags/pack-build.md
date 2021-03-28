@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-28 06:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-28 18:01:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -137,6 +137,7 @@
 - [2020-03-19-滴滴离线索引快速构建FastIndex架构实践](https://www.ershicimi.com/p/8a038adbfe81be5a4dfd885f545d015f) 
 - [2020-03-17-刚刚！GitHub宣布正式收购npm](https://www.ershicimi.com/p/c141516d536348a27f1d2d814a372140) 
 - [2020-01-13-一个通用的数据中台架构应该如何构建？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=5&sn=b0d95ca2295d668e48d80c426f15e299&chksm=bdbe914b8ac9185d65bdaffd4d3ec0d6453c20ac0ddb43f351bf943ea33b01d1f6c90b3e8e09&scene=27#wechat_redirect) 
+- [2021-03-27-webpack-v5.28.0-发布](https://www.ershicimi.com/p/582b912fa8802e914a141c1683037942) 
 - [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341) 
 - [2020-03-19-微软通过-Github-收购-npm，加上-TS、新版-Edge、Vscode-，拿下-js-语言的](https://www.ershicimi.com/p/6703a3a49d5f30b4cb9eec23a650d889) 
 - [2020-01-22-babel-plugin-macros：babel的另一种配置方式](https://juejin.im/post/5e2811d46fb9a02fec665054) 

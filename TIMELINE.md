@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-28 06:00:21。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-28 18:01:05。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -401,6 +401,10 @@
 - [【互联网架构师】2021-03-01-“力挺Java！拒绝Python”9万程序员刷爆朋友圈……](https://www.ershicimi.com/p/89ddd06cec07d13a1b1e9db6d0560c70) 
 - [【互联网架构师】2021-03-01-校招毁约污点公司名录.pdf](https://www.ershicimi.com/p/f147b4f439b9a316bd2eb75c45d4bea4) 
 - [【互联网架构师】2021-03-01-27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构，彭博：Superstar](https://www.ershicimi.com/p/cda63e7bf8030fe04e75ee73b5fbf338) 
+- [【InfoQ】2021-03-28-亚马逊要求员工“二选一”-：要么接受AI摄像头监控，要么失业](https://www.ershicimi.com/p/9c650a5c3e03a19df164ad745e00108c) 
+- [【InfoQ】2021-03-28-前美团技术负责人冯湧：从业-19-年，新晋大厂技术负责人最该注意这几件事](https://www.ershicimi.com/p/2c39c8b834731c26819e2fa237e7bb9f) 
+- [【InfoQ】2021-03-28-某大厂的算法面试题，实在是太变态了-｜-极客时间](https://www.ershicimi.com/p/78ea2cca17bdb1582d0b6ddf0e8d820f) 
+- [【InfoQ】2021-03-28-云原生、Service-Mesh等已是公认技术，阿里、网易经验分享-｜-QCon+](https://www.ershicimi.com/p/b38b1209f0296921b5c3b5f3eb3d7f6b) 
 - [【InfoQ】2021-03-27-京东37岁程序员回应“被猝死”；腾讯员工2020年人均年薪81万；HM商城App遭多家应用商店下架](https://www.ershicimi.com/p/390753307854e6c2b39bac001376e616) 
 - [【InfoQ】2021-03-27-从-0-开始构建核心业务微服务治理平台的实践](https://www.ershicimi.com/p/815c7a7314a377bdeb2d1aa2844e9b38) 
 - [【InfoQ】2021-03-27-CPU-使用率过高报警，我要原地爆炸了｜极客时间](https://www.ershicimi.com/p/9c5f0fbe63d3062115a619bfadaca47a) 
@@ -529,6 +533,8 @@
 - [【InfoQ】2021-03-01-达达集团高可用系统架构进化之路](https://www.ershicimi.com/p/1e6301a65da14d52e4f88384c8193b14) 
 - [【InfoQ】2021-03-01-当我们谈数字化转型时，我们在说什么](https://www.ershicimi.com/p/8dbdc0cbd745c71b60a2f6281bcdcd99) 
 - [【InfoQ】2021-03-01-React的未来：服务端组件](https://www.ershicimi.com/p/fea09e8e575698fc09edeb7f03aca162) 
+- [【JavaScript】2021-03-28-TypeScript-手册【重制版】](https://www.ershicimi.com/p/512f23a38cacd2115cb5ef5994d217ae) 
+- [【JavaScript】2021-03-27-webpack-v5.28.0-发布](https://www.ershicimi.com/p/582b912fa8802e914a141c1683037942) 
 - [【JavaScript】2021-03-26-Socket.io-4.0.0-发布](https://www.ershicimi.com/p/2e81ec50e051d7860f3242eb86e1394c) 
 - [【JavaScript】2021-03-25-关于Vue-3核心原理问题，一次解决](https://www.ershicimi.com/p/9851a2f2a13411f0cff99cdec7a7b4fd) 
 - [【JavaScript】2021-03-24-字节跳动高频100道核心前端面试题解析](https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927) 

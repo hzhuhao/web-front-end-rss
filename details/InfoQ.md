@@ -1,10 +1,14 @@
-:alarm_clock: 更新时间: 2021-03-27 18:00:24。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-28 18:01:05。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-03-28-亚马逊要求员工“二选一”-：要么接受AI摄像头监控，要么失业](https://www.ershicimi.com/p/9c650a5c3e03a19df164ad745e00108c) 
+- [2021-03-28-前美团技术负责人冯湧：从业-19-年，新晋大厂技术负责人最该注意这几件事](https://www.ershicimi.com/p/2c39c8b834731c26819e2fa237e7bb9f) 
+- [2021-03-28-某大厂的算法面试题，实在是太变态了-｜-极客时间](https://www.ershicimi.com/p/78ea2cca17bdb1582d0b6ddf0e8d820f) 
+- [2021-03-28-云原生、Service-Mesh等已是公认技术，阿里、网易经验分享-｜-QCon+](https://www.ershicimi.com/p/b38b1209f0296921b5c3b5f3eb3d7f6b) 
 - [2021-03-27-京东37岁程序员回应“被猝死”；腾讯员工2020年人均年薪81万；HM商城App遭多家应用商店下架](https://www.ershicimi.com/p/390753307854e6c2b39bac001376e616) 
 - [2021-03-27-从-0-开始构建核心业务微服务治理平台的实践](https://www.ershicimi.com/p/815c7a7314a377bdeb2d1aa2844e9b38) 
 - [2021-03-27-CPU-使用率过高报警，我要原地爆炸了｜极客时间](https://www.ershicimi.com/p/9c5f0fbe63d3062115a619bfadaca47a) 
