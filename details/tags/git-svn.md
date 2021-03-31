@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-31 06:00:22。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-03-31 18:00:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -62,6 +62,7 @@
 - [2020-03-17-别再推荐Git-Flow了](https://www.ershicimi.com/p/a26a3c86709c9316ff80d965901d1ac8) 
 - [2020-01-27-武汉火神山医院向全国公开招募IT运维；-wuhan2020开源项目登录GitHub；国务院凌晨通知春](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023926&idx=1&sn=5881682fd6d2a8c45dcbdbb640eb1325&chksm=bdbe92658ac91b73916725d02e6ed6990d00630f13fa69082cb21b61783912eedf7c5ae35971&scene=27#wechat_redirect) 
 - [2019-12-29-用文言文编程？Github“万星”代码背后，到底是何方神圣](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=2&sn=96af72c8510764c91c6e3dbd50f37a15&chksm=bdbe9f8a8ac9169c62d37307343da1a3a788fd52402f30a5b1e46eee8cf7c9db9807b552011b&scene=27#wechat_redirect) 
+- [2021-03-30-Git-for-Windows-2.31.1-发布](https://www.ershicimi.com/p/7717c10235a062fa587e74b38e727252) 
 - [2020-03-03-高频使用的-Git-命令](https://www.ershicimi.com/p/49b3760af76ff7c5af6158f1a471b700) 
 - [2020-01-21-👀github博客不能翻页？快速生成gitbook了解一下](https://juejin.im/post/5e2409d56fb9a02fce0b6648) 
 - [2020-01-12-Git----Pre-commit钩子的使用](https://juejin.im/post/5e19dad4f265da3df47ad9f1) 

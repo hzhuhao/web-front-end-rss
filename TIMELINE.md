@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-03-31 06:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-03-31 18:00:38。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -427,6 +427,11 @@
 - [【互联网架构师】2021-03-01-“力挺Java！拒绝Python”9万程序员刷爆朋友圈……](https://www.ershicimi.com/p/89ddd06cec07d13a1b1e9db6d0560c70) 
 - [【互联网架构师】2021-03-01-校招毁约污点公司名录.pdf](https://www.ershicimi.com/p/f147b4f439b9a316bd2eb75c45d4bea4) 
 - [【互联网架构师】2021-03-01-27岁华裔小伙一战成名！搞出美国新冠最准预测模型，一人干翻专业机构，彭博：Superstar](https://www.ershicimi.com/p/cda63e7bf8030fe04e75ee73b5fbf338) 
+- [【InfoQ】2021-03-31-51岁雷军最后一战，做好了亏的准备](https://www.ershicimi.com/p/d58baca1c1c0d32042cb2b8dd9e8ceff) 
+- [【InfoQ】2021-03-31-一文解决现代编程语言选择困难：命令式编程](https://www.ershicimi.com/p/dab699045f9eab575400afa564ef5cb2) 
+- [【InfoQ】2021-03-31-宝宝巴士与HarmonyOS携手打造更具交互性的早教体验](https://www.ershicimi.com/p/dc7777e9027ff5ff8d9809d1900edfc5) 
+- [【InfoQ】2021-03-31-30-万行代码的平台升级：给跑着的汽车换轮胎](https://www.ershicimi.com/p/c68dfc51312689bd0482fec7df9b1ff4) 
+- [【InfoQ】2021-03-31-GraphQL最突出的架构优势是什么？](https://www.ershicimi.com/p/5329bcc9a5987ff734a13b0af237d7eb) 
 - [【InfoQ】2021-03-30-再见-Go-面试官：GMP-模型，为什么要有-P？-｜-极客时间](https://www.ershicimi.com/p/b4a6b88eb9ddc449bd7581f5997ff01c) 
 - [【InfoQ】2021-03-30-业界前所未有：10分钟部署十万量级资源、1小时完成微博后端异地重建](https://www.ershicimi.com/p/cf3d9544f47300899663205b5061dd7f) 
 - [【InfoQ】2021-03-30-一年追回超200亿，-打击医保欺诈骗保行为，有了AI新“武器”](https://www.ershicimi.com/p/daa0a80e72befaf3e665111afcd8a1e2) 
@@ -569,6 +574,8 @@
 - [【InfoQ】2021-03-01-达达集团高可用系统架构进化之路](https://www.ershicimi.com/p/1e6301a65da14d52e4f88384c8193b14) 
 - [【InfoQ】2021-03-01-当我们谈数字化转型时，我们在说什么](https://www.ershicimi.com/p/8dbdc0cbd745c71b60a2f6281bcdcd99) 
 - [【InfoQ】2021-03-01-React的未来：服务端组件](https://www.ershicimi.com/p/fea09e8e575698fc09edeb7f03aca162) 
+- [【JavaScript】2021-03-31-金三银四想要通过跳槽涨薪，先看看这](https://www.ershicimi.com/p/bd5ea225f3cf9c294301a6edc46a13c4) 
+- [【JavaScript】2021-03-30-Git-for-Windows-2.31.1-发布](https://www.ershicimi.com/p/7717c10235a062fa587e74b38e727252) 
 - [【JavaScript】2021-03-29-2021年提升效率的7个新vue实战技巧！](https://www.ershicimi.com/p/a141a5c5a9a8d3c8caa267f37d911011) 
 - [【JavaScript】2021-03-28-TypeScript-手册【重制版】](https://www.ershicimi.com/p/512f23a38cacd2115cb5ef5994d217ae) 
 - [【JavaScript】2021-03-27-webpack-v5.28.0-发布](https://www.ershicimi.com/p/582b912fa8802e914a141c1683037942) 
