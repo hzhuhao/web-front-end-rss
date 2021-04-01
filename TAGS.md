@@ -1,6 +1,6 @@
 > 提示：只是根据标题文案简单匹配分类
 
-:alarm_clock: 更新时间: 2021-04-01 18:00:26。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-01 22:00:43。[来源分类](./README.md)、[时间分类](./TIMELINE.md)
 
 ## 标签分类
 
@@ -583,6 +583,7 @@
 - [【前端早读课】【第1590期】GraphQL和Thrift在Airbnb架构中的配合使用](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651232075&idx=1&sn=316b199dc87587fffcf8b80f1704201e#rd)
 - [【前端早读课】GraphQL-从入门到实践](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231695&idx=2&sn=1d3bef2add023e2b9e4ca2e33c097ac4#rd)
 - [【前端早读课】【第1529期】GraphQL入门指南](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231441&idx=1&sn=bd2dbaa1e192a63735b475b6a351ae99#wechat_redirect)
+- [【前端大全】万字总结，体系化带你全面认识-Nginx-！](https://www.ershicimi.com/p/64bd089ff72e7d0383f28b50c41634ae)
 - [【前端大全】GraphQL-实战篇之前端+后端](https://www.ershicimi.com/p/1252fe573a7e9084d514c25a9f822124)
 - [【前端大全】我为什么要放弃-RESTful，选择拥抱-GraphQL](https://www.ershicimi.com/p/84b28ba0df2820f52107fa8acddbd48c)
 - [【前端大全】前端工程师不可不知的-Nginx-知识](https://www.ershicimi.com/p/3ac56accf0c7fee739407974f9ea06e5)
@@ -597,7 +598,6 @@
 - [【前端之巅】GraphQL是API的未来，但它并非银弹](https://www.ershicimi.com/p/c86dcafab75045f83d79655cb59e090c)
 - [【前端之巅】GraphQL-vs-REST-API-架构，谁更胜一筹？​](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493683&idx=2&sn=1fcdf497a4b90df32308c6eb66fde909&chksm=f9525d70ce25d4668a7c6fbc10ccd77b47a57b4e7c493365622fe6cb138b5290186b79e5d7bc&scene=27#wechat_redirect)
 - [【前端之巅】GraphQL：API-的未来](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493627&idx=1&sn=12bffe8079ed17c0d3fc39e3984f1b19&chksm=f95252b8ce25dbaebcbe0171b5ab810289c64afbb0759104bd7b82b747a97b28e4d48974f5da&scene=27#wechat_redirect)
-- [【前端之巅】PayPal：如何在你的公司扩展GraphQL？](http://mp.weixin.qq.com/s?__biz=MzUxMzcxMzE5Ng==&mid=2247493140&idx=1&sn=34281fd59d1f1668cd7072e612f6f03d&chksm=f9525357ce25da41b5fb5e7ace6f4b13c0769fa37ca59973bf5c6bc3ea3a5863c55a83254e00&scene=27#wechat_redirect)
 - [......【查看更多】......](./details/tags/server.md)
 
 <div align="right"><a href="#标签分类">⬆返回顶部</a></div>

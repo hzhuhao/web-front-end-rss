@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-01 18:00:26。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-01 22:00:43。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -140,6 +140,12 @@
 </summary>
 
 
+- [【前端大全】2021-04-01-Vue3.0-新特性以及使用经验总结](https://www.ershicimi.com/p/b32d3a034f807b81dfb74a2efb5db9eb) 
+- [【前端大全】2021-04-01-万字总结，体系化带你全面认识-Nginx-！](https://www.ershicimi.com/p/64bd089ff72e7d0383f28b50c41634ae) 
+- [【前端大全】2021-04-01-前端每日一题-#64](https://www.ershicimi.com/p/a57d22d2dd5f0e06d8d72ac933afb95b) 
+- [【互联网架构师】2021-04-01-MyBatis-批量插入的-3-种方式！还有谁不会？](https://www.ershicimi.com/p/9d0f8b4f5cb5399ced3dd2f1e316e69f) 
+- [【互联网架构师】2021-04-01-张一鸣念员工报告讽刺“互联网八股文”-网友：老板都看不惯了](https://www.ershicimi.com/p/82f8dde3f5534fa780703cf2cdb6136f) 
+- [【互联网架构师】2021-04-01-读完-Effective-Java，我整理这-59-条技巧！](https://www.ershicimi.com/p/d20b9ee76ced92e30c63e801a0dc9f72) 
 - [【InfoQ】2021-04-01-“通才架构师”的消亡：从无到有，再到上百万个框架](https://www.ershicimi.com/p/576b01b86b25bae5472b590d79c4bc3b) 
 - [【InfoQ】2021-04-01-InfoQ出品：金融业数字化转型研究报告-|-免费下载](https://www.ershicimi.com/p/bf1b8aadeefbe2d271390c88a54d6a76) 
 - [【InfoQ】2021-04-01-Netflix-CEO-写的《不拘一格》火了，技术管理到底有啥价值｜GTLC](https://www.ershicimi.com/p/88a4dc2aa0f80ec52a2bd0ff0870762d) 

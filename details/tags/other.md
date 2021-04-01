@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-01 18:00:26。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-01 22:00:43。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 其它
 
@@ -216,6 +216,7 @@
 - [2018-09-25-【第1403期】如何优雅地链式取值](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=1&sn=d753e240e81b97c7e41708334bcfe783#wechat_redirect) 
 - [2018-09-24-【活动】10本大前端书籍，快来看啊！！！](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229941&idx=1&sn=402b96955dc28b93c61f8dc43e8c7d1f#wechat_redirect) 
 - [2018-09-20-【第1399期】美菜无线前端架构模型2018](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229902&idx=2&sn=944117ee409381e5ca2d9e608a823b75#wechat_redirect) 
+- [2021-04-01-前端每日一题-#64](https://www.ershicimi.com/p/a57d22d2dd5f0e06d8d72ac933afb95b) 
 - [2021-03-31-宁愿高薪招新人，也不给老员工涨工资，怎么办？](https://www.ershicimi.com/p/23ec31651cdc6f18137f927f1395909e) 
 - [2021-03-31-前端每日一题-#63](https://www.ershicimi.com/p/8f4ec14dab2fd06fc05011b686e827a5) 
 - [2021-03-30-P7砖家：对不起，我要跑路了！](https://www.ershicimi.com/p/ab319ba4e3e15a84719594df74c4ac33) 
@@ -1607,6 +1608,9 @@
 - [2019-12-18-聊聊前后端分离接口规范](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484361&idx=1&sn=8b5d7ea06fdefcbb25720635dfc18110&chksm=eb1cc623dc6b4f35c6e063f31698206a0384a59c77c9364eb4477bf448ef27415b250e3953b1&scene=27#wechat_redirect) 
 - [2019-12-16-VS-Code为什么能这么牛？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484356&idx=1&sn=07f27b686d17d7bee55eabfd9a751f98&chksm=eb1cc62edc6b4f387432e32e76284ac8ef789ca157c9cf49ef7ce52eebc3bba3d60aea78600e&scene=27#wechat_redirect) 
 - [2019-12-10-90%不知道这些前端开发规则与趋势的程序员都被淘汰了......](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484354&idx=1&sn=ca4d52df689d33924d4705c3b628bbde&chksm=eb1cc628dc6b4f3ee5d663116f49dcda61c82c9293b91840bd9d1d071a0d85ad78a4578cda75&scene=27#wechat_redirect) 
+- [2021-04-01-MyBatis-批量插入的-3-种方式！还有谁不会？](https://www.ershicimi.com/p/9d0f8b4f5cb5399ced3dd2f1e316e69f) 
+- [2021-04-01-张一鸣念员工报告讽刺“互联网八股文”-网友：老板都看不惯了](https://www.ershicimi.com/p/82f8dde3f5534fa780703cf2cdb6136f) 
+- [2021-04-01-读完-Effective-Java，我整理这-59-条技巧！](https://www.ershicimi.com/p/d20b9ee76ced92e30c63e801a0dc9f72) 
 - [2021-03-31-SQL-语句中-where-条件后-写上-1=1-是什么意思！](https://www.ershicimi.com/p/d1487fc63ef401c0c496bb980c701d71) 
 - [2021-03-31-2021年2月移动互联网全行业排行榜](https://www.ershicimi.com/p/04a16ef5baad5a749a33e4ef55ca5ea0) 
 - [2021-03-30-创业项目黄了，我靠着被废弃的副业项目，年收入45亿，将公司做到了200多亿市值](https://www.ershicimi.com/p/24bcec405d96f480fe0763e0e9512305) 
