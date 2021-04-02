@@ -16220,6 +16220,11 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 152 期）：从北大到技校",
+        "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html",
+        "date": "2021-04-02"
+      },
+      {
         "title": "科技爱好者周刊（第 151 期）：NFT 是什么，听说能赚钱",
         "link": "http://www.ruanyifeng.com/blog/2021/03/weekly-issue-151.html",
         "date": "2021-03-26"
@@ -21727,6 +21732,21 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "一个支付案例，学会策略模式！",
+        "link": "https://www.ershicimi.com/p/de2f71eb60cfa902e8a6b073457d9624",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "面试官问：前后端分离项目，有什么优缺点？我说：没",
+        "link": "https://www.ershicimi.com/p/6771b9391a83b562ab70beb296e2575a",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "两年经验，尽然斩获多家巨头offer，如：蚂蚁、头条、PingCAP~",
+        "link": "https://www.ershicimi.com/p/0330f134b9f4e9ac8d4bf45dbd51c756",
+        "date": "2021-04-02"
+      },
+      {
         "title": "MyBatis 批量插入的 3 种方式！还有谁不会？",
         "link": "https://www.ershicimi.com/p/9d0f8b4f5cb5399ced3dd2f1e316e69f",
         "date": "2021-04-01"
@@ -25323,6 +25343,31 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "创业项目黄了，我靠着被废弃的副业项目，年收入45亿，将公司做到了200多亿市值",
+        "link": "https://www.ershicimi.com/p/af28a3f65d4ee0603202769871aa3c58",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "从上云到业务创新，阿里云提供了哪些数字化的最短路径？",
+        "link": "https://www.ershicimi.com/p/fd7cb1d4a84f47dc4857236e647db8bb",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "跨端这道难题，你真的会做吗？",
+        "link": "https://www.ershicimi.com/p/5ea14f8656aa77f7484070f03b3c3f87",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "TiDB HTAP 的架构演进及实践",
+        "link": "https://www.ershicimi.com/p/0af0e03a78231dca3b0a5c631a1839d4",
+        "date": "2021-04-02"
+      },
+      {
+        "title": "BFF模式：微服务前端数据加载的最佳实践？",
+        "link": "https://www.ershicimi.com/p/33e97c541667b3fad965b236896cce86",
+        "date": "2021-04-02"
+      },
       {
         "title": "“通才架构师”的消亡：从无到有，再到上百万个框架",
         "link": "https://www.ershicimi.com/p/576b01b86b25bae5472b590d79c4bc3b",
