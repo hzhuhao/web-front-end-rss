@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-03 12:00:23。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-03 18:00:22。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -166,6 +166,8 @@
 - [【InfoQ】2021-04-01-Netflix-CEO-写的《不拘一格》火了，技术管理到底有啥价值｜GTLC](https://www.ershicimi.com/p/88a4dc2aa0f80ec52a2bd0ff0870762d) 
 - [【InfoQ】2021-04-01-绕过-Docker-，大规模杀死容器](https://www.ershicimi.com/p/eb6080746bd663e8ad8dc8f53403ab13) 
 - [【InfoQ】2021-04-01-DDD-被高估了吗？](https://www.ershicimi.com/p/5ca32630213c5104b5a7d1c1d48eba61) 
+- [【JavaScript】2021-04-03-Vue-3-计划放弃支持-IE11](https://www.ershicimi.com/p/84c1b75d51880846b27907becd2c629a) 
+- [【JavaScript】2021-04-02-Visual-Studio-Code-1.55-发布](https://www.ershicimi.com/p/60f661503a08556f36055d40a3f1e6b1) 
 - [【JavaScript】2021-04-01-Vue3-和-React17-，你选谁？](https://www.ershicimi.com/p/5201768cad7e8d137e8170250acd1b4b) 
 
 <div align="right"><a href="#时间分类">⬆返回顶部</a></div>
