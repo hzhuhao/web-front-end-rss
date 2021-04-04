@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-04-04 18:00:06，:rocket: 更新条数: +8， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-04-04 22:00:06，:rocket: 更新条数: +3， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -26,8 +26,8 @@
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
 - [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
-- [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [互联网架构师](#互联网架构师)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -380,6 +380,9 @@
 </summary>
 
 
+- [2021-04-04-您已关注公众号满1年，诚邀您免费加入互联网人专属金融学习交流群！](https://www.ershicimi.com/p/f51c9d1f1aca2f2436b3f93fb28f9cf5) ![](assets/new.png)  
+- [2021-04-04-Spring-中经典的-9-种设计模式，打死也要记住啊！](https://www.ershicimi.com/p/964d9b2c4a09a4dcb3946fd842779eba) ![](assets/new.png)  
+- [2021-04-04-SQL-子查询怎么优化？写的很深！](https://www.ershicimi.com/p/b4cd000b13b723485a5f42ecc82ec1cb) ![](assets/new.png)  
 - [2021-04-03-雷布斯被骗200w？？一行代码值两百万？雷军公开小米新logo翻车了？](https://www.ershicimi.com/p/944ea626ee084019be37ed2a704f7ca8)  
 - [2021-04-03-刷屏了！张一鸣6000字内部演讲：不依赖捷径，不轻言All-in（附全文）](https://www.ershicimi.com/p/922d0d70edf075485899768f9752de44)  
 - [2021-04-03-Nginx-除了负载均衡，还能做什么？](https://www.ershicimi.com/p/ab3b54ce794a5b27ab0cb54e6307c02f)  
@@ -397,9 +400,6 @@
 - [2021-03-30-为什么-MySQL-不推荐使用-join？](https://www.ershicimi.com/p/aa59268d31378b5f9c444cbc49fa6d7e)  
 - [2021-03-29-感受lambda之美，推荐收藏，需要时查阅](https://www.ershicimi.com/p/6ba7428989b35161e17edf3bfc61f3b7)  
 - [2021-03-29-首次曝光！支付宝支付加密规则梳理，写的太好了！](https://www.ershicimi.com/p/69a93db649e2378330580de40f9c7813)  
-- [2021-03-29-最新！2020中国高校毕业生薪资排行出炉！好过双一流的高校原来这么多](https://www.ershicimi.com/p/f6c9e8264c7fdaa23e245bf2edfaac89)  
-- [2021-03-28-孙正义再造“阿里巴巴”](https://www.ershicimi.com/p/2cf42233712c0bbd917d653f6317ae96)  
-- [2021-03-28-MySQL与Redis缓存的同步方案](https://www.ershicimi.com/p/3d59f463895db678220419fb9054d6cf)  
 - [......【查看更多】......](./details/互联网架构师.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -411,14 +411,14 @@
 </summary>
 
 
-- [2021-04-04-用Rust重写Linux内核，这可能吗？](https://www.ershicimi.com/p/04052a3c97b04d5d7bb63b7d07065ff2) ![](assets/new.png)  
-- [2021-04-04-Pinterest-搜索系统实时化的挑战和建设实践](https://www.ershicimi.com/p/7cf36efd6f8a8c82f96ac5bd98aca71a) ![](assets/new.png)  
-- [2021-04-04-我面试了-10-个-Java-工程师，全军覆没-｜-极客时间](https://www.ershicimi.com/p/fa70c29544423bf28c3902897afbfc99) ![](assets/new.png)  
-- [2021-04-04-阿里面试官：“说一下从-url-输入到返回请求的过程”-｜-极客时间](https://www.ershicimi.com/p/a0a1fad067ee577b3c6e5e3f90ad1b24) ![](assets/new.png)  
-- [2021-04-03-传字节跳动估值近4000亿美元；中国一线城市财富自由门槛1900万；华为2020年人均年薪70.6万](https://www.ershicimi.com/p/b302c112580b62b2df1b3da73809a4a0) ![](assets/new.png)  
-- [2021-04-03-2021-年要考虑的-10-种最佳-IDE-软件](https://www.ershicimi.com/p/ee5881ac2fc4e9bd3ef2b8d4043199c2) ![](assets/new.png)  
-- [2021-04-03-WebAssembly-在-MOSN-中的实践：基础框架篇](https://www.ershicimi.com/p/b85bfd0a9752df2aa08dd16653e76de7) ![](assets/new.png)  
-- [2021-04-03-想进大厂？快来恶补知识点！｜极客大学](https://www.ershicimi.com/p/23f1c21714eb4133e89cffaeaffab888) ![](assets/new.png)  
+- [2021-04-04-用Rust重写Linux内核，这可能吗？](https://www.ershicimi.com/p/04052a3c97b04d5d7bb63b7d07065ff2)  
+- [2021-04-04-Pinterest-搜索系统实时化的挑战和建设实践](https://www.ershicimi.com/p/7cf36efd6f8a8c82f96ac5bd98aca71a)  
+- [2021-04-04-我面试了-10-个-Java-工程师，全军覆没-｜-极客时间](https://www.ershicimi.com/p/fa70c29544423bf28c3902897afbfc99)  
+- [2021-04-04-阿里面试官：“说一下从-url-输入到返回请求的过程”-｜-极客时间](https://www.ershicimi.com/p/a0a1fad067ee577b3c6e5e3f90ad1b24)  
+- [2021-04-03-传字节跳动估值近4000亿美元；中国一线城市财富自由门槛1900万；华为2020年人均年薪70.6万](https://www.ershicimi.com/p/b302c112580b62b2df1b3da73809a4a0)  
+- [2021-04-03-2021-年要考虑的-10-种最佳-IDE-软件](https://www.ershicimi.com/p/ee5881ac2fc4e9bd3ef2b8d4043199c2)  
+- [2021-04-03-WebAssembly-在-MOSN-中的实践：基础框架篇](https://www.ershicimi.com/p/b85bfd0a9752df2aa08dd16653e76de7)  
+- [2021-04-03-想进大厂？快来恶补知识点！｜极客大学](https://www.ershicimi.com/p/23f1c21714eb4133e89cffaeaffab888)  
 - [2021-04-02-创业项目黄了，我靠着被废弃的副业项目，年收入45亿，将公司做到了200多亿市值](https://www.ershicimi.com/p/af28a3f65d4ee0603202769871aa3c58)  
 - [2021-04-02-从上云到业务创新，阿里云提供了哪些数字化的最短路径？](https://www.ershicimi.com/p/fd7cb1d4a84f47dc4857236e647db8bb)  
 - [2021-04-02-跨端这道难题，你真的会做吗？](https://www.ershicimi.com/p/5ea14f8656aa77f7484070f03b3c3f87)  

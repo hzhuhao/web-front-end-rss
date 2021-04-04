@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-04 18:00:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-04-04 22:00:06。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -154,6 +154,9 @@
 - [【前端之巅】2021-04-02-开发人员解决不了管理烂的问题](https://www.ershicimi.com/p/757f364bb5d2ad69bbfc11060a47f7fa) 
 - [【前端之巅】2021-04-02-玩转-Webpack-4-共需几步？-|-活动推荐](https://www.ershicimi.com/p/76bb03f92df767a42ac95627cd7ad9ea) 
 - [【阮一峰的网络日志】2021-04-02-科技爱好者周刊（第-152-期）：从北大到技校](http://www.ruanyifeng.com/blog/2021/04/weekly-issue-152.html) 
+- [【互联网架构师】2021-04-04-您已关注公众号满1年，诚邀您免费加入互联网人专属金融学习交流群！](https://www.ershicimi.com/p/f51c9d1f1aca2f2436b3f93fb28f9cf5) 
+- [【互联网架构师】2021-04-04-Spring-中经典的-9-种设计模式，打死也要记住啊！](https://www.ershicimi.com/p/964d9b2c4a09a4dcb3946fd842779eba) 
+- [【互联网架构师】2021-04-04-SQL-子查询怎么优化？写的很深！](https://www.ershicimi.com/p/b4cd000b13b723485a5f42ecc82ec1cb) 
 - [【互联网架构师】2021-04-03-雷布斯被骗200w？？一行代码值两百万？雷军公开小米新logo翻车了？](https://www.ershicimi.com/p/944ea626ee084019be37ed2a704f7ca8) 
 - [【互联网架构师】2021-04-03-刷屏了！张一鸣6000字内部演讲：不依赖捷径，不轻言All-in（附全文）](https://www.ershicimi.com/p/922d0d70edf075485899768f9752de44) 
 - [【互联网架构师】2021-04-03-Nginx-除了负载均衡，还能做什么？](https://www.ershicimi.com/p/ab3b54ce794a5b27ab0cb54e6307c02f) 

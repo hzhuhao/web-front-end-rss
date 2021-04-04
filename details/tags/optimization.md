@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-04 18:00:07。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-04-04 22:00:06。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -95,6 +95,7 @@
 - [2020-07-18-聊一聊前端性能优化-CRP](https://www.ershicimi.com/p/5c14be4e893f3261a0add4d4f152b003) 
 - [2020-02-26-前端高级进阶：如何更好地优化打包资源](https://www.ershicimi.com/p/f75535aab170a223ac5b638cb2a4f5f4) 
 - [2020-12-28-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8) 
+- [2021-04-04-SQL-子查询怎么优化？写的很深！](https://www.ershicimi.com/p/b4cd000b13b723485a5f42ecc82ec1cb) 
 - [2021-03-31-Redis-性能优化思路，写的非常好！](https://www.ershicimi.com/p/b1e269b3d22fa92b191304c9fbb9b006) 
 - [2021-02-22-再见，MySQL！性能被-MariaDB-吊打…](https://www.ershicimi.com/p/c5983166b5b981a701c82a173a023f80) 
 - [2021-02-22-一次线上商城系统高并发优化，涨姿势了～](https://www.ershicimi.com/p/7a820ac0368406c51a51797afd402b1b) 
