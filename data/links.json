@@ -3862,6 +3862,26 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "400 道前端工程师常考必考面试题+详细解答",
+        "link": "https://www.ershicimi.com/p/d5e56fb48efa0b27c01eb5844afe62dd",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "前端优秀实践不完全指南",
+        "link": "https://www.ershicimi.com/p/14dee3aaec5d7b79877f75e4a47b1436",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "前端每日一题 #70",
+        "link": "https://www.ershicimi.com/p/491fca219f14d2302784aa893c772f2e",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "前端同学们，你们要的分享干货，来了！",
+        "link": "https://www.ershicimi.com/p/db625b66cc114120f1f3f0e8ca22d3e2",
+        "date": "2021-04-07"
+      },
+      {
         "title": "Vue 项目如何提高效率？大厂 2 大实践总结告诉你",
         "link": "https://www.ershicimi.com/p/8a95c6c3568f1407faf214cfd37fdd35",
         "date": "2021-04-06"
@@ -21195,6 +21215,11 @@
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
       {
+        "title": "如何应用Node.js打造个人提效工作链？",
+        "link": "https://www.ershicimi.com/p/567981ae7d174e4109608888575c3207",
+        "date": "2021-04-07"
+      },
+      {
         "title": "Deno 宣布成立公司",
         "link": "https://www.ershicimi.com/p/118e36f2e93090a299e9c731d084e3a2",
         "date": "2021-04-06"
@@ -25548,6 +25573,76 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "前阿里丁奇：说个 MySQL 面试的普遍问题 | 极客时间",
+        "link": "https://www.ershicimi.com/p/b45e95e3acb27311bf4ae88ac0446b45",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "导致 Kubernetes 难用的四大因素",
+        "link": "https://www.ershicimi.com/p/0a6ddc8b1aee1a047793db034d551965",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "看完这7个案例，让你的架构弹性伸缩自如 ｜ ArchSummit",
+        "link": "https://www.ershicimi.com/p/7ec97dd593eaccd5316d049224953670",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "Rust 与 C 的速度比较",
+        "link": "https://www.ershicimi.com/p/b6f49b56af1ed0bed3a8be4dd8ddd692",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "Yelp 故障转移策略的实现",
+        "link": "https://www.ershicimi.com/p/0e778484fbf14679e16f227759e8a8f0",
+        "date": "2021-04-07"
+      },
+      {
+        "title": "90亿美元Java纠纷案反转：安卓中复制的代码属于合理使用",
+        "link": "https://www.ershicimi.com/p/b704c2f246b5f7b0dc18f1bbf86aad43",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "这 40 多家科技企业，你最想加入哪一家？",
+        "link": "https://www.ershicimi.com/p/dbfed3af23084c5124ad1e98a488370f",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "自动语音识别快速入门，远比你想象的更简单 ｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/95a7f3d4fca86092e304549e160a6b75",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "程序员究竟要不要学产品知识？ ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/1c3c53d43df20b0eda9c8dff058fc72d",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "前端开发者必备的 12 个工具",
+        "link": "https://www.ershicimi.com/p/3776c4bf49389f26f18e5ef5f8f07bbb",
+        "date": "2021-04-06"
+      },
+      {
+        "title": "Java 微服务能像 Go 一样快吗？",
+        "link": "https://www.ershicimi.com/p/602fc8900374a1e927e737b3671ff65e",
+        "date": "2021-04-05"
+      },
+      {
+        "title": "精通哪些编程语言的程序员更“吃香”？| InfoQ 编程语言 3 月排行榜",
+        "link": "https://www.ershicimi.com/p/6c10d03d87f65ec013c6e8048665d678",
+        "date": "2021-04-05"
+      },
+      {
+        "title": "2021 年 Node.js 开发人员学习路线图",
+        "link": "https://www.ershicimi.com/p/cc0497145d40cb605c6908a59554f1b7",
+        "date": "2021-04-05"
+      },
+      {
+        "title": "Arm 最新架构不受美国出口管理条例约束，华为有机会获授权",
+        "link": "https://www.ershicimi.com/p/3d8292401dccd36088018882a8564fc8",
+        "date": "2021-04-05"
+      },
       {
         "title": "用Rust重写Linux内核，这可能吗？",
         "link": "https://www.ershicimi.com/p/04052a3c97b04d5d7bb63b7d07065ff2",
