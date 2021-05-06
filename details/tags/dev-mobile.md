@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 11:03:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 移动开发、Flutter相关
 
@@ -15,6 +15,7 @@
 - [2018-12-13-【第1475期】企鹅辅导课程详情页毫秒开的秘密---PWA-直出](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230691&idx=1&sn=de768499f92afd1d026dfa63d00a0685#wechat_redirect) 
 - [2020-12-07-一套代码、多端运行，Flutter是如何实现的？](https://www.ershicimi.com/p/092bb0b96ddfd4245d4c2991d19578a6) 
 - [2020-01-08-PWA-是移动开发的未来吗？](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651557697&idx=2&sn=ad2fcfb73efe0847f431bc80f6f4ca27&chksm=80255880b752d1967fb225f564f0f1192ebfac3a9649f117b8a3404759ef77a9791ffb2a7a37&scene=27#wechat_redirect) 
+- [2021-04-23-闲鱼正在悄悄放弃-Flutter-吗？](https://www.ershicimi.com/p/6a5eec9c3474716924a503b1edca50f3) 
 - [2021-03-25-斗胆，谈谈我对Flutter的理解](https://www.ershicimi.com/p/4b7e192cbcdfb18c6abf18bd03a96f2a) 
 - [2021-03-19-Flutter-正在被悄悄放弃吗？](https://www.ershicimi.com/p/c327a401b5f2a5e98616f511ea779779) 
 - [2021-03-10-2021年，原生永不为奴还是PWA绝地反击？](https://www.ershicimi.com/p/1e7e4ea046c0553192cfe52031db6ee0) 
@@ -72,6 +73,7 @@
 - [2020-10-13-Flutter-性能优化：tree-shaking-和延迟加载](https://aotu.io/notes/2020/10/13/optimizing-performance-in-flutter-web-apps-with-tree-shaking-and-deferred-loading/) 
 - [2020-10-13-Flutter-性能优化：图片占位符、预缓存和禁用导航过渡动画](https://aotu.io/notes/2020/10/13/improving-perceived-performance-with-image-placeholders-precaching-and-disabled-navigation/) 
 - [2020-10-13-Flutter-性能优化：打造高性能-widget](https://aotu.io/notes/2020/10/13/build-performant-flutter-widget/) 
+- [2021-04-23-奇舞周刊第-394-期：基于-Flutter-的-Web-渲染引擎“北海”正式开源](https://www.ershicimi.com/p/a313a269746c1d66570bb5ad85b31be2) 
 - [2021-03-05-奇舞周刊第-387-期：Flutter-2-正式发布！](https://www.ershicimi.com/p/5533893e6b61a9dfdfc81e42caf60af2) 
 - [2021-01-02-阿里中台搞了3年，凉了？网传：副总裁玄难“背锅”，辞职创业！咸鱼放弃维护-Flutter!](https://www.ershicimi.com/p/afb12c1dba75c8727465bb608dbe28b9) 
 - [2021-03-25-Flutter落地、DDD实践、LowCode探索......一线大厂架构师的“独门秘籍”-｜-Ar](https://www.ershicimi.com/p/2d84925bd3e5061d62933290542aec63) 

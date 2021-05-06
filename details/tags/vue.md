@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 11:03:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -58,6 +58,8 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2021-04-29-快速使用-Vue3-最新的-15-个常用-API](https://www.ershicimi.com/p/ccd7dfd6856c4d4d6e5c1e99d108accc) 
+- [2021-04-28-前端面试亮点必杀器：Vue-3核心原理解析](https://www.ershicimi.com/p/cdf332664dc7c8ac4a1c693279f930ce) 
 - [2021-04-06-Vue-项目如何提高效率？大厂-2-大实践总结告诉你](https://www.ershicimi.com/p/8a95c6c3568f1407faf214cfd37fdd35) 
 - [2021-04-01-Vue3.0-新特性以及使用经验总结](https://www.ershicimi.com/p/b32d3a034f807b81dfb74a2efb5db9eb) 
 - [2021-03-27-『前端优化』——-Vue中避免滥用this去读取data中数据](https://www.ershicimi.com/p/c15b5c6e5dba897ee5a1ff21396753c1) 
@@ -251,9 +253,13 @@
 - [2020-01-14-2020年人人都会Vue了，面试官还能考什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484393&idx=1&sn=83972cbd129e943091693c5ad74589a7&chksm=eb1cc603dc6b4f15d6496af5d061d38ec9cffb4eff2f893033eaf9429b6d0fe8692ae6120889&scene=27#wechat_redirect) 
 - [2019-12-31-VS-Code成主宰、Vue备受热捧！2019前端开发趋势必读](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484375&idx=1&sn=40251dd1d0cf4e83c41f9766b36ea896&chksm=eb1cc63ddc6b4f2b69a515a1f0b3bc890917b5674e5595befc40edac2653e5505e23efd4e442&scene=27#wechat_redirect) 
 - [2019-12-07-Vue-CLI-首屏优化技巧](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484348&idx=1&sn=5a01f3b9c2e843dba222a2032d8b61cc&chksm=eb1cc656dc6b4f40c93b69306ebebb6960bc5f604d586311f4ba9b5a11d358d1400a60b8087c&scene=27#wechat_redirect) 
+- [2021-04-30-重磅！阿里首推的“SpringBoot+Vue全栈项目”有多牛X？](https://www.ershicimi.com/p/f926d828666b484449f536af8ef1a414) 
 - [2020-09-02-Vue.js-教程：构建一个特斯拉汽车余电计算器](https://www.ershicimi.com/p/e4b2fef1677dcbd2e31cb5253e688411) 
 - [2020-02-04-2020年-11-大顶级-VueJS-开发工具](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651024037&idx=4&sn=62781eb957fd57e11d4716ec9ab222b5&chksm=bdbe92f68ac91be09e8a9e37b5070a810902bbd4c9be4cdebe17fb30501d4bceba95e01619e8&scene=27#wechat_redirect) 
 - [2020-01-17-尤雨溪-VueConf-演讲：Vue-3.0-的新特性和设计理念](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023703&idx=5&sn=b4090f12119d99c1a9f0b4b81808f767&chksm=bdbe91048ac918128fce7fed5fcdfc3f2fe9b648a845ccb1f91d64c5756e99afa5790163a459&scene=27#wechat_redirect) 
+- [2021-04-29-Vue-3核心原理解析，看这篇就够了](https://www.ershicimi.com/p/ea5dbdac3eaae19bb7ef52f765f21eb6) 
+- [2021-04-27-大厂2个Vue实践总结，效率提升80%！](https://www.ershicimi.com/p/ea9d643bcb4ea8db5d776662dbfec40b) 
+- [2021-04-19-前端进阶所需要了解的Vue-3源码及原理](https://www.ershicimi.com/p/0b523ed89aeaa7ad97b9581539617ac0) 
 - [2021-04-03-Vue-3-计划放弃支持-IE11](https://www.ershicimi.com/p/84c1b75d51880846b27907becd2c629a) 
 - [2021-03-29-2021年提升效率的7个新vue实战技巧！](https://www.ershicimi.com/p/a141a5c5a9a8d3c8caa267f37d911011) 
 - [2021-03-25-关于Vue-3核心原理问题，一次解决](https://www.ershicimi.com/p/9851a2f2a13411f0cff99cdec7a7b4fd) 

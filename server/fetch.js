@@ -149,8 +149,8 @@ function replaceRss(rss){
 //  if(!useLocalRSSHub) return rss
 
   if(/rsshub\.app/.test(rss)){
-    console.log('https://rsshub.app ==> http://127.0.0.1:1200')
-   return rss.replace('https://rsshub.app', 'http://127.0.0.1:1200')
+    console.log('https://rsshub.app ==> http://81.69.222.190:1200')
+   return rss.replace('https://rsshub.app', 'http://81.69.222.190:1200')
   }else{
  return rss
 }

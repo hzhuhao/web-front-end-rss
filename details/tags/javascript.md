@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 11:03:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -281,6 +281,8 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2021-04-30-编程语言最新情报：JavaScript最流行，Rust-增长最猛](https://www.ershicimi.com/p/95e1361d33bda134d3c0098e79e49614) 
+- [2021-04-18-微信PC版曝高危漏洞，建议尽快更新；中国首个JS语言提案在ECMA进入Stage-3；华为多款手机将](https://www.ershicimi.com/p/1b06ed7c2af312ad740c43e238a54367) 
 - [2021-03-24-2021年前端开发者需要知道的34种JS优化技巧](https://www.ershicimi.com/p/69d032c4cdc220e4cd5517e86456f15f) 
 - [2021-01-27-如何在纯-JavaScript-中使用-GraphQL](https://www.ershicimi.com/p/9271e6d594498c8f5823538196e45271) 
 - [2021-01-20-2020-年的-JavaScript-后起之秀](https://www.ershicimi.com/p/8b78b8fa39a2e074be565db953f7f27d) 
@@ -402,6 +404,7 @@
 - [2018-05-31-基于-BindingX-的富交互解决方案](https://fed.taobao.org/blog/2018/05/31/a-rich-interaction-solution-based-on-bindingx/) 
 - [2018-01-23-实现一个-JavaScriptCore-的-debugger-——-iOS-篇](https://fed.taobao.org/blog/2018/01/23/implement-javascriptcore-debugger-ios/) 
 - [2017-12-07-机器学习，Hello-World-from-Javascript!](https://fed.taobao.org/blog/2017/12/07/machine-learning/) 
+- [2021-04-25-JS视频解码JSMpeg和Broadway开箱测评](https://www.zhangxinxu.com/wordpress/2021/04/js-video-decode-jsmpeg-broadway/) 
 - [2021-02-16-盘点HTML字符串转DOM的各种方法及细节](https://www.zhangxinxu.com/wordpress/2021/02/html-string-dom/) 
 - [2021-02-15-如何使用JS检测用户是否缩放了页面？](https://www.zhangxinxu.com/wordpress/2021/02/js-if-page-zoom/) 
 - [2021-02-13-Web-Components中引入外部CSS的3种方法](https://www.zhangxinxu.com/wordpress/2021/02/web-components-import-css/) 
@@ -503,6 +506,10 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2021-04-29-JavaScript-如何检测文件的类型？](https://www.ershicimi.com/p/78fb167023aea8c6bf431dff4257842b) 
+- [2021-04-20-Table组件虚拟化实践](https://www.ershicimi.com/p/bc947edfdd9c856c968005b0ae9a38ad) 
+- [2021-04-19-JavaScript-中如何实现大文件并行下载？](https://www.ershicimi.com/p/40e9969871768d3639d86098d2ba4cbd) 
+- [2021-04-09-奇舞周刊第-392-期：用-65-行代码实现-JavaScript-动画序列播放](https://www.ershicimi.com/p/013dd0533617f7cce4ff4a46483d0fb1) 
 - [2021-03-23-一道面试题让你更加了解事件队列](https://www.ershicimi.com/p/9164c8331ace11df525b236cca2d21c2) 
 - [2021-03-19-奇舞周刊第-389-期：深入剖析-QuickJS](https://www.ershicimi.com/p/12e31129357ed9d62a8c995f4569b946) 
 - [2021-03-15-使用JavaScript开发一个Photoshop插件](https://www.ershicimi.com/p/9aea155c7eaec3bb97e0bb6f4c430bac) 
@@ -549,6 +556,7 @@
 - [2020-06-24-JavaScript常用API合集汇总](https://www.ershicimi.com/p/4a68d80e5817c7209dffd5619a3ba290) 
 - [2020-06-20-这么骚的-js-代码，不怕被揍么](https://www.ershicimi.com/p/55104bee964d5d850177325ca99218a3) 
 - [2020-02-14-JavaScript-造就年薪超过-10-万美元的开发者们！](https://www.ershicimi.com/p/16c82eb48f89e36a8dd6f4352e974951) 
+- [2021-05-01-快手二面：@Component，@Service等注解是如何被解析的？](https://www.ershicimi.com/p/7a5f34b440bf4c9024df43c161b8fb60) 
 - [2021-03-17-缓存踩踏：Facebook史上最严重的宕机事件分析](https://www.ershicimi.com/p/19573e23c6b4b6daf59cceb33430f291) 
 - [2021-01-19-数数FastJson那些年犯下的'血案'...](https://www.ershicimi.com/p/478efa9b21e83ec17a7f05e4b0bab5c3) 
 - [2020-12-16-公司这套架构统一处理try...catch这么香，求求你不要再满屏写了，再发现扣绩效！](https://www.ershicimi.com/p/cc4efe822851934c84e0bd833157dcc1) 

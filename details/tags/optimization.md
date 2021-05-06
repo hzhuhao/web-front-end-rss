@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 11:03:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 性能优化
 
@@ -87,6 +87,7 @@
 - [2016-03-16-前端优化不完全指南](https://aotu.io/notes/2016/03/16/optimization/) 
 - [2016-03-09-让图片加载这件事儿变得更美好](https://aotu.io/notes/2016/03/09/img-loading-optimization-in-mobile/) 
 - [2016-01-07-使用Chrome开发工具优化Web应用](https://aotu.io/notes/2016/01/07/debug-webapp-with-chrome-devtools/) 
+- [2021-04-13-2021-年-Web-核心性能指标CLS解读](https://www.ershicimi.com/p/6007cad362feca8aef22fd4c62261152) 
 - [2021-03-04-如何编写神奇的「插件机制」，优化基于-Antd-Table-封装表格的混乱代码](https://www.ershicimi.com/p/a57d1f4c1aa7aa3139593df6b59f94c9) 
 - [2021-01-13-解读新一代-Web-性能体验和质量指标](https://www.ershicimi.com/p/ef007c83081a8513821e28bf22d2d98b) 
 - [2021-01-05-我是如何将网页性能提升5倍的-—-网络优化篇](https://www.ershicimi.com/p/43c90f7f7ed205c839476a1f909c1990) 
@@ -95,6 +96,7 @@
 - [2020-07-18-聊一聊前端性能优化-CRP](https://www.ershicimi.com/p/5c14be4e893f3261a0add4d4f152b003) 
 - [2020-02-26-前端高级进阶：如何更好地优化打包资源](https://www.ershicimi.com/p/f75535aab170a223ac5b638cb2a4f5f4) 
 - [2020-12-28-简单粗暴可实操的前端性能优化方案](https://www.ershicimi.com/p/7d954c4b2daee3a8f4ff0ca1245734c8) 
+- [2021-05-04-类加载常见错误总结，写得非常好！](https://www.ershicimi.com/p/83edaca56e38cb33149832de0f34c32c) 
 - [2021-04-04-SQL-子查询怎么优化？写的很深！](https://www.ershicimi.com/p/b4cd000b13b723485a5f42ecc82ec1cb) 
 - [2021-03-31-Redis-性能优化思路，写的非常好！](https://www.ershicimi.com/p/b1e269b3d22fa92b191304c9fbb9b006) 
 - [2021-02-22-再见，MySQL！性能被-MariaDB-吊打…](https://www.ershicimi.com/p/c5983166b5b981a701c82a173a023f80) 
@@ -119,6 +121,7 @@
 - [2020-01-20-一次SQL查询优化原理分析（900W+数据，从17s到300ms）](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489676&idx=4&sn=4be19f8c10cc05fecc2589af5a828e94&chksm=ea5cd5eadd2b5cfcf9722a42c73edde3ed4a1ae665403608ee5ce3c3112298ce876b79db9d7c&scene=27#wechat_redirect) 
 - [2019-12-29-性能优化:要2个月才跑完的程序我是如何优化到到4小时的？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=3&sn=f8d5c870f93219c444cd1ea2cd9aed93&chksm=ea5cdad7dd2b53c1cfa4e53aa1d7d9d349c98d4a3d4e5f76c2e22f157ef82471b2942b03e517&scene=27#wechat_redirect) 
 - [2019-12-23-ES亿级数据检索优化，三秒返回突破性能瓶颈](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489385&idx=1&sn=77d2403461c32d7928133520b8ba8d17&chksm=ea5cda0fdd2b5319949f4ada3f67be43ef9c6488f76de8448465edd619f4e6f6c6860ec5dc03&scene=27#wechat_redirect) 
+- [2021-05-03-对Kafka-和-Pulsar进行性能测试后，拉卡拉将消息平台统一换成了-Pulsar](https://www.ershicimi.com/p/dabd15162f6de46c1783ec9c6129178b) 
 - [2021-04-02-BFF模式：微服务前端数据加载的最佳实践？](https://www.ershicimi.com/p/33e97c541667b3fad965b236896cce86) 
 - [2021-03-26-晋升、面试中绕不开的性能优化问题｜极客时间](https://www.ershicimi.com/p/b99e60cb9306f07b73dc6933b8c559ba) 
 - [2021-03-23-困扰-80%-玩家，GTA-5-祖传-7-年的加载时间问题，现被一玩家缩短了-70%](https://www.ershicimi.com/p/1b73227a4161f97c4b3b76f50cee09ff) 

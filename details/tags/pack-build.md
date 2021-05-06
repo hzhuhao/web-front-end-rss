@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 11:03:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -32,6 +32,8 @@
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
+- [2021-05-01-项目实战-Webpack-to-Vite，-为开发提速！](https://www.ershicimi.com/p/b2c44d458abd6573adc801968db7edf3) 
+- [2021-04-27-让我告诉你一些强无敌的-NPM-软件包](https://www.ershicimi.com/p/be22088b65ad4a5b4408379f93828bd7) 
 - [2021-03-21-总结18个-webpack-插件，总会有你想要的！](https://www.ershicimi.com/p/7968027c2cac6162b7b929adea3f0c94) 
 - [2021-03-18-内容非常详细！领略-Eslint-代码检查的四种姿势](https://www.ershicimi.com/p/9347764b3e962205c7fd6218391ee5df) 
 - [2021-03-02-为什么现在我更推荐-pnpm-而不是-npm/yarn?](https://www.ershicimi.com/p/7079c9412f9fb5d785eb6e021f69ced0) 
@@ -140,6 +142,7 @@
 - [2020-03-19-滴滴离线索引快速构建FastIndex架构实践](https://www.ershicimi.com/p/8a038adbfe81be5a4dfd885f545d015f) 
 - [2020-03-17-刚刚！GitHub宣布正式收购npm](https://www.ershicimi.com/p/c141516d536348a27f1d2d814a372140) 
 - [2020-01-13-一个通用的数据中台架构应该如何构建？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=5&sn=b0d95ca2295d668e48d80c426f15e299&chksm=bdbe914b8ac9185d65bdaffd4d3ec0d6453c20ac0ddb43f351bf943ea33b01d1f6c90b3e8e09&scene=27#wechat_redirect) 
+- [2021-04-20-pnpm-6.1-发布](https://www.ershicimi.com/p/4224fa6d39c6d08ba200bc9f4282461b) 
 - [2021-03-27-webpack-v5.28.0-发布](https://www.ershicimi.com/p/582b912fa8802e914a141c1683037942) 
 - [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341) 
 - [2020-03-19-微软通过-Github-收购-npm，加上-TS、新版-Edge、Vscode-，拿下-js-语言的](https://www.ershicimi.com/p/6703a3a49d5f30b4cb9eec23a650d889) 

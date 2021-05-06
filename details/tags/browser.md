@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 11:03:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -42,6 +42,7 @@
 - [2018-10-30-【第1431期】图解浏览器的基本工作原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230177&idx=2&sn=a66f40a14287e3fed1bf59c597f35ac9#wechat_redirect) 
 - [2018-09-27-【第1405期】浏览器的-Event-Loop](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=1&sn=e74d2564a25ade60323ee03f098b9f49#wechat_redirect) 
 - [2018-09-19-【第1398期】一文读懂前端缓存](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229883&idx=1&sn=0a775144fc84fc16c0ce581b80ab2a6c#wechat_redirect) 
+- [2021-05-01-前后端接口鉴权全解-Cookie/Session/Token-的区别](https://www.ershicimi.com/p/931d6e85d872eeca95c2dfde58147573) 
 - [2021-03-29-面试官：“说一下从-url-输入到返回请求的过程”](https://www.ershicimi.com/p/bffa0f4d837b8b08d223fb1db2e475df) 
 - [2021-03-28-反直觉！浏览器到底是如何下载资源的](https://www.ershicimi.com/p/1e8aa155aa1013fb7a508fa19dbabecb) 
 - [2021-02-23-对跨域的最后一战](https://www.ershicimi.com/p/a579c8dda984a633b806aea59a0c87b3) 
@@ -124,6 +125,7 @@
 - [2018-09-25-使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect) 
 - [2018-09-24-一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect) 
 - [2018-09-21-前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect) 
+- [2021-04-25-微软统一所有平台的Edge代码库；大学教授向Linux提交漏洞代码致学校被拉黑；苹果M1版Mac的销](https://www.ershicimi.com/p/56be00c860ff77b83518590ecee6f20b) 
 - [2021-03-31-前端工程师，一定要懂哪些浏览器原理？-|-活动推荐](https://www.ershicimi.com/p/bc317fcebdc5322bc77be7dc3e17f653) 
 - [2021-02-21-Ant-Design源码已恢复，并冲上榜二；开源Web扩展项目推送恶意程序，影响数百万浏览器；小米回](https://www.ershicimi.com/p/3b81bb498051563f5353716a839aec62) 
 - [2021-02-13-《赛博朋克-2077》源码通过地下交易售出；Win10强制性更新将彻底杀死旧Edge；腾讯回应年终奖](https://www.ershicimi.com/p/ccffeeb69f00441da2318e7b741c7155) 
@@ -175,6 +177,7 @@
 - [2020-12-02-CodeReview-下一代：基于-KAITIAN-的纯前端-CR-IDE](https://fed.taobao.org/blog/taofed/do71ct/uyaxag) 
 - [2019-08-16-VSCode原理解析---断点调试](https://fed.taobao.org/blog/taofed/do71ct/vscode-debug-source-analyse) 
 - [2019-08-15-VSCode原理解析---断点调试](https://fed.taobao.org/blog/2019/08/15/vscode-debug-source-analyse/) 
+- [2021-04-26-Safari不支持build-in自定义元素的兼容处理](https://www.zhangxinxu.com/wordpress/2021/04/safari-buildin-custom-element-polyfill/) 
 - [2021-02-17-Chrome-88已经支持aspect-ratio属性了，学起来](https://www.zhangxinxu.com/wordpress/2021/02/css-aspect-ratio/) 
 - [2020-10-26-细说iOS-Safari下focus的行为](https://www.zhangxinxu.com/wordpress/2020/10/ios-safari-input-button-focus/) 
 - [2019-10-13-实现a元素href-URL链接自动刷新或新窗口打开](https://www.zhangxinxu.com/wordpress/2019/10/a-href-target-window-blank-refresh/) 
@@ -193,6 +196,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2021-04-22-Axios-如何实现请求重试？](https://www.ershicimi.com/p/1c12bd2468e3740be9b46d439927bf59) 
 - [2021-02-05-奇舞周刊第-384-期：-Chrome-88-重要更新解读](https://www.ershicimi.com/p/18cb7e1d895b1c911f22c3d4ce19d70e) 
 - [2020-12-17-封装-axios-取消重复请求](https://www.ershicimi.com/p/b1b849b82eb31c5fa359748e0c2d2e78) 
 - [2020-09-22-摸金校尉聊浏览器渲染](https://www.ershicimi.com/p/9339cf52f601bafc74e228301225ac2c) 
@@ -201,6 +205,7 @@
 - [2020-07-29-你不知道的-WebSocket](https://www.ershicimi.com/p/0bf0b89f8923693b8f12f689dd14f1d0) 
 - [2020-03-19-前端高级进阶：网站的缓存控制策略最佳实践及注意事项](https://www.ershicimi.com/p/51f4f29191c7f3f0fc9a3817fdfecaec) 
 - [2020-01-19-前端安全—你必须要注意的依赖安全漏洞](http://mp.weixin.qq.com/s?__biz=MzA5NzkwNDk3MQ==&mid=2650591159&idx=1&sn=68abf498d83a849f9fb2099f1642df20&chksm=8891df93bfe6568550651cb5a32f3c0d30585818dae614772298b4c9913cb4fd2bfd3241f8f5&scene=27#wechat_redirect) 
+- [2021-04-08-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/9e0a0e7b6559752b7a0a05ada834fad8) 
 - [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-13-Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba) 
 - [2021-03-28-MySQL与Redis缓存的同步方案](https://www.ershicimi.com/p/3d59f463895db678220419fb9054d6cf) 

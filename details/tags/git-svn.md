@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-04-08 22:00:21。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-06 11:03:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Git、SVN
 
@@ -14,6 +14,7 @@
 - [2019-01-30-【第1520期】-Git项目管理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651231297&idx=1&sn=5d4ee258ddef100d028e14fdd85faf74#wechat_redirect) 
 - [2019-01-09-【英】Github-宣布-GitHub-Free-以及-GitHub-Enterprise](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230934&idx=3&sn=8b9b78ecad6457e9a4522b040532c14b#wechat_redirect) 
 - [2019-01-06-【英】Removing-jQuery-from-GitHub.com-frontend](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230908&idx=2&sn=2bd887fdff5af33bfbe0055a17c6f4ab#wechat_redirect) 
+- [2021-04-30-摸鱼社区炒饭前端开源，大家快来-GitHub-Star-一波呀](https://www.ershicimi.com/p/b1ea8039be31b88cdefb8054c3b46ff9) 
 - [2020-12-31-两天狂揽-4k+-Star，抢茅台脚本霸榜-GitHub](https://www.ershicimi.com/p/a9d7732fa3b71eea0d76688cf6057ad2) 
 - [2020-12-16-下载神器被-Github-下架后，作者写下了这篇回应](https://www.ershicimi.com/p/b4f8c624ebceabf1805fbb1c46a83719) 
 - [2020-12-13-GitHub-月榜第-3，微软的老照片修复工具火了](https://www.ershicimi.com/p/fb97b4e9fd1455e1a5424deb7acbad8e) 
@@ -21,6 +22,7 @@
 - [2020-11-24-GitHub-霸榜！比-ping-强大的-gping-一天拿下-2.5k-Star](https://www.ershicimi.com/p/3a8777a872152084656e7e409eb5fbdf) 
 - [2020-06-02-这些热门GitHub代码库，每个前端开发者都应该收藏](https://www.ershicimi.com/p/116b605f2b206ad1848eaa4ff964ef0e) 
 - [2020-06-02-Github系列，是道全选题么？](https://www.ershicimi.com/p/e4d4a6de62a7c4ecb1cdd69d8047e94f) 
+- [2021-05-02-GitHub使用新标头屏蔽谷歌的FLoC追踪；腾讯被南山法院强制执行25元；明尼苏达大学教授向Lin](https://www.ershicimi.com/p/29d45e1fd8c7e880891bd6782287be18) 
 - [2021-01-25-日常使用Git，这些问题你遇到过吗？|-活动推荐](https://www.ershicimi.com/p/9142801871399e4e1d00288938ab6201) 
 - [2021-01-22-程序员必备的10大GitHub仓库](https://www.ershicimi.com/p/4527c2aca097748967284fd029ed8607) 
 - [2020-12-27-前端周报：VS-Code的Issue列表被黑产“攻陷”；国产开源软件“购买”GitHub星标被批评；](https://www.ershicimi.com/p/514b20007ed8b002fdaa40f940dbb77b) 
@@ -63,6 +65,7 @@
 - [2020-03-17-别再推荐Git-Flow了](https://www.ershicimi.com/p/a26a3c86709c9316ff80d965901d1ac8) 
 - [2020-01-27-武汉火神山医院向全国公开招募IT运维；-wuhan2020开源项目登录GitHub；国务院凌晨通知春](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023926&idx=1&sn=5881682fd6d2a8c45dcbdbb640eb1325&chksm=bdbe92658ac91b73916725d02e6ed6990d00630f13fa69082cb21b61783912eedf7c5ae35971&scene=27#wechat_redirect) 
 - [2019-12-29-用文言文编程？Github“万星”代码背后，到底是何方神圣](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023321&idx=2&sn=96af72c8510764c91c6e3dbd50f37a15&chksm=bdbe9f8a8ac9169c62d37307343da1a3a788fd52402f30a5b1e46eee8cf7c9db9807b552011b&scene=27#wechat_redirect) 
+- [2021-04-15-Atom-1.56.0-发布，GitHub-官方文本编辑器](https://www.ershicimi.com/p/c35fb03a8c5fe27e9d8bfcb139d2a679) 
 - [2021-03-30-Git-for-Windows-2.31.1-发布](https://www.ershicimi.com/p/7717c10235a062fa587e74b38e727252) 
 - [2020-03-03-高频使用的-Git-命令](https://www.ershicimi.com/p/49b3760af76ff7c5af6158f1a471b700) 
 - [2020-01-21-👀github博客不能翻页？快速生成gitbook了解一下](https://juejin.im/post/5e2409d56fb9a02fce0b6648) 
