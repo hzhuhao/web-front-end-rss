@@ -1,10 +1,18 @@
-:alarm_clock: 更新时间: 2021-05-06 11:03:38。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-07 13:40:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-05-06-跨端开发、微服务实践、低代码落地......从大厂资深技术人的实践经验看2021年应该关注的方向-|](https://www.ershicimi.com/p/4029edab08e25bfea7c2c2308643a248) 
+- [2021-05-06-编程语言最新情报：JavaScript最流行，Rust-增长最猛](https://www.ershicimi.com/p/dafaba4ce3ceafbed6fcc5fc28b5d21a) 
+- [2021-05-06-关于华为云最新发布的盘古大模型，我们提了几个问题-|-Q推荐](https://www.ershicimi.com/p/febaf3c4b29b69624280c3e03b60bcd1) 
+- [2021-05-06-红帽全球副总裁曹衡康：如何打造开放式组织？开放领导力是关键-｜-GTLC](https://www.ershicimi.com/p/e1a069be7b87079701af32ea32ddac52) 
+- [2021-05-06-Uber-的真正“法宝”是数据](https://www.ershicimi.com/p/b6a88dc79a6fb68fe34ac6c6362bfb80) 
+- [2021-05-05-从行业标准到销声匿迹，被Kubernetes击败的Heroku](https://www.ershicimi.com/p/7698667b12d317ece135c1c7d5051fa1) 
+- [2021-05-05-从14s到4s，我如何将-MacOS上的-Rust-增量编译时间减少70％？](https://www.ershicimi.com/p/36f09302d39c8e890fd823b4a3337ac5) 
+- [2021-05-05-天天在用消息队列，却不知道为啥要用-MQ-，这就尴尬了-|-极客时间](https://www.ershicimi.com/p/ec5fbec3bb7e7862836c173bafb5043a) 
 - [2021-05-04-Go-语言会是昙花一现吗？-｜-极客时间](https://www.ershicimi.com/p/e58fdce6b2bbea8f9c964b9900911c4b) 
 - [2021-05-04-写给工程师的代码重构终极指南](https://www.ershicimi.com/p/927417ab0dc502b41936d5c524388e3a) 
 - [2021-05-04-美团做-React-Native-性能优化的三个关键点](https://www.ershicimi.com/p/94e9c3c8378c4bfc8e88a93c53ae519b) 

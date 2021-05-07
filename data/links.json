@@ -3862,6 +3862,76 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "手写一个 mini-webpack 后，再也不怕面试官问 webpack 原理了！",
+        "link": "https://www.ershicimi.com/p/9fb841ae72b5642315bbd22e6be729bc",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "浅谈前端权限设计方案",
+        "link": "https://www.ershicimi.com/p/452667dedd4be20574a065e8be101195",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "前端每日一题 #98",
+        "link": "https://www.ershicimi.com/p/6ef9f9508b61555f6ee011ad5d34c866",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "设计灵感 ：12 组炫酷的汽车仪表盘设计",
+        "link": "https://www.ershicimi.com/p/942a5228fd1be53e458f702c007bcc85",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "[万字总结] 一文吃透 Webpack 核心原理",
+        "link": "https://www.ershicimi.com/p/52299a11b5621f176d73cc5463d95977",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "Vue 源码解读（1）—— 前言",
+        "link": "https://www.ershicimi.com/p/a8b8cc515e51649cf5cdd444e04e983e",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "前端每日一题 #97",
+        "link": "https://www.ershicimi.com/p/70399ddd6de5725984612fd4c94fb1cc",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "设计灵感：9款精致好看的指南针App设计",
+        "link": "https://www.ershicimi.com/p/47606f6460ed233cc39b799f2e2012eb",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "【网页特效】丝滑的 macOS Dock效果",
+        "link": "https://www.ershicimi.com/p/85f5ea49bfcde8fab77f5850a98ebc43",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "如何用纯 CSS 实现酷炫的霓虹灯效果？",
+        "link": "https://www.ershicimi.com/p/d2bde6daa8e67c70b51d06466158e61e",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "前端每日一题 #96",
+        "link": "https://www.ershicimi.com/p/f5a9aec5e03041f38a8a6382a98afb88",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "设计灵感：微妙的高级感！毛玻璃拟物界面设计",
+        "link": "https://www.ershicimi.com/p/eaa4b0852b5164290a1ff47131531c38",
+        "date": "2021-05-04"
+      },
+      {
+        "title": "真正的手摸手带你实现 Vue 组件库",
+        "link": "https://www.ershicimi.com/p/f01a5338c1f1b1f51cf709e800edce07",
+        "date": "2021-05-03"
+      },
+      {
+        "title": "前端每日一题 #95",
+        "link": "https://www.ershicimi.com/p/3a3f4a652db8242ae7d8569c2153ded4",
+        "date": "2021-05-03"
+      },
+      {
         "title": "前后端接口鉴权全解 Cookie/Session/Token 的区别",
         "link": "https://www.ershicimi.com/p/931d6e85d872eeca95c2dfde58147573",
         "date": "2021-05-01"
@@ -10203,6 +10273,11 @@
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
+      {
+        "title": "看完尤雨溪338条知乎回答后，我突然找到了前进的方向",
+        "link": "https://www.ershicimi.com/p/238f68f49c1adfb71909fadc1c1643b8",
+        "date": "2021-05-06"
+      },
       {
         "title": "微软加入字节码联盟，参与推进WebAssembly发展",
         "link": "https://www.ershicimi.com/p/8a49b080b64a50f0851142c50d20387d",
@@ -16569,6 +16644,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 157 期）：KK 给年轻人的建议",
+        "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-157.html",
+        "date": "2021-05-07"
+      },
       {
         "title": "科技爱好者周刊（第 156 期）：显卡缺货与异业竞争",
         "link": "http://www.ruanyifeng.com/blog/2021/04/weekly-issue-156.html",
@@ -26088,6 +26168,46 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "跨端开发、微服务实践、低代码落地......从大厂资深技术人的实践经验看2021年应该关注的方向 |",
+        "link": "https://www.ershicimi.com/p/4029edab08e25bfea7c2c2308643a248",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "编程语言最新情报：JavaScript最流行，Rust 增长最猛",
+        "link": "https://www.ershicimi.com/p/dafaba4ce3ceafbed6fcc5fc28b5d21a",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "关于华为云最新发布的盘古大模型，我们提了几个问题 | Q推荐",
+        "link": "https://www.ershicimi.com/p/febaf3c4b29b69624280c3e03b60bcd1",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "红帽全球副总裁曹衡康：如何打造开放式组织？开放领导力是关键 ｜ GTLC",
+        "link": "https://www.ershicimi.com/p/e1a069be7b87079701af32ea32ddac52",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "Uber 的真正“法宝”是数据",
+        "link": "https://www.ershicimi.com/p/b6a88dc79a6fb68fe34ac6c6362bfb80",
+        "date": "2021-05-06"
+      },
+      {
+        "title": "从行业标准到销声匿迹，被Kubernetes击败的Heroku",
+        "link": "https://www.ershicimi.com/p/7698667b12d317ece135c1c7d5051fa1",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "从14s到4s，我如何将 MacOS上的 Rust 增量编译时间减少70％？",
+        "link": "https://www.ershicimi.com/p/36f09302d39c8e890fd823b4a3337ac5",
+        "date": "2021-05-05"
+      },
+      {
+        "title": "天天在用消息队列，却不知道为啥要用 MQ ，这就尴尬了 | 极客时间",
+        "link": "https://www.ershicimi.com/p/ec5fbec3bb7e7862836c173bafb5043a",
+        "date": "2021-05-05"
+      },
       {
         "title": "Go 语言会是昙花一现吗？ ｜ 极客时间",
         "link": "https://www.ershicimi.com/p/e58fdce6b2bbea8f9c964b9900911c4b",
