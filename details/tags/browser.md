@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 13:40:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-11 13:40:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -196,6 +196,7 @@
 - [2016-01-28-你所知道的3xx状态码](https://aotu.io/notes/2016/01/28/3xx-of-http-status/) 
 - [2015-12-23-Safari-9.0的新特性](https://aotu.io/notes/2015/12/23/new-safari-9/) 
 - [2015-10-26-前方有坑，请绕道——Zepto-中使用-CORS](https://aotu.io/notes/2015/10/26/zepto-cors/) 
+- [2021-05-06-看了就会的浏览器帧原理](https://www.ershicimi.com/p/2ec79373d39adb227994d382ff661eac) 
 - [2021-04-22-Axios-如何实现请求重试？](https://www.ershicimi.com/p/1c12bd2468e3740be9b46d439927bf59) 
 - [2021-02-05-奇舞周刊第-384-期：-Chrome-88-重要更新解读](https://www.ershicimi.com/p/18cb7e1d895b1c911f22c3d4ce19d70e) 
 - [2020-12-17-封装-axios-取消重复请求](https://www.ershicimi.com/p/b1b849b82eb31c5fa359748e0c2d2e78) 
@@ -208,6 +209,7 @@
 - [2021-04-08-URL输入后按回车，浏览器内部究竟发生了什么？](https://www.ershicimi.com/p/9e0a0e7b6559752b7a0a05ada834fad8) 
 - [2020-06-23-理解-WebView](https://www.ershicimi.com/p/d40d0514b05df681725db60e67cd49af) 
 - [2020-02-13-Chrome-80发布，新特性将对用户产生深远影响](https://www.ershicimi.com/p/4e573c13c0f938daa588c7a257ebf4ba) 
+- [2021-05-09-我的天哪！字节跳动是这样做-Code-Review-的](https://www.ershicimi.com/p/b003a3b355f605be18eae329572e7b10) 
 - [2021-03-28-MySQL与Redis缓存的同步方案](https://www.ershicimi.com/p/3d59f463895db678220419fb9054d6cf) 
 - [2021-02-23-API-面试四连杀：接口如何设计？安全如何保证？签名如何实现？防重如何实现？](https://www.ershicimi.com/p/d84d65c7d356b4017d20134b964001e1) 
 - [2021-02-04-阿里-Nacos-惊爆安全漏洞，火速升级！](https://www.ershicimi.com/p/8e55eb2dc31e7ef154fadd9a2ba16b26) 
@@ -239,6 +241,7 @@
 - [2019-12-30-4-种数据库缓存最终一致性的优缺点对比？最终选择方案四！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489465&idx=1&sn=2f3a74f8ba7056e973c0657a6492f652&chksm=ea5cdadfdd2b53c9dd49126c962029b4548a0c8a2fc3e96e06de8271b1fa00ccd05e0ded5857&scene=27#wechat_redirect) 
 - [2019-12-29-每个公司都会用的短-URL-服务，怎么设计与实现？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=2&sn=b1b7f944fb39fd1cdfeae2d6b6099dca&chksm=ea5cdad7dd2b53c18db3a7872c7d0e1f40a7c9c1a46356761d8557e8dbdfd2bd0851d12246b0&scene=27#wechat_redirect) 
 - [2019-12-24-去宇宙条面试被问：HashMap-为什么线程不安全？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=3&sn=f0fdc5e0f9b13249bb67020d018238f1&chksm=ea5cdaeddd2b53fbe3f84d4822fcc8f1b83c79e0d979e9c35d58e07a2cd5b7afe7f2425a8bd0&scene=27#wechat_redirect) 
+- [2021-05-07-新技术刚测试就被全行业禁用，谷歌“杀死”Cookies真能重写规则吗？](https://www.ershicimi.com/p/df8b4d2697f92f0b041a43bf3ebc9539) 
 - [2021-04-04-阿里面试官：“说一下从-url-输入到返回请求的过程”-｜-极客时间](https://www.ershicimi.com/p/a0a1fad067ee577b3c6e5e3f90ad1b24) 
 - [2021-03-29-如何正确选择上云最佳路径并最大化安全能力？](https://www.ershicimi.com/p/e80324f5fb5b4f5a345a4b252caabaca) 
 - [2021-03-27-Pinterest-大规模缓存集群的架构剖析](https://www.ershicimi.com/p/1ed60573b6a6f06f8d9f3fc6618a0b25) 

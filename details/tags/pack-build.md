@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-07 13:40:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-11 13:40:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Webpack、NPM、构建相关
 
@@ -32,6 +32,7 @@
 - [2018-11-28-深度掌握webpack的5个关键点](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=1&sn=13a7d213e962c6c73698934482d0c0a7#wechat_redirect) 
 - [2018-11-28-【第1460期】JavaScript-基础：Babel-转译-class-过程窥探](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230557&idx=2&sn=db6cf7a6fb70c5e77473a7b3fea9153c#wechat_redirect) 
 - [2018-11-15-【第1447期】如何通过-HSB-颜色模式构建夜间模式](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230308&idx=1&sn=0b5bed47ee54c834ca8ff31a8456529e#wechat_redirect) 
+- [2021-05-08-中小型前端团队代码规范工程化最佳实践：ESLint](https://www.ershicimi.com/p/26b9072a6055bb2760e8bf9b20f9abd9) 
 - [2021-05-06-手写一个-mini-webpack-后，再也不怕面试官问-webpack-原理了！](https://www.ershicimi.com/p/9fb841ae72b5642315bbd22e6be729bc) 
 - [2021-05-05-万字总结-一文吃透-Webpack-核心原理](https://www.ershicimi.com/p/52299a11b5621f176d73cc5463d95977) 
 - [2021-05-01-项目实战-Webpack-to-Vite，-为开发提速！](https://www.ershicimi.com/p/b2c44d458abd6573adc801968db7edf3) 
@@ -144,6 +145,7 @@
 - [2020-03-19-滴滴离线索引快速构建FastIndex架构实践](https://www.ershicimi.com/p/8a038adbfe81be5a4dfd885f545d015f) 
 - [2020-03-17-刚刚！GitHub宣布正式收购npm](https://www.ershicimi.com/p/c141516d536348a27f1d2d814a372140) 
 - [2020-01-13-一个通用的数据中台架构应该如何构建？](http://mp.weixin.qq.com/s?__biz=MjM5MDE0Mjc4MA==&mid=2651023640&idx=5&sn=b0d95ca2295d668e48d80c426f15e299&chksm=bdbe914b8ac9185d65bdaffd4d3ec0d6453c20ac0ddb43f351bf943ea33b01d1f6c90b3e8e09&scene=27#wechat_redirect) 
+- [2021-05-06-前端进阶高薪必看：Webpack-VS-Vite-原理剖析](https://www.ershicimi.com/p/febe87f6a536c38b673ad6847e765073) 
 - [2021-04-20-pnpm-6.1-发布](https://www.ershicimi.com/p/4224fa6d39c6d08ba200bc9f4282461b) 
 - [2021-03-27-webpack-v5.28.0-发布](https://www.ershicimi.com/p/582b912fa8802e914a141c1683037942) 
 - [2020-08-17-20k以上面试必问，Webpack原理和优化](https://www.ershicimi.com/p/ea62d7b3fa1598d8797d0ca3f201c341) 

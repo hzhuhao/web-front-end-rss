@@ -1,10 +1,30 @@
-:alarm_clock: 更新时间: 2021-05-07 13:40:37。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-11 13:40:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-05-11-如果你还在CRUD，你应该试试刻意练习了-｜-极客时间](https://www.ershicimi.com/p/91e5322089d65ca5ad9e923167029a1f) 
+- [2021-05-11-全球芯片供应短缺正在造成重大影响](https://www.ershicimi.com/p/1b0916366bc22afe483eec4ea738f02b) 
+- [2021-05-11-从日常就餐的变化，与你聊聊数字化转型-｜-QCon](https://www.ershicimi.com/p/1eea6a90591778d78451c1cd877a9b91) 
+- [2021-05-11-数据软件即服务：混合部署架构介绍](https://www.ershicimi.com/p/2066349d19f2dd2c8ee46ada16a8a4bf) 
+- [2021-05-11-GKE-Autopilot：掀起托管-Kubernetes-的一场革命](https://www.ershicimi.com/p/05c6d86e14adcafb2f3b645a552c6999) 
+- [2021-05-10-苹果的反跟踪新功能大受欢迎，但Facebook可能要对iOS用户收费了](https://www.ershicimi.com/p/6315af714a0a7c7e3a5e8ca0957430c6) 
+- [2021-05-10-Google-和腾讯为什么都采用主干开发模式？](https://www.ershicimi.com/p/74fc97091a6a5a9d18cb0b855e872454) 
+- [2021-05-10-数字化时代，保险科技如何更好地为业务赋能？-｜-Q推荐](https://www.ershicimi.com/p/28e7689fd90ccecbaf22739a3aaefa95) 
+- [2021-05-10-深度解读中国十大银行DevOps、数仓与数据中台、高可用架构及AIOps的落地与实践-｜-Q推荐](https://www.ershicimi.com/p/ccedafbb1c3e466e703014658728e82c) 
+- [2021-05-10-与被捧上天的-AI-相比，元数据可能更重要](https://www.ershicimi.com/p/6aa2cd7607c36777bb865554b2846cf1) 
+- [2021-05-09-我曾目睹的微服务灾难](https://www.ershicimi.com/p/e6100023218eabff0c9d96e5847fafcf) 
+- [2021-05-09-打造开放的云原生操作系统和系统软件架构](https://www.ershicimi.com/p/5a78b15bd3eba4295e9f5339b3436d68) 
+- [2021-05-09-3个好方案，帮你搞定前端质量保障｜GMTC](https://www.ershicimi.com/p/e984194c777967a1ce5af4ca3f48ef20) 
+- [2021-05-09-Java-菜鸟进美团，居然是看了这个......-|-极客时间](https://www.ershicimi.com/p/76a2e7ceb85ab95da481ffd827995360) 
+- [2021-05-08-滴滴回应“抽成过高”问题；京东“吞掉”售后显卡？抖音火山版被判赔偿腾讯800万-｜-Q资讯](https://www.ershicimi.com/p/2192111cb25b729b412a60089ed83952) 
+- [2021-05-08-看完尤雨溪338条知乎回答后，我突然找到了前进的方向](https://www.ershicimi.com/p/274b2cd045ea91511df154206eab8ba9) 
+- [2021-05-08-云原生视角下，新一代数据平台架构怎么演进？-｜-ArchSummit](https://www.ershicimi.com/p/30895fe306e50e3db41620afeaf0ec03) 
+- [2021-05-08-离不开的微服务，逃不掉的-RPC-｜-极客时间](https://www.ershicimi.com/p/bc6ff499a9bdb0dead7675c1773b3dfb) 
+- [2021-05-07-新技术刚测试就被全行业禁用，谷歌“杀死”Cookies真能重写规则吗？](https://www.ershicimi.com/p/df8b4d2697f92f0b041a43bf3ebc9539) 
+- [2021-05-07-微博云原生成本优化的6个最佳实践](https://www.ershicimi.com/p/3fed3e20b2c56ef1ceaca14977bed75b) 
 - [2021-05-06-跨端开发、微服务实践、低代码落地......从大厂资深技术人的实践经验看2021年应该关注的方向-|](https://www.ershicimi.com/p/4029edab08e25bfea7c2c2308643a248) 
 - [2021-05-06-编程语言最新情报：JavaScript最流行，Rust-增长最猛](https://www.ershicimi.com/p/dafaba4ce3ceafbed6fcc5fc28b5d21a) 
 - [2021-05-06-关于华为云最新发布的盘古大模型，我们提了几个问题-|-Q推荐](https://www.ershicimi.com/p/febaf3c4b29b69624280c3e03b60bcd1) 
