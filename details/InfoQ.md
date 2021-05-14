@@ -1,10 +1,15 @@
-:alarm_clock: 更新时间: 2021-05-11 13:40:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-14 11:31:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-05-12-从0到全球24亿用户，茄子科技成功出海的秘诀是什么？](https://www.ershicimi.com/p/3d1fead3981b7e1ce59639a591f931c9) 
+- [2021-05-12-零信任不是“银弹”](https://www.ershicimi.com/p/02efa7bb841614a577a9d6f0de9e4eff) 
+- [2021-05-12-主流大数据厂商激烈角逐湖仓一体新架构，华为云引领技术潮流-｜-Q推荐](https://www.ershicimi.com/p/2435de888261325e2084aec770a54f6f) 
+- [2021-05-12-我从开发计费系统中学到的5件事](https://www.ershicimi.com/p/8783f2bddfa4d5bd8eed7fea2841fe1c) 
+- [2021-05-12-如何将-Schemaless-演化成分布式-SQL-数据库](https://www.ershicimi.com/p/111a488789afbc73516aac2c66bc9841) 
 - [2021-05-11-如果你还在CRUD，你应该试试刻意练习了-｜-极客时间](https://www.ershicimi.com/p/91e5322089d65ca5ad9e923167029a1f) 
 - [2021-05-11-全球芯片供应短缺正在造成重大影响](https://www.ershicimi.com/p/1b0916366bc22afe483eec4ea738f02b) 
 - [2021-05-11-从日常就餐的变化，与你聊聊数字化转型-｜-QCon](https://www.ershicimi.com/p/1eea6a90591778d78451c1cd877a9b91) 

@@ -3862,6 +3862,61 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "前端进阶必备：Vue 3源码学习指南+简历包装",
+        "link": "https://www.ershicimi.com/p/ed1b420fcf2c4b5a623c23f8d10ba58b",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "React 的操作系统梦，任重道远",
+        "link": "https://www.ershicimi.com/p/8cb7c6db76d98eeb4a5e9a7f990edbdd",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "前端每日一题 #104",
+        "link": "https://www.ershicimi.com/p/0ec931266817ecc4398aefcfa897dd4c",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "设计灵感：12张组天气预报App设计",
+        "link": "https://www.ershicimi.com/p/9b62788daa135ec188764d256766df23",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "JavaScript 中哪一种循环最快呢？",
+        "link": "https://www.ershicimi.com/p/df4fc6d08a821c7085768ae4ec730a58",
+        "date": "2021-05-11"
+      },
+      {
+        "title": "记一次高级前端开发工程师面经",
+        "link": "https://www.ershicimi.com/p/902e035a5441fc0cc23430324a14f28d",
+        "date": "2021-05-11"
+      },
+      {
+        "title": "前端每日一题 #103",
+        "link": "https://www.ershicimi.com/p/6f0e2340ce1b7fd5b40717766abd7fca",
+        "date": "2021-05-11"
+      },
+      {
+        "title": "这些 Vue 实战技巧你学会了吗？",
+        "link": "https://www.ershicimi.com/p/635697ac6d4b98a2d8d6a24e947d0e39",
+        "date": "2021-05-10"
+      },
+      {
+        "title": "没有 UI 团队怎么办？分享 6 款能为独立网页开发者提效的免费工具",
+        "link": "https://www.ershicimi.com/p/e41b5bba41dbe07570fca4c9d2876cb2",
+        "date": "2021-05-10"
+      },
+      {
+        "title": "前端每日一题 #102",
+        "link": "https://www.ershicimi.com/p/d7df582d065d4c44d18589c3e7584f99",
+        "date": "2021-05-10"
+      },
+      {
+        "title": "设计灵感：12组风格鲜明的登录页设计",
+        "link": "https://www.ershicimi.com/p/c4daa151d8c4a1615f12c5e22db3acb2",
+        "date": "2021-05-10"
+      },
+      {
         "title": "面试被问项目经验不用慌，按这个步骤回答绝对惊艳",
         "link": "https://www.ershicimi.com/p/3ee3232c0f037540d620f75d9f754e48",
         "date": "2021-05-09"
@@ -10334,6 +10389,46 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "Kotlin 1.5 稳定版发布，2021年第一个大版本更新有何亮点？",
+        "link": "https://www.ershicimi.com/p/42daff3413805476d5ca31d5b776fd28",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "苹果的反跟踪新功能大受欢迎，你更新了吗？",
+        "link": "https://www.ershicimi.com/p/de1bb8748c5a9ffd42ef62951d045a2d",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "比带薪休假更吸引人的，是高效工作 | 极客时间",
+        "link": "https://www.ershicimi.com/p/99e1c34bfc08525298c6557a448e4c4c",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "UML 怎么就真“挂”了？",
+        "link": "https://www.ershicimi.com/p/1c9090b3159356dc5e849e9dbb1448a3",
+        "date": "2021-05-10"
+      },
+      {
+        "title": "为什么我使用 GraphQL 而放弃 REST API？",
+        "link": "https://www.ershicimi.com/p/b4fa10fe32eae0ec53d479000942e20b",
+        "date": "2021-05-10"
+      },
+      {
+        "title": "如何循序渐进、有效地学习 JavaScript？ | 极客时间",
+        "link": "https://www.ershicimi.com/p/24f33cdece7ed89f386e46f799cc8125",
+        "date": "2021-05-10"
+      },
+      {
+        "title": "今晚9点，连麦尤雨溪，和你聊聊Vue",
+        "link": "https://www.ershicimi.com/p/9e2af7b52750af7a0c2b3f46bd72f2bf",
+        "date": "2021-05-09"
+      },
+      {
+        "title": "微软将在 Windows 中强制删除 Flash；华为或最快于 6 月正式推送鸿蒙OS；IBM制造出",
+        "link": "https://www.ershicimi.com/p/803ce435452959787d1db47f1e94a044",
+        "date": "2021-05-08"
+      },
+      {
         "title": "看完尤雨溪338条知乎回答后，我突然找到了前进的方向",
         "link": "https://www.ershicimi.com/p/238f68f49c1adfb71909fadc1c1643b8",
         "date": "2021-05-06"
@@ -15808,6 +15903,11 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "输入框value属性赋值触发js change事件的实现",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/05/js-value-change/",
+        "date": "2021-05-13"
+      },
+      {
         "title": "Promise.all、race和any方法都是什么意思？",
         "link": "https://www.zhangxinxu.com/wordpress/2021/05/promise-all-race-any/",
         "date": "2021-05-09"
@@ -16709,6 +16809,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 158 期）：内容渠道的贬值",
+        "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-158.html",
+        "date": "2021-05-14"
+      },
       {
         "title": "软件工程的最大难题",
         "link": "http://www.ruanyifeng.com/blog/2021/05/scaling-problem.html",
@@ -22447,6 +22552,51 @@
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
       {
+        "title": "28岁华为员工工资表曝光，牛逼的人注定会牛逼",
+        "link": "https://www.ershicimi.com/p/07ccf14751fc7b91db59d861f825b673",
+        "date": "2021-05-13"
+      },
+      {
+        "title": "图解 Git 工作原理",
+        "link": "https://www.ershicimi.com/p/31fc61880f41f015024600d79ec38b30",
+        "date": "2021-05-13"
+      },
+      {
+        "title": "MySQL 百万级数据，怎么做分页查询？",
+        "link": "https://www.ershicimi.com/p/04e1f128021fb942a370d53568e441ec",
+        "date": "2021-05-13"
+      },
+      {
+        "title": "阿里员工：最惨P7，33岁才28K，感觉没有前途了。网友调侃：最美逆行者",
+        "link": "https://www.ershicimi.com/p/950459c900ed30906a2fd898cd117008",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "经典：趣解什么叫网关？",
+        "link": "https://www.ershicimi.com/p/5881983081ebba7b0c8b13846b0c0395",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "面试官上来就问：能不能开发一个微信朋友圈、推特？我有点懵~",
+        "link": "https://www.ershicimi.com/p/c2a2d29de3d4068488b90865937cddbc",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "用了几年的 Fastjson，我最终替换成了Jackson！",
+        "link": "https://www.ershicimi.com/p/b545a786c84b42ae26015de9031e8b92",
+        "date": "2021-05-11"
+      },
+      {
+        "title": "徒手给小区开发一套系统！看能换一个停车位不....",
+        "link": "https://www.ershicimi.com/p/de7cd8b1a1e6de72c9a776d6d7f8d3c5",
+        "date": "2021-05-11"
+      },
+      {
+        "title": "程序员的 10 个坏习惯！你占了几个？",
+        "link": "https://www.ershicimi.com/p/9962483084b2273a2dc2d83cb1478a1e",
+        "date": "2021-05-11"
+      },
+      {
         "title": "最新消息：2021年金融学习群已正式开放！不限基础！扫码进！",
         "link": "https://www.ershicimi.com/p/2905421e931249f19720851e9049a085",
         "date": "2021-05-10"
@@ -26338,6 +26488,31 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "从0到全球24亿用户，茄子科技成功出海的秘诀是什么？",
+        "link": "https://www.ershicimi.com/p/3d1fead3981b7e1ce59639a591f931c9",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "零信任不是“银弹”",
+        "link": "https://www.ershicimi.com/p/02efa7bb841614a577a9d6f0de9e4eff",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "主流大数据厂商激烈角逐湖仓一体新架构，华为云引领技术潮流 ｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/2435de888261325e2084aec770a54f6f",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "我从开发计费系统中学到的5件事",
+        "link": "https://www.ershicimi.com/p/8783f2bddfa4d5bd8eed7fea2841fe1c",
+        "date": "2021-05-12"
+      },
+      {
+        "title": "如何将 Schemaless 演化成分布式 SQL 数据库",
+        "link": "https://www.ershicimi.com/p/111a488789afbc73516aac2c66bc9841",
+        "date": "2021-05-12"
+      },
       {
         "title": "如果你还在CRUD，你应该试试刻意练习了 ｜ 极客时间",
         "link": "https://www.ershicimi.com/p/91e5322089d65ca5ad9e923167029a1f",
@@ -31610,6 +31785,16 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "每个程序员都应该收藏的算法复杂度速查表",
+        "link": "https://www.ershicimi.com/p/6458698a699bf2e8272ad224bc81d36a",
+        "date": "2021-05-13"
+      },
+      {
+        "title": "Bootstrap 5 发布了",
+        "link": "https://www.ershicimi.com/p/69511e9052fe2c18b6d8636db5bb30c8",
+        "date": "2021-05-11"
+      },
       {
         "title": "看过行业内卷排行，前端的我卷了.....",
         "link": "https://www.ershicimi.com/p/550e12b221b4660a7a8d4ff54dcdceea",

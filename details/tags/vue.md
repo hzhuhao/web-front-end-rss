@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-11 13:40:58。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-14 11:31:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## Vue
 
@@ -58,6 +58,8 @@
 - [2018-10-09-【第1410期】尤雨溪：Vue-3.0-计划](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230030&idx=1&sn=3f5da4fd5d03b04b822fe267de406e94#wechat_redirect) 
 - [2018-09-30-【第1408期】浅谈-Vue-中-computed-实现原理](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230014&idx=1&sn=f0c049ca546f97e20adcb7bd5e4c5637#wechat_redirect) 
 - [2018-09-18-【图书】Node.js实战：使用Egg.js+Vue.js+Docker构建渐进式、可持续集成与交付应用](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=2&sn=0fe83ea7ad330ebd9abe2ed975039141#wechat_redirect) 
+- [2021-05-12-前端进阶必备：Vue-3源码学习指南+简历包装](https://www.ershicimi.com/p/ed1b420fcf2c4b5a623c23f8d10ba58b) 
+- [2021-05-10-这些-Vue-实战技巧你学会了吗？](https://www.ershicimi.com/p/635697ac6d4b98a2d8d6a24e947d0e39) 
 - [2021-05-07-从-0-开始手把手带你搭建一套规范的-Vue3.x-项目工程环境](https://www.ershicimi.com/p/63a36cc69d4503588ee460bd929df0f6) 
 - [2021-05-05-Vue-源码解读（1）——-前言](https://www.ershicimi.com/p/a8b8cc515e51649cf5cdd444e04e983e) 
 - [2021-05-03-真正的手摸手带你实现-Vue-组件库](https://www.ershicimi.com/p/f01a5338c1f1b1f51cf709e800edce07) 
@@ -159,6 +161,7 @@
 - [2018-10-02-Vue.js最佳实践（五招让你成为Vue.js大师）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555024&idx=1&sn=9f6adf83b28d03527ff67c1835922533#wechat_redirect) 
 - [2018-09-30-深入-Vue-生命周期](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555022&idx=1&sn=552856ad4af7bb9560217f6deec65270#wechat_redirect) 
 - [2018-09-22-自制简单的range（Vue）](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554968&idx=3&sn=279e60846a63ee1de77872c18657b783#wechat_redirect) 
+- [2021-05-09-今晚9点，连麦尤雨溪，和你聊聊Vue](https://www.ershicimi.com/p/9e2af7b52750af7a0c2b3f46bd72f2bf) 
 - [2021-04-04-Vue-3-计划放弃支持-IE11；西班牙或成全球首个“每周工作4天”的国家；Windows-95](https://www.ershicimi.com/p/01722c8c69a9c3d9f8ef8aa5cbcad882) 
 - [2021-03-28-Vue.js-2021最新报告出炉；WebView组件更新致数百款安卓应用崩溃；京东程序员回应“被猝](https://www.ershicimi.com/p/8e4ce029dc6df9797801616cf0b41abf) 
 - [2021-03-19-最火的-Vue-前端框架，你用对了么？-|-活动推荐](https://www.ershicimi.com/p/ba321703f359703d3ad8b63021050229) 
