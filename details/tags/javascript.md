@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-14 11:31:52。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-21 10:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -510,6 +510,9 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2021-05-17-js实现多屏/跨屏窗口放置](https://www.ershicimi.com/p/c61d8416bc4be6eabee02c17a8ca034d) 
+- [2021-05-13-Event-Loop-和-JS-引擎、渲染引擎的关系](https://www.ershicimi.com/p/346693402f902f4a3d20526b6839e9bf) 
+- [2021-05-12-JavaScript-如何压缩目录并上传？](https://www.ershicimi.com/p/c0f9a444e95846c9b23811d9186640c7) 
 - [2021-04-29-JavaScript-如何检测文件的类型？](https://www.ershicimi.com/p/78fb167023aea8c6bf431dff4257842b) 
 - [2021-04-20-Table组件虚拟化实践](https://www.ershicimi.com/p/bc947edfdd9c856c968005b0ae9a38ad) 
 - [2021-04-19-JavaScript-中如何实现大文件并行下载？](https://www.ershicimi.com/p/40e9969871768d3639d86098d2ba4cbd) 
@@ -575,6 +578,7 @@
 - [2020-01-11-Spring-Boot-异步请求和异步调用，一文搞定！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489604&idx=4&sn=3d59e8b9967a47c051bed1314fbd6403&chksm=ea5cd522dd2b5c34ec8f866eba30f5fb97583c693b0da5dc3102bf5990d494b7d63905f55fbf&scene=27#wechat_redirect) 
 - [2020-01-08-JVM-性能调优监控工具-jps、jstack、jmap、jhat、jstat、hprof-使用详解](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489552&idx=2&sn=e2caa61b1d6848309925cff45629d5d8&chksm=ea5cd576dd2b5c6055f1fac0cb3ee1b05971534daf7b9f82eb17e1c8436b9541be25598d2707&scene=27#wechat_redirect) 
 - [2020-01-04-Java-并发异步编程，原来十个接口的活现在只需要一个接口就搞定!](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489518&idx=1&sn=04bf242d2811be628ff8db49ba0a8147&chksm=ea5cda88dd2b539e217024cacebd4a929116e983a09537d686fd7362d308d8829ab0ce314aa5&scene=27#wechat_redirect) 
+- [2021-05-20-我用-JavaScript-来学习机器学习](https://www.ershicimi.com/p/3a707de971f1779239da1b0a8140b481) 
 - [2021-05-06-编程语言最新情报：JavaScript最流行，Rust-增长最猛](https://www.ershicimi.com/p/dafaba4ce3ceafbed6fcc5fc28b5d21a) 
 - [2021-03-19-缓存踩踏：Facebook-史上最严重的宕机事件分析](https://www.ershicimi.com/p/3bb2c480b34e82ddaa402456af5d8d2e) 
 - [2021-03-13-Lyft如何将100+前端微服务迁移到Next.js](https://www.ershicimi.com/p/6f177add975fe37e82abeb70112a7a85) 

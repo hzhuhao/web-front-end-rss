@@ -1,10 +1,30 @@
-:alarm_clock: 更新时间: 2021-05-14 11:31:53。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-21 10:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-05-20-左手-VM，右手-Container-Serverless，达达智能弹性伸缩架构和实践](https://www.ershicimi.com/p/ffdac931f7f1ddb86f7fe4bb70efad62) 
+- [2021-05-20-从“云化”到“云原生化”，云原生-2.0的三把尖刀](https://www.ershicimi.com/p/b15629df7e209830e55787796196387d) 
+- [2021-05-20-vivo-AI-计算平台云原生自动化实践](https://www.ershicimi.com/p/433016484da44247fcd38724a23055db) 
+- [2021-05-20-我用-JavaScript-来学习机器学习](https://www.ershicimi.com/p/3a707de971f1779239da1b0a8140b481) 
+- [2021-05-20-去年中国投入106亿补贴半导体上市企业，中芯国际获近25亿补贴](https://www.ershicimi.com/p/32fee60b91e47b2fdffeb6f4ad1debef) 
+- [2021-05-20-520大作战-｜-InfoQ-助你大声-say-爱](https://www.ershicimi.com/p/c5dc443aa226ab14013edeb1b98faa01) 
+- [2021-05-19-24亿级用户超级APP背后的全技术大揭秘](https://www.ershicimi.com/p/2f6cd220dbd60a4213fcae90bd277feb) 
+- [2021-05-19-Python之父：让-Python-快2倍](https://www.ershicimi.com/p/a5f60feb28a88b4c290b447af7f23cea) 
+- [2021-05-19-零停机给Kubernetes集群节点打系统补丁](https://www.ershicimi.com/p/33bb1792622a20df81aeaf1cac5010b8) 
+- [2021-05-19-移动应用不再是初创企业的好主意](https://www.ershicimi.com/p/0a1b452c3fe16f514097ee5137fa33ed) 
+- [2021-05-18-自己动手写了个操作系统，我飘了-｜-极客时间](https://www.ershicimi.com/p/7e9096273087c96b4ef18f5ff89a3a6f) 
+- [2021-05-18-从广告监测到知识图谱，明略千亿大数据处理能力是如何炼成的？](https://www.ershicimi.com/p/027fbafcf699e39318e91b18e3106eb3) 
+- [2021-05-18-经过三年实践后，创略怎么看待低代码变革？](https://www.ershicimi.com/p/9eb6364231b25a2f7351de38d114477e) 
+- [2021-05-18-GitLab-发布-DevSecOps-调查报告：57%的受访者代码发布速度提升了2倍](https://www.ershicimi.com/p/8e459afe7b664f9f0372ba8b6ed62c91) 
+- [2021-05-18-移除-View-Engine-转用-Ivy，盘点Angular-12的重要更新](https://www.ershicimi.com/p/9c15f56e7a90d1b0a0b0ec1986f55ad5) 
+- [2021-05-18-“InfoQ-的朋友们-—-Geek-青年说·北京站”即将开讲，约吗？](https://www.ershicimi.com/p/bdab54be8356c2a16758c40af750ead4) 
+- [2021-05-17-腾讯宣布开源-RoP：Apache-Pulsar-支持原生-RocketMQ-协议](https://www.ershicimi.com/p/d8fc644ce4ae296d7d0d06ad7b5be838) 
+- [2021-05-17-没看过这篇文章，别说你会用Airflow](https://www.ershicimi.com/p/6d9f1880c45fed398c154c1d4b3c9eab) 
+- [2021-05-17-混沌工程在工商银行的探索实践-｜-Q推荐](https://www.ershicimi.com/p/3c2a6b050381726c841e704606d2707c) 
+- [2021-05-17-玉伯、尤雨溪、于冰……他们眼中的大前端趋势-｜GMTC](https://www.ershicimi.com/p/d5279e059db388ac050afb3daecf98a2) 
 - [2021-05-12-从0到全球24亿用户，茄子科技成功出海的秘诀是什么？](https://www.ershicimi.com/p/3d1fead3981b7e1ce59639a591f931c9) 
 - [2021-05-12-零信任不是“银弹”](https://www.ershicimi.com/p/02efa7bb841614a577a9d6f0de9e4eff) 
 - [2021-05-12-主流大数据厂商激烈角逐湖仓一体新架构，华为云引领技术潮流-｜-Q推荐](https://www.ershicimi.com/p/2435de888261325e2084aec770a54f6f) 
