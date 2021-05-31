@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-21 10:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-31 14:58:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -99,6 +99,9 @@
 - [2018-10-14-【第1415期】五个小技巧让你写出更好的-JavaScript-条件语句](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651230054&idx=1&sn=f99d5cccfdbb3f0880e2e825d1024b4f#wechat_redirect) 
 - [2018-09-26-【图书】H5匠人手册---霸屏H5实战解密](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229967&idx=2&sn=5d337c1527e1b38806944d602e5291b7#wechat_redirect) 
 - [2018-09-18-【第1397期】如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229878&idx=1&sn=7e8143329c26d10db9d1a55e57a7bba8#wechat_redirect) 
+- [2021-05-30-原以为很简单，结果这道-Promise-面试题让我失眠好一会](https://www.ershicimi.com/p/db636ed8b22c63feb0a7e205f38471df) 
+- [2021-05-29-对比三个强大的组件文档展示工具](https://www.ershicimi.com/p/a6defe3da709e804183a1fd91a0e2496) 
+- [2021-05-27-假如今天让你写一个可自由拖拽的组件](https://www.ershicimi.com/p/ac999982d0facf81b88f93301401abe1) 
 - [2021-05-11-JavaScript-中哪一种循环最快呢？](https://www.ershicimi.com/p/df4fc6d08a821c7085768ae4ec730a58) 
 - [2021-04-03-写给前端的-Nest.js-教程——10分钟上手后端接口开发](https://www.ershicimi.com/p/cc5de666ded9084b27ec09d879b2716b) 
 - [2021-04-02-【死磕JS】闭包到底是个什么鬼？](https://www.ershicimi.com/p/1fff517f47d5db33caafb5a59c7b0544) 
@@ -282,6 +285,8 @@
 - [2018-09-29-深入理解-ES-Modules-手绘示例](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555021&idx=1&sn=89cb898574e3f5c20d9c4b18d4348a50#wechat_redirect) 
 - [2018-09-26-如何在-JavaScript-中更好地使用数组](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554996&idx=1&sn=db2ff7c44fae681d3eb3adcfccec452e#wechat_redirect) 
 - [2018-09-23-适配器在JavaScript中的体现](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554969&idx=1&sn=8c79517cc67f2e9ed2d674b7dc682bd7#wechat_redirect) 
+- [2021-05-19-沉淀组件300+、节约人力成本10000+小时，看去哪儿网低代码平台实践思路](https://www.ershicimi.com/p/0730d421cdbe1e85418126382a714153) 
+- [2021-05-19-我用-JavaScript-来学习机器学习](https://www.ershicimi.com/p/a59257e131ef33b5b243f5183503b0b0) 
 - [2021-05-10-如何循序渐进、有效地学习-JavaScript？-|-极客时间](https://www.ershicimi.com/p/24f33cdece7ed89f386e46f799cc8125) 
 - [2021-04-30-编程语言最新情报：JavaScript最流行，Rust-增长最猛](https://www.ershicimi.com/p/95e1361d33bda134d3c0098e79e49614) 
 - [2021-04-18-微信PC版曝高危漏洞，建议尽快更新；中国首个JS语言提案在ECMA进入Stage-3；华为多款手机将](https://www.ershicimi.com/p/1b06ed7c2af312ad740c43e238a54367) 
@@ -510,6 +515,9 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2021-05-28-奇舞周刊第-399-期：如何使用-GPU-改善-JavaScript-性能](https://www.ershicimi.com/p/9cd2602a6bcbffc694cf66af0fbec3b1) 
+- [2021-05-27-Chrome-89-更新事件触发顺序，导致99%的文章都错了（包括MDN）](https://www.ershicimi.com/p/d6713a9c912620a1525251c20a6225d9) 
+- [2021-05-24-js-实现-bind-的这五层，你在第几层？](https://www.ershicimi.com/p/8c68ef003f734437c029a84081820fa5) 
 - [2021-05-17-js实现多屏/跨屏窗口放置](https://www.ershicimi.com/p/c61d8416bc4be6eabee02c17a8ca034d) 
 - [2021-05-13-Event-Loop-和-JS-引擎、渲染引擎的关系](https://www.ershicimi.com/p/346693402f902f4a3d20526b6839e9bf) 
 - [2021-05-12-JavaScript-如何压缩目录并上传？](https://www.ershicimi.com/p/c0f9a444e95846c9b23811d9186640c7) 

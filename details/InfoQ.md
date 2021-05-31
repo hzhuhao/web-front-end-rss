@@ -1,10 +1,30 @@
-:alarm_clock: 更新时间: 2021-05-21 10:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-31 14:58:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## InfoQ
 
 
 
 
+- [2021-05-30-Linux之父：我们不会用Rust取代C语言开发内核](https://www.ershicimi.com/p/3f5b413bd9417185bc89ceb99705a9b7) 
+- [2021-05-30-全新大前端业务开发模式：提升60%产研效率，还保留原生体验](https://www.ershicimi.com/p/fbc3df87aaf72314c302fd32668b590e) 
+- [2021-05-30-如何开发一个企业的-Go-应用？-｜-极客时间](https://www.ershicimi.com/p/5af4ef282a518d35179a458ec18b3f25) 
+- [2021-05-30-Vue这么火，但为什么大厂都是用-React-居多？-｜-极客时间](https://www.ershicimi.com/p/45b60815d0b2539392e05b13be22b7da) 
+- [2021-05-29-雷军：年轻人入职半年内不要提意见；网易回应HR不当招聘言论：已解除劳动合同；蚂蚁自研数据库Ocean](https://www.ershicimi.com/p/e5ae4c3317badb5750153eda63251de9) 
+- [2021-05-29-短视频出海：快手音视频如何乘风破浪？](https://www.ershicimi.com/p/4d419fb6f0e3f60cadf6d14172a53606) 
+- [2021-05-29-2021，客户端应用开发该何去何从？-｜-ArchSummit](https://www.ershicimi.com/p/0821f2102b50866180f160e6e391e412) 
+- [2021-05-29-我为女友做了一款App](https://www.ershicimi.com/p/365b24a7c81888a8c8f901cd5cccf29a) 
+- [2021-05-28-Data-Mesh，数据架构的下一个变革！](https://www.ershicimi.com/p/df9c73ffff3eef9beea0eb5c7d014372) 
+- [2021-05-28-放弃-Ceph，Salesforce-使用-Apache-BookKeeper-在云中实现最强存储](https://www.ershicimi.com/p/fb4155bc3a488474b7a7ed00703b1081) 
+- [2021-05-28-12个技术方向+奖学金升级，字节跳动-2021夏令营免费报名-｜-Q推荐](https://www.ershicimi.com/p/1b793e21de39531002db10b2ae50ec58) 
+- [2021-05-28-StreamNative-宣布开源-Function-Mesh：-简化云上的复杂流任务](https://www.ershicimi.com/p/6cccac640bae66e1a5372868a8644d99) 
+- [2021-05-28-2021年10大流行软件测试工具](https://www.ershicimi.com/p/2a89ed3c2cbc1413258bd141ca78aabf) 
+- [2021-05-27-近30年的开源项目被“夺权”，员工集体离职后成立新项目抗衡](https://www.ershicimi.com/p/29790b733814efa0e2bbe228dc078d6d) 
+- [2021-05-27-从-Kafka-到-Pulsar，华为云物联网上云之旅](https://www.ershicimi.com/p/2b439e6889be6d4dc498274155291c46) 
+- [2021-05-27-邀你共话AI未来，2021北京智源大会6月1日不见不散！-｜-Q推荐](https://www.ershicimi.com/p/459ad80fef6116f8334dd3848ba43bfe) 
+- [2021-05-27-完整日程-|-QCon全球软件开发大会2天后见！](https://www.ershicimi.com/p/303e23ef093269d87dad5e65b0772d04) 
+- [2021-05-27-因错误配置第三方服务，已有过亿用户数据遭到泄露](https://www.ershicimi.com/p/408b1bb522ab00c28d5829c673c99497) 
+- [2021-05-26-终于！Fuchsia-OS正式公开可用，谷歌迈出了五年来最关键的一步](https://www.ershicimi.com/p/3ddcc14206117f6567c8d35ef79370d1) 
+- [2021-05-26-破解数据流通不畅问题，多方安全计算技术到底行不行？](https://www.ershicimi.com/p/2d2fc9d65ba9b081110a4a0b61decc22) 
 - [2021-05-20-左手-VM，右手-Container-Serverless，达达智能弹性伸缩架构和实践](https://www.ershicimi.com/p/ffdac931f7f1ddb86f7fe4bb70efad62) 
 - [2021-05-20-从“云化”到“云原生化”，云原生-2.0的三把尖刀](https://www.ershicimi.com/p/b15629df7e209830e55787796196387d) 
 - [2021-05-20-vivo-AI-计算平台云原生自动化实践](https://www.ershicimi.com/p/433016484da44247fcd38724a23055db) 

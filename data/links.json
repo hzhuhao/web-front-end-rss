@@ -3862,6 +3862,106 @@
     "link": "https://www.ershicimi.com/a/65",
     "items": [
       {
+        "title": "原以为很简单，结果这道 Promise 面试题让我失眠好一会",
+        "link": "https://www.ershicimi.com/p/db636ed8b22c63feb0a7e205f38471df",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "如何写出一套可维护的CSS库？",
+        "link": "https://www.ershicimi.com/p/e38044791333969922fdd1d53e465fe5",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "前端每日一题 #122",
+        "link": "https://www.ershicimi.com/p/ce7949ecff997848a2c56c990470fe64",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "设计灵感： 旅行APP界面该如何设计？",
+        "link": "https://www.ershicimi.com/p/14d05c944c63b22dd0fdf0eb89216519",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "Git 各指令的本质，真是通俗易懂啊",
+        "link": "https://www.ershicimi.com/p/6be0292aa07373a1ed0b469eb27bc13a",
+        "date": "2021-05-29"
+      },
+      {
+        "title": "对比三个强大的组件文档展示工具",
+        "link": "https://www.ershicimi.com/p/a6defe3da709e804183a1fd91a0e2496",
+        "date": "2021-05-29"
+      },
+      {
+        "title": "前端每日一题 #121",
+        "link": "https://www.ershicimi.com/p/fad31f23943f8dcd6486ea78e8d45ff7",
+        "date": "2021-05-29"
+      },
+      {
+        "title": "400 道前端工程师常考必考面试题+详细解答",
+        "link": "https://www.ershicimi.com/p/3b443f73ee58c97f9e6d66137670f303",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "请阐述 vue 的 diff 算法",
+        "link": "https://www.ershicimi.com/p/881e98a0f3be86baa36dc4ba5bf8f4bd",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "前端每日一题 #120",
+        "link": "https://www.ershicimi.com/p/985bb5709d5d182b2a9037f085c3b8f9",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "设计灵感：12 组精致的线标 Icon 设计",
+        "link": "https://www.ershicimi.com/p/21bcc6eeedeeb5ebf5ff5f4825213aa6",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "假如今天让你写一个可自由拖拽的组件",
+        "link": "https://www.ershicimi.com/p/ac999982d0facf81b88f93301401abe1",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "前端工程师的一大神器：puppeteer",
+        "link": "https://www.ershicimi.com/p/49bd664e96f15afc176f884a9b634d9e",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "前端每日一题 #119",
+        "link": "https://www.ershicimi.com/p/d712ffa9b3456b06e68fdc02aef9fc4b",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "看完这篇 React Hooks，跟面试官扯皮就没问题了",
+        "link": "https://www.ershicimi.com/p/5d389cdb504241d823857e6291c89dd9",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "有意思！CSS 文字装饰还能这样玩~",
+        "link": "https://www.ershicimi.com/p/d75b601e27cf11be4fdc97609c542ed8",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "前端每日一题 #118",
+        "link": "https://www.ershicimi.com/p/b793a9f4d2a86129892821ec47f40313",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "设计灵感：12组深色模式财务仪表设计",
+        "link": "https://www.ershicimi.com/p/96831c519d0fbb4a7c0358b41dc49d78",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "终于有人把内卷和囚徒困境讲明白了",
+        "link": "https://www.ershicimi.com/p/e690c7b1acf52e2fafb3e33f7f90a566",
+        "date": "2021-05-25"
+      },
+      {
+        "title": "小程序用户登录架构设计",
+        "link": "https://www.ershicimi.com/p/f97042f1ebbcb2b6ffb0cc5f2e2e28af",
+        "date": "2021-05-25"
+      },
+      {
         "title": "手写一个基于 Proxy 的缓存库",
         "link": "https://www.ershicimi.com/p/707d3ac1de4ac146588190b6c4382cfc",
         "date": "2021-05-20"
@@ -10489,6 +10589,91 @@
     "link": "https://www.ershicimi.com/a/154",
     "items": [
       {
+        "title": "尤雨溪：做技术哪有什么两全之策，都是取舍和平衡",
+        "link": "https://www.ershicimi.com/p/b6d73a9da9d017af48e17126ad5363b5",
+        "date": "2021-05-29"
+      },
+      {
+        "title": "Fuchsia OS正式公开可用，谷歌迈出了五年来最关键的一步",
+        "link": "https://www.ershicimi.com/p/2022bee46724ab612d382da4beb8f9bf",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "V8有了全新的超快速非优化JS编译器，性能提高5-15％",
+        "link": "https://www.ershicimi.com/p/86e379a2b0cd616ee0588e26074f0dd2",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "2021，客户端应用开发该何去何从？| ArchSummit",
+        "link": "https://www.ershicimi.com/p/103eb88fbfaf9e0ef05fbb36e04e25b7",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "逆风飞翔？决定要做前端中台的时候，我们十分冷静",
+        "link": "https://www.ershicimi.com/p/ccde9f493335ce54007af556c5cc3220",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "是迄今为止最优秀的 Flutter 版本：Flutter 2.2 正式发布",
+        "link": "https://www.ershicimi.com/p/40fa94571c50af1b4d332e141c0e35cc",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "这几天，快被 React Hooks 搞疯了 | 极客时间",
+        "link": "https://www.ershicimi.com/p/a594dc715a577085b29430c7d95e2a76",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "停止使用 IE 11，微软将用 Edge 全面替换 IE",
+        "link": "https://www.ershicimi.com/p/d16b1bc7a172be2eebaace3128d49160",
+        "date": "2021-05-24"
+      },
+      {
+        "title": "2021 年 10 大流行软件测试工具",
+        "link": "https://www.ershicimi.com/p/2bb55d4a147726c58aa6719af11c6bed",
+        "date": "2021-05-24"
+      },
+      {
+        "title": "面试的作用，绝不仅限于跳槽 | 极客时间",
+        "link": "https://www.ershicimi.com/p/5da14e5a67c3e8a4b7433555f69908dd",
+        "date": "2021-05-24"
+      },
+      {
+        "title": "微软：Windows 10X已死；七年来最大更新：Android 12 Beta版本发布；微信“炸一",
+        "link": "https://www.ershicimi.com/p/8e1d874db24c83f51e4b3c26be4a7b9b",
+        "date": "2021-05-23"
+      },
+      {
+        "title": "历时 2 年、投入 100+ 工程师，Coinbase 全面迁移到 React Native",
+        "link": "https://www.ershicimi.com/p/bc0441bd6fab0de715e1634f4b207132",
+        "date": "2021-05-21"
+      },
+      {
+        "title": "Wix 如何通过改进基础架构提升网站性能？",
+        "link": "https://www.ershicimi.com/p/3586be87aff0f103e36ec9f1d8f220fe",
+        "date": "2021-05-21"
+      },
+      {
+        "title": "在网易，是怎样做项目管理的？| 极客时间",
+        "link": "https://www.ershicimi.com/p/c04ddbd685abe9f03aa26ba3443f3206",
+        "date": "2021-05-21"
+      },
+      {
+        "title": "沉淀组件300+、节约人力成本10000+小时，看去哪儿网低代码平台实践思路",
+        "link": "https://www.ershicimi.com/p/0730d421cdbe1e85418126382a714153",
+        "date": "2021-05-19"
+      },
+      {
+        "title": "我用 JavaScript 来学习机器学习",
+        "link": "https://www.ershicimi.com/p/a59257e131ef33b5b243f5183503b0b0",
+        "date": "2021-05-19"
+      },
+      {
+        "title": "声网、新东方、伴鱼英语的音视频技术解读 | InfoQ",
+        "link": "https://www.ershicimi.com/p/1b2de5b79c1d5a0aa7e8d0f5a2762fc5",
+        "date": "2021-05-19"
+      },
+      {
         "title": "坐拥百万用户的开源项目没钱了，尤雨溪发推力挺被质疑的全职维护者",
         "link": "https://www.ershicimi.com/p/ae0bc2355cb255481e3eb973ed152193",
         "date": "2021-05-17"
@@ -16043,6 +16228,16 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "如何使用CSS禁止元素拖拽？",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/05/css-user-drag/",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "666，看hr标签实现分隔线如何玩出花",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/05/css-html-hr/",
+        "date": "2021-05-30"
+      },
+      {
         "title": "使用CSS revert全局关键字还原display显示元素",
         "link": "https://www.zhangxinxu.com/wordpress/2021/05/css-revert-display/",
         "date": "2021-05-16"
@@ -16954,6 +17149,11 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 160 期）：中年码农的困境",
+        "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html",
+        "date": "2021-05-28"
+      },
       {
         "title": "科技爱好者周刊（第 159 期）：游戏开发者的年薪",
         "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html",
@@ -19827,6 +20027,36 @@
     "title": "奇舞周刊",
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
+      {
+        "title": "奇舞周刊第 399 期：如何使用 GPU 改善 JavaScript 性能",
+        "link": "https://www.ershicimi.com/p/9cd2602a6bcbffc694cf66af0fbec3b1",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "Chrome 89 更新事件触发顺序，导致99%的文章都错了（包括MDN）",
+        "link": "https://www.ershicimi.com/p/d6713a9c912620a1525251c20a6225d9",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "前端水印实现方案",
+        "link": "https://www.ershicimi.com/p/7e1e33c76518359146cbe480d3fc68e2",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "精读《前端职业规划 - 2021 年》",
+        "link": "https://www.ershicimi.com/p/2e87faa632595c97cb53050d25066af0",
+        "date": "2021-05-25"
+      },
+      {
+        "title": "js 实现 bind 的这五层，你在第几层？",
+        "link": "https://www.ershicimi.com/p/8c68ef003f734437c029a84081820fa5",
+        "date": "2021-05-24"
+      },
+      {
+        "title": "奇舞周刊第 398 期：W3C 工作重点：网络与通信",
+        "link": "https://www.ershicimi.com/p/1d0c1110ae6840720f5783ae3a285846",
+        "date": "2021-05-21"
+      },
       {
         "title": "CSS 实现多行文本“展开收起”",
         "link": "https://www.ershicimi.com/p/3187abb5dc115fcade197b6a7bdb7da1",
@@ -22751,6 +22981,106 @@
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
+      {
+        "title": "为什么下载那种小电影时，经常会卡在99%？",
+        "link": "https://www.ershicimi.com/p/0c1f51661386ffcf140395c9bfb323a5",
+        "date": "2021-05-31"
+      },
+      {
+        "title": "Git 这样回退代码，才足够优雅",
+        "link": "https://www.ershicimi.com/p/a87c75f5cf78cb9f757e4069387866fa",
+        "date": "2021-05-31"
+      },
+      {
+        "title": "还在手写 Nginx 配置？试试这款可视化配置神器，太强了！",
+        "link": "https://www.ershicimi.com/p/9c4f415d6c4f861637777df9fc6d208a",
+        "date": "2021-05-31"
+      },
+      {
+        "title": "瞬间几千次的重复提交，我用 SpringBoot+Redis 扛住了~",
+        "link": "https://www.ershicimi.com/p/d662005d965d66bac6c16544c3844060",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "图解 Kafka，画得太好了！",
+        "link": "https://www.ershicimi.com/p/bcdcd9b769453bdb7e9226147b14d0fc",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "从张一鸣和黄峥的离职信中，我们发现了四个共同点",
+        "link": "https://www.ershicimi.com/p/890e704725cc5ca34d9a9656a0c3706f",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "互联网行业，再卷就卷没了…",
+        "link": "https://www.ershicimi.com/p/2c64bf37f2db267dca897cdd435cd701",
+        "date": "2021-05-29"
+      },
+      {
+        "title": "网易HR：看上哪位女同事，给我简历，我甚至可以帮忙下药。。",
+        "link": "https://www.ershicimi.com/p/7998e31434cb6c63af503b707b631f57",
+        "date": "2021-05-29"
+      },
+      {
+        "title": "RabbitMQ 中的 7 种队列模式，写得太好了！",
+        "link": "https://www.ershicimi.com/p/be09c3fe02e53f44600fa6fc34028d5f",
+        "date": "2021-05-29"
+      },
+      {
+        "title": "阿里最新招募：“鉴黄”体验官，日薪1000元",
+        "link": "https://www.ershicimi.com/p/623000496ab89bb376cf0044e7e5ea4f",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "程序员常用的刷题网站",
+        "link": "https://www.ershicimi.com/p/f8742516582ca1c802e4c2c1383ed34d",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "一条 update 语句引起的事故，这回让开发长长记性！！",
+        "link": "https://www.ershicimi.com/p/f2d03a46e0e838768f66ca74c67a547c",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "大厂月薪6万招AI产品经理，看到要求我傻眼了！",
+        "link": "https://www.ershicimi.com/p/0cc939f4245dba52d20432aa1cfc257c",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "别再用 kill -9 了，这才是微服务上下线的正确姿势！",
+        "link": "https://www.ershicimi.com/p/2f16c39054cb983259bf748ddcfef9f9",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "“我辞退了一位学位学历造假的程序员”",
+        "link": "https://www.ershicimi.com/p/0acbf7011d255230bb603367f8139890",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "灵隐寺招聘：没有KPI，佛系上班……",
+        "link": "https://www.ershicimi.com/p/1f64622d8f9262b5da41b096a23f58e0",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "给 IDEA 换个酷炫的主题吧，这个有点哇塞啊！",
+        "link": "https://www.ershicimi.com/p/6f21061610017366bf5144118e92ec0d",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "电商金额计算的 4 个坑，千万注意了！",
+        "link": "https://www.ershicimi.com/p/c8ab570c86ae5ecff77ee29d207cc3cb",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "​华为员工被爆出轨骗炮十多人：女友发长文控诉",
+        "link": "https://www.ershicimi.com/p/d4f3518ca41147fa8e176fbeed65f64f",
+        "date": "2021-05-25"
+      },
+      {
+        "title": "张一鸣辞职，没那么简单",
+        "link": "https://www.ershicimi.com/p/9c22994b2af8f92b10e2fc24d761b6c3",
+        "date": "2021-05-25"
+      },
       {
         "title": "清华硕士的集体逃离！中科院科研人员自白：我为什么离开北京",
         "link": "https://www.ershicimi.com/p/f9602c7494f948e26fdc07a4166d9c07",
@@ -26778,6 +27108,106 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "Linux之父：我们不会用Rust取代C语言开发内核",
+        "link": "https://www.ershicimi.com/p/3f5b413bd9417185bc89ceb99705a9b7",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "全新大前端业务开发模式：提升60%产研效率，还保留原生体验",
+        "link": "https://www.ershicimi.com/p/fbc3df87aaf72314c302fd32668b590e",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "如何开发一个企业的 Go 应用？ ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/5af4ef282a518d35179a458ec18b3f25",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "Vue这么火，但为什么大厂都是用 React 居多？ ｜ 极客时间",
+        "link": "https://www.ershicimi.com/p/45b60815d0b2539392e05b13be22b7da",
+        "date": "2021-05-30"
+      },
+      {
+        "title": "雷军：年轻人入职半年内不要提意见；网易回应HR不当招聘言论：已解除劳动合同；蚂蚁自研数据库Ocean",
+        "link": "https://www.ershicimi.com/p/e5ae4c3317badb5750153eda63251de9",
+        "date": "2021-05-29"
+      },
+      {
+        "title": "短视频出海：快手音视频如何乘风破浪？",
+        "link": "https://www.ershicimi.com/p/4d419fb6f0e3f60cadf6d14172a53606",
+        "date": "2021-05-29"
+      },
+      {
+        "title": "2021，客户端应用开发该何去何从？ ｜ ArchSummit",
+        "link": "https://www.ershicimi.com/p/0821f2102b50866180f160e6e391e412",
+        "date": "2021-05-29"
+      },
+      {
+        "title": "我为女友做了一款App",
+        "link": "https://www.ershicimi.com/p/365b24a7c81888a8c8f901cd5cccf29a",
+        "date": "2021-05-29"
+      },
+      {
+        "title": "Data Mesh，数据架构的下一个变革！",
+        "link": "https://www.ershicimi.com/p/df9c73ffff3eef9beea0eb5c7d014372",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "放弃 Ceph，Salesforce 使用 Apache BookKeeper 在云中实现最强存储",
+        "link": "https://www.ershicimi.com/p/fb4155bc3a488474b7a7ed00703b1081",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "12个技术方向+奖学金升级，字节跳动 2021夏令营免费报名 ｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/1b793e21de39531002db10b2ae50ec58",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "StreamNative 宣布开源 Function Mesh： 简化云上的复杂流任务",
+        "link": "https://www.ershicimi.com/p/6cccac640bae66e1a5372868a8644d99",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "2021年10大流行软件测试工具",
+        "link": "https://www.ershicimi.com/p/2a89ed3c2cbc1413258bd141ca78aabf",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "近30年的开源项目被“夺权”，员工集体离职后成立新项目抗衡",
+        "link": "https://www.ershicimi.com/p/29790b733814efa0e2bbe228dc078d6d",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "从 Kafka 到 Pulsar，华为云物联网上云之旅",
+        "link": "https://www.ershicimi.com/p/2b439e6889be6d4dc498274155291c46",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "邀你共话AI未来，2021北京智源大会6月1日不见不散！ ｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/459ad80fef6116f8334dd3848ba43bfe",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "完整日程 | QCon全球软件开发大会2天后见！",
+        "link": "https://www.ershicimi.com/p/303e23ef093269d87dad5e65b0772d04",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "因错误配置第三方服务，已有过亿用户数据遭到泄露",
+        "link": "https://www.ershicimi.com/p/408b1bb522ab00c28d5829c673c99497",
+        "date": "2021-05-27"
+      },
+      {
+        "title": "终于！Fuchsia OS正式公开可用，谷歌迈出了五年来最关键的一步",
+        "link": "https://www.ershicimi.com/p/3ddcc14206117f6567c8d35ef79370d1",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "破解数据流通不畅问题，多方安全计算技术到底行不行？",
+        "link": "https://www.ershicimi.com/p/2d2fc9d65ba9b081110a4a0b61decc22",
+        "date": "2021-05-26"
+      },
       {
         "title": "左手 VM，右手 Container Serverless，达达智能弹性伸缩架构和实践",
         "link": "https://www.ershicimi.com/p/ffdac931f7f1ddb86f7fe4bb70efad62",
@@ -32175,6 +32605,36 @@
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
+      {
+        "title": "Vue 和 React源码深度剖析",
+        "link": "https://www.ershicimi.com/p/d8eb7234a68c0d1624a4ed7260e308a4",
+        "date": "2021-05-28"
+      },
+      {
+        "title": "Electron 13.0.0 重磅发布",
+        "link": "https://www.ershicimi.com/p/7ce7b58dbd62e930f87c6f5837ffd93f",
+        "date": "2021-05-26"
+      },
+      {
+        "title": "Node.js 16.2.0 正式发布",
+        "link": "https://www.ershicimi.com/p/3e38344966f49173c071143c75d5c5b6",
+        "date": "2021-05-25"
+      },
+      {
+        "title": "400 道前端工程师常考必考面试题+详细解答",
+        "link": "https://www.ershicimi.com/p/7ccc4e0a2945933cc7be7383d3a9d4d0",
+        "date": "2021-05-24"
+      },
+      {
+        "title": "React17源码解析，看这篇就够了",
+        "link": "https://www.ershicimi.com/p/6619012ab8298d454fa5b672228c88a3",
+        "date": "2021-05-22"
+      },
+      {
+        "title": "如果不做程序员，你会做什么？",
+        "link": "https://www.ershicimi.com/p/509b1e798d8b6944cd8e487aae36e60a",
+        "date": "2021-05-21"
+      },
       {
         "title": "为什么不带参数的 Math.max() 返回 -Infinity.md",
         "link": "https://www.ershicimi.com/p/815308a5594474204b123cb9c5b0ac52",

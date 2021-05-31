@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-21 10:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-31 14:58:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 招聘面试
 
@@ -120,6 +120,7 @@
 - [2018-09-28-【招聘】锦江WeHotel全球旅行产业平台（广州）前端招聘专场来袭](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229995&idx=2&sn=a02146acd6eb3280f5331af877a150f3#wechat_redirect) 
 - [2018-09-27-【招聘】天猫-IoT招前端开发](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229977&idx=2&sn=4a7636d6d573759045b17b51ff5b1f0d#wechat_redirect) 
 - [2018-09-25-【招聘】上海Airwallex（空中云汇）招初、中、高级前端工程师](http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651229945&idx=2&sn=3a175e3048758343f7c98daaefcc3c4f#wechat_redirect) 
+- [2021-05-28-400-道前端工程师常考必考面试题+详细解答](https://www.ershicimi.com/p/3b443f73ee58c97f9e6d66137670f303) 
 - [2021-05-09-面试被问项目经验不用慌，按这个步骤回答绝对惊艳](https://www.ershicimi.com/p/3ee3232c0f037540d620f75d9f754e48) 
 - [2021-05-08-400-道前端工程师常考必考面试题+详细解答](https://www.ershicimi.com/p/8e907c66067df03795a3104ef8f87efc) 
 - [2021-04-29-设计灵感：12组招聘求职类App界面设计](https://www.ershicimi.com/p/1c9f22e125d3e790694f4c734c76e629) 
@@ -155,6 +156,7 @@
 - [2019-03-29-前端面试知识点目录整理](https://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651556126&idx=1&sn=fac147626d1a63ba67b89ec1a52809d5#rd) 
 - [2018-11-22-百度、有赞、阿里前端面试总结](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555369&idx=2&sn=25eb4af8005fa8ed96712debdeeb8e78#wechat_redirect) 
 - [2018-11-06-2018-大厂高级前端面试题汇总](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651555265&idx=1&sn=d60e4f4f5a145f8e93187d51fae57a43#wechat_redirect) 
+- [2021-05-24-面试的作用，绝不仅限于跳槽-|-极客时间](https://www.ershicimi.com/p/5da14e5a67c3e8a4b7433555f69908dd) 
 - [2021-03-24-400-道前端工程师常考必考面试题+详细解答-|-极客大学](https://www.ershicimi.com/p/4f24c4e81a4a928c36598be951897a6d) 
 - [2021-01-13-大厂面试中那些无中生有的事-|-活动推荐](https://www.ershicimi.com/p/9ebe3a08763ceea6e19535548e24bd20) 
 - [2021-01-06-2021年注定又是程序员最内卷的一年，提前做好面试准备很关键-|-活动推荐](https://www.ershicimi.com/p/83bc7ecc4c679e72b7ce598d2da9df96) 
@@ -182,6 +184,7 @@
 - [2020-01-20-字节跳动面试官：请你实现一个大文件上传和断点续传](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484401&idx=1&sn=700ebc0b555f8d9f11d82860952c2d0e&chksm=eb1cc61bdc6b4f0d03d2a624dc9ab9950ba404338f4b35463ca04f25e3d3e3f006904dd40c61&scene=27#wechat_redirect) 
 - [2019-12-09-2020年将至，大厂面试都喜欢考些什么？](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484352&idx=1&sn=c780f09731fcc32823b287686562dcb4&chksm=eb1cc62adc6b4f3cc08902d4ee2e250dce5b5af06bed69de13c4ee9b4f38d841db376af74e51&scene=27#wechat_redirect) 
 - [2019-12-03-记一次腾讯社招前端面试（已拿到offer入职）](http://mp.weixin.qq.com/s?__biz=MzI3MzgxNDY2MQ==&mid=2247484346&idx=1&sn=2a8dd02ba85e1e87d6d9ca87734fa16c&chksm=eb1cc650dc6b4f46763c21eab612794983a94149ceb2509a7bef31e7e430aeaef07038763eae&scene=27#wechat_redirect) 
+- [2021-05-26-灵隐寺招聘：没有KPI，佛系上班……](https://www.ershicimi.com/p/1f64622d8f9262b5da41b096a23f58e0) 
 - [2021-05-14-京东面试官：SQL-语句中-left-join-后用-on-还是-where，区别大了！](https://www.ershicimi.com/p/50294b5d90943c8e9591ce07818709f9) 
 - [2021-05-12-面试官上来就问：能不能开发一个微信朋友圈、推特？我有点懵~](https://www.ershicimi.com/p/c2a2d29de3d4068488b90865937cddbc) 
 - [2021-05-10-面试官欺负人：一个线程-OOM-后，其他线程还能运行吗？](https://www.ershicimi.com/p/d545157dbf57ba12b147c1e62bb9054f) 
@@ -224,6 +227,7 @@
 - [2020-01-02-最近面试-Java-后端开发的感受！现在的环境太。。。](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489490&idx=4&sn=d76f83dffa5b55f8225a21c22f6fcc42&chksm=ea5cdab4dd2b53a22860f3e018aa7fef2c7c31336c0e8950a0b0960bc3839d2b1a9f4ed2b40a&scene=27#wechat_redirect) 
 - [2019-12-31-某IT公司的面试题，难度系数“爆表”。。。](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489478&idx=3&sn=1089b0b340dcf1efddad5b9984d85b9b&chksm=ea5cdaa0dd2b53b6cbc11232d60d2f8be3f801f05cf19cc84e8a6d168a5e0e403641e5739263&scene=27#wechat_redirect) 
 - [2019-12-25-美团面试题：JVM-堆内存溢出后，其他线程是否可继续工作？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489425&idx=4&sn=502097c8022a771bcc14d6d95baf0b41&chksm=ea5cdaf7dd2b53e1be4f57d70f48c6eb88cc4154d657c1966b587d1af82f27a684318c0c0232&scene=27#wechat_redirect) 
+- [2021-05-29-雷军：年轻人入职半年内不要提意见；网易回应HR不当招聘言论：已解除劳动合同；蚂蚁自研数据库Ocean](https://www.ershicimi.com/p/e5ae4c3317badb5750153eda63251de9) 
 - [2021-04-07-前阿里丁奇：说个-MySQL-面试的普遍问题-|-极客时间](https://www.ershicimi.com/p/b45e95e3acb27311bf4ae88ac0446b45) 
 - [2021-04-04-我面试了-10-个-Java-工程师，全军覆没-｜-极客时间](https://www.ershicimi.com/p/fa70c29544423bf28c3902897afbfc99) 
 - [2021-03-30-再见-Go-面试官：GMP-模型，为什么要有-P？-｜-极客时间](https://www.ershicimi.com/p/b4a6b88eb9ddc449bd7581f5997ff01c) 
@@ -238,6 +242,7 @@
 - [2020-09-01-面试官一问就懵的设计模式题，是时候该怼回去了-丨-极客时间](https://www.ershicimi.com/p/52e94bb200353fe2417ce7fe7c64ceee) 
 - [2020-08-29-蚂蚁集团人均月薪5.5万，小米人均月薪3.8万；滴滴近4成性骚扰为男乘客骚扰男司机；街道办招聘清华北](https://www.ershicimi.com/p/68ded83bcd8b7e0af269ef875030549f) 
 - [2020-03-24-“面试造火箭，工作拧螺丝”，真的是这样么？-|-极客大学](https://www.ershicimi.com/p/7981748e763e9c083752dc1b78ec44b1) 
+- [2021-05-24-400-道前端工程师常考必考面试题+详细解答](https://www.ershicimi.com/p/7ccc4e0a2945933cc7be7383d3a9d4d0) 
 - [2021-05-18-面试了近百位前端人，聊聊面试被拒的常见原因](https://www.ershicimi.com/p/ecfb83a0a590244ebc9a8a14d9128e80) 
 - [2021-04-22-重磅！《阿里前端工程师面试手册》，附-PDF-&-PPT-下载](https://www.ershicimi.com/p/2dd643e87f8415ea43cd71fae653209b) 
 - [2021-03-24-字节跳动高频100道核心前端面试题解析](https://www.ershicimi.com/p/bd6c66f84e2c88714b5520bdbd5e1927) 

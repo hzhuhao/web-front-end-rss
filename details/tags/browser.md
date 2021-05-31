@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-21 10:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-31 14:58:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 浏览器相关
 
@@ -127,6 +127,7 @@
 - [2018-09-25-使用-PostMan-进行自动化测试](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554979&idx=3&sn=1262ef4e22b8d89e8ebda2e5eec1f25a#wechat_redirect) 
 - [2018-09-24-一文了解-Chrome-的十年“加速”历程](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554973&idx=1&sn=7e8540a75859d7d48b0e32483718b564#wechat_redirect) 
 - [2018-09-21-前端面试题-url、href、src](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA%3D%3D&mid=2651554953&idx=2&sn=99482d9fcda6c080f4e1034dc06e1460#wechat_redirect) 
+- [2021-05-24-停止使用-IE-11，微软将用-Edge-全面替换-IE](https://www.ershicimi.com/p/d16b1bc7a172be2eebaace3128d49160) 
 - [2021-05-14-移除-View-Engine-转用-Ivy，盘点Angular-12的重要更新](https://www.ershicimi.com/p/d97f4e2b847fb0917c235b2c8355ee4b) 
 - [2021-04-25-微软统一所有平台的Edge代码库；大学教授向Linux提交漏洞代码致学校被拉黑；苹果M1版Mac的销](https://www.ershicimi.com/p/56be00c860ff77b83518590ecee6f20b) 
 - [2021-03-31-前端工程师，一定要懂哪些浏览器原理？-|-活动推荐](https://www.ershicimi.com/p/bc317fcebdc5322bc77be7dc3e17f653) 
@@ -244,6 +245,7 @@
 - [2019-12-30-4-种数据库缓存最终一致性的优缺点对比？最终选择方案四！](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489465&idx=1&sn=2f3a74f8ba7056e973c0657a6492f652&chksm=ea5cdadfdd2b53c9dd49126c962029b4548a0c8a2fc3e96e06de8271b1fa00ccd05e0ded5857&scene=27#wechat_redirect) 
 - [2019-12-29-每个公司都会用的短-URL-服务，怎么设计与实现？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489457&idx=2&sn=b1b7f944fb39fd1cdfeae2d6b6099dca&chksm=ea5cdad7dd2b53c18db3a7872c7d0e1f40a7c9c1a46356761d8557e8dbdfd2bd0851d12246b0&scene=27#wechat_redirect) 
 - [2019-12-24-去宇宙条面试被问：HashMap-为什么线程不安全？](http://mp.weixin.qq.com/s?__biz=MzI2MTIzMzY3Mw==&mid=2247489419&idx=3&sn=f0fdc5e0f9b13249bb67020d018238f1&chksm=ea5cdaeddd2b53fbe3f84d4822fcc8f1b83c79e0d979e9c35d58e07a2cd5b7afe7f2425a8bd0&scene=27#wechat_redirect) 
+- [2021-05-26-破解数据流通不畅问题，多方安全计算技术到底行不行？](https://www.ershicimi.com/p/2d2fc9d65ba9b081110a4a0b61decc22) 
 - [2021-05-18-移除-View-Engine-转用-Ivy，盘点Angular-12的重要更新](https://www.ershicimi.com/p/9c15f56e7a90d1b0a0b0ec1986f55ad5) 
 - [2021-05-07-新技术刚测试就被全行业禁用，谷歌“杀死”Cookies真能重写规则吗？](https://www.ershicimi.com/p/df8b4d2697f92f0b041a43bf3ebc9539) 
 - [2021-04-04-阿里面试官：“说一下从-url-输入到返回请求的过程”-｜-极客时间](https://www.ershicimi.com/p/a0a1fad067ee577b3c6e5e3f90ad1b24) 

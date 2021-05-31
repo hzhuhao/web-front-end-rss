@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-21 10:08:13。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-05-31 14:58:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## 服务端相关
 
@@ -42,6 +42,7 @@
 - [2018-08-31-【译】关于GraphQL，你需要知道这些](https://jdc.jd.com/archives/212690) 
 - [2017-12-15-GraphQL-使用介绍](https://aotu.io/notes/2017/12/15/graphql-use/) 
 - [2016-02-27-初探Docker](https://aotu.io/notes/2016/02/27/docker/) 
+- [2021-05-31-还在手写-Nginx-配置？试试这款可视化配置神器，太强了！](https://www.ershicimi.com/p/9c4f415d6c4f861637777df9fc6d208a) 
 - [2021-05-14-隔壁桌的美女同事问我，凭啥子Nginx的并发数可以达到3w？我这次被打脸了~](https://www.ershicimi.com/p/a52749eeec7caf2d25614dc4c2ad4f33) 
 - [2021-04-03-Nginx-除了负载均衡，还能做什么？](https://www.ershicimi.com/p/ab3b54ce794a5b27ab0cb54e6307c02f) 
 - [2021-02-27-再见！RESTful...](https://www.ershicimi.com/p/59ce98553014309c5f1b3153d911fc6a) 
