@@ -1,6 +1,6 @@
 [
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5760",
+    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/5760",
     "title": "前端早读课",
     "link": "https://www.ershicimi.com/a/5760",
     "items": [
@@ -3857,7 +3857,7 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/65",
+    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/65",
     "title": "前端大全",
     "link": "https://www.ershicimi.com/a/65",
     "items": [
@@ -10584,7 +10584,7 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/154",
+    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/154",
     "title": "前端之巅",
     "link": "https://www.ershicimi.com/a/154",
     "items": [
@@ -20023,7 +20023,7 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/6210",
+    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/6210",
     "title": "奇舞周刊",
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
@@ -22255,7 +22255,7 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/5762",
+    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/5762",
     "title": "前端日刊",
     "link": "https://www.ershicimi.com/a/5762",
     "items": [
@@ -22982,7 +22982,7 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/6304",
+    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/6304",
     "title": "互联网架构师",
     "link": "https://www.ershicimi.com/a/6304",
     "items": [
@@ -27109,7 +27109,7 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/89",
+    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/89",
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
@@ -32631,7 +32631,7 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/wechat/ershicimi/893",
+    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/893",
     "title": "JavaScript",
     "link": "https://www.ershicimi.com/a/893",
     "items": [
@@ -33963,7 +33963,7 @@
     ]
   },
   {
-    "rss": "https://rsshub.app/juejin/category/frontend",
+    "rss": "https://rsshubapi.vercel.app/juejin/category/frontend",
     "title": "掘金前端",
     "link": "https://juejin.im/welcome/frontend",
     "items": [
