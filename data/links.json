@@ -20028,6 +20028,11 @@
     "link": "https://www.ershicimi.com/a/6210",
     "items": [
       {
+        "title": "JS兵法36 计，你会多少？",
+        "link": "https://www.ershicimi.com/p/4a5206edefd8474789ba181325eba960",
+        "date": "2021-05-31"
+      },
+      {
         "title": "奇舞周刊第 399 期：如何使用 GPU 改善 JavaScript 性能",
         "link": "https://www.ershicimi.com/p/9cd2602a6bcbffc694cf66af0fbec3b1",
         "date": "2021-05-28"
@@ -27108,6 +27113,31 @@
     "title": "InfoQ",
     "link": "https://www.ershicimi.com/a/89",
     "items": [
+      {
+        "title": "问了尤雨溪25个问题后，我的很多想法开始变了",
+        "link": "https://www.ershicimi.com/p/7f16b5605c3de2e163d5cc3bcdb78b61",
+        "date": "2021-05-31"
+      },
+      {
+        "title": "钉钉摊牌低代码，做生态基座、被集成！",
+        "link": "https://www.ershicimi.com/p/e4c700725cae46b363bc65de89d1e396",
+        "date": "2021-05-31"
+      },
+      {
+        "title": "揭秘全球领先 K 歌平台的架构设计与实践 ｜ Q推荐",
+        "link": "https://www.ershicimi.com/p/c3308a727b0d5d4380c064c2218d9574",
+        "date": "2021-05-31"
+      },
+      {
+        "title": "让普通人秒会编程？微软在 Power 平台上集成 GPT-3，将自然语言直接变成现成代码",
+        "link": "https://www.ershicimi.com/p/cf48917ad375b115df741fff7f1dbcf8",
+        "date": "2021-05-31"
+      },
+      {
+        "title": "V8 有了全新的超快速非优化 JS 编译器，性能提高 5-15％",
+        "link": "https://www.ershicimi.com/p/184afb834d5dcfc05829b1bd4ac6acb2",
+        "date": "2021-05-31"
+      },
       {
         "title": "Linux之父：我们不会用Rust取代C语言开发内核",
         "link": "https://www.ershicimi.com/p/3f5b413bd9417185bc89ceb99705a9b7",

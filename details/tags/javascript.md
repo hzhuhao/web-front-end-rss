@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-05-31 14:58:32。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
+:alarm_clock: 更新时间: 2021-06-01 13:10:39。[来源分类](../README.md)、[标签分类](../TAGS.md)、[时间分类](../TIMELINE.md)
 
 ## JavaScript
 
@@ -515,6 +515,7 @@
 - [2015-12-04-Adobe-edge-animate制作HTML5动画](https://aotu.io/notes/2015/12/04/edgeAnimate/) 
 - [2015-11-11-基于phantomJs的网络爬虫](https://aotu.io/notes/2015/11/11/phantomJs-crawler/) 
 - [2015-11-06-Service-Workers：采用WebP动态响应图片](https://aotu.io/notes/2015/11/06/webp-responsive-image/) 
+- [2021-05-31-JS兵法36-计，你会多少？](https://www.ershicimi.com/p/4a5206edefd8474789ba181325eba960) 
 - [2021-05-28-奇舞周刊第-399-期：如何使用-GPU-改善-JavaScript-性能](https://www.ershicimi.com/p/9cd2602a6bcbffc694cf66af0fbec3b1) 
 - [2021-05-27-Chrome-89-更新事件触发顺序，导致99%的文章都错了（包括MDN）](https://www.ershicimi.com/p/d6713a9c912620a1525251c20a6225d9) 
 - [2021-05-24-js-实现-bind-的这五层，你在第几层？](https://www.ershicimi.com/p/8c68ef003f734437c029a84081820fa5) 
