@@ -1,4 +1,4 @@
-:alarm_clock: 更新时间: 2021-06-01 13:10:39。[来源分类](./README.md)、[标签分类](./TAGS.md)
+:alarm_clock: 更新时间: 2021-06-11 10:56:07。[来源分类](./README.md)、[标签分类](./TAGS.md)
 
 ## 时间分类
 
@@ -67,7 +67,7 @@
 <td><a href="#2021-03">03月</a></td>
 <td><a href="#2021-04">04月</a></td>
 <td><a href="#2021-05">05月</a></td>
-<td>06月</td>
+<td><a href="#2021-06">06月</a></td>
 <td>07月</td>
 <td>08月</td>
 <td>09月</td>
@@ -133,6 +133,18 @@
 </table>
 
 ## 文章链接
+
+<details open>
+<summary id="2021-06">
+ 2021-06
+</summary>
+
+
+- [【阮一峰的网络日志】2021-06-11-科技爱好者周刊（第-162-期）：生活就像《吃豆人》游戏](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html) 
+- [【阮一峰的网络日志】2021-06-04-科技爱好者周刊（第-161-期）：再见了，学术硕士](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html) 
+
+<div align="right"><a href="#时间分类">⬆返回顶部</a></div>
+</details>
 
 <details open>
 <summary id="2021-05">

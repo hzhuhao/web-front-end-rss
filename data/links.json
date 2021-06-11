@@ -17150,6 +17150,16 @@
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
       {
+        "title": "科技爱好者周刊（第 162 期）：生活就像《吃豆人》游戏",
+        "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html",
+        "date": "2021-06-11"
+      },
+      {
+        "title": "科技爱好者周刊（第 161 期）：再见了，学术硕士",
+        "link": "http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html",
+        "date": "2021-06-04"
+      },
+      {
         "title": "科技爱好者周刊（第 160 期）：中年码农的困境",
         "link": "http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html",
         "date": "2021-05-28"
@@ -33965,7 +33975,7 @@
   {
     "rss": "https://rsshubapi.vercel.app/juejin/category/frontend",
     "title": "掘金前端",
-    "link": "https://juejin.im/welcome/frontend",
+    "link": "https://juejin.cn/frontend",
     "items": [
       {
         "title": "[译] 状态管理中的第一性原理",

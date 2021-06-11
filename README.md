@@ -11,7 +11,7 @@
 
 ## 
 
-:alarm_clock: 更新时间: 2021-06-01 13:10:39，:rocket: 更新条数: +6， ![](assets/dot.png) 表示有更新
+:alarm_clock: 更新时间: 2021-06-11 10:56:06，:rocket: 更新条数: +2， ![](assets/dot.png) 表示有更新
 
 ## 来源分类
 
@@ -20,14 +20,14 @@
 - [前端之巅](#前端之巅)  
 - [Taobao-FED-|-淘宝前端团队](#taobao-fed-|-淘宝前端团队)  
 - [张鑫旭-鑫空间-鑫生活](#张鑫旭-鑫空间-鑫生活)  
-- [阮一峰的网络日志](#阮一峰的网络日志)  
+- [阮一峰的网络日志](#阮一峰的网络日志)![](assets/dot.png)   
 - [前端里](#前端里)  
 - [JDC-|-京东设计中心](#jdc-|-京东设计中心)  
 - [Aotu-|-凹凸实验室](#aotu-|-凹凸实验室)  
-- [奇舞周刊](#奇舞周刊)![](assets/dot.png)   
+- [奇舞周刊](#奇舞周刊)  
 - [前端日刊](#前端日刊)  
 - [互联网架构师](#互联网架构师)  
-- [InfoQ](#infoq)![](assets/dot.png)   
+- [InfoQ](#infoq)  
 - [JavaScript](#javascript)  
 - [掘金前端](#掘金前端)  
 
@@ -194,6 +194,8 @@
 </summary>
 
 
+- [2021-06-11-科技爱好者周刊（第-162-期）：生活就像《吃豆人》游戏](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-162.html) ![](assets/new.png)  
+- [2021-06-04-科技爱好者周刊（第-161-期）：再见了，学术硕士](http://www.ruanyifeng.com/blog/2021/06/weekly-issue-161.html) ![](assets/new.png)  
 - [2021-05-28-科技爱好者周刊（第-160-期）：中年码农的困境](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-160.html)  
 - [2021-05-21-科技爱好者周刊（第-159-期）：游戏开发者的年薪](http://www.ruanyifeng.com/blog/2021/05/weekly-issue-159.html)  
 - [2021-05-19-中国经济的数字逻辑](http://www.ruanyifeng.com/blog/2021/05/china-economy-explanation.html)  
@@ -212,8 +214,6 @@
 - [2021-02-19-科技爱好者周刊（第-146-期）：网课应该怎么上？](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-146.html)  
 - [2021-02-05-科技爱好者周刊（第-145-期）：大家不出门，经济怎么办？](http://www.ruanyifeng.com/blog/2021/02/weekly-issue-145.html)  
 - [2021-01-29-科技爱好者周刊（第-144-期）：提高收入的根本途径](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-144.html)  
-- [2021-01-27-异或运算-XOR-教程](http://www.ruanyifeng.com/blog/2021/01/_xor.html)  
-- [2021-01-22-科技爱好者周刊（第-143-期）：世界尽头与冷酷仙境](http://www.ruanyifeng.com/blog/2021/01/weekly-issue-143.html)  
 - [......【查看更多】......](./details/阮一峰的网络日志.md)
 
 <div align="right"><a href="#来源分类">⬆返回顶部</a></div>
@@ -318,7 +318,7 @@
 </summary>
 
 
-- [2021-05-31-JS兵法36-计，你会多少？](https://www.ershicimi.com/p/4a5206edefd8474789ba181325eba960) ![](assets/new.png)  
+- [2021-05-31-JS兵法36-计，你会多少？](https://www.ershicimi.com/p/4a5206edefd8474789ba181325eba960)  
 - [2021-05-28-奇舞周刊第-399-期：如何使用-GPU-改善-JavaScript-性能](https://www.ershicimi.com/p/9cd2602a6bcbffc694cf66af0fbec3b1)  
 - [2021-05-27-Chrome-89-更新事件触发顺序，导致99%的文章都错了（包括MDN）](https://www.ershicimi.com/p/d6713a9c912620a1525251c20a6225d9)  
 - [2021-05-26-前端水印实现方案](https://www.ershicimi.com/p/7e1e33c76518359146cbe480d3fc68e2)  
@@ -411,11 +411,11 @@
 </summary>
 
 
-- [2021-05-31-问了尤雨溪25个问题后，我的很多想法开始变了](https://www.ershicimi.com/p/7f16b5605c3de2e163d5cc3bcdb78b61) ![](assets/new.png)  
-- [2021-05-31-钉钉摊牌低代码，做生态基座、被集成！](https://www.ershicimi.com/p/e4c700725cae46b363bc65de89d1e396) ![](assets/new.png)  
-- [2021-05-31-揭秘全球领先-K-歌平台的架构设计与实践-｜-Q推荐](https://www.ershicimi.com/p/c3308a727b0d5d4380c064c2218d9574) ![](assets/new.png)  
-- [2021-05-31-让普通人秒会编程？微软在-Power-平台上集成-GPT-3，将自然语言直接变成现成代码](https://www.ershicimi.com/p/cf48917ad375b115df741fff7f1dbcf8) ![](assets/new.png)  
-- [2021-05-31-V8-有了全新的超快速非优化-JS-编译器，性能提高-5-15％](https://www.ershicimi.com/p/184afb834d5dcfc05829b1bd4ac6acb2) ![](assets/new.png)  
+- [2021-05-31-问了尤雨溪25个问题后，我的很多想法开始变了](https://www.ershicimi.com/p/7f16b5605c3de2e163d5cc3bcdb78b61)  
+- [2021-05-31-钉钉摊牌低代码，做生态基座、被集成！](https://www.ershicimi.com/p/e4c700725cae46b363bc65de89d1e396)  
+- [2021-05-31-揭秘全球领先-K-歌平台的架构设计与实践-｜-Q推荐](https://www.ershicimi.com/p/c3308a727b0d5d4380c064c2218d9574)  
+- [2021-05-31-让普通人秒会编程？微软在-Power-平台上集成-GPT-3，将自然语言直接变成现成代码](https://www.ershicimi.com/p/cf48917ad375b115df741fff7f1dbcf8)  
+- [2021-05-31-V8-有了全新的超快速非优化-JS-编译器，性能提高-5-15％](https://www.ershicimi.com/p/184afb834d5dcfc05829b1bd4ac6acb2)  
 - [2021-05-30-Linux之父：我们不会用Rust取代C语言开发内核](https://www.ershicimi.com/p/3f5b413bd9417185bc89ceb99705a9b7)  
 - [2021-05-30-全新大前端业务开发模式：提升60%产研效率，还保留原生体验](https://www.ershicimi.com/p/fbc3df87aaf72314c302fd32668b590e)  
 - [2021-05-30-如何开发一个企业的-Go-应用？-｜-极客时间](https://www.ershicimi.com/p/5af4ef282a518d35179a458ec18b3f25)  
