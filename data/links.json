@@ -16228,6 +16228,16 @@
     "link": "https://www.zhangxinxu.com/wordpress",
     "items": [
       {
+        "title": "利用废弃的html rel import实现页面include功能",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/07/html-rel-import-include/",
+        "date": "2021-07-22"
+      },
+      {
+        "title": "借助SVG滤镜实现CSS无法实现的阴影和模糊效果",
+        "link": "https://www.zhangxinxu.com/wordpress/2021/07/svg-filter-shadow-css-blur/",
+        "date": "2021-07-11"
+      },
+      {
         "title": "Proxy是代理，Reflect是干嘛用的？",
         "link": "https://www.zhangxinxu.com/wordpress/2021/07/js-proxy-reflect/",
         "date": "2021-07-01"
@@ -17164,6 +17174,16 @@
     "title": "阮一峰的网络日志",
     "link": "http://www.ruanyifeng.com/blog/",
     "items": [
+      {
+        "title": "科技爱好者周刊（第 168 期）：游戏《底特律：变人》",
+        "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-168.html",
+        "date": "2021-07-23"
+      },
+      {
+        "title": "科技爱好者周刊（第 167 期）：广告拦截器太过分了",
+        "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-167.html",
+        "date": "2021-07-16"
+      },
       {
         "title": "科技爱好者周刊（第 166 期）：视频学习胜过读书吗？",
         "link": "http://www.ruanyifeng.com/blog/2021/07/weekly-issue-166.html",
