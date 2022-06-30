@@ -1,11 +1,7 @@
-const fs = require('fs')
-const path = require('path')
-const async = require('async')
+const fs = require('fs-extra')
+const Async = require('async')
 const moment = require('moment')
-const Parser = require('rss-parser')
 const Git = require('simple-git')
-const _ = require('underscore')
-const cloneDeep = require('clone-deep')
 
 const utils = require('./utils')
 const writemd = require('./writemd')
@@ -15,56 +11,41 @@ const {
   RESP_PATH,
   RSS_PATH,
   LINKS_PATH,
-  TAGS_PATH,
-  README_PATH,
-  README_TEMPLATE_PATH,
-  TAGS_MD_PATH,
-  TAGS_TEMPLATE_PATH,
-  TIMELINE_MD_PATH,
-  TIMELINE_TEMPLATE_PATH,
 } = utils.PATH
 
-let rssJson = []
-let linksJson = []
-
-// 本次更新的 rss 和链接数据
-let newData = {
-  length: 0,
-  titles: [],
-  rss: {},
-  links: {}
-}
+let rssJson = null
+let linksJson = null
+let newData = null
 
 /**
  * 更新 git 仓库
  */
-function handlerUpdate(){
-  console.log(utils.getNowDate() + ' - 开始更新抓取');
+function handleUpdate() {
+  utils.log('开始更新抓取')
 
   Git(RESP_PATH)
-     .pull()
-     .exec(handlerFeed);
+    .pull()
+    .exec(handleFeed)
 }
 
 /**
  * 提交修改到 git 仓库
  */
-function handlerCommit(){
-  console.log(utils.getNowDate() + ' - 完成抓取，即将上传');
+function handleCommit() {
+  utils.log('完成抓取，即将上传')
 
   Git(RESP_PATH)
-     .add('./*')
-     .commit('更新: ' + newData.titles.join('、'))
-     .push(['-u', 'origin', 'master'], () => console.log('完成抓取和上传！'));
+    .add('./*')
+    .commit('更新: ' + newData.titles.join('、'))
+    .push(['-u', 'origin', 'master'], () => utils.logSuccess('完成抓取和上传！'))
 }
 
 /**
  * 处理订阅源
  */
-function handlerFeed(){
-  rssJson = require(RSS_PATH)
-  linksJson = require(LINKS_PATH)
-
+function handleFeed() {
+  rssJson = fs.readJsonSync(RSS_PATH)
+  linksJson = fs.readJsonSync(LINKS_PATH)
   newData = {
     length: 0,
     titles: [],
@@ -72,25 +53,63 @@ function handlerFeed(){
     links: {}
   }
 
-  let parallels = []
+  const tasks = rssJson.map((rssItem, rssIndex) => ((callback) => {
+    ((async () => {
+      const feed = await fetch(rssItem)
+      if (feed) {
+        const items = linksJson[rssIndex].items || []
+        const newItems = feed.items.reduce((prev, curr) => {
+          const exist = items.find((el) => utils.isSameLink(el.link, curr.link))
+          if (exist) {
+            return prev
+          } else {
+            let date = moment().format('YYYY-MM-DD')
 
-  rssJson.forEach((item, index) => {
-    let jsonItem = linksJson[index] || {}
+            try {
+              date = moment(curr.isoDate).format('YYYY-MM-DD')
+            } catch (e) {}
 
-    parallels.push(function(cb){
-      fetch(newData, linksJson, index, jsonItem, item, cb);
-    })
-  })
+            newData.rss[rssItem.title] = true
+            newData.links[curr.link] = true
 
-  async.parallel(parallels, (err, result) => {
-    if(newData.length){
-      fs.writeFileSync(LINKS_PATH, JSON.stringify(result, null, 2), 'utf-8')
-      writemd(newData)
-      handlerCommit()
-    }else{
-      console.log(utils.getNowDate() + ' - 无需更新');
+            return [...prev, {
+              title: curr.title,
+              link: curr.link,
+              date
+            }]
+          }
+        }, [])
+
+        if (newItems.length) {
+          utils.logSuccess('更新 RSS: ' + rssItem.title)
+          newData.titles.push(rssItem.title)
+          newData.length += newItems.length
+          linksJson[rssIndex] = {
+            title: rssItem.title,
+            items: newItems.concat(items).sort(function (a, b) {
+              return a.date < b.date ? 1 : -1
+            })
+          }
+        }
+      }
+      callback(null)
+    })())
+  }))
+
+  Async.series(tasks, () => {
+    if (newData.length) {
+      fs.outputJsonSync(LINKS_PATH, linksJson, {
+        spaces: 2
+      })
+      writemd(newData, linksJson)
+      handleCommit()
+    } else {
+      utils.logSuccess('无需更新')
     }
+    rssJson = null
+    linksJson = null
+    newData = null
   })
 }
 
-module.exports = handlerUpdate
+module.exports = handleUpdate

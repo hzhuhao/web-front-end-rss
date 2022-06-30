@@ -9,11 +9,26 @@
     <meta name="format-detection" content="email=no">
     <meta name="format-detection" content="telephone=no">
     <meta name="renderer" content="webkit">
-    <link rel="icon" href="static/favicon.ico">
-    <title>前端技术文章 - web-app-capable-front-end-rss | by Hzhuhao</title>
+    <title>前端技术文章 - front-end-rss | by ChanceYu</title>
   </head>
   <body>
     <div id="app"></div>
     <!-- built files will be auto injected -->
+
+    <script>
+      var _hmt = _hmt || [];
+      (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?c1691b20ca8243f97d7ec1106dad32a0";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+      })();
+    </script>
+
+    <script>
+      var RSS_DATA = <%= RSS_DATA %>;
+      var TAGS_DATA = <%= TAGS_DATA %>;
+      var LINKS_DATA = <%= LINKS_DATA %>;
+    </script>
   </body>
 </html>

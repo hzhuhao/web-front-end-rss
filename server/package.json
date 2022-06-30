@@ -1,10 +1,12 @@
 {
-  "name": "web-front-end-rss",
+  "name": "front-end-rss",
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
     "async": "^2.6.1",
-    "clone-deep": "^4.0.0",
+    "chalk": "^4.1.2",
+    "dotenv": "^10.0.0",
+    "fs-extra": "^10.0.0",
     "later": "^1.2.0",
     "moment": "^2.22.2",
     "query-string": "^6.8.1",
@@ -12,12 +14,12 @@
     "simple-git": "^1.102.0",
     "underscore": "^1.9.1"
   },
-  "description": "web-front-end-rss",
+  "description": "front-end-rss",
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Hzhuhao",
+  "author": "ChanceYu",
   "license": "MIT",
   "repository": {
     "type": "git",

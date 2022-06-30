@@ -1,18 +1,61 @@
 [
   {
+    "title": "Node-Weekly",
+    "rss": "https://cprss.s3.amazonaws.com/nodeweekly.com.xml"
+  },
+  {
+    "title": "JavaScript-Weekly",
+    "rss": "https://cprss.s3.amazonaws.com/javascriptweekly.com.xml"
+  },
+  {
+    "id": "FeZaoDuKe",
     "title": "前端早读课",
-    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/5760"
+    "rss": [
+      "https://posts.careerengine.us/author/5d1213cb25dbe17eab761cb8/rss",
+      "https://rsshub.app/wechat/wemp/5a7a4f48-a16c-450e-aff7-f78112ab2801",
+      "https://rsshub.app/wechat/ershicimi/5760"
+    ]
   },
   {
+    "id": "FrontDev",
     "title": "前端大全",
-    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/65"
+    "rss": [
+      "https://posts.careerengine.us/author/594e6fbdea0d253f1f63cc9e/rss",
+      "https://rsshub.app/wechat/wemp/b68c584d-dba9-431d-8575-5138cff4a815",
+      "https://rsshub.app/wechat/ershicimi/65"
+    ]
   },
   {
+    "id": "frontshow",
     "title": "前端之巅",
-    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/154"
+    "rss": [
+      "https://posts.careerengine.us/author/5c5fac76719f0119cdd6f031/rss",
+      "https://rsshub.app/wechat/wemp/f7d61496-c89b-466d-a272-8e62d1c459dd",
+      "https://rsshub.app/wechat/ershicimi/154"
+    ]
   },
   {
-    "title": "Taobao-FED-|-淘宝前端团队",
+    "id": "gh_086869a8f05b",
+    "title": "前端之神",
+    "rss": "https://rsshub.app/wechat/csm/huxiu_com"
+  },
+  {
+    "id": "iwebfe",
+    "title": "前端技术优选",
+    "rss": [
+      "https://rsshub.app/wechat/wemp/0ae31766-8e50-45be-9a7d-5d5bbdc03165"
+    ]
+  },
+  {
+    "id": "coder_growth",
+    "title": "程序员成长指北",
+    "rss": [
+      "https://rsshub.app/wechat/wemp/de57e5f9-30db-45d1-8597-0ec472f45aaf"
+    ]
+  },
+  {
+    "id": "taobaofed",
+    "title": "淘系前端团队",
     "rss": "https://fed.taobao.org/atom.xml"
   },
   {
@@ -28,35 +71,8 @@
     "rss": "http://www.yyyweb.com/feed"
   },
   {
-    "title": "JDC-|-京东设计中心",
-    "rss": "http://jdc.jd.com/feed"
-  },
-  {
-    "title": "Aotu-|-凹凸实验室",
+    "id": "AOTULabs",
+    "title": "凹凸实验室",
     "rss": "https://aotu.io/atom.xml"
-  },
-  {
-    "title": "奇舞周刊",
-    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/6210"
-  },
-  {
-    "title": "前端日刊",
-    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/5762"
-  },
-  {
-    "title": "互联网架构师",
-    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/6304"
-  },
-  {
-    "title": "InfoQ",
-    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/89"
-  },
-  {
-    "title": "JavaScript",
-    "rss": "https://rsshubapi.vercel.app/wechat/ershicimi/893"
-  },
-  {
-    "title": "掘金前端",
-    "rss": "https://rsshubapi.vercel.app/juejin/category/frontend"
   }
 ]
